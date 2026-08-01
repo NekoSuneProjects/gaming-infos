@@ -1,0 +1,30 @@
+{
+    "name": "@nekosuneprojects/gaming-infos",
+    "version": "2.0.0",
+    "description": "Multi-game data loader (VRChat, Genshin Impact, and more to come) for worlds, groups, players, and characters. Fetches live from the NekoSuneVR V5 API with local JSON fallback.",
+    "main": "index.js",
+    "type": "commonjs",
+    "engines": {
+        "node": ">=18"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NekoSuneProjects/gaming-infos.git"
+    },
+    "bugs": {
+        "url": "https://github.com/NekoSuneProjects/gaming-infos/issues"
+    },
+    "funding": "https://github.com/NekoSuneProjects/gaming-infos?sponsor",
+    "keywords": [
+        "gaming",
+        "infos",
+        "vrchat",
+        "genshin-impact",
+        "worlds",
+        "groups",
+        "players",
+        "characters"
+    ],
+    "author": "NekoSuneVR",
+    "license": "MIT"
+}

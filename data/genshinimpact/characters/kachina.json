@@ -1,0 +1,11 @@
+{
+    "name": "Kachina",
+    "cv": "Yurika Kubo",
+    "description": "A young and determined girl from the Children of Echoes, known for her tenacity and her deep knowledge of Natlan's terrain.",
+    "image": "TODO: add a working portrait/key-art image URL for Kachina",
+    "city": "Natlan",
+    "url": "https://genshin-impact.fandom.com/wiki/Kachina",
+    "element": "Geo",
+    "weapon": "Polearm",
+    "rating": 4
+}

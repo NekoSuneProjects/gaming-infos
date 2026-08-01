@@ -1,0 +1,14 @@
+{
+    "name": "Genshin Impact",
+    "title": "An open-world action RPG set across the fantasy world of Teyvat.",
+    "engine": "Unity",
+    "Platform": "PC, PlayStation, Nintendo Switch, iOS, Android",
+    "Release date": "September 28, 2020",
+    "Genre": "Action RPG, Open World, Gacha",
+    "developers": "miHoYo",
+    "publisher": "miHoYo (China) / HoYoverse (Global)",
+    "aliases": "GI, Genshin",
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/5d/Genshin_Impact_logo.svg",
+    "description": "A free-to-play open-world action RPG developed by miHoYo, in which players explore the fantasy world of Teyvat and collect a roster of playable characters.",
+    "url": "https://en.wikipedia.org/wiki/Genshin_Impact"
+}

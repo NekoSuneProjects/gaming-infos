@@ -1,0 +1,13 @@
+{
+    "name": "VRChat",
+    "title": "VRChat is a free-to-play massively multiplayer online virtual reality video game created by Graham Gaylor and Jesse Joudrey.",
+    "engine": "Unity",
+    "Platform": "Microsoft Windows, Oculus Quest",
+    "Release date": "Microsoft Windows, Oculus Jan 16, 2014 | Steam February 1, 2017",
+    "Genre": "Multiplayer. Online Game, Social, VR",
+    "developers": "VRChat Inc.",
+    "aliases": "VR Chat",
+    "image": "https://static.wikia.nocookie.net/vrchat-legends/images/6/62/VRChat_Logo_%28Transparent%29.png",
+    "description": "It allows players to interact with others as 3D character models. The game was released for Microsoft Windows via Steam's early access program on February 1, 2017. It supports the Oculus Rift, HTC Vive and Windows Mixed Reality headsets, although it can be played without any of them.",
+    "url": "https://en.wikipedia.org/wiki/VRChat"
+}
