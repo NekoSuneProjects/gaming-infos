@@ -1,6 +1,6 @@
 {
     "name": "@nekosuneprojects/gaming-infos",
-    "version": "2.0.0",
+    "version": "2.1.0",
     "description": "Multi-game data loader (VRChat, Genshin Impact, and more to come) for worlds, groups, players, and characters. Fetches live from the NekoSuneVR V5 API with local JSON fallback.",
     "main": "index.js",
     "type": "commonjs",

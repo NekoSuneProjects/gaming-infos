@@ -125,8 +125,10 @@ two repos without any transformation.
 - `cv` (voice actor) and `city` are Genshin-specific; other character-driven games can drop/replace
   them with whatever fields fit (e.g. a fighting game might use `moveset` instead of `city`).
 
-Every entity JSON **must** include an `image` field with a working, safe (non-NSFW, not privately
-owned without permission) URL.
+Every entity JSON has an `image` field. When you have a verified, safe (non-NSFW, not privately
+owned without permission) working URL, use it. When you don't, leave it as an **empty string**
+(`"image": ""`) — never fill it with a placeholder/TODO string, since that gets treated as real
+data by consumers.
 
 If a game needs an entity type not listed above (e.g. `weapons`, `regions`, `guilds`), just add a
 new folder following the same `data/gaming-infos/<game>/<type>/<name>.json` pattern — the npm
@@ -150,6 +152,9 @@ package's `Get(game, type, name)` function reads any type generically.
 Follow the existing pattern used by every other file in `src/routes/v5/games/*`
 (`checkEndpointEnabled` + `requireApiKeyIfNeeded` middleware, mounted under `/v5/games/api/...`).
 
+There are four routes: list all games, list all entries of a type for a game, a single entity, and
+game meta (meta is just the single-entity route with `type` fixed to `meta`).
+
 1. Create `src/routes/v5/games/gaminginfos.js`:
 
 ```js
@@ -161,35 +166,56 @@ const { checkEndpointEnabled, requireApiKeyIfNeeded } = require('../../../middle
 const router = express.Router({ strict: false });
 const DATA_DIR = path.join(__dirname, '..', '..', '..', '..', 'data', 'gaming-infos');
 
-router.get('/:game/:type/:name', checkEndpointEnabled, requireApiKeyIfNeeded, async (req, res) => {
+function readJson(filePath) {
+  return JSON.parse(fs.readFileSync(filePath, 'utf8'));
+}
+
+// GET /v5/games/api/gaming-infos — list every game's meta info
+router.get('/', checkEndpointEnabled, requireApiKeyIfNeeded, (req, res) => {
+  try {
+    const entries = fs.readdirSync(DATA_DIR, { withFileTypes: true }).filter((e) => e.isDirectory());
+    const gamesList = entries
+      .map((e) => path.join(DATA_DIR, e.name, 'meta.json'))
+      .filter((metaPath) => fs.existsSync(metaPath))
+      .map(readJson);
+    return res.status(200).json({ success: true, data: gamesList });
+  } catch (err) {
+    return res.status(500).json({ success: false, error: 'Failed to list games.' });
+  }
+});
+
+// GET /v5/games/api/gaming-infos/:game/:type — list every entry of that type for a game
+router.get('/:game/:type', checkEndpointEnabled, requireApiKeyIfNeeded, (req, res) => {
+  const { game, type } = req.params;
+  const dir = path.join(DATA_DIR, game.toLowerCase(), type.toLowerCase());
+
+  if (!dir.startsWith(DATA_DIR) || !fs.existsSync(dir)) {
+    return res.status(404).json({ success: false, error: `No ${type} data found for game "${game}"` });
+  }
+
+  try {
+    const items = fs.readdirSync(dir).filter((f) => f.endsWith('.json')).map((f) => readJson(path.join(dir, f)));
+    return res.status(200).json({ success: true, data: items });
+  } catch (err) {
+    return res.status(500).json({ success: false, error: 'Failed to list gaming-infos entries.' });
+  }
+});
+
+// GET /v5/games/api/gaming-infos/:game/:type/:name — a single entity, or game meta when type === "meta"
+router.get('/:game/:type/:name', checkEndpointEnabled, requireApiKeyIfNeeded, (req, res) => {
   const { game, type, name } = req.params;
-  const filePath = path.join(DATA_DIR, game.toLowerCase(), type.toLowerCase(), `${name.toLowerCase()}.json`);
+  const filePath = type.toLowerCase() === 'meta'
+    ? path.join(DATA_DIR, game.toLowerCase(), 'meta.json')
+    : path.join(DATA_DIR, game.toLowerCase(), type.toLowerCase(), `${name.toLowerCase()}.json`);
 
   if (!filePath.startsWith(DATA_DIR) || !fs.existsSync(filePath)) {
     return res.status(404).json({ success: false, error: `${type} "${name}" not found for game "${game}"` });
   }
 
   try {
-    const raw = await fs.promises.readFile(filePath, 'utf8');
-    return res.status(200).json({ success: true, data: JSON.parse(raw) });
+    return res.status(200).json({ success: true, data: readJson(filePath) });
   } catch (err) {
     return res.status(500).json({ success: false, error: 'Failed to read gaming-infos data.' });
-  }
-});
-
-router.get('/:game/meta/:name', checkEndpointEnabled, requireApiKeyIfNeeded, async (req, res) => {
-  const { game } = req.params;
-  const filePath = path.join(DATA_DIR, game.toLowerCase(), 'meta.json');
-
-  if (!filePath.startsWith(DATA_DIR) || !fs.existsSync(filePath)) {
-    return res.status(404).json({ success: false, error: `meta info for game "${game}" not found` });
-  }
-
-  try {
-    const raw = await fs.promises.readFile(filePath, 'utf8');
-    return res.status(200).json({ success: true, data: JSON.parse(raw) });
-  } catch (err) {
-    return res.status(500).json({ success: false, error: 'Failed to read gaming-infos meta.' });
   }
 });
 
@@ -209,29 +235,38 @@ app.use('/v5/games/api/gaming-infos', gamingInfosRoutes);
 
 ```js
 {
+  path: '/v5/games/api/gaming-infos',
+  method: 'GET',
+  isEnabled: true,
+  requiresApiKey: false,
+  description: 'List every game with gaming-infos data'
+},
+{
+  path: '/v5/games/api/gaming-infos/:game/:type',
+  method: 'GET',
+  isEnabled: true,
+  requiresApiKey: false,
+  description: 'List every gaming-infos entry of a type for a game'
+},
+{
   path: '/v5/games/api/gaming-infos/:game/:type/:name',
   method: 'GET',
   isEnabled: true,
   requiresApiKey: false,
-  description: 'Community gaming-infos lookup (worlds/groups/players/characters/etc.)'
-},
-{
-  path: '/v5/games/api/gaming-infos/:game/meta/:name',
-  method: 'GET',
-  isEnabled: true,
-  requiresApiKey: false,
-  description: 'Gaming-infos game meta lookup'
+  description: 'Community gaming-infos single-entity lookup (worlds/groups/players/characters/meta/etc.)'
 },
 ```
 
-Run whatever seeds `DEFAULT_ENDPOINTS` into the DB (e.g. the bootstrap step run on startup/migration)
-so the toggles actually exist — `checkEndpointEnabled` 404s any path not found in the `EndpointToggle`
-table.
+`bootstrapData()` (called on every app startup in `src/app.js`) runs `seedEndpoints()`, which
+`findOrCreate`s each `DEFAULT_ENDPOINTS` row into the `EndpointToggle` table — so these three
+entries go live (and show up on `/docs` automatically, since that page renders straight from
+`EndpointToggle`) the next time the server restarts. No manual DB or docs-page edit needed.
 
-The npm package expects responses shaped as `{ success: true, data: {...} }` (or a bare JSON object —
+The npm package expects responses shaped as `{ success: true, data: {...} }` (or a bare JSON object/array —
 it accepts either) and defaults to `https://api.nekosunevr.co.uk/v5/games/api/gaming-infos` as the
 base URL. If the real public host differs, override it per-consumer via the `GAMING_INFOS_API_BASE`
-env var — nothing here needs to change either way.
+env var — nothing here needs to change either way. The npm package's `Games()` calls the root route,
+`List(game, type)` calls the two-segment route, and everything else calls the three-segment route.
 
 ---
 

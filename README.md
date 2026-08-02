@@ -30,12 +30,14 @@ npm install @nekosuneprojects/gaming-infos
 const gamingInfos = require('@nekosuneprojects/gaming-infos');
 
 (async () => {
+  const games = await gamingInfos.Games();          // every supported game's meta info
   const game = await gamingInfos.Game('vrchat');
   const world = await gamingInfos.Worlds('vrchat', 'theblackcat');
   const group = await gamingInfos.Groups('vrchat', 'nekosunecommunity');
   const player = await gamingInfos.Players('vrchat', 'nekosunevr');
+  const allCharacters = await gamingInfos.List('genshinimpact', 'characters'); // every character for a game
 
-  console.log(game, world, group, player);
+  console.log(games, game, world, group, player, allCharacters.length);
 })();
 ```
 
@@ -55,12 +57,16 @@ data/
 
 | Function | Description |
 |---|---|
+| `Games()` | Every supported game's meta info, in one array |
 | `Game(game)` | Game-level info, e.g. `data/vrchat/meta.json` |
 | `Worlds(game, name)` | A world entry |
 | `Groups(game, name)` | A group entry |
 | `Players(game, name)` | A player entry |
 | `Characters(game, name)` | A character entry (games like Genshin Impact) |
 | `Get(game, type, name)` | Generic escape hatch for any other entity type a future game needs |
+| `List(game, type)` | Every entry of a type for a game, e.g. `List('genshinimpact', 'characters')` |
+
+An entry with no verified working image simply has `"image": ""` — check for a blank string, not a placeholder value, before using it.
 
 ### Configuration (env vars)
 

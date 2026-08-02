@@ -56,6 +56,101 @@ async function loadLocal(game, type, name) {
   return JSON.parse(raw);
 }
 
+async function fetchListFromApi(game, type) {
+  if (apiDisabled() || typeof fetch !== 'function') return null;
+
+  const url = `${apiBase()}${apiPath()}/${encodeURIComponent(game.toLowerCase())}/${encodeURIComponent(type)}`;
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), timeoutMs());
+
+  try {
+    const res = await fetch(url, { signal: controller.signal });
+    if (!res.ok) return null;
+    const body = await res.json();
+    if (!body || body.success === false) return null;
+    const data = body.data !== undefined ? body.data : body;
+    return Array.isArray(data) ? data : null;
+  } catch (err) {
+    return null;
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
+async function listLocal(game, type) {
+  const dir = path.join(DATA_DIR, game.toLowerCase(), type);
+  if (!fs.existsSync(dir)) return [];
+
+  const files = await fs.promises.readdir(dir);
+  const items = [];
+  for (const file of files) {
+    if (!file.endsWith('.json')) continue;
+    const raw = await fs.promises.readFile(path.join(dir, file), 'utf8');
+    items.push(JSON.parse(raw));
+  }
+  return items;
+}
+
+async function list(game, type) {
+  if (!game || !type) {
+    return { error: 'game and type are both required' };
+  }
+
+  const fromApi = await fetchListFromApi(game, type);
+  if (fromApi) return fromApi;
+
+  try {
+    return await listLocal(game, type);
+  } catch (err) {
+    return { error: err.message };
+  }
+}
+
+async function fetchGamesFromApi() {
+  if (apiDisabled() || typeof fetch !== 'function') return null;
+
+  const url = `${apiBase()}${apiPath()}`;
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), timeoutMs());
+
+  try {
+    const res = await fetch(url, { signal: controller.signal });
+    if (!res.ok) return null;
+    const body = await res.json();
+    if (!body || body.success === false) return null;
+    const data = body.data !== undefined ? body.data : body;
+    return Array.isArray(data) ? data : null;
+  } catch (err) {
+    return null;
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
+async function listGamesLocal() {
+  const entries = await fs.promises.readdir(DATA_DIR, { withFileTypes: true });
+  const games = [];
+  for (const entry of entries) {
+    if (!entry.isDirectory()) continue;
+    const metaPath = path.join(DATA_DIR, entry.name, 'meta.json');
+    if (!fs.existsSync(metaPath)) continue;
+    const raw = await fs.promises.readFile(metaPath, 'utf8');
+    games.push(JSON.parse(raw));
+  }
+  return games;
+}
+
+async function games() {
+  const fromApi = await fetchGamesFromApi();
+  if (fromApi) return fromApi;
+
+  try {
+    return await listGamesLocal();
+  } catch (err) {
+    return { error: err.message };
+  }
+}
+
 async function load(game, type, name) {
   if (!game || !type || !name) {
     return { error: 'game, type, and name are all required' };
@@ -91,6 +186,9 @@ async function loadGameMeta(game) {
 }
 
 module.exports = {
+  // All supported games, e.g. Games() -> [data/vrchat/meta.json, data/genshinimpact/meta.json, ...]
+  Games: () => games(),
+
   // Game-level info, e.g. Game('vrchat') -> data/vrchat/meta.json
   Game: (game) => loadGameMeta(game),
 
@@ -103,4 +201,7 @@ module.exports = {
   // Generic escape hatch for entity types not covered above
   // (new games may need types other than worlds/groups/players/characters)
   Get: (game, type, name) => load(game, type, name),
+
+  // Full listing of every entry of a given type for a game, e.g. List('genshinimpact', 'characters')
+  List: (game, type) => list(game, type),
 };
