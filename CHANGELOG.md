@@ -21,7 +21,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Updated the API integration guide for the all-games, type-list, single-entity, and game-meta routes, including endpoint registration and response shapes.
 - Split the combined NekoSuneVR Animations 2023-2024 world record into individual 2023 and 2024 records and added a 2025 record.
 
-## 2.0.0
+## 2.0.0 - 2026-08-02
 
 ### Changed (Breaking)
 - Renamed package from `vrchat-infos` to `gaming-infos` to reflect multi-game support (VRChat today, Genshin Impact and more coming soon).
