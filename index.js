@@ -31,8 +31,8 @@ function withLocalSlug(filePath, data) {
 
 // Live lookups go through the NekoSuneVR V5 API first so data can be updated
 // in real time without republishing this package. The bundled JSON under
-// data/ is the offline fallback and is mirrored from APINODE by the scheduled
-// sync workflow.
+// data/ is the offline fallback and is mirrored from APINODE by the hourly
+// change-watch workflow.
 async function fetchFromApi(game, type, name) {
   if (apiDisabled() || typeof fetch !== 'function') return null;
 
@@ -210,12 +210,14 @@ module.exports = {
   Players: (game, name) => load(game, 'players', name),
   Avatars: (game, name) => load(game, 'avatars', name),
   Characters: (game, name) => load(game, 'characters', name),
+  NPCs: (game, name) => load(game, 'npcs', name),
+  Maps: (game, name) => load(game, 'maps', name),
   Get: (game, type, name) => load(game, type, name),
   List: (game, type) => list(game, type),
   CacheInfo: () => cacheInfo(),
 
   // Game redeem/creator code API helpers. These also use live APINODE first and
-  // automatically fall back to the daily mirrored data/game-codes snapshot.
+  // automatically fall back to the hourly mirrored data/game-codes snapshot.
   Codes: gameCodes.Codes,
   CodesStatus: gameCodes.CodesStatus,
   GameCodes: gameCodes.GameCodes,
