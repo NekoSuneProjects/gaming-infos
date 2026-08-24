@@ -120,6 +120,7 @@ async function requestJson(url, options = {}) {
       if (!body || body.success === false) {
         throw new Error(`API returned an unsuccessful response for ${url}`);
       }
+      if (options.rawEnvelope) return body;
       return body.data !== undefined ? body.data : body;
     } catch (error) {
       lastError = error;
@@ -137,6 +138,26 @@ async function requestJson(url, options = {}) {
 
 function apiUrl(base, apiPath, suffix = '') {
   return `${normalizeBase(base)}${normalizeApiPath(apiPath)}${suffix}`;
+}
+
+function validateRootSyncState(rootEnvelope) {
+  const sync = rootEnvelope && typeof rootEnvelope === 'object' ? rootEnvelope.sync : null;
+  if (!sync || typeof sync !== 'object') return;
+
+  const state = sync.state && typeof sync.state === 'object' ? sync.state : null;
+  const status = String(state?.lastStatus || '').toLowerCase();
+  if (sync.running || status === 'running') {
+    throw new Error('APINODE content synchronization is currently running; preserving the previous fallback until it is idle');
+  }
+  if (state && ['never-run', 'failed'].includes(status)) {
+    throw new Error(`APINODE content synchronization state is ${status}; preserving the previous fallback`);
+  }
+
+  const persistedSchema = Number(state?.syncSchemaVersion || 0);
+  const requiredSchema = Number(state?.requiredSyncSchemaVersion || sync.syncSchemaVersion || 0);
+  if (requiredSchema > 0 && persistedSchema < requiredSchema) {
+    throw new Error(`APINODE content schema catch-up is incomplete (${persistedSchema}/${requiredSchema}); preserving the previous fallback`);
+  }
 }
 
 async function writeJson(filePath, value) {
@@ -218,35 +239,42 @@ async function buildNextSnapshot(options) {
   await fs.promises.rm(nextDir, { recursive: true, force: true });
   await fs.promises.mkdir(nextDir, { recursive: true });
 
-  const rootData = await requestJson(apiUrl(apiBase, apiPath), options);
-  if (!Array.isArray(rootData) || !rootData.length) {
-    throw new Error('Gaming-infos root endpoint returned no games; refusing to replace the fallback cache');
-  }
-  const manifest = mergeDiscoveredManifest(rootData, configuredManifest);
+  try {
+    const rootEnvelope = await requestJson(apiUrl(apiBase, apiPath), { ...options, rawEnvelope: true });
+    validateRootSyncState(rootEnvelope);
+    const rootData = rootEnvelope.data !== undefined ? rootEnvelope.data : rootEnvelope;
+    if (!Array.isArray(rootData) || !rootData.length) {
+      throw new Error('Gaming-infos root endpoint returned no games; refusing to replace the fallback cache');
+    }
+    const manifest = mergeDiscoveredManifest(rootData, configuredManifest);
 
-  const counts = {};
-  for (const [game, types] of Object.entries(manifest)) {
-    const meta = await requestJson(apiUrl(apiBase, apiPath, `/${encodeURIComponent(game)}/meta/${encodeURIComponent(game)}`), options);
-    if (!meta || Array.isArray(meta) || typeof meta !== 'object') throw new Error(`Invalid meta payload for ${game}`);
-    await writeJson(path.join(nextDir, game, 'meta.json'), meta);
-    counts[game] = { meta: 1 };
+    const counts = {};
+    for (const [game, types] of Object.entries(manifest)) {
+      const meta = await requestJson(apiUrl(apiBase, apiPath, `/${encodeURIComponent(game)}/meta/${encodeURIComponent(game)}`), options);
+      if (!meta || Array.isArray(meta) || typeof meta !== 'object') throw new Error(`Invalid meta payload for ${game}`);
+      await writeJson(path.join(nextDir, game, 'meta.json'), meta);
+      counts[game] = { meta: 1 };
 
-    for (const type of types) {
-      const list = await requestJson(apiUrl(apiBase, apiPath, `/${encodeURIComponent(game)}/${encodeURIComponent(type)}`), options);
-      if (!Array.isArray(list)) throw new Error(`Expected an array for ${game}/${type}`);
+      for (const type of types) {
+        const list = await requestJson(apiUrl(apiBase, apiPath, `/${encodeURIComponent(game)}/${encodeURIComponent(type)}`), options);
+        if (!Array.isArray(list)) throw new Error(`Expected an array for ${game}/${type}`);
 
-      const seen = new Set();
-      counts[game][type] = list.length;
-      for (const rawItem of list) {
-        const item = normalizedEntry(rawItem);
-        if (seen.has(item.slug)) throw new Error(`Duplicate slug ${item.slug} in ${game}/${type}`);
-        seen.add(item.slug);
-        await writeJson(path.join(nextDir, game, type, `${item.slug}.json`), item);
+        const seen = new Set();
+        counts[game][type] = list.length;
+        for (const rawItem of list) {
+          const item = normalizedEntry(rawItem);
+          if (seen.has(item.slug)) throw new Error(`Duplicate slug ${item.slug} in ${game}/${type}`);
+          seen.add(item.slug);
+          await writeJson(path.join(nextDir, game, type, `${item.slug}.json`), item);
+        }
       }
     }
-  }
 
-  return { nextDir, rootGameCount: rootData.length, counts, manifest };
+    return { nextDir, rootGameCount: rootData.length, counts, manifest };
+  } catch (error) {
+    await fs.promises.rm(nextDir, { recursive: true, force: true }).catch(() => {});
+    throw error;
+  }
 }
 
 async function syncApiCache(options = {}) {
@@ -333,6 +361,7 @@ module.exports = {
   DEFAULT_MANIFEST,
   loadManifest,
   mergeDiscoveredManifest,
+  validateRootSyncState,
   normalizedEntry,
   snapshotHash,
   syncApiCache
