@@ -91,6 +91,31 @@ async function resolveCachedGame(game) {
   return slug;
 }
 
+function hydrateCachedExpiry(entry) {
+  if (!entry || typeof entry !== 'object') return entry;
+  const output = { ...entry };
+  if (!entry.expiry || typeof entry.expiry !== 'object' || Array.isArray(entry.expiry)) return output;
+
+  const expiry = { ...entry.expiry };
+  const expiresAtMs = expiry.expiresAt ? new Date(expiry.expiresAt).getTime() : NaN;
+  if (!Number.isNaN(expiresAtMs)) {
+    const remainingSeconds = Math.max(0, Math.floor((expiresAtMs - Date.now()) / 1000));
+    expiry.expiresInSeconds = remainingSeconds;
+    expiry.expired = expiresAtMs <= Date.now();
+    expiry.countdown = {
+      days: Math.floor(remainingSeconds / 86400),
+      hours: Math.floor((remainingSeconds % 86400) / 3600),
+      minutes: Math.floor((remainingSeconds % 3600) / 60),
+      seconds: remainingSeconds % 60
+    };
+  } else {
+    expiry.expiresInSeconds = null;
+    expiry.countdown = null;
+  }
+  output.expiry = expiry;
+  return output;
+}
+
 function filterCachedList(data, options = {}) {
   if (!data || typeof data !== 'object') return data;
   const includeUnknown = Boolean(options.includeUnknown);
@@ -104,11 +129,12 @@ function filterCachedList(data, options = {}) {
     return true;
   };
 
+  const hydrate = (rows) => Array.isArray(rows) ? rows.filter(matches).map(hydrateCachedExpiry) : [];
   const result = {
-    Active: Array.isArray(data.Active) ? data.Active.filter(matches) : [],
-    Expired: Array.isArray(data.Expired) ? data.Expired.filter(matches) : []
+    Active: hydrate(data.Active),
+    Expired: hydrate(data.Expired)
   };
-  if (includeUnknown) result.Unknown = Array.isArray(data.Unknown) ? data.Unknown.filter(matches) : [];
+  if (includeUnknown) result.Unknown = hydrate(data.Unknown);
   return result;
 }
 
@@ -159,7 +185,7 @@ async function gameCode(game, code, options = {}) {
   const wanted = normalizeCode(codeValue);
   for (const bucket of ['Active', 'Expired', 'Unknown']) {
     for (const entry of Array.isArray(cached[bucket]) ? cached[bucket] : []) {
-      if (normalizeCode(entry?.code) === wanted) return entry;
+      if (normalizeCode(entry?.code) === wanted) return hydrateCachedExpiry(entry);
     }
   }
   return { error: `Code "${code}" not found for game "${game}".` };
