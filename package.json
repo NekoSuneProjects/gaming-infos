@@ -1,7 +1,7 @@
 {
     "name": "@nekosuneprojects/gaming-infos",
-    "version": "2.2.0",
-    "description": "Multi-game data loader for VRChat, character datasets, and game redeem/creator codes. Uses the NekoSuneVR V5 API first with automatically mirrored local JSON fallbacks.",
+    "version": "2.3.0",
+    "description": "Multi-game data loader for VRChat, Fortnite skins/NPCs/maps, character datasets, and game redeem/creator codes. Uses the NekoSuneVR V5 API first with automatically mirrored local JSON fallbacks.",
     "main": "index.js",
     "type": "commonjs",
     "engines": {
@@ -34,6 +34,9 @@
         "wuthering-waves",
         "warframe",
         "fortnite",
+        "fortnite-skins",
+        "fortnite-npcs",
+        "fortnite-maps",
         "zenless-zone-zero",
         "tower-of-fantasy",
         "arknights-endfield",
@@ -41,7 +44,9 @@
         "groups",
         "players",
         "avatars",
-        "characters"
+        "characters",
+        "npcs",
+        "maps"
     ],
     "author": "NekoSuneVR",
     "license": "MIT"
