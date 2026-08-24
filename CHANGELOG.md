@@ -7,6 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+### Added
+- Added API-first Game Codes helpers: `Codes()`, `CodesStatus()`, `GameCodes(game, options)`, `GameCode(game, code, options)`, and `CodeCacheInfo()`.
+- Added an atomic `data/game-codes/` fallback mirror for `/v5/games/api/codes`, cache-only `/status`, and every per-game Active/Expired/Unknown dataset.
+- Added game-code fallback alias resolution using the cached `/codes` directory aliases.
+- Added a game-code cache smoke test covering additions, changes, removals, and partial API outages.
+
+### Changed
+- `npm run sync:cache` now mirrors both Gaming Infos and Game Codes.
+- The automatic cache workflow now runs once daily at 03:23 UTC instead of every six hours.
+- Gaming Infos cache replacement now preserves the independent `data/game-codes/` last-good fallback during its atomic snapshot update.
+
 ## 2.1.0 - 2026-08-02
 
 ### Added
@@ -27,10 +38,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Renamed package from `vrchat-infos` to `gaming-infos` to reflect multi-game support (VRChat today, Genshin Impact and more coming soon).
 - `data/` is now scoped per game: `data/<game>/worlds`, `data/<game>/groups`, `data/<game>/players`, `data/<game>/meta.json`. VRChat data moved under `data/vrchat/`.
 - Every lookup function now takes a `game` as its first argument, e.g. `Worlds('vrchat', 'theblackcat')` instead of `Worlds('theblackcat')`.
-- Added `Game(game)` for game-level meta info, `Characters(game, name)` for character-based games, and a generic `Get(game, type, name)` escape hatch.
+- Added `Game(game)` for game-level info, `Characters(game, name)` for character-based games, and a generic `Get(game, type, name)` escape hatch.
 
 ### Added
 - Lookups now try the NekoSuneVR V5 API first (`GAMING_INFOS_API_BASE`, default `https://api.nekosunevr.co.uk`) and fall back to the bundled local JSON if the API is unreachable, so data can be updated in real time without republishing this package. Set `GAMING_INFOS_DISABLE_API=1` to force local-only lookups.
 - Added `genshinimpact`, `nte` (Neverness to Everness), and `honkaistarrail` games, each with `meta.json`.
 - Added all 104 currently-released Genshin Impact characters, all 20 currently-playable NTE characters, and all 69 currently-released Honkai: Star Rail characters under their respective `data/<game>/characters/` folders.
-
