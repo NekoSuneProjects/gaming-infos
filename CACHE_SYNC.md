@@ -9,7 +9,9 @@ The repository keeps **two independent last-good fallback snapshots** synchroniz
 
 ## Schedule
 
-The GitHub Action runs **once every day at 03:23 UTC** and can also be started manually with `workflow_dispatch`.
+The GitHub Action runs an **hourly APINODE change-watch at minute 23** and can also be started manually with `workflow_dispatch`.
+
+The mirror still uses full content hashes, so an hourly check with no API data changes creates **no commit**. If APINODE adds, updates, repairs, or removes a game-info file or game-code record, the next successful hourly pass mirrors that change into this repository.
 
 It also runs when the cache implementation itself changes so a newly deployed cache format can be populated immediately.
 
@@ -30,7 +32,7 @@ It also runs when the cache implementation itself changes so a newly deployed ca
 
 ## Mirrored Game Codes endpoints
 
-The daily mirror also caches:
+The hourly mirror also caches:
 
 ```text
 GET /v5/games/api/codes
@@ -50,7 +52,7 @@ The per-game request uses `includeUnknown=true`, so the fallback contains all th
 }
 ```
 
-The mirror does not call every `/:game/:code` endpoint. `GameCode(game, code)` can search the full cached per-game snapshot during an outage, which keeps the daily request count low.
+The mirror does not call every `/:game/:code` endpoint. `GameCode(game, code)` can search the full cached per-game snapshot during an outage, which keeps the hourly request count low.
 
 Game-code fallback layout:
 
@@ -89,9 +91,25 @@ For Game Codes:
 4. Build a separate temporary `data/game-codes/` tree.
 5. Only after every game succeeds, atomically replace the old game-code snapshot.
 
-Because successful API snapshots are authoritative, **adds, changes and removals are mirrored**. If APINODE removes an entry/code/game, the corresponding fallback disappears on the next successful daily sync.
+Because successful API snapshots are authoritative, **adds, changes and removals are mirrored**. If APINODE removes an entry/code/game, the corresponding fallback disappears on the next successful hourly sync.
 
 If APINODE is down, times out, returns 429/5xx, or one required endpoint fails halfway through, that cache is **not replaced**. The previous last-good fallback remains available.
+
+## APINODE repair propagation
+
+APINODE can repair bad/missing Gaming Infos images and remove invalid scraped Game Codes. Those repaired API records are treated like any other content change. The hourly mirror downloads the corrected records, updates the repository fallback, and removes stale fallback records that no longer exist upstream.
+
+This gives the data path:
+
+```text
+APINODE source refresh / repair
+        ↓
+live V5 API changes
+        ↓
+hourly GitHub change-watch
+        ↓
+repository data/ fallback updates
+```
 
 ## Package API
 
@@ -105,7 +123,7 @@ await info.List('vrchat', 'avatars');
 await info.Characters('wutheringwaves', 'cartethyia');
 ```
 
-Game Codes helpers use live APINODE first and the daily fallback second:
+Game Codes helpers use live APINODE first and the hourly fallback second:
 
 ```js
 await info.Codes();                    // GET /v5/games/api/codes
@@ -149,7 +167,7 @@ Useful variables:
 | `GAME_CODES_API_PATH` | `/v5/games/api/codes` | Game Codes path |
 | `GAMING_INFOS_CACHE_TIMEOUT_MS` | `15000` | Gaming Infos per-request timeout |
 | `GAMING_INFOS_CACHE_RETRIES` | `2` | Gaming Infos retry count |
-| `GAME_CODES_CACHE_TIMEOUT_MS` | `15000` | Game Codes per-request timeout |
+| `GAME_CODES_CACHE_TIMEOUT_MS` | `15000` | Game Codes sync request timeout |
 | `GAME_CODES_CACHE_RETRIES` | `2` | Game Codes retry count |
 | `GAME_CODES_CACHE_GAME_DELAY_MS` | `150` | Small delay between game-list requests |
 
@@ -167,6 +185,6 @@ live APINODE
 
 A successful changed Gaming Infos snapshot records `data/.cache-manifest.json`. Game Codes records its own `data/game-codes/.cache-manifest.json`. Both include source URL, content hash, counts, synchronization time and add/change/remove statistics.
 
-The hash comparison ignores manifest timestamps, so an unchanged API dataset does not create a pointless daily commit.
+The hash comparison ignores manifest timestamps, so an unchanged API dataset does not create a pointless hourly commit.
 
-Note: npm releases are immutable. Repository fallback files update daily, but an already-installed npm version keeps the bundled snapshot from that package release until upgraded. Live API reads still remain current whenever APINODE is available.
+Note: npm releases are immutable. Repository fallback files update automatically, but an already-installed npm version keeps the bundled snapshot from that package release until upgraded. Live API reads still remain current whenever APINODE is available.
