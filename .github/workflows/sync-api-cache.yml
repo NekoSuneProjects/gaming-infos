@@ -10,6 +10,7 @@ on:
       - main
     paths:
       - "scripts/sync-api-cache.js"
+      - "scripts/sync-gaming-info-cache.js"
       - "scripts/sync-game-code-cache.js"
       - "scripts/sync-all-cache.js"
       - "scripts/cache-sync-smoke.js"
