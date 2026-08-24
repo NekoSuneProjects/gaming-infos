@@ -1,6 +1,6 @@
 {
     "name": "@nekosuneprojects/gaming-infos",
-    "version": "2.1.0",
+    "version": "2.2.0",
     "description": "Multi-game data loader for VRChat, character datasets, and game redeem/creator codes. Uses the NekoSuneVR V5 API first with automatically mirrored local JSON fallbacks.",
     "main": "index.js",
     "type": "commonjs",
