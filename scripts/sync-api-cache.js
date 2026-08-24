@@ -9,9 +9,10 @@ const DEFAULT_DATA_DIR = path.join(ROOT_DIR, 'data');
 const DEFAULT_API_BASE = 'https://api.nekosunevr.co.uk';
 const DEFAULT_API_PATH = '/v5/games/api/gaming-infos';
 
-// APINODE currently exposes these game/type pairs. The mirror is authoritative:
-// after a fully successful sync, anything no longer returned by APINODE is removed
-// from data/ so the bundled fallback matches the API snapshot exactly.
+// Safety baseline for older APINODE deployments. Newer APINODE root responses
+// expose { slug, types } for every game, so the mirror automatically adds any
+// newly published datasets (including the full Call of Duty catalog) without a
+// package-code change. Explicit GAMING_INFOS_CACHE_MANIFEST_JSON still works.
 const DEFAULT_MANIFEST = Object.freeze({
   vrchat: ['players', 'groups', 'worlds', 'avatars'],
   genshinimpact: ['characters'],
@@ -61,17 +62,32 @@ function fallbackSlug(name) {
   return safeSlug(slug, 'derived slug');
 }
 
-function loadManifest(raw = process.env.GAMING_INFOS_CACHE_MANIFEST_JSON) {
-  if (!raw) return { ...DEFAULT_MANIFEST };
-  const parsed = typeof raw === 'string' ? JSON.parse(raw) : raw;
+function normalizeManifestObject(parsed) {
   if (!parsed || Array.isArray(parsed) || typeof parsed !== 'object') {
-    throw new Error('GAMING_INFOS_CACHE_MANIFEST_JSON must be a JSON object');
+    throw new Error('Gaming Infos cache manifest must be a JSON object');
   }
   const result = {};
   for (const [gameRaw, typesRaw] of Object.entries(parsed)) {
     const game = safeSlug(gameRaw, 'game');
     if (!Array.isArray(typesRaw) || !typesRaw.length) throw new Error(`No types configured for ${game}`);
     result[game] = [...new Set(typesRaw.map((type) => safeSlug(type, 'type')))];
+  }
+  return result;
+}
+
+function loadManifest(raw = process.env.GAMING_INFOS_CACHE_MANIFEST_JSON) {
+  if (!raw) return { ...DEFAULT_MANIFEST };
+  return normalizeManifestObject(typeof raw === 'string' ? JSON.parse(raw) : raw);
+}
+
+function mergeDiscoveredManifest(rootData, configuredManifest = DEFAULT_MANIFEST) {
+  const result = normalizeManifestObject(configuredManifest);
+  for (const row of Array.isArray(rootData) ? rootData : []) {
+    if (!row || typeof row !== 'object' || Array.isArray(row)) continue;
+    if (!row.slug || !Array.isArray(row.types) || !row.types.length) continue;
+    const game = safeSlug(row.slug, 'root game slug');
+    const types = [...new Set(row.types.map((type) => safeSlug(type, `type for ${game}`)))];
+    if (types.length) result[game] = types;
   }
   return result;
 }
@@ -196,7 +212,7 @@ function normalizedEntry(item) {
 }
 
 async function buildNextSnapshot(options) {
-  const { apiBase, apiPath, dataDir, manifest } = options;
+  const { apiBase, apiPath, dataDir, manifest: configuredManifest } = options;
   const parentDir = path.dirname(dataDir);
   const nextDir = path.join(parentDir, `.gaming-infos-cache-next-${process.pid}-${Date.now()}`);
   await fs.promises.rm(nextDir, { recursive: true, force: true });
@@ -206,6 +222,7 @@ async function buildNextSnapshot(options) {
   if (!Array.isArray(rootData) || !rootData.length) {
     throw new Error('Gaming-infos root endpoint returned no games; refusing to replace the fallback cache');
   }
+  const manifest = mergeDiscoveredManifest(rootData, configuredManifest);
 
   const counts = {};
   for (const [game, types] of Object.entries(manifest)) {
@@ -229,7 +246,7 @@ async function buildNextSnapshot(options) {
     }
   }
 
-  return { nextDir, rootGameCount: rootData.length, counts };
+  return { nextDir, rootGameCount: rootData.length, counts, manifest };
 }
 
 async function syncApiCache(options = {}) {
@@ -251,6 +268,7 @@ async function syncApiCache(options = {}) {
   try {
     const built = await buildNextSnapshot(requestOptions);
     nextDir = built.nextDir;
+    const effectiveManifest = built.manifest;
     const oldFiles = await walkFiles(dataDir);
     const newFiles = await walkFiles(nextDir);
     const oldHash = hashFiles(oldFiles);
@@ -264,19 +282,20 @@ async function syncApiCache(options = {}) {
         changed: false,
         contentHash: newHash,
         source: apiUrl(apiBase, apiPath),
-        games: Object.keys(manifest),
+        games: Object.keys(effectiveManifest),
         counts: built.counts,
         stats
       };
     }
 
     const cacheManifest = {
-      schemaVersion: 1,
+      schemaVersion: 2,
       source: apiUrl(apiBase, apiPath),
       syncedAt: new Date().toISOString(),
       contentHash: newHash,
       rootGameCount: built.rootGameCount,
-      games: Object.fromEntries(Object.entries(manifest).map(([game, types]) => [game, { types, counts: built.counts[game] }])),
+      autoDiscoveredTypes: true,
+      games: Object.fromEntries(Object.entries(effectiveManifest).map(([game, types]) => [game, { types, counts: built.counts[game] }])),
       stats
     };
     await writeJson(path.join(nextDir, '.cache-manifest.json'), cacheManifest);
@@ -288,7 +307,7 @@ async function syncApiCache(options = {}) {
       changed: true,
       contentHash: newHash,
       source: cacheManifest.source,
-      games: Object.keys(manifest),
+      games: Object.keys(effectiveManifest),
       counts: built.counts,
       stats
     };
@@ -313,6 +332,7 @@ if (require.main === module) {
 module.exports = {
   DEFAULT_MANIFEST,
   loadManifest,
+  mergeDiscoveredManifest,
   normalizedEntry,
   snapshotHash,
   syncApiCache
