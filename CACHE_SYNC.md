@@ -11,11 +11,34 @@ The repository keeps **two independent last-good fallback snapshots** synchroniz
 
 The GitHub Action runs an **hourly APINODE change-watch at minute 23** and can also be started manually with `workflow_dispatch`.
 
-The mirror uses full content hashes, so an hourly check with no API data changes creates **no commit**. If APINODE adds, updates, repairs, moves, or removes a game-info file or game-code record, the next successful hourly pass mirrors that change into this repository.
+The mirror uses full content hashes, so an hourly check with no stable API data changes creates **no commit**. If APINODE adds, updates, repairs, moves, or removes a game-info file or game-code record, the next successful hourly pass mirrors that change into this repository.
 
-## Mirrored Gaming Infos datasets
+## Gaming Infos dataset discovery
 
-| Game | API type(s) |
+Gaming Infos cache schema 2 no longer depends only on a hard-coded game manifest.
+
+The mirror first requests:
+
+```http
+GET /v5/games/api/gaming-infos
+```
+
+Modern APINODE responses expose each game's stable `slug` and dataset `types`, for example:
+
+```json
+{
+  "slug": "codblackops2",
+  "types": ["characters", "npcs", "maps"]
+}
+```
+
+The mirror merges those declarations into its safety/baseline manifest and then fetches every discovered game/type. This means the full Call of Duty catalog, and future public Gaming Infos games/types, can propagate into the repository without adding one hard-coded mirror entry per title.
+
+The built-in baseline remains for compatibility with older APINODE deployments and can still be replaced explicitly with `GAMING_INFOS_CACHE_MANIFEST_JSON`.
+
+Current important datasets include:
+
+| Game / family | API type(s) |
 |---|---|
 | VRChat | `players`, `groups`, `worlds`, `avatars` |
 | Genshin Impact | `characters` |
@@ -24,11 +47,12 @@ The mirror uses full content hashes, so an hourly check with no API data changes
 | Wuthering Waves | `characters` (Resonators) |
 | Warframe | `characters` (Warframes) |
 | Fortnite | `characters` = released Outfits/skins, `npcs` = Battle Royale NPCs, `maps` = Named Locations/maps |
+| Call of Duty mainline | `characters`, `npcs`, `maps` per title, auto-discovered from APINODE |
 | Zenless Zone Zero | `characters` (Agents) |
 | Tower of Fantasy | `characters` (Simulacra) |
 | Arknights: Endfield | `characters` (Operators) |
 
-Fortnite is intentionally split. A location such as Wonkeeland must never be mirrored as a `characters` entry, and NPC records are kept separate from released cosmetic Outfits.
+Call of Duty covers mainline slugs from `cod2003` through `codblackops7`, plus `codmodernwarfare4`. The 2026 MW4 dataset is restricted upstream to official Activision beta/public announcement information; the fallback never expands that policy by scraping separate unofficial data.
 
 ## Mirrored Game Codes endpoints
 
@@ -62,12 +86,13 @@ For Gaming Infos:
 
 1. Temporarily preserve `data/game-codes/` outside the Gaming Infos snapshot.
 2. Fetch the root Gaming Infos endpoint.
-3. Fetch every configured game's meta endpoint.
-4. Fetch every configured type-list endpoint, including all three Fortnite datasets.
-5. Validate every response and entry slug.
-6. Build a completely separate temporary snapshot.
-7. Atomically replace the Gaming Infos `data/` snapshot.
-8. Restore the previous Game Codes fallback before the code phase begins.
+3. Merge valid root `slug` + `types` declarations into the effective manifest.
+4. Fetch every effective game's meta endpoint.
+5. Fetch every discovered/configured type-list endpoint.
+6. Validate every response and entity slug.
+7. Build a completely separate temporary snapshot.
+8. Atomically replace the Gaming Infos `data/` snapshot only after every required request succeeds.
+9. Restore the previous Game Codes fallback before the code phase begins.
 
 For Game Codes:
 
@@ -78,13 +103,13 @@ For Game Codes:
 5. Build a separate temporary `data/game-codes/` tree.
 6. Only after every game succeeds, atomically replace the old Game Codes snapshot.
 
-Because successful API snapshots are authoritative, **adds, changes and removals are mirrored**. If APINODE moves an old Fortnite record from `characters` to `npcs` or `maps`, the next successful mirror removes it from `characters` and creates it in the correct fallback directory.
+Because successful API snapshots are authoritative, **adds, changes and removals are mirrored**. If APINODE moves an old Fortnite record between datasets, or removes/changes a Call of Duty entity, the next fully successful mirror reproduces that structure in the fallback.
 
 If APINODE is down, times out, returns 429/5xx, or one required endpoint fails halfway through, that cache is **not replaced**. The previous last-good fallback remains available.
 
-## APINODE repair propagation
+## APINODE synchronization / repair propagation
 
-APINODE performs content synchronization and data-quality repair before this repository consumes the public API. That includes bad Game Code cleanup, image repair, and Fortnite dataset separation.
+APINODE performs content synchronization and data-quality repair before this repository consumes the public API. That includes bad Game Code cleanup, image repair, Fortnite dataset separation, and the database-backed Call of Duty public-data sync.
 
 ```text
 APINODE source refresh / repair
@@ -102,13 +127,19 @@ repository data/ fallback
 const info = require('@nekosuneprojects/gaming-infos');
 
 // Fortnite
-await info.List('fortnite', 'characters'); // released skins / Outfits
-await info.List('fortnite', 'npcs');       // Battle Royale NPCs
-await info.List('fortnite', 'maps');       // maps / Named Locations
+await info.List('fortnite', 'characters');
+await info.List('fortnite', 'npcs');
+await info.List('fortnite', 'maps');
 
-await info.Characters('fortnite', 'outfit-slug');
-await info.NPCs('fortnite', 'npc-slug');
-await info.Maps('fortnite', 'map-slug');
+// Call of Duty
+await info.List('codblackops2', 'characters');
+await info.List('codblackops2', 'npcs');
+await info.List('codblackops2', 'maps');
+await info.List('codmodernwarfare4', 'maps');
+
+await info.Characters('codblackops2', 'character-slug');
+await info.NPCs('codblackops2', 'npc-slug');
+await info.Maps('codblackops2', 'map-slug');
 
 // Other Gaming Infos
 await info.List('vrchat', 'avatars');
@@ -147,6 +178,7 @@ Useful variables:
 | `GAMING_INFOS_API_BASE` | `https://api.nekosunevr.co.uk` | APINODE host used by both caches |
 | `GAMING_INFOS_API_PATH` | `/v5/games/api/gaming-infos` | Gaming Infos path |
 | `GAME_CODES_API_PATH` | `/v5/games/api/codes` | Game Codes path |
+| `GAMING_INFOS_CACHE_MANIFEST_JSON` | baseline + root discovery | Optional explicit baseline manifest |
 | `GAMING_INFOS_CACHE_TIMEOUT_MS` | `15000` | Gaming Infos per-request timeout |
 | `GAMING_INFOS_CACHE_RETRIES` | `2` | Gaming Infos retry count |
 | `GAME_CODES_CACHE_TIMEOUT_MS` | `15000` | Game Codes sync request timeout |
@@ -165,6 +197,6 @@ live APINODE
    └─ unavailable/error → last-good bundled fallback
 ```
 
-A successful changed Gaming Infos snapshot records `data/.cache-manifest.json`. Game Codes records `data/game-codes/.cache-manifest.json`. The hash comparison ignores manifest timestamps and other explicitly volatile values.
+A successful changed Gaming Infos snapshot records `data/.cache-manifest.json` with schema version 2, its effective game/type manifest, content hash, counts and add/change/remove statistics. Game Codes records `data/game-codes/.cache-manifest.json` separately. The hash comparison ignores manifest timestamps and other explicitly volatile values.
 
 Note: npm releases are immutable. Repository fallback files update automatically, but an already-installed npm version keeps the snapshot bundled with that release until upgraded. Live API reads still remain current whenever APINODE is available.
