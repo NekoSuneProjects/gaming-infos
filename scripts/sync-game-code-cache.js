@@ -145,16 +145,51 @@ function validateCodeList(game, payload) {
   return payload;
 }
 
+function stableDirectorySnapshot(directory) {
+  const stable = JSON.parse(JSON.stringify(directory));
+  const updatedTimes = (stable.games || [])
+    .map((game) => new Date(game?.lastUpdatedAt || 0).getTime())
+    .filter((value) => Number.isFinite(value) && value > 0);
+
+  // APINODE's root `updatedAt` describes when the HTTP directory response was
+  // generated, so it changes every request. Keep a meaningful stable timestamp
+  // based on actual per-game data updates instead.
+  if (updatedTimes.length) stable.updatedAt = new Date(Math.max(...updatedTimes)).toISOString();
+  else delete stable.updatedAt;
+  return stable;
+}
+
+function stableCodeRow(row) {
+  const stable = JSON.parse(JSON.stringify(row));
+  if (stable.expiry && typeof stable.expiry === 'object' && !Array.isArray(stable.expiry)) {
+    // These values are calculated from Date.now() on every API request. The
+    // fallback retains expiresAt/local/expired, while consumers can calculate
+    // a live countdown themselves when needed.
+    delete stable.expiry.expiresInSeconds;
+    delete stable.expiry.countdown;
+  }
+  return stable;
+}
+
+function stableCodePayload(payload) {
+  const stable = {};
+  for (const bucket of ['Active', 'Expired', 'Unknown']) {
+    if (Array.isArray(payload[bucket])) stable[bucket] = payload[bucket].map(stableCodeRow);
+  }
+  return stable;
+}
+
 async function buildNextSnapshot(options) {
   const { apiBase, apiPath, dataDir } = options;
   const nextDir = path.join(path.dirname(dataDir), `.game-codes-cache-next-${process.pid}-${Date.now()}`);
   await fs.promises.rm(nextDir, { recursive: true, force: true });
   await fs.promises.mkdir(nextDir, { recursive: true });
 
-  const directory = await requestJson(apiUrl(apiBase, apiPath), options);
-  if (!Array.isArray(directory.games) || !directory.games.length) {
+  const rawDirectory = await requestJson(apiUrl(apiBase, apiPath), options);
+  if (!Array.isArray(rawDirectory.games) || !rawDirectory.games.length) {
     throw new Error('Game code directory returned no games; refusing to replace fallback cache');
   }
+  const directory = stableDirectorySnapshot(rawDirectory);
   await writeJson(path.join(nextDir, 'directory.json'), directory);
 
   // /status is cache-only on APINODE and does not trigger source website requests.
@@ -167,10 +202,11 @@ async function buildNextSnapshot(options) {
   const delayMs = numberOption(options.delayMs ?? process.env.GAME_CODES_CACHE_GAME_DELAY_MS, 150, 0, 10000);
   for (let i = 0; i < directory.games.length; i += 1) {
     const game = gameSlug(directory.games[i]);
-    const payload = validateCodeList(
+    const rawPayload = validateCodeList(
       game,
       await requestJson(apiUrl(apiBase, apiPath, `/${encodeURIComponent(game)}`, { includeUnknown: 'true' }), options)
     );
+    const payload = stableCodePayload(rawPayload);
     await writeJson(path.join(nextDir, 'games', `${game}.json`), payload);
     counts[game] = {
       active: payload.Active.length,
@@ -214,6 +250,7 @@ async function syncGameCodeCache(options = {}) {
       gameCount: built.directory.games.length,
       counts: built.counts,
       statusIsCacheOnly: true,
+      volatileFieldsRemoved: ['directory.updatedAt(request-time)', 'expiry.expiresInSeconds', 'expiry.countdown'],
       stats
     };
     await writeJson(path.join(nextDir, '.cache-manifest.json'), manifest);
@@ -239,6 +276,8 @@ if (require.main === module) {
 }
 
 module.exports = {
+  stableDirectorySnapshot,
+  stableCodePayload,
   syncGameCodeCache,
   validateCodeList
 };
