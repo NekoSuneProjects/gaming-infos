@@ -5,7 +5,12 @@ const fs = require('fs');
 const http = require('http');
 const os = require('os');
 const path = require('path');
-const { DEFAULT_MANIFEST, mergeDiscoveredManifest, syncApiCache } = require('./sync-api-cache');
+const {
+  DEFAULT_MANIFEST,
+  mergeDiscoveredManifest,
+  validateRootSyncState,
+  syncApiCache
+} = require('./sync-api-cache');
 
 function json(res, status, body) {
   const payload = JSON.stringify(body);
@@ -31,6 +36,23 @@ async function main() {
   assert.deepStrictEqual(discovered.codblackops2, ['characters', 'npcs', 'maps']);
   assert.deepStrictEqual(discovered.futuregame, ['characters', 'maps']);
 
+  assert.doesNotThrow(() => validateRootSyncState({
+    sync: {
+      running: false,
+      syncSchemaVersion: 2,
+      state: { lastStatus: 'success', syncSchemaVersion: 2, requiredSyncSchemaVersion: 2 }
+    }
+  }));
+  assert.throws(() => validateRootSyncState({ sync: { running: true, state: { lastStatus: 'running' } } }), /currently running/);
+  assert.throws(() => validateRootSyncState({ sync: { running: false, state: { lastStatus: 'failed' } } }), /state is failed/);
+  assert.throws(() => validateRootSyncState({
+    sync: {
+      running: false,
+      syncSchemaVersion: 2,
+      state: { lastStatus: 'success', syncSchemaVersion: 1, requiredSyncSchemaVersion: 2 }
+    }
+  }), /schema catch-up is incomplete/);
+
   const root = await fs.promises.mkdtemp(path.join(os.tmpdir(), 'gaming-infos-cache-test-'));
   const dataDir = path.join(root, 'data');
   let failCharacters = false;
@@ -41,7 +63,15 @@ async function main() {
 
   const server = http.createServer((req, res) => {
     if (req.url === '/v5/games/api/gaming-infos') {
-      return json(res, 200, { success: true, data: [{ slug: 'testgame', name: 'Test Game', types: ['characters'] }] });
+      return json(res, 200, {
+        success: true,
+        data: [{ slug: 'testgame', name: 'Test Game', types: ['characters'] }],
+        sync: {
+          running: false,
+          syncSchemaVersion: 2,
+          state: { lastStatus: 'success', syncSchemaVersion: 2, requiredSyncSchemaVersion: 2 }
+        }
+      });
     }
     if (req.url === '/v5/games/api/gaming-infos/testgame/meta/testgame') {
       return json(res, 200, { success: true, data: { slug: 'testgame', name: 'Test Game', description: 'fixture', types: ['characters'] } });
