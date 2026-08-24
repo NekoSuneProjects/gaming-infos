@@ -4,6 +4,16 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "23 */6 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/sync-api-cache.js"
+      - "scripts/cache-sync-smoke.js"
+      - "index.js"
+      - "package.json"
+      - "CACHE_SYNC.md"
+      - ".github/workflows/sync-api-cache.yml"
 
 permissions:
   contents: write
