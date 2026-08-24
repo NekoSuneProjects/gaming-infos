@@ -54,9 +54,15 @@ async function readJson(filePath) {
   return JSON.parse(await fs.promises.readFile(filePath, 'utf8'));
 }
 
+function safeFallbackPath(fileName) {
+  const filePath = path.resolve(DATA_DIR, fileName);
+  const root = `${path.resolve(DATA_DIR)}${path.sep}`;
+  return filePath.startsWith(root) ? filePath : null;
+}
+
 async function readFallback(fileName) {
-  const filePath = path.join(DATA_DIR, fileName);
-  if (!fs.existsSync(filePath)) return null;
+  const filePath = safeFallbackPath(fileName);
+  if (!filePath || !fs.existsSync(filePath)) return null;
   try {
     return await readJson(filePath);
   } catch (_) {
@@ -65,11 +71,24 @@ async function readFallback(fileName) {
 }
 
 function normalizeGame(game) {
-  return String(game || '').trim().toLowerCase();
+  const slug = String(game || '').trim().toLowerCase();
+  return /^[a-z0-9][a-z0-9-]*$/.test(slug) ? slug : null;
 }
 
 function normalizeCode(code) {
   return String(code || '').trim().toLowerCase();
+}
+
+async function resolveCachedGame(game) {
+  const slug = normalizeGame(game);
+  if (!slug) return null;
+  if (await readFallback(path.join('games', `${slug}.json`))) return slug;
+
+  const cachedDirectory = await readFallback('directory.json');
+  const aliasTarget = cachedDirectory?.aliases?.[slug];
+  const canonical = normalizeGame(aliasTarget);
+  if (canonical && await readFallback(path.join('games', `${canonical}.json`))) return canonical;
+  return slug;
 }
 
 function filterCachedList(data, options = {}) {
@@ -109,29 +128,33 @@ async function status() {
 
 async function gameCodes(game, options = {}) {
   if (!game) return { error: 'game is required' };
-  const slug = normalizeGame(game);
+  const requested = normalizeGame(game);
+  if (!requested) return { error: 'invalid game slug' };
   const query = {
     timezone: options.timezone,
     category: options.category,
     claimType: options.claimType,
     includeUnknown: options.includeUnknown ? 'true' : undefined
   };
-  const live = await apiGet(`/${encodeURIComponent(slug)}`, query);
+  const live = await apiGet(`/${encodeURIComponent(requested)}`, query);
   if (live) return live;
 
-  const cached = await readFallback(path.join('games', `${slug}.json`));
+  const cachedGame = await resolveCachedGame(requested);
+  const cached = cachedGame ? await readFallback(path.join('games', `${cachedGame}.json`)) : null;
   if (!cached) return { error: `No cached game codes found for "${game}".` };
   return filterCachedList(cached, options);
 }
 
 async function gameCode(game, code, options = {}) {
   if (!game || !code) return { error: 'game and code are both required' };
-  const slug = normalizeGame(game);
+  const requested = normalizeGame(game);
+  if (!requested) return { error: 'invalid game slug' };
   const codeValue = String(code).trim();
-  const live = await apiGet(`/${encodeURIComponent(slug)}/${encodeURIComponent(codeValue)}`, { timezone: options.timezone });
+  const live = await apiGet(`/${encodeURIComponent(requested)}/${encodeURIComponent(codeValue)}`, { timezone: options.timezone });
   if (live) return live.data !== undefined ? live.data : live;
 
-  const cached = await readFallback(path.join('games', `${slug}.json`));
+  const cachedGame = await resolveCachedGame(requested);
+  const cached = cachedGame ? await readFallback(path.join('games', `${cachedGame}.json`)) : null;
   if (!cached) return { error: `No cached game codes found for "${game}".` };
   const wanted = normalizeCode(codeValue);
   for (const bucket of ['Active', 'Expired', 'Unknown']) {
