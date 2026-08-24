@@ -7,16 +7,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+## 2.2.0 - 2026-08-24
+
 ### Added
 - Added API-first Game Codes helpers: `Codes()`, `CodesStatus()`, `GameCodes(game, options)`, `GameCode(game, code, options)`, and `CodeCacheInfo()`.
 - Added an atomic `data/game-codes/` fallback mirror for `/v5/games/api/codes`, cache-only `/status`, and every per-game Active/Expired/Unknown dataset.
 - Added game-code fallback alias resolution using the cached `/codes` directory aliases.
-- Added a game-code cache smoke test covering additions, changes, removals, and partial API outages.
+- Added game-code cache smoke tests covering additions, changes, removals, and partial API outages.
+- Added `Avatars(game, name)` for VRChat avatar records.
+- Added public Gaming Infos support for Wuthering Waves Resonators, Warframe Warframes, Fortnite current/released Battle Royale characters, Zenless Zone Zero Agents, Tower of Fantasy Simulacra, and Arknights: Endfield Operators.
+- Expanded the mirrored VRChat datasets to include players, groups, worlds, and avatars.
+- Added `CacheInfo()` for inspecting the last mirrored Gaming Infos snapshot.
+- Added automatic fallback-cache manifests with source URL, content hash, counts, and add/change/remove statistics.
 
 ### Changed
 - `npm run sync:cache` now mirrors both Gaming Infos and Game Codes.
 - The automatic cache workflow now runs once daily at 03:23 UTC instead of every six hours.
-- Gaming Infos cache replacement now preserves the independent `data/game-codes/` last-good fallback during its atomic snapshot update.
+- Gaming Infos and Game Codes are mirrored as independent atomic snapshots so a failure in one cache cannot destroy the other cache's last-good data.
+- Successful mirror runs now synchronize additions, updates, and removals from APINODE while failed or partial runs preserve the previous fallback snapshot.
+- Local fallback entities expose stable slugs so offline lookups match live API behavior more closely.
+- Expanded the package description and keywords for the new games, VRChat avatars, and redeem/creator-code support.
+- Reworked `README.md` to document the full supported-game matrix, API-first fallback behavior, Game Codes API helpers, daily sync workflow, cache commands, configuration, and examples.
 
 ## 2.1.0 - 2026-08-02
 
