@@ -4,7 +4,7 @@
 
 A Node.js data package for **game information, VRChat community data, characters, redeem codes, and creator codes**.
 
-The package is **API-first**: it reads from the NekoSuneVR V5 API whenever possible, then automatically falls back to bundled JSON when the API is unavailable. The fallback data in this repository is mirrored from APINODE once per day using an atomic add/change/remove synchronization system.
+The package is **API-first**: it reads from the NekoSuneVR V5 API whenever possible, then automatically falls back to bundled JSON when the API is unavailable. The fallback data in this repository is checked against APINODE every hour using an atomic add/change/remove synchronization system; unchanged API data creates no commit.
 
 Current package version: **2.2.0**
 
@@ -15,7 +15,7 @@ Current package version: **2.2.0**
 - 🎮 Multi-game metadata and character data
 - 🌐 Live NekoSuneVR V5 API lookups
 - 💾 Automatic local JSON fallback when the API is unavailable
-- 🔄 Daily APINODE → repository cache synchronization
+- 🔄 Hourly APINODE → repository change-watch
 - 🧹 Add/change/remove mirroring so deleted API entries disappear from the next successful fallback snapshot
 - 🛡️ Last-good-cache protection if APINODE is down or a sync only partially succeeds
 - 👤 VRChat players
@@ -340,9 +340,11 @@ GAMING_INFOS_DISABLE_API=1
 
 ---
 
-# 🔄 Daily fallback synchronization
+# 🔄 Hourly fallback synchronization
 
-The repository automatically runs the cache mirror **once every day at 03:23 UTC** through GitHub Actions.
+The repository automatically checks APINODE **every hour at minute 23 UTC** through GitHub Actions.
+
+This is a change-watch, not an unconditional rewrite: content hashes are compared first, so if APINODE has not changed, no fallback commit is created. If APINODE adds/changes/removes data or repairs an image/code record, the next successful hourly pass mirrors that update.
 
 The combined command is:
 
@@ -366,7 +368,7 @@ The synchronization process is designed to be authoritative and failure-safe:
 5. Keep the previous fallback untouched if the API fails, times out, returns an error, or produces an incomplete snapshot.
 6. Commit actual fallback changes back to the repository.
 
-Successful syncs mirror **additions, modifications, and removals**. If APINODE removes an entry, that entry is removed from the fallback during the next successful mirror.
+Successful syncs mirror **additions, modifications, repairs, and removals**. If APINODE removes an entry, that entry is removed from the fallback during the next successful mirror.
 
 Gaming Infos and Game Codes use independent atomic caches so a failure in one dataset cannot destroy the last-good snapshot of the other.
 
