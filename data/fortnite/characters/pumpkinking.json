@@ -1,0 +1,40 @@
+{
+  "name": "Pumpkin King",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/f/f8/Pumpkin_King_-_Outfit_-_Fortnite.png/revision/latest?cb=20241012072113",
+  "url": "https://fortnite.fandom.com/wiki/Pumpkin_King",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "October 12th 2024 Part 2",
+  "services": null,
+  "details": {
+    "image": "Pumpkin King - Outfit - Fortnite.png",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "set": "The Pumpkin King",
+    "unlocked": "Pumpkin King Pumpkin King & Sally Bundle",
+    "cost": "2,000 (Pumpkin King) 3,400 (Pumpkin King & Sally Bundle)",
+    "release": "October 12th 2024 Part 2",
+    "appearances": "Pumpkin King",
+    "character model": "Empty Head",
+    "added_in": "Update v31.40",
+    "ID": "Character_BurntBagel",
+    "LEGOUse": "y }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Pumpkin_King",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.583Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "pumpkinking"
+}

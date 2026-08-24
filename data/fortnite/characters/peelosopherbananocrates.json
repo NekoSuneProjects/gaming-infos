@@ -1,0 +1,43 @@
+{
+  "name": "Peelosopher Bananocrates",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/9/95/Peelosopher_Bananocrates_-_Outfit_-_Fortnite.png/revision/latest?cb=20240423174303",
+  "url": "https://fortnite.fandom.com/wiki/Peelosopher_Bananocrates",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "April 24th 2024",
+  "services": null,
+  "details": {
+    "image": "Peelosopher Bananocrates - Outfit - Fortnite.png|Icon Peelosopher Bananocrates (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "bundled_with": "NaNa Scroll",
+    "set": "Bananontology",
+    "cost": "1,200 1,800 (Bananontology Bundle)",
+    "unlocked": "Item Shop Bananontology Bundle",
+    "release": "April 24th 2024",
+    "character model": "Empty Head",
+    "added_in": "Update v29.30",
+    "appearances": "Peelosopher Bananocrates",
+    "ID": "Character_BananaPhilosopher",
+    "BeanID": "Bean_BananaPhilosopher",
+    "LEGOUse": "y",
+    "FGUse": "y }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Peelosopher_Bananocrates",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.593Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "peelosopherbananocrates"
+}

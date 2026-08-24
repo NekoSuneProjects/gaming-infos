@@ -1,0 +1,39 @@
+{
+  "name": "Edward Scissorhands",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/0/09/Edward_Scissorhands_-_Outfit_-_Fortnite.png/revision/latest?cb=20241012093557",
+  "url": "https://fortnite.fandom.com/wiki/Edward_Scissorhands",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "October 16th 2024",
+  "services": null,
+  "details": {
+    "image": "Edward Scissorhands - Outfit - Fortnite.png|Icon Edward Scissorhands (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "set": "Edward Scissorhands",
+    "unlocked": "Edward Scissorhands Edward Scissorhands Bundle",
+    "cost": "2,000 (Edward Scissorhands) 2,500 (Edward Scissorhands Bundle)",
+    "release": "October 16th 2024",
+    "appearances": "Edward Scissorhands",
+    "character model": "Unique",
+    "added_in": "Update v31.40",
+    "ID": "Character_ShrimpStroll }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Edward_Scissorhands",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.577Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "edwardscissorhands"
+}

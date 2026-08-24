@@ -1,11 +1,12 @@
 {
-    "name": "Sigewinne",
-    "cv": "Kino Hina",
-    "description": "The head nurse of the infirmary at the Fortress of Meropide. She is a Melusine whose appearance is more human-like than most of her kind, and genuinely cares for the well-being of those around her.",
-    "image": "https://img.gamewith.net/article/thumbnail/rectangle/41819.png",
-    "city": "Fontaine",
-    "url": "https://gamewith.net/genshin-impact/article/show/41819",
-    "element": "Hydro",
-    "weapon": "Bow",
-    "rating": 5
+  "name": "Sigewinne",
+  "cv": "Kino Hina",
+  "description": "The head nurse of the infirmary at the Fortress of Meropide. She is a Melusine whose appearance is more human-like than most of her kind, and genuinely cares for the well-being of those around her.",
+  "image": "https://img.gamewith.net/article/thumbnail/rectangle/41819.png",
+  "city": "Fontaine",
+  "url": "https://gamewith.net/genshin-impact/article/show/41819",
+  "element": "Hydro",
+  "weapon": "Bow",
+  "rating": 5,
+  "slug": "sigewinne"
 }

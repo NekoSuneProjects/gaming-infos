@@ -1,0 +1,43 @@
+{
+  "name": "Joni the Scarlet",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/5/5a/Joni_the_Scarlet_-_Outfit_-_Fortnite.png/revision/latest?cb=20230912112202",
+  "url": "https://fortnite.fandom.com/wiki/Joni_the_Scarlet",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "September 20th 2023",
+  "services": null,
+  "details": {
+    "name": "Joni the Scarlet",
+    "image": "Joni the Scarlet - Outfit - Fortnite.png|Icon Joni the Scarlet (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "character model": "Joni",
+    "set": "The High Stakes Club",
+    "unlocked": "The High Stakes Club Pack",
+    "cost": "$17.25 (The High Stakes Club Pack)",
+    "added_in": "Update v26.10",
+    "release": "September 20th 2023",
+    "appearances": "The High Stakes Club Pack",
+    "LEGOUse": "y",
+    "FGUse": "y",
+    "ID": "Character_ProdigyFire",
+    "BeanID": "Bean_ProdigyFire }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Joni_the_Scarlet",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.636Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "jonithescarlet"
+}

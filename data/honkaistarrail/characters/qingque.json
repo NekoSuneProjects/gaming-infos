@@ -1,12 +1,13 @@
 {
-    "name": "Qingque",
-    "rarity": "4-star",
-    "path": "Erudition",
-    "element": "Quantum",
-    "faction": "Divination Commission (Xianzhou Luofu)",
-    "voiceActorEN": "Bryn Apprill",
-    "voiceActorJP": "Arisa Date",
-    "description": "A librarian and diviner of the Divination Commission on the Xianzhou Luofu. Her fighting style is inspired by the tile game Mahjong, drawing tiles to form matching hands that enhance her attacks.",
-    "image": "",
-    "url": "https://honkai-star-rail.fandom.com/wiki/Qingque"
+  "name": "Qingque",
+  "rarity": "4-star",
+  "path": "Erudition",
+  "element": "Quantum",
+  "faction": "Divination Commission (Xianzhou Luofu)",
+  "voiceActorEN": "Bryn Apprill",
+  "voiceActorJP": "Arisa Date",
+  "description": "A librarian and diviner of the Divination Commission on the Xianzhou Luofu. Her fighting style is inspired by the tile game Mahjong, drawing tiles to form matching hands that enhance her attacks.",
+  "image": "",
+  "url": "https://honkai-star-rail.fandom.com/wiki/Qingque",
+  "slug": "qingque"
 }

@@ -1,0 +1,41 @@
+{
+  "name": "Peely",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/f/fc/Peely_%28v30.00%29_-_Outfit_-_Fortnite.png/revision/latest?cb=20240524202045",
+  "url": "https://fortnite.fandom.com/wiki/Peely",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "February 28th 2019",
+  "services": null,
+  "details": {
+    "image": "Peely (v30.00) - Outfit - Fortnite.png|Icon Peely (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "set": "Banana Bunch",
+    "cost": "950 (8)",
+    "unlocked": "Tier 47 8",
+    "character model": "Empty Head",
+    "release": "February 28th 2019",
+    "added_in": "Update v8.00",
+    "ID": "CID_349_Athena_Commando_M_Banana",
+    "FGUse": "y",
+    "BeanID": "Bean_Banana",
+    "LEGOUse": "y }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Peely",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.609Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "peely"
+}

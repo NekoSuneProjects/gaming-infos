@@ -1,11 +1,12 @@
 {
-    "name": "Dori",
-    "cv": "Kaneda Tomoko",
-    "description": "Known throughout Sumeru City as \"Lord Sangemah Bay,\" Dori is a shrewd young merchant who can procure almost anything for a price, and fights using Electro-charged claymore techniques alongside her own mechanical gadgets.",
-    "image": "https://static.icy-veins.com/images/genshin-impact/characters/dori.webp",
-    "city": "Sumeru",
-    "url": "https://www.icy-veins.com/genshin-impact/dori-guide-best-builds",
-    "element": "Electro",
-    "weapon": "Claymore",
-    "rating": 4
+  "name": "Dori",
+  "cv": "Kaneda Tomoko",
+  "description": "Known throughout Sumeru City as \"Lord Sangemah Bay,\" Dori is a shrewd young merchant who can procure almost anything for a price, and fights using Electro-charged claymore techniques alongside her own mechanical gadgets.",
+  "image": "https://static.icy-veins.com/images/genshin-impact/characters/dori.webp",
+  "city": "Sumeru",
+  "url": "https://www.icy-veins.com/genshin-impact/dori-guide-best-builds",
+  "element": "Electro",
+  "weapon": "Claymore",
+  "rating": 4,
+  "slug": "dori"
 }

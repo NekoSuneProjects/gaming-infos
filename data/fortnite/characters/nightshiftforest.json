@@ -1,0 +1,43 @@
+{
+  "name": "Nightshift Forest",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/d/d2/Nightshift_Forest_-_Location_-_Fortnite.png/revision/latest?cb=20250422215737",
+  "url": "https://fortnite.fandom.com/wiki/Nightshift_Forest",
+  "title": null,
+  "location": "N BURD S Twinkle Terrace‎ ‎NW Warrior's Watch",
+  "affiliation": null,
+  "introduced": "December 1st 2024",
+  "services": null,
+  "details": {
+    "name": "Nightshift Forest",
+    "image": "Nightshift Forest - Location - Fortnite.png|Overview Nightshift Forest (Top View) - Location - Fortnite.png|Top View",
+    "location": "N BURD S Twinkle Terrace‎ ‎NW Warrior's Watch",
+    "type": "Named Location",
+    "island": "Oninoshima",
+    "landmarks": "*Battle's End *Sakura Plunge",
+    "chests": "87",
+    "ammo_boxes": "72",
+    "floor_loot": "160",
+    "produce_boxes": "5",
+    "release": "December 1st 2024",
+    "removed": "February 21st 2025",
+    "character": "C6S1]] C6S1]] C6S1]]",
+    "ID": "Athena.Location.POI.NightForest",
+    "next": "Outlaw Oasis}}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Nightshift_Forest",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.569Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "nightshiftforest"
+}

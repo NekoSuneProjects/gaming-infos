@@ -1,11 +1,12 @@
 {
-    "name": "Citlali",
-    "cv": "Asami Tano",
-    "description": "The high priestess of the Masters of the Night-Wind and the adoptive grandmother of Ororon, who lives in seclusion from the rest of her tribe.",
-    "image": "",
-    "city": "Natlan",
-    "url": "https://genshin-impact.fandom.com/wiki/Citlali",
-    "element": "Cryo",
-    "weapon": "Catalyst",
-    "rating": 5
+  "name": "Citlali",
+  "cv": "Asami Tano",
+  "description": "The high priestess of the Masters of the Night-Wind and the adoptive grandmother of Ororon, who lives in seclusion from the rest of her tribe.",
+  "image": "",
+  "city": "Natlan",
+  "url": "https://genshin-impact.fandom.com/wiki/Citlali",
+  "element": "Cryo",
+  "weapon": "Catalyst",
+  "rating": 5,
+  "slug": "citlali"
 }

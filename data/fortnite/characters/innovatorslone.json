@@ -1,0 +1,43 @@
+{
+  "name": "Innovator Slone",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/f/f4/Innovator_Slone_-_Outfit_-_Fortnite.png/revision/latest?cb=20230717201802",
+  "url": "https://fortnite.fandom.com/wiki/Innovator_Slone",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "June 10th 2023",
+  "services": null,
+  "details": {
+    "image": "Innovator Slone - Outfit - Fortnite.png|Icon Innovator Slone (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Rare",
+    "bundled_with": "Ancient Guidestone",
+    "set": "Slone, Un-Redacted",
+    "cost": "1,200",
+    "added_in": "Update v25.00",
+    "unlocked": "Item Shop",
+    "release": "June 10th 2023",
+    "appearances": "Innovator Slone",
+    "character model": "Doctor Slone",
+    "LEGOUse": "y",
+    "FGUse": "y",
+    "ID": "Character_InnovatorSand",
+    "BeanID": "Bean_InnovatorSand }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Innovator_Slone",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.643Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "innovatorslone"
+}

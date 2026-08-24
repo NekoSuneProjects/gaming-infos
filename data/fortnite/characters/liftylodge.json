@@ -1,0 +1,42 @@
+{
+  "name": "Lifty Lodge",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/6/67/Lifty_Lodge_-_Location_-_Fortnite.png/revision/latest?cb=20260630181747",
+  "url": "https://fortnite.fandom.com/wiki/Lifty_Lodge",
+  "title": null,
+  "location": "NE Chopped Shop NW The Battlewoods W Latte Landing",
+  "affiliation": null,
+  "introduced": "June 6th 2026",
+  "services": null,
+  "details": {
+    "name": "Lifty Lodge",
+    "location": "NE Chopped Shop NW The Battlewoods W Latte Landing",
+    "image": "Lifty Lodge - Location - Fortnite.png|Overview Lifty Lodge (Top View) - Location - Fortnite.png|Top View",
+    "type": "Named Location",
+    "island": "Shattered Coast",
+    "release": "June 6th 2026",
+    "chests": "60",
+    "ammo_boxes": "40",
+    "vending_machines": "6",
+    "produce_boxes": "4",
+    "vehicles": "4x Grandeur Trailsmasher 1x Motors Whiplash 2x Reboot Van 2x Batman's Beach Buggy",
+    "character": "C7S3]]",
+    "franchises": "*Mile High Retreat",
+    "wildlife": "C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Lifty_Lodge",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.512Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "liftylodge"
+}

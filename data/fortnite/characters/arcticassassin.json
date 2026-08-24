@@ -1,0 +1,43 @@
+{
+  "name": "Arctic Assassin",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/7/7f/Arctic_Assassin_%28New%29_-_Outfit_-_Fortnite.png/revision/latest?cb=20191103224617",
+  "url": "https://fortnite.fandom.com/wiki/Arctic_Assassin",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "January 19th 2018",
+  "services": null,
+  "details": {
+    "image": "Arctic Assassin (v34.00) - Outfit - Fortnite.png|Icon Arctic Assassin (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Rare",
+    "set": "Arctic Command",
+    "cost": "1,200 2,000 (Arctic Command Bundle) 2,700 (All Occasion Assassins Bundle)",
+    "unlocked": "Item Shop Arctic Command Bundle All Occasion Assassins Bundle",
+    "release": "January 19th 2018",
+    "character model": "Ramirez",
+    "body model": "Default Female C1",
+    "added_in": "Update v2.2.0",
+    "appearances": "Arctic Assassin",
+    "LEGOUse": "y",
+    "FGUse": "y",
+    "ID": "CID_037_Athena_Commando_F_WinterCamo",
+    "BeanID": "Bean_WinterCamoB }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Arctic_Assassin",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.631Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "arcticassassin"
+}

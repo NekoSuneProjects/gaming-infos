@@ -1,0 +1,39 @@
+{
+  "name": "Fish Market",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/1/1a/Boatyard_-_Unnamed_Location_-_Fortnite.png/revision/latest?cb=20260703213507",
+  "url": "https://fortnite.fandom.com/wiki/Fish_Market",
+  "title": null,
+  "location": "E Collider Corridor Gamma N Golden Grove S Wonkeeland",
+  "affiliation": null,
+  "introduced": "June 6th 2026",
+  "services": null,
+  "details": {
+    "name": "Fish Market",
+    "image": "Boatyard - Unnamed Location - Fortnite.png|Overview Fish Market (Top View) - Unnamed Location - Fortnite.png|Top View",
+    "location": "E Collider Corridor Gamma N Golden Grove S Wonkeeland",
+    "type": "Unnamed Location",
+    "island": "Shattered Coast",
+    "release": "June 6th 2026",
+    "chests": "11",
+    "ammo_boxes": "8",
+    "produce_boxes": "2",
+    "character": "C7S3]]",
+    "vehicles": "2x Motorboat 1x Grandeur Trailsmasher 1x Reboot Van }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Fish_Market",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.517Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "fishmarket"
+}

@@ -1,0 +1,1079 @@
+{
+  "Active": [
+    {
+      "id": 33,
+      "game": "borderlands-3",
+      "code": "4C10S-8HKD3-H5HKS-3S6S2-S5S9H",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Diamond Key",
+          "quantity": 5,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.esports.net/wiki/guides/borderlands-3-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:31.000Z",
+      "lastSeenAt": "2026-08-24T09:20:31.000Z",
+      "lastVerifiedAt": null
+    },
+    {
+      "id": 32,
+      "game": "borderlands-3",
+      "code": "59KBB-95FSS-WRKRH-FJJJ3-KT6K6",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Golden Key",
+          "quantity": 10,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.esports.net/wiki/guides/borderlands-3-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:31.000Z",
+      "lastSeenAt": "2026-08-24T09:20:31.000Z",
+      "lastVerifiedAt": null
+    },
+    {
+      "id": 35,
+      "game": "borderlands-3",
+      "code": "9XCBT-WBXFR-5TRWJ-JJJ33-TX53Z",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "curated-source",
+      "items": [
+        {
+          "name": "Golden Keys -",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.esports.net/wiki/guides/borderlands-3-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:31.000Z",
+      "lastSeenAt": "2026-08-24T11:00:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:00:21.000Z"
+    },
+    {
+      "id": 325,
+      "game": "borderlands-3",
+      "code": "CS5JB-CTTBB-FFWXZ-FJ3BT-TC6R3",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "curated-source",
+      "items": [
+        {
+          "name": "Daemon Head -",
+          "quantity": null,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.esports.net/wiki/guides/borderlands-3-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:20.000Z",
+      "lastSeenAt": "2026-08-24T11:00:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:00:22.000Z"
+    },
+    {
+      "id": 322,
+      "game": "borderlands-3",
+      "code": "CSW33-HBBJB-R65XH-XJTJ3-CT963",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "curated-source",
+      "items": [
+        {
+          "name": "Guardian Head -",
+          "quantity": null,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.esports.net/wiki/guides/borderlands-3-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:20.000Z",
+      "lastSeenAt": "2026-08-24T11:00:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:00:21.000Z"
+    },
+    {
+      "id": 318,
+      "game": "borderlands-3",
+      "code": "CSWJT-FS9H9-W6KFS-R3TTT-RFCHR",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "curated-source",
+      "items": [
+        {
+          "name": "Diamond Key -",
+          "quantity": 1,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.esports.net/wiki/guides/borderlands-3-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:20.000Z",
+      "lastSeenAt": "2026-08-24T11:00:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:00:21.000Z"
+    },
+    {
+      "id": 31,
+      "game": "borderlands-3",
+      "code": "CSWTB-TZCZH-WFC6Z-633TT-SJ6JS",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Golden Key",
+          "quantity": 10,
+          "image": null
+        },
+        {
+          "name": "Diamond Key",
+          "quantity": 1,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.esports.net/wiki/guides/borderlands-3-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:31.000Z",
+      "lastSeenAt": "2026-08-24T09:20:31.000Z",
+      "lastVerifiedAt": null
+    },
+    {
+      "id": 319,
+      "game": "borderlands-3",
+      "code": "CZ5JT-HFH99-KXKRZ-6BTJJ-BS5WB",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "curated-source",
+      "items": [
+        {
+          "name": "Saurian Synth Head -",
+          "quantity": null,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.esports.net/wiki/guides/borderlands-3-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:20.000Z",
+      "lastSeenAt": "2026-08-24T11:00:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:00:21.000Z"
+    },
+    {
+      "id": 326,
+      "game": "borderlands-3",
+      "code": "CZKTB-6BTJ3-R6KRZ-6B3TT-RX5ZH",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "curated-source",
+      "items": [
+        {
+          "name": "Gray Matter Head -",
+          "quantity": null,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.esports.net/wiki/guides/borderlands-3-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:20.000Z",
+      "lastSeenAt": "2026-08-24T11:00:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:00:22.000Z"
+    },
+    {
+      "id": 317,
+      "game": "borderlands-3",
+      "code": "HXKBT-XJ6FR-WBRKJ-J3TTB-RSBHR",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "curated-source",
+      "items": [
+        {
+          "name": "Golden Key -",
+          "quantity": 1,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.esports.net/wiki/guides/borderlands-3-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:20.000Z",
+      "lastSeenAt": "2026-08-24T11:00:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:00:21.000Z"
+    },
+    {
+      "id": 320,
+      "game": "borderlands-3",
+      "code": "K95BT-B99H9-CX5XH-RTJB3-C6SJX",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "curated-source",
+      "items": [
+        {
+          "name": "Skagwave Head -",
+          "quantity": null,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.esports.net/wiki/guides/borderlands-3-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:20.000Z",
+      "lastSeenAt": "2026-08-24T11:00:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:00:21.000Z"
+    },
+    {
+      "id": 316,
+      "game": "borderlands-3",
+      "code": "K9KJJ-FRTSX-J9C9K-Z33JJ-CH3XS",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "curated-source",
+      "items": [
+        {
+          "name": "Golden Keys + 1 Diamond Key -",
+          "quantity": 5,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.esports.net/wiki/guides/borderlands-3-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:19.000Z",
+      "lastSeenAt": "2026-08-24T11:00:20.000Z",
+      "lastVerifiedAt": "2026-08-24T11:00:20.000Z"
+    },
+    {
+      "id": 324,
+      "game": "borderlands-3",
+      "code": "KHWTB-3CBJB-6XWFZ-6B3BB-T5CCJ",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "curated-source",
+      "items": [
+        {
+          "name": "Null Value Head -",
+          "quantity": null,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.esports.net/wiki/guides/borderlands-3-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:20.000Z",
+      "lastSeenAt": "2026-08-24T11:00:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:00:22.000Z"
+    },
+    {
+      "id": 328,
+      "game": "borderlands-3",
+      "code": "KSK33-S5T33-XX5FS-R3BTB-WSXRC",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "curated-source",
+      "items": [
+        {
+          "name": "FL4K: Super Mecha Head + Saurian Skull Trinket -",
+          "quantity": null,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.esports.net/wiki/guides/borderlands-3-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:20.000Z",
+      "lastSeenAt": "2026-08-24T11:00:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:00:22.000Z"
+    },
+    {
+      "id": 327,
+      "game": "borderlands-3",
+      "code": "KSWJJ-J6TTJ-FRCF9-X333J-5Z6KJ",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "curated-source",
+      "items": [
+        {
+          "name": "Amara: Shrine Saint Head + Trinket -",
+          "quantity": null,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.esports.net/wiki/guides/borderlands-3-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:20.000Z",
+      "lastSeenAt": "2026-08-24T11:00:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:00:22.000Z"
+    },
+    {
+      "id": 321,
+      "game": "borderlands-3",
+      "code": "KZKBB-5HZ9S-CFKR9-RJ3T3-JBTK6",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "curated-source",
+      "items": [
+        {
+          "name": "Arachnoir Head -",
+          "quantity": null,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.esports.net/wiki/guides/borderlands-3-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:20.000Z",
+      "lastSeenAt": "2026-08-24T11:00:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:00:21.000Z"
+    },
+    {
+      "id": 314,
+      "game": "borderlands-3",
+      "code": "Note",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "curated-source",
+      "items": [
+        {
+          "name": "Codes often provide a mix of keys",
+          "quantity": null,
+          "image": null
+        },
+        {
+          "name": "cosmetics. Ensure your SHiFT account is properly linked to your platform before redeeming.",
+          "quantity": null,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.esports.net/wiki/guides/borderlands-3-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:19.000Z",
+      "lastSeenAt": "2026-08-24T11:00:19.000Z",
+      "lastVerifiedAt": "2026-08-24T11:00:19.000Z"
+    },
+    {
+      "id": 28,
+      "game": "borderlands-3",
+      "code": "SFXJT-S3XS3-3T3JT-33BTJ-R33JJ",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "curated-source",
+      "items": [
+        {
+          "name": "Golden Key",
+          "quantity": 75,
+          "image": null
+        },
+        {
+          "name": "Diamond Key",
+          "quantity": 20,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.esports.net/wiki/guides/borderlands-3-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:31.000Z",
+      "lastSeenAt": "2026-08-24T11:00:19.000Z",
+      "lastVerifiedAt": "2026-08-24T11:00:19.000Z"
+    },
+    {
+      "id": 30,
+      "game": "borderlands-3",
+      "code": "SXFBT-39953-J33TT-3T333-KSHW6",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Golden Key",
+          "quantity": 50,
+          "image": null
+        },
+        {
+          "name": "Diamond Key",
+          "quantity": 10,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.esports.net/wiki/guides/borderlands-3-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:31.000Z",
+      "lastSeenAt": "2026-08-24T09:20:31.000Z",
+      "lastVerifiedAt": null
+    },
+    {
+      "id": 315,
+      "game": "borderlands-3",
+      "code": "W9W33-59FTX-5ZTX5-9TTBB-3B5JF",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "curated-source",
+      "items": [
+        {
+          "name": "Diamond Keys -",
+          "quantity": 5,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.esports.net/wiki/guides/borderlands-3-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:19.000Z",
+      "lastSeenAt": "2026-08-24T11:00:19.000Z",
+      "lastVerifiedAt": "2026-08-24T11:00:19.000Z"
+    },
+    {
+      "id": 323,
+      "game": "borderlands-3",
+      "code": "WZK3T-XXZHH-KFK6H-6J33T-S959T",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "curated-source",
+      "items": [
+        {
+          "name": "Ratch Rider Head -",
+          "quantity": null,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.esports.net/wiki/guides/borderlands-3-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:20.000Z",
+      "lastSeenAt": "2026-08-24T11:00:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:00:22.000Z"
+    },
+    {
+      "id": 29,
+      "game": "borderlands-3",
+      "code": "ZFFTJ-RWRZJ-3B333-TTJJ3-XKCSK",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "curated-source",
+      "items": [
+        {
+          "name": "Golden Key",
+          "quantity": 50,
+          "image": null
+        },
+        {
+          "name": "Diamond Key",
+          "quantity": 20,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.esports.net/wiki/guides/borderlands-3-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:31.000Z",
+      "lastSeenAt": "2026-08-24T11:00:19.000Z",
+      "lastVerifiedAt": "2026-08-24T11:00:19.000Z"
+    },
+    {
+      "id": 34,
+      "game": "borderlands-3",
+      "code": "ZFKJ3-TT3BB-JTBJT-T3JJT-JWX9H",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "curated-source",
+      "items": [
+        {
+          "name": "Golden Keys -",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.esports.net/wiki/guides/borderlands-3-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:31.000Z",
+      "lastSeenAt": "2026-08-24T11:00:20.000Z",
+      "lastVerifiedAt": "2026-08-24T11:00:20.000Z"
+    },
+    {
+      "id": 36,
+      "game": "borderlands-3",
+      "code": "ZFKJ3-TT6FF-KTFKT-T3JJT-JWX36",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "curated-source",
+      "items": [
+        {
+          "name": "Golden Key -",
+          "quantity": 1,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.esports.net/wiki/guides/borderlands-3-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:31.000Z",
+      "lastSeenAt": "2026-08-24T11:00:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:00:21.000Z"
+    }
+  ],
+  "Expired": [
+    {
+      "id": 329,
+      "game": "borderlands-3",
+      "code": "FAQs",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "curated-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.esports.net/wiki/guides/borderlands-3-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:20.000Z",
+      "lastSeenAt": "2026-08-24T11:00:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:00:22.000Z"
+    },
+    {
+      "id": 37,
+      "game": "borderlands-3",
+      "code": "HXRBB-65WF3-B3TJB-TTTBJ-3K5ZC",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Golden Key",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.esports.net/wiki/guides/borderlands-3-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:31.000Z",
+      "lastSeenAt": "2026-08-24T09:20:31.000Z",
+      "lastVerifiedAt": null
+    },
+    {
+      "id": 38,
+      "game": "borderlands-3",
+      "code": "S6X33-K5CF3-JJBJB-JTTBJ-6CZB3",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Golden Key",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.esports.net/wiki/guides/borderlands-3-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:31.000Z",
+      "lastSeenAt": "2026-08-24T09:20:31.000Z",
+      "lastVerifiedAt": null
+    }
+  ],
+  "Unknown": []
+}

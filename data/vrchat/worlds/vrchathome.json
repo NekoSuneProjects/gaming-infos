@@ -1,8 +1,9 @@
 {
-    "name": "VRChat Home",
-    "aliases": "The Hub (former default world)",
-    "creator": "VRChat",
-    "image": "",
-    "description": "VRChat Home is the official default landing world that new players arrive in after finishing the tutorial, replacing the older world known as The Hub and later refreshed by VRChat's own developers. It's set in a calm, space-themed environment with visible stars and galaxies, alien architecture, plants, and decorative motifs like mushrooms, flowers, and rainbows. Signage throughout explains core VRChat features, a mirror area lets new users try on different starter avatars, and portals lead out to a rotating selection of other worlds.",
-    "url": "https://vrchat-legends.fandom.com/wiki/VRChat_Home"
+  "name": "VRChat Home",
+  "aliases": "The Hub (former default world)",
+  "creator": "VRChat",
+  "image": "",
+  "description": "VRChat Home is the official default landing world that new players arrive in after finishing the tutorial, replacing the older world known as The Hub and later refreshed by VRChat's own developers. It's set in a calm, space-themed environment with visible stars and galaxies, alien architecture, plants, and decorative motifs like mushrooms, flowers, and rainbows. Signage throughout explains core VRChat features, a mirror area lets new users try on different starter avatars, and portals lead out to a rotating selection of other worlds.",
+  "url": "https://vrchat-legends.fandom.com/wiki/VRChat_Home",
+  "slug": "vrchathome"
 }

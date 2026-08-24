@@ -1,0 +1,43 @@
+{
+  "name": "Mae",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/a/ad/Mae_%28New_-_Deboot_Dusk_Mae%29_-_Outfit_-_Fortnite.png/revision/latest?cb=20230917194216",
+  "url": "https://fortnite.fandom.com/wiki/Mae",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "August 25th 2023",
+  "services": null,
+  "details": {
+    "image": "Mae (New) - Outfit - Fortnite.png|Icon Mae (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "set": "4d0rabl3!",
+    "unlocked": "Page 7 4 9",
+    "cost": "950 (4)",
+    "release": "August 25th 2023",
+    "character model": "Mae",
+    "body model": "Mae",
+    "added_in": "Update v26.00",
+    "LEGOUse": "y",
+    "FGUse": "y",
+    "featured": "Mae (Black Hat Mae - Featured) - Outfit - Fortnite.png|1 Mae (Deboot Dusk Mae - Featured) - Outfit - Fortnite.png|2 Mae (0.0 On - Featured) - Outfit - Fortnite.png|3 Mae (Outlined Gradient - Featured) - Outfit - Fortnite.png|4 Mae (Gradient - Featured) - Outfit - Fortnite.png|5 Mae (Heisted Jade Mae - New Featured) - Outfit - Fortnite.png|6 Mae (Lost Amethyst Mae - New Featured) - Outfit - Fortnite.png|7 Mae (Yellow Diamond Mae - New Featured) - Outfit - Fortnite.png|8",
+    "ID": "Character_IndieBucket",
+    "BeanID": "Bean_IndieBucket}}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Mae",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.638Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "mae"
+}

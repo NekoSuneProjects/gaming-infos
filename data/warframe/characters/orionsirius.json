@@ -1,0 +1,134 @@
+{
+  "name": "Orion & Sirius",
+  "description": "Wield the power of the stars in a constant battle for supremacy. The dueling sons, Sirius & Orion, occupy the space of a single Warframe, jockeying for position to rain cosmic destruction upon foes.",
+  "image": "https://cdn.warframestat.us/img/OrionSirius.png",
+  "url": "https://wiki.warframe.com/w/Orion_%26_Sirius",
+  "uniqueName": "/Lotus/Powersuits/SiriusOrion/OrionSuit",
+  "isPrime": false,
+  "health": 350,
+  "shield": 270,
+  "armor": 300,
+  "energy": 200,
+  "sprintSpeed": 1.15,
+  "masteryReq": 0,
+  "sex": "Male",
+  "aura": "naramon",
+  "polarities": [
+    "madurai",
+    "naramon",
+    "aura"
+  ],
+  "abilities": [
+    {
+      "uniqueName": "/Lotus/Powersuits/SiriusOrion/Abilities/OrionScytheAbility",
+      "name": "Gravitic Slash",
+      "description": "Repel enemies with Orion's sinister scythe, dealing <DT_SLASH_COLOR>Slash Damage and Status Effect while reducing shields and armor.\n\n(HOLD) Swap to Sirius and use Coronal Ejection.",
+      "imageName": "OrionGraviticSlash.png"
+    },
+    {
+      "uniqueName": "/Lotus/Powersuits/SiriusOrion/Abilities/OrionBuffAbility",
+      "name": "Astral Shell",
+      "description": "Envelop Orion in an Astral Shell. Upon taking damage the shell becomes a decoy that draws fire until it's destroyed.\n\n(HOLD) Swap to Sirius and use Jade Stars.",
+      "imageName": "OrionDarkestNight.png"
+    },
+    {
+      "uniqueName": "/Lotus/Powersuits/SiriusOrion/Abilities/OrionVortexAbility",
+      "name": "Event Horizon",
+      "description": "Orion forms a drifting black hole, trapping enemies within its gravity. Hitting the black hole with Gravitic Slash or Coronal Ejection will extend its duration and change its trajectory: Gravitic Slash will direct it away from Orion, and Coronal Ejection will pull it towards Sirius.\n\n(HOLD) Swap to Sirius and use Light's Sanctuary.",
+      "imageName": "OrionVortex.png"
+    },
+    {
+      "uniqueName": "/Lotus/Powersuits/SiriusOrion/Abilities/SiriusOrionUltimateAbility",
+      "name": "Celestial Clash",
+      "description": "Sirius & Orion take to the skies in a cosmic duel. Each attack consumes a Constellation Star to inflict colossal collateral <DT_EXPLOSION_COLOR>Blast damage. Match the star's color to the Warframes color to gain increased Critical Chance.\n\n|LEFT_ATTACK| Sirius attacks\n|RIGHT_ATTACK| Orion attacks\n\nGenerate Constellation Stars by using abilities. No more than two stars of the same color can be added in a row.",
+      "imageName": "SiriusOrionUltimate.png"
+    }
+  ],
+  "releaseDate": "2026-06-17",
+  "source": {
+    "provider": "WarframeStat.us / WFCD",
+    "url": "https://api.warframestat.us/warframes",
+    "publicDataOnly": true,
+    "project": "Warframe Community Developers"
+  },
+  "details": {
+    "uniqueName": "/Lotus/Powersuits/SiriusOrion/OrionSuit",
+    "name": "Orion & Sirius",
+    "description": "Wield the power of the stars in a constant battle for supremacy. The dueling sons, Sirius & Orion, occupy the space of a single Warframe, jockeying for position to rain cosmic destruction upon foes.",
+    "health": 350,
+    "shield": 270,
+    "armor": 300,
+    "stamina": 3,
+    "power": 200,
+    "codexSecret": false,
+    "masteryReq": 0,
+    "excludeFromCodex": true,
+    "sprintSpeed": 1.15,
+    "passiveDescription": "Swapping between them grants |EFFICIENCY|% Ability Efficiency for the next |COUNT| casts.\n\nWhen below 50 energy, Sirius & Orion will steal energy from each other.",
+    "abilities": [
+      {
+        "uniqueName": "/Lotus/Powersuits/SiriusOrion/Abilities/OrionScytheAbility",
+        "name": "Gravitic Slash",
+        "description": "Repel enemies with Orion's sinister scythe, dealing <DT_SLASH_COLOR>Slash Damage and Status Effect while reducing shields and armor.\n\n(HOLD) Swap to Sirius and use Coronal Ejection.",
+        "imageName": "OrionGraviticSlash.png"
+      },
+      {
+        "uniqueName": "/Lotus/Powersuits/SiriusOrion/Abilities/OrionBuffAbility",
+        "name": "Astral Shell",
+        "description": "Envelop Orion in an Astral Shell. Upon taking damage the shell becomes a decoy that draws fire until it's destroyed.\n\n(HOLD) Swap to Sirius and use Jade Stars.",
+        "imageName": "OrionDarkestNight.png"
+      },
+      {
+        "uniqueName": "/Lotus/Powersuits/SiriusOrion/Abilities/OrionVortexAbility",
+        "name": "Event Horizon",
+        "description": "Orion forms a drifting black hole, trapping enemies within its gravity. Hitting the black hole with Gravitic Slash or Coronal Ejection will extend its duration and change its trajectory: Gravitic Slash will direct it away from Orion, and Coronal Ejection will pull it towards Sirius.\n\n(HOLD) Swap to Sirius and use Light's Sanctuary.",
+        "imageName": "OrionVortex.png"
+      },
+      {
+        "uniqueName": "/Lotus/Powersuits/SiriusOrion/Abilities/SiriusOrionUltimateAbility",
+        "name": "Celestial Clash",
+        "description": "Sirius & Orion take to the skies in a cosmic duel. Each attack consumes a Constellation Star to inflict colossal collateral <DT_EXPLOSION_COLOR>Blast damage. Match the star's color to the Warframes color to gain increased Critical Chance.\n\n|LEFT_ATTACK| Sirius attacks\n|RIGHT_ATTACK| Orion attacks\n\nGenerate Constellation Stars by using abilities. No more than two stars of the same color can be added in a row.",
+        "imageName": "SiriusOrionUltimate.png"
+      }
+    ],
+    "productCategory": "SpecialItems",
+    "type": "Warframe",
+    "imageName": "OrionSirius.png",
+    "category": "Warframes",
+    "tradable": false,
+    "wikiAvailable": true,
+    "aura": "naramon",
+    "conclave": false,
+    "color": 0,
+    "introduced": {
+      "name": "Update 43.0",
+      "url": "https://wiki.warframe.com/w/Update_43%3A_Jade_Shadows%3A_Constellations",
+      "aliases": [
+        "43",
+        "43.0",
+        "Jade Shadows: Constellations"
+      ],
+      "parent": "43.0",
+      "date": "2026-06-17"
+    },
+    "polarities": [
+      "madurai",
+      "naramon",
+      "aura"
+    ],
+    "sex": "Male",
+    "sprint": 1.15,
+    "wikiaUrl": "https://wiki.warframe.com/w/Orion",
+    "releaseDate": "2026-06-17",
+    "isPrime": false,
+    "masterable": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "warframestat-us",
+    "game": "warframe",
+    "syncedAt": "2026-08-24T11:04:46.360Z",
+    "releasedOnly": true
+  },
+  "slug": "orionsirius"
+}

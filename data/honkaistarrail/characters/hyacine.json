@@ -1,12 +1,13 @@
 {
-    "name": "Hyacine",
-    "rarity": "5-star",
-    "path": "Remembrance",
-    "element": "Wind",
-    "faction": "Amphoreus - Grove of Epiphany",
-    "voiceActorEN": "Holly Earl",
-    "voiceActorJP": "Hina Yomiya",
-    "description": "Full name Hyacinthia, Hyacine is the demigod of Sky and a Chrysos Heir who works as an assistant lecturer at the Grove of Epiphany and head nurse at the Twilight Courtyard. She is a skilled Remembrance healer whose memosprite, a chubby unicorn named Little Ica, helps her heal her team.",
-    "image": "https://img.game8.co/4137692/d5bcdd1e7f7a9543dffcdd702e19926a.png/show",
-    "url": "https://honkai-star-rail.fandom.com/wiki/Hyacine"
+  "name": "Hyacine",
+  "rarity": "5-star",
+  "path": "Remembrance",
+  "element": "Wind",
+  "faction": "Amphoreus - Grove of Epiphany",
+  "voiceActorEN": "Holly Earl",
+  "voiceActorJP": "Hina Yomiya",
+  "description": "Full name Hyacinthia, Hyacine is the demigod of Sky and a Chrysos Heir who works as an assistant lecturer at the Grove of Epiphany and head nurse at the Twilight Courtyard. She is a skilled Remembrance healer whose memosprite, a chubby unicorn named Little Ica, helps her heal her team.",
+  "image": "https://img.game8.co/4137692/d5bcdd1e7f7a9543dffcdd702e19926a.png/show",
+  "url": "https://honkai-star-rail.fandom.com/wiki/Hyacine",
+  "slug": "hyacine"
 }

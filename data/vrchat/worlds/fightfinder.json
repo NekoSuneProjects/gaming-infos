@@ -1,8 +1,9 @@
 {
-    "name": "FIGHT FINDER",
-    "aliases": "Sky Stadium, FIGHT FINDER HUB",
-    "creator": "Gormundr",
-    "image": "",
-    "description": "FIGHT FINDER (originally released as Sky Stadium) is a PC and Quest compatible arena world co-created by Gormundr along with Mortugues, Wobblins, N1no001, and KazeTheAlien. It's built around stadium-style spaces where visitors perform choreographed roleplay fights and showcase avatar animations for recognition within affiliated combat and roleplay sub-groups. After growing quickly in mid-2024, the world and its Discord were rebranded as a permanent public hub supporting many independent fighting-roleplay communities.",
-    "url": "https://vrchat-legends.fandom.com/wiki/FIGHT_FINDER"
+  "name": "FIGHT FINDER",
+  "aliases": "Sky Stadium, FIGHT FINDER HUB",
+  "creator": "Gormundr",
+  "image": "",
+  "description": "FIGHT FINDER (originally released as Sky Stadium) is a PC and Quest compatible arena world co-created by Gormundr along with Mortugues, Wobblins, N1no001, and KazeTheAlien. It's built around stadium-style spaces where visitors perform choreographed roleplay fights and showcase avatar animations for recognition within affiliated combat and roleplay sub-groups. After growing quickly in mid-2024, the world and its Discord were rebranded as a permanent public hub supporting many independent fighting-roleplay communities.",
+  "url": "https://vrchat-legends.fandom.com/wiki/FIGHT_FINDER",
+  "slug": "fightfinder"
 }

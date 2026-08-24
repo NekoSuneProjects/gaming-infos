@@ -1,12 +1,13 @@
 {
-    "name": "Gepard",
-    "rarity": "5-star",
-    "path": "Preservation",
-    "element": "Ice",
-    "faction": "Silvermane Guards",
-    "voiceActorEN": "Bryson Baugus",
-    "voiceActorJP": "Makoto Furukawa",
-    "description": "The dutiful captain of the Silvermane Guards and eldest brother of Serval and Lynx, Gepard is an outstanding warrior sworn to protect the people of Belobog. His Preservation-path abilities focus on shielding and protecting his allies.",
-    "image": "",
-    "url": "https://honkai-star-rail.fandom.com/wiki/Gepard"
+  "name": "Gepard",
+  "rarity": "5-star",
+  "path": "Preservation",
+  "element": "Ice",
+  "faction": "Silvermane Guards",
+  "voiceActorEN": "Bryson Baugus",
+  "voiceActorJP": "Makoto Furukawa",
+  "description": "The dutiful captain of the Silvermane Guards and eldest brother of Serval and Lynx, Gepard is an outstanding warrior sworn to protect the people of Belobog. His Preservation-path abilities focus on shielding and protecting his allies.",
+  "image": "",
+  "url": "https://honkai-star-rail.fandom.com/wiki/Gepard",
+  "slug": "gepard"
 }

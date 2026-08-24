@@ -1,0 +1,42 @@
+{
+  "name": "Sun Strider",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/2/25/Sun_Strider_%28New%29_-_Outfit_-_Fortnite.png/revision/latest?cb=20211013152013",
+  "url": "https://fortnite.fandom.com/wiki/Sun_Strider",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "July 12th 2018",
+  "services": null,
+  "details": {
+    "name": "Sun Strider",
+    "image": "Sun Strider (New) - Outfit - Fortnite.png|Icon Sun Strider (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "set": "Rescue Patrol",
+    "cost": "950 (5)",
+    "unlocked": "Tier 47 5",
+    "character model": "Headhunter",
+    "release": "July 12th 2018",
+    "added_in": "Update v5.00",
+    "LEGOUse": "y",
+    "ID": "CID_166_Athena_Commando_F_Lifeguard",
+    "FGUse": "y",
+    "BeanID": "Bean_SummerHeroesB }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Sun_Strider",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.636Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "sunstrider"
+}

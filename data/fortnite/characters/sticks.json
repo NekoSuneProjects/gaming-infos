@@ -1,0 +1,35 @@
+{
+  "name": "Sticks",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/d/d9/Sticks_-_Company_-_Fortnite.png/revision/latest?cb=20220309132616",
+  "url": "https://fortnite.fandom.com/wiki/Sticks",
+  "title": "Sticks",
+  "location": "Neo Tilted Spawn Island Craggy Cliffs The Plaza The Fortilla Pleasant Park Float Fillet Sunburned Shacks Sleepy Sound Shiny Sound Sticks",
+  "affiliation": null,
+  "introduced": "Update v9.00 - Season 9",
+  "services": null,
+  "details": {
+    "title": "Sticks",
+    "image": "Sticks - Company - Fortnite.png",
+    "type": "Restaurant",
+    "location": "Neo Tilted Spawn Island Craggy Cliffs The Plaza The Fortilla Pleasant Park Float Fillet Sunburned Shacks Sleepy Sound Shiny Sound Sticks",
+    "prefab": "Craggy Cliffs Sticks Restaurant",
+    "introduced": "Update v9.00 - Season 9",
+    "founder": "Fishstick}}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Sticks",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.523Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "sticks"
+}

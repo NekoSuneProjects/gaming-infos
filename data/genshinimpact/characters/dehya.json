@@ -1,11 +1,12 @@
 {
-    "name": "Dehya",
-    "cv": "Fukuhara Ayaka",
-    "description": "A mercenary of the Eremites nicknamed \"Flame-Mane,\" Dehya hails from the Great Red Sand desert region of Sumeru and works as a bodyguard, wielding fire and a claymore to protect those in need.",
-    "image": "https://upload.wikimedia.org/wikipedia/en/2/22/Dehya_%28Genshin_Impact%29.png",
-    "city": "Sumeru",
-    "url": "https://en.wikipedia.org/wiki/Dehya",
-    "element": "Pyro",
-    "weapon": "Claymore",
-    "rating": 5
+  "name": "Dehya",
+  "cv": "Fukuhara Ayaka",
+  "description": "A mercenary of the Eremites nicknamed \"Flame-Mane,\" Dehya hails from the Great Red Sand desert region of Sumeru and works as a bodyguard, wielding fire and a claymore to protect those in need.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/2/22/Dehya_%28Genshin_Impact%29.png",
+  "city": "Sumeru",
+  "url": "https://en.wikipedia.org/wiki/Dehya",
+  "element": "Pyro",
+  "weapon": "Claymore",
+  "rating": 5,
+  "slug": "dehya"
 }

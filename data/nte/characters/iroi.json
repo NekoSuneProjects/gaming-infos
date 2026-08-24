@@ -1,14 +1,15 @@
 {
-    "name": "Iroi",
-    "role": "Support",
-    "element": "Anima",
-    "faction": "C.S.U. Division 2",
-    "rarity": "S-Rank",
-    "voiceActorEN": "Rachel Lepore",
-    "voiceActorJP": "日高里菜",
-    "gender": "Female",
-    "favoriteGift": "TBA",
-    "birthdate": "TBA",
-    "image": "https://nte.wiki/images/characters/iroi.webp",
-    "url": "https://neverness-to-everness.fandom.com/wiki/Iroi"
+  "name": "Iroi",
+  "role": "Support",
+  "element": "Anima",
+  "faction": "C.S.U. Division 2",
+  "rarity": "S-Rank",
+  "voiceActorEN": "Rachel Lepore",
+  "voiceActorJP": "日高里菜",
+  "gender": "Female",
+  "favoriteGift": "TBA",
+  "birthdate": "TBA",
+  "image": "https://nte.wiki/images/characters/iroi.webp",
+  "url": "https://neverness-to-everness.fandom.com/wiki/Iroi",
+  "slug": "iroi"
 }

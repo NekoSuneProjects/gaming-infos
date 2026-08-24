@@ -1,0 +1,37 @@
+{
+  "name": "O.X.R. HQ",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/e/ed/O.X.R._HQ_-_Location_-_Fortnite.png/revision/latest?cb=20250922172528",
+  "url": "https://fortnite.fandom.com/wiki/O.X.R._HQ",
+  "title": null,
+  "location": "N Utopia City S Supernova Academy NE Foxy Floodgate E Swarmy Stash",
+  "affiliation": null,
+  "introduced": "August 7th 2025",
+  "services": null,
+  "details": {
+    "name": "O.X.R HQ",
+    "image": "O.X.R. HQ - Location - Fortnite.png|Overview O.X.R. HQ (Top View) - Location - Fortnite.png|Top View",
+    "location": "N Utopia City S Supernova Academy NE Foxy Floodgate E Swarmy Stash",
+    "type": "Named Location",
+    "island": "Oninoshima",
+    "release": "August 7th 2025",
+    "removed": "November 1st 2025",
+    "character": "C6S4]] C6S4]] C6S4]] C6S4]] C6S4]]",
+    "vehicles": "1x Hammerhead Choppa }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/O.X.R._HQ",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.546Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "oxrhq"
+}

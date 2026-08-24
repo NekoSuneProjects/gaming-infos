@@ -1,12 +1,13 @@
 {
-    "name": "Cipher",
-    "rarity": "5-star",
-    "path": "Nihility",
-    "element": "Quantum",
-    "faction": "Amphoreus - Dolos",
-    "voiceActorEN": "Shea Fairaday",
-    "voiceActorJP": "Ayasa Ito",
-    "description": "Real name Cifera, Cipher is the demigod of Trickery and a Chrysos Heir hailing from the lost city of Dolos. As a Quantum Nihility character, she applies debuffs to enemies and inflicts True Damage, making her a strong sub-DPS option.",
-    "image": "https://img.game8.co/4168894/e2bf4a196bb04e5d9adfeebe7e11fb50.png/original",
-    "url": "https://honkai-star-rail.fandom.com/wiki/Cipher"
+  "name": "Cipher",
+  "rarity": "5-star",
+  "path": "Nihility",
+  "element": "Quantum",
+  "faction": "Amphoreus - Dolos",
+  "voiceActorEN": "Shea Fairaday",
+  "voiceActorJP": "Ayasa Ito",
+  "description": "Real name Cifera, Cipher is the demigod of Trickery and a Chrysos Heir hailing from the lost city of Dolos. As a Quantum Nihility character, she applies debuffs to enemies and inflicts True Damage, making her a strong sub-DPS option.",
+  "image": "https://img.game8.co/4168894/e2bf4a196bb04e5d9adfeebe7e11fb50.png/original",
+  "url": "https://honkai-star-rail.fandom.com/wiki/Cipher",
+  "slug": "cipher"
 }

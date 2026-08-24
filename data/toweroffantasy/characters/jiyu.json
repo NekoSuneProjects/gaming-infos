@@ -1,0 +1,25 @@
+{
+  "name": "Ji Yu",
+  "description": "Playable Simulacrum in Tower of Fantasy.",
+  "image": "/images/banner.png",
+  "url": "https://toweroffantasy.info/simulacra/imitation_57",
+  "rarity": null,
+  "role": null,
+  "elements": [
+    "Flame"
+  ],
+  "element": "Flame",
+  "source": {
+    "provider": "Tower of Fantasy Index",
+    "url": "https://toweroffantasy.info/simulacra/imitation_57",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "toweroffantasy-info",
+    "game": "toweroffantasy",
+    "syncedAt": "2026-08-24T11:05:06.465Z",
+    "releasedOnly": true
+  },
+  "slug": "jiyu"
+}

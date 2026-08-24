@@ -1,0 +1,43 @@
+{
+  "name": "Insight",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/c/ce/Insight_%28v10.10%29_-_Outfit_-_Fortnite.png/revision/latest?cb=20200512092102",
+  "url": "https://fortnite.fandom.com/wiki/Insight",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "December 16th 2018",
+  "services": null,
+  "details": {
+    "image": "Insight (v31.20) - Outfit - Fortnite.png|Icon Insight (v15.00 - Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Rare",
+    "bundled_with": "Sight Sling",
+    "set": "Ranged Recon",
+    "cost": "1,200",
+    "unlocked": "Item Shop",
+    "release": "December 16th 2018",
+    "character model": "Mannequin Starfish",
+    "body model": "Insight",
+    "added_in": "Update v6.31",
+    "appearances": "Insight",
+    "featured": "Insight (Black - Featured) - Outfit - Fortnite.png",
+    "LEGOUse": "y",
+    "ID": "CID_276_Athena_Commando_F_SniperHood }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Insight",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.648Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "insight"
+}

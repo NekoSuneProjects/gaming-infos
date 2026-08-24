@@ -1,14 +1,15 @@
 {
-    "name": "Lacrimosa",
-    "role": "DPS",
-    "element": "Chaos",
-    "faction": "Bureau of Anomaly Control (ETD-4)",
-    "rarity": "S-Rank",
-    "voiceActorEN": "Baraka May",
-    "voiceActorJP": "長縄まりあ",
-    "gender": "Female",
-    "favoriteGift": "TBA",
-    "birthdate": "TBA",
-    "image": "https://nte.wiki/images/characters/lacrimosa-splash.webp",
-    "url": "https://neverness-to-everness.fandom.com/wiki/Lacrimosa"
+  "name": "Lacrimosa",
+  "role": "DPS",
+  "element": "Chaos",
+  "faction": "Bureau of Anomaly Control (ETD-4)",
+  "rarity": "S-Rank",
+  "voiceActorEN": "Baraka May",
+  "voiceActorJP": "長縄まりあ",
+  "gender": "Female",
+  "favoriteGift": "TBA",
+  "birthdate": "TBA",
+  "image": "https://nte.wiki/images/characters/lacrimosa-splash.webp",
+  "url": "https://neverness-to-everness.fandom.com/wiki/Lacrimosa",
+  "slug": "lacrimosa"
 }

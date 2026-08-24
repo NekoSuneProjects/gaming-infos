@@ -1,8 +1,9 @@
 {
-    "name": "Club VGL",
-    "aliases": "Varneon's Gaming Lounge",
-    "creator": "Varneon",
-    "image": "",
-    "description": "Club VGL is a realistic-looking nightclub world made by Varneon, made public in December 2018. Its name stands for Varneon's Gaming Lounge, and the map includes a dance floor with working lighting, a private catwalk area with a central dance pole, and lockable rooms with jacuzzis. It has been kept updated over the years and remains a recognizable nightclub-style hangout in VRChat.",
-    "url": "https://vrchat-legends.fandom.com/wiki/Club_VGL"
+  "name": "Club VGL",
+  "aliases": "Varneon's Gaming Lounge",
+  "creator": "Varneon",
+  "image": "",
+  "description": "Club VGL is a realistic-looking nightclub world made by Varneon, made public in December 2018. Its name stands for Varneon's Gaming Lounge, and the map includes a dance floor with working lighting, a private catwalk area with a central dance pole, and lockable rooms with jacuzzis. It has been kept updated over the years and remains a recognizable nightclub-style hangout in VRChat.",
+  "url": "https://vrchat-legends.fandom.com/wiki/Club_VGL",
+  "slug": "clubvgl"
 }

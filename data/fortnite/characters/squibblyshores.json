@@ -1,0 +1,42 @@
+{
+  "name": "Squibbly Shores",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/1/17/Squibbly_Shores_-_Location_-_Fortnite.png/revision/latest?cb=20260517174807",
+  "url": "https://fortnite.fandom.com/wiki/Squibbly_Shores",
+  "title": null,
+  "location": "N Humble Hills W Dark Dominion",
+  "affiliation": null,
+  "introduced": "March 19th 2026",
+  "services": null,
+  "details": {
+    "name": "Squibbly Shores",
+    "image": "Squibbly Shores - Location - Fortnite.png|Overview Squibbly Shores (Top View) - Location - Fortnite.png|Top View",
+    "location": "N Humble Hills W Dark Dominion",
+    "type": "Named Location",
+    "island": "Golden Coast",
+    "chests": "53",
+    "ammo_boxes": "29",
+    "produce_boxes": "2",
+    "release": "March 19th 2026",
+    "removed": "June 6th 2026",
+    "character": "C7S2]] C7S2]] C7S2]]",
+    "boss": "C7S2]]",
+    "previous": "Bumpy Bay",
+    "franchises": "*Crusty Cod *Chum Gum *Buoy Bois *Barnacle Bodega *WhaleTales *Nothing But Nets *Stanky Stems *Mussel Beach *Arcade }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Squibbly_Shores",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.525Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "squibblyshores"
+}

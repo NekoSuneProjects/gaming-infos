@@ -1,0 +1,39 @@
+{
+  "name": "Solid Snake",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/1/1b/Solid_Snake_-_Outfit_-_Fortnite.png/revision/latest?cb=20231203125235",
+  "url": "https://fortnite.fandom.com/wiki/Solid_Snake",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "January 23rd 2024",
+  "services": null,
+  "details": {
+    "image": "Solid Snake - Outfit - Fortnite.png|Icon Solid Snake (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Gaming Legends Series",
+    "set": "Sneaking",
+    "character model": "Unique",
+    "unlocked": "Solid Snake Quests",
+    "cost": "950 (1)",
+    "added_in": "Update v28.00",
+    "release": "January 23rd 2024",
+    "ID": "Character_AbstractMirror_Rogue",
+    "featured": "Solid Snake (Goggles - Featured) - Outfit - Fortnite.png|1 Solid Snake (Old Snake - Featured) - Outfit - Fortnite.png|2 }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Solid_Snake",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.624Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "solidsnake"
+}

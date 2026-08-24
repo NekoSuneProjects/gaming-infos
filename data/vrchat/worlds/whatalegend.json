@@ -1,6 +1,7 @@
 {
-    "name": "What a Legend!",
-    "image": "",
-    "description": "What a Legend! is a puzzle-dungeon world originally built as a birthday gift for a VRChat user known as Legend, later released publicly for others to play. Visitors explore a central corridor branching into six themed portal realms, each crafted by a different \"Cheese Guardian\" (including Lakuza, CyanLaser, Mimi, and Phasedragon) with its own puzzles to solve. Collecting all six cheese pieces from these realms unlocks the door to a final room, completing the game-like experience.",
-    "url": "https://vrchat-legends.fandom.com/wiki/What_a_Legend!"
+  "name": "What a Legend!",
+  "image": "",
+  "description": "What a Legend! is a puzzle-dungeon world originally built as a birthday gift for a VRChat user known as Legend, later released publicly for others to play. Visitors explore a central corridor branching into six themed portal realms, each crafted by a different \"Cheese Guardian\" (including Lakuza, CyanLaser, Mimi, and Phasedragon) with its own puzzles to solve. Collecting all six cheese pieces from these realms unlocks the door to a final room, completing the game-like experience.",
+  "url": "https://vrchat-legends.fandom.com/wiki/What_a_Legend!",
+  "slug": "whatalegend"
 }

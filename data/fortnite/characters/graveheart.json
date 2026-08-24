@@ -1,0 +1,43 @@
+{
+  "name": "Graveheart",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/d/d6/Graveheart_-_Outfit_-_Fortnite.png/revision/latest?cb=20221213120512",
+  "url": "https://fortnite.fandom.com/wiki/Graveheart",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "January 8th 2023",
+  "services": null,
+  "details": {
+    "image": "Graveheart - Outfit - Fortnite.png|Icon Graveheart (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Rare",
+    "bundled_with": "Wings of Woe",
+    "set": "Memento Mori",
+    "cost": "1,200 1,500 (Memento Mori Bundle) 1,500 (Bring Me To Life Bundle)",
+    "unlocked": "Item Shop Memento Mori Bundle Bring Me To Life Bundle",
+    "release": "January 8th 2023",
+    "added_in": "Update v23.10",
+    "appearances": "Graveheart",
+    "featured": "Graveheart (Ghostlight - Featured) - Outfit - Fortnite.png",
+    "LEGOUse": "y",
+    "FGUse": "y",
+    "ID": "Character_Virtuous",
+    "BeanID": "Bean_Virtuous }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Graveheart",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.611Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "graveheart"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Burd-E-Mart",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/8/87/Burd-E-Mart_-_Landmark_-_Fortnite.png/revision/latest?cb=20251129041315",
+  "url": "https://fortnite.fandom.com/wiki/Burd-E-Mart",
+  "title": null,
+  "location": "N Donut District E Springfield Slurpworks",
+  "affiliation": null,
+  "introduced": "November 1st 2025",
+  "services": null,
+  "details": {
+    "name": "Burd-E-Mart",
+    "image": "Burd-E-Mart - Landmark - Fortnite.png|Overview Burd-E-Mart (Top View) - Landmark - Fortnite.png|Top View",
+    "location": "N Donut District E Springfield Slurpworks",
+    "type": "Landmark",
+    "island": "Springfield Island",
+    "chests": "15",
+    "ammo_boxes": "19",
+    "release": "November 1st 2025",
+    "removed": "November 29th 2025",
+    "vehicles": "2x Motors Whiplash 1x Grandeur Trailsmasher",
+    "character": "Bart Simpson }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Burd-E-Mart",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.541Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "burdemart"
+}

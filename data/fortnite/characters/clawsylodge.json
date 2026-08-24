@@ -1,0 +1,41 @@
+{
+  "name": "Clawsy Lodge",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/8/85/Clawsy_Lodge_%28v39.20%29_-_Location_-_Fortnite.png/revision/latest?cb=20260601054539",
+  "url": "https://fortnite.fandom.com/wiki/Clawsy_Lodge",
+  "title": null,
+  "location": "E Wonkeeland SW Latte Landing",
+  "affiliation": null,
+  "introduced": "December 18th 2025",
+  "services": null,
+  "details": {
+    "name": "Clawsy Lodge",
+    "image": "Clawsy Lodge (v39.20) - Location - Fortnite.png|Overview Clawsy Lodge (v39.20 - Top View) - Location - Fortnite.png|Top View",
+    "location": "E Wonkeeland SW Latte Landing",
+    "type": "Named Location",
+    "island": "Golden Coast",
+    "chests": "28",
+    "ammo_boxes": "28",
+    "produce_boxes": "2",
+    "release": "December 18th 2025",
+    "removed": "March 19th 2026",
+    "vehicles": "1x Reboot Van 2x Grandeur Trailsmasher 4x Motors Whiplash",
+    "previous": "Paws Inn",
+    "next": "Frigid Fortress }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Clawsy_Lodge",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.532Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "clawsylodge"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Mincemeat",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/8/8b/Mincemeat_-_Outfit_-_Fortnite.png/revision/latest?cb=20201118123420",
+  "url": "https://fortnite.fandom.com/wiki/Mincemeat",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "November 25th 2020",
+  "services": null,
+  "details": {
+    "image": "Mincemeat - Outfit - Fortnite.png|Icon Mincemeat (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "bundled_with": "Stir-Baby",
+    "set": "Baker's Nightmare",
+    "cost": "1,500 2,000 (Harvest's Bounty Bundle)",
+    "unlocked": "Item Shop Harvest's Bounty Bundle",
+    "release": "November 25th 2020",
+    "character model": "Unique",
+    "added_in": "Update v14.60",
+    "appearances": "Mincemeat",
+    "LEGOUse": "y",
+    "ID": "CID_958_Athena_Commando_M_PieMan",
+    "FGUse": "y",
+    "BeanID": "Bean_PieMan }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Mincemeat",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.640Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "mincemeat"
+}

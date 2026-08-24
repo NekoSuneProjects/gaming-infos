@@ -1,14 +1,15 @@
 {
-    "name": "Aurelia",
-    "role": "DPS",
-    "element": "Psyche",
-    "faction": "Tamamochi Street Resident Association",
-    "rarity": "A-Rank",
-    "voiceActorEN": "TBA",
-    "voiceActorJP": "TBA",
-    "gender": "Female",
-    "favoriteGift": "TBA",
-    "birthdate": "March 9",
-    "image": "",
-    "url": "https://nte.wiki/characters/aurelia/"
+  "name": "Aurelia",
+  "role": "DPS",
+  "element": "Psyche",
+  "faction": "Tamamochi Street Resident Association",
+  "rarity": "A-Rank",
+  "voiceActorEN": "TBA",
+  "voiceActorJP": "TBA",
+  "gender": "Female",
+  "favoriteGift": "TBA",
+  "birthdate": "March 9",
+  "image": "",
+  "url": "https://nte.wiki/characters/aurelia/",
+  "slug": "aurelia"
 }

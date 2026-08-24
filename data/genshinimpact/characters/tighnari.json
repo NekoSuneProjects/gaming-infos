@@ -1,12 +1,13 @@
 {
-    "name": "Tighnari",
-    "quote": "Just as a doctor won't abandon their patients, I will not abandon the forest.",
-    "cv": "Kobayashi Sanae",
-    "description": "The Acting Forest Ranger of Sumeru's Avidya Forest, Tighnari is a fennec-eared native and expert botanist who wields a bow imbued with Dendro to defend the woodland he calls home.",
-    "image": "https://static.icy-veins.com/images/genshin-impact/characters/tighnari.webp",
-    "city": "Sumeru",
-    "url": "https://www.icy-veins.com/genshin-impact/tighnari-guide-best-builds",
-    "element": "Dendro",
-    "weapon": "Bow",
-    "rating": 5
+  "name": "Tighnari",
+  "quote": "Just as a doctor won't abandon their patients, I will not abandon the forest.",
+  "cv": "Kobayashi Sanae",
+  "description": "The Acting Forest Ranger of Sumeru's Avidya Forest, Tighnari is a fennec-eared native and expert botanist who wields a bow imbued with Dendro to defend the woodland he calls home.",
+  "image": "https://static.icy-veins.com/images/genshin-impact/characters/tighnari.webp",
+  "city": "Sumeru",
+  "url": "https://www.icy-veins.com/genshin-impact/tighnari-guide-best-builds",
+  "element": "Dendro",
+  "weapon": "Bow",
+  "rating": 5,
+  "slug": "tighnari"
 }

@@ -1,12 +1,13 @@
 {
-    "name": "Mona",
-    "quote": "I am Astrologist Mona Megistus, meaning 'The Great Astrologist Mona.'",
-    "cv": "Konomi Kohara",
-    "description": "A proud and knowledgeable astrologist who reads fate in the stars and practices hydromancy. She settled in Mondstadt after a mishap involving her teacher's old rival, living a frugal but fulfilling life while unraveling the mysteries of the night sky.",
-    "image": "",
-    "city": "Mondstadt",
-    "url": "https://wiki.hoyolab.com/m/genshin/entry/37/?lang=en-us",
-    "element": "Hydro",
-    "weapon": "Catalyst",
-    "rating": 5
+  "name": "Mona",
+  "quote": "I am Astrologist Mona Megistus, meaning 'The Great Astrologist Mona.'",
+  "cv": "Konomi Kohara",
+  "description": "A proud and knowledgeable astrologist who reads fate in the stars and practices hydromancy. She settled in Mondstadt after a mishap involving her teacher's old rival, living a frugal but fulfilling life while unraveling the mysteries of the night sky.",
+  "image": "",
+  "city": "Mondstadt",
+  "url": "https://wiki.hoyolab.com/m/genshin/entry/37/?lang=en-us",
+  "element": "Hydro",
+  "weapon": "Catalyst",
+  "rating": 5,
+  "slug": "mona"
 }

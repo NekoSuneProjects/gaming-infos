@@ -1,0 +1,23 @@
+{
+  "name": "Claudia",
+  "description": "Playable Simulacrum in Tower of Fantasy.",
+  "image": "/images/banner.png",
+  "url": "https://toweroffantasy.info/simulacra/imitation_12",
+  "rarity": null,
+  "role": null,
+  "elements": [],
+  "element": null,
+  "source": {
+    "provider": "Tower of Fantasy Index",
+    "url": "https://toweroffantasy.info/simulacra/imitation_12",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "toweroffantasy-info",
+    "game": "toweroffantasy",
+    "syncedAt": "2026-08-24T11:05:52.600Z",
+    "releasedOnly": true
+  },
+  "slug": "claudia"
+}

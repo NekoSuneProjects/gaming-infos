@@ -1,0 +1,42 @@
+{
+  "name": "Oscar",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/c/c9/Oscar_-_Outfit_-_Fortnite.png/revision/latest?cb=20231203125231",
+  "url": "https://fortnite.fandom.com/wiki/Oscar",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "December 3rd 2023",
+  "services": null,
+  "details": {
+    "image": "Oscar - Outfit - Fortnite.png|Icon Oscar (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "set": "Big Cat Brawler",
+    "unlocked": "Page 3 1 9",
+    "cost": "950 (1)",
+    "release": "December 3rd 2023",
+    "added_in": "Update v28.00",
+    "character model": "Unique",
+    "LEGOUse": "y",
+    "FGUse": "y",
+    "ID": "Character_BengalBasher_Suit",
+    "BeanID": "Bean_BengalBasherSuit",
+    "featured": "Oscar (Champion Oscar - Featured) - Outfit - Fortnite.png|1 Oscar (Shock Brawler Oscar - Featured) - Outfit - Fortnite.png|2 Oscar (Expressionist Oscar - Featured) - Outfit - Fortnite.png|3 Oscar (Prismatic Terazzo Oscar - Featured) - Outfit - Fortnite.png|4 Oscar (Glasswork Oscar - Featured) - Outfit - Fortnite.png|5 }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Oscar",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.593Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "oscar"
+}

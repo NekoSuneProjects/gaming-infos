@@ -1,0 +1,40 @@
+{
+  "name": "Khaby Lame",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/d/d7/Khaby_Lame_-_Outfit_-_Fortnite.png/revision/latest?cb=20230825084056",
+  "url": "https://fortnite.fandom.com/wiki/Khaby_Lame",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "August 25th 2023",
+  "services": null,
+  "details": {
+    "image": "Khaby Lame - Outfit - Fortnite.png|Icon Khaby Lame (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Icon Series",
+    "set": "Viral Sensation",
+    "unlocked": "Page 11 4 9",
+    "cost": "950 (4)",
+    "release": "August 25th 2023",
+    "added_in": "Update v26.00",
+    "character model": "Unique",
+    "body model": "Unique",
+    "featured": "Khaby Lame (Traditional Khaby - Featured) - Outfit - Fortnite.png|1 Khaby Lame (Outlined Gradient - Featured) - Outfit - Fortnite.png|2 Khaby Lame (Gradient Only - Featured) - Outfit - Fortnite.png|3",
+    "ID": "Character_ScorpionZero }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Khaby_Lame",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.629Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "khabylame"
+}

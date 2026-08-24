@@ -1,0 +1,29 @@
+{
+  "name": "Sparxie",
+  "description": "",
+  "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/Character_Sparxie_Splash_Art.png/revision/latest?cb=20260206131556",
+  "url": "https://honkai-star-rail.fandom.com/wiki/Sparxie",
+  "rarity": null,
+  "source": {
+    "provider": "Honkai: Star Rail Wiki",
+    "url": "https://honkai-star-rail.fandom.com/wiki/Sparxie",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "details": {},
+  "_sync": {
+    "managed": true,
+    "game": "honkaistarrail",
+    "provider": "fandom-mediawiki",
+    "syncedAt": "2026-08-24T11:04:38.548Z",
+    "officialAnnouncementUrl": null
+  },
+  "path": null,
+  "element": null,
+  "faction": null,
+  "voiceActorEN": null,
+  "voiceActorJP": null,
+  "releaseDate": null,
+  "version": null,
+  "slug": "sparxie"
+}

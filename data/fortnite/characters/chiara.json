@@ -1,0 +1,43 @@
+{
+  "name": "Chiara",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/6/6b/Chiara_-_Outfit_-_Fortnite.png/revision/latest?cb=20210906212458",
+  "url": "https://fortnite.fandom.com/wiki/Chiara",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "June 7th 2021",
+  "services": null,
+  "details": {
+    "image": "Chiara - Outfit - Fortnite.png|Icon Chiara (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Rare",
+    "bundled_with": "Warrior's Wheel Scaly Standoff",
+    "set": "Burning Highway",
+    "cost": "1,200",
+    "unlocked": "Item Shop",
+    "release": "June 7th 2021",
+    "added_in": "Update v16.50",
+    "appearances": "Chiara",
+    "LEGOUse": "y",
+    "ID": "CID_A_097_Athena_Commando_F_WastelandWarrior",
+    "FGUse": "y",
+    "BeanID": "Bean_WastelandWarrior",
+    "featured": "Chiara (Mask On Featured) - Outfit - Fortnite.png|1 Chiara (Dark Featured) - Outfit - Fortnite.png|2 Chiara (Dark Mask On Featured) - Outfit - Fortnite.png|3 }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Chiara",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.590Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "chiara"
+}

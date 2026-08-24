@@ -1,0 +1,711 @@
+{
+  "name": "Lavos Prime",
+  "description": "Some Warframes were Prime from the start. Others ascended. Lavos, the master of transmutation, bowed to no one as he forged his own path to valor.",
+  "image": "https://cdn.warframestat.us/img/LavosPrime.png",
+  "url": "https://wiki.warframe.com/w/Lavos_Prime",
+  "uniqueName": "/Lotus/Powersuits/Alchemist/LavosPrime",
+  "isPrime": true,
+  "health": 600,
+  "shield": 310,
+  "armor": 575,
+  "energy": 0,
+  "sprintSpeed": 1.15,
+  "masteryReq": 0,
+  "sex": "Male",
+  "aura": "naramon",
+  "polarities": [
+    "vazarin",
+    "naramon",
+    "naramon"
+  ],
+  "abilities": [
+    {
+      "uniqueName": "/Lotus/Powersuits/Alchemist/Abilities/AlchemistSerpentAbility",
+      "name": "Ophidian Bite",
+      "description": "Lash out with a toxic serpentine strike, consuming the target to heal Lavos.\n\nHold to imbue all abilities with <DT_POISON_COLOR>Toxin.",
+      "imageName": "AlchemistSerpent.png"
+    },
+    {
+      "uniqueName": "/Lotus/Powersuits/Alchemist/Abilities/AlchemistVialAbility",
+      "name": "Vial Rush",
+      "description": "Dash forward, crashing through enemies and leaving an icy trail of broken vials.\n\nHold to imbue the next ability cast with <DT_FREEZE_COLOR>Cold.",
+      "imageName": "AlchemistRush.png"
+    },
+    {
+      "uniqueName": "/Lotus/Powersuits/Alchemist/Abilities/AlchemistTransmuteAbility",
+      "name": "Transmutation Probe",
+      "description": "Launch a probe that converts Health and Energy Orbs into Universal Orbs that provide both, and ammo pickups into Universal Ammo Pickups. The probe shocks enemies in close proximity. Each electrocuted foe reduces other ability cooldowns by 1.5s.\n\nHold to imbue the next ability cast with <DT_ELECTRICITY_COLOR>Electricity.",
+      "imageName": "AlchemistTransmuter.png"
+    },
+    {
+      "uniqueName": "/Lotus/Powersuits/Alchemist/Abilities/AlchemistDistillAbility",
+      "name": "Catalyze",
+      "description": "Catalyst Probes erupt from Lavos and douse combatants in a fiery gel. Damage is doubled for each element afflicting an enemy.\n\nHold to imbue the next ability cast with <DT_FIRE_COLOR>Heat.",
+      "imageName": "AlchemistDistill.png"
+    }
+  ],
+  "releaseDate": "2025-02-12",
+  "source": {
+    "provider": "WarframeStat.us / WFCD",
+    "url": "https://api.warframestat.us/warframes",
+    "publicDataOnly": true,
+    "project": "Warframe Community Developers"
+  },
+  "details": {
+    "uniqueName": "/Lotus/Powersuits/Alchemist/LavosPrime",
+    "name": "Lavos Prime",
+    "description": "Some Warframes were Prime from the start. Others ascended. Lavos, the master of transmutation, bowed to no one as he forged his own path to valor.",
+    "health": 600,
+    "shield": 310,
+    "armor": 575,
+    "stamina": 3,
+    "power": 0,
+    "codexSecret": false,
+    "masteryReq": 0,
+    "sprintSpeed": 1.15,
+    "passiveDescription": "Energy and Universal Orbs give Lavos status immunity for |DURATION|s.\n\nHold any ability to imbue the next cast with additional Elemental Damage and Status.",
+    "abilities": [
+      {
+        "uniqueName": "/Lotus/Powersuits/Alchemist/Abilities/AlchemistSerpentAbility",
+        "name": "Ophidian Bite",
+        "description": "Lash out with a toxic serpentine strike, consuming the target to heal Lavos.\n\nHold to imbue all abilities with <DT_POISON_COLOR>Toxin.",
+        "imageName": "AlchemistSerpent.png"
+      },
+      {
+        "uniqueName": "/Lotus/Powersuits/Alchemist/Abilities/AlchemistVialAbility",
+        "name": "Vial Rush",
+        "description": "Dash forward, crashing through enemies and leaving an icy trail of broken vials.\n\nHold to imbue the next ability cast with <DT_FREEZE_COLOR>Cold.",
+        "imageName": "AlchemistRush.png"
+      },
+      {
+        "uniqueName": "/Lotus/Powersuits/Alchemist/Abilities/AlchemistTransmuteAbility",
+        "name": "Transmutation Probe",
+        "description": "Launch a probe that converts Health and Energy Orbs into Universal Orbs that provide both, and ammo pickups into Universal Ammo Pickups. The probe shocks enemies in close proximity. Each electrocuted foe reduces other ability cooldowns by 1.5s.\n\nHold to imbue the next ability cast with <DT_ELECTRICITY_COLOR>Electricity.",
+        "imageName": "AlchemistTransmuter.png"
+      },
+      {
+        "uniqueName": "/Lotus/Powersuits/Alchemist/Abilities/AlchemistDistillAbility",
+        "name": "Catalyze",
+        "description": "Catalyst Probes erupt from Lavos and douse combatants in a fiery gel. Damage is doubled for each element afflicting an enemy.\n\nHold to imbue the next ability cast with <DT_FIRE_COLOR>Heat.",
+        "imageName": "AlchemistDistill.png"
+      }
+    ],
+    "productCategory": "Suits",
+    "buildPrice": 25000,
+    "buildTime": 259200,
+    "skipBuildTimePrice": 50,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/LavosPrimeBlueprint",
+        "name": "Blueprint",
+        "description": "Some Warframes were Prime from the start. Others ascended. Lavos, the master of transmutation, bowed to no one as he forged his own path to valor.",
+        "itemCount": 1,
+        "primeSellingPrice": 45,
+        "imageName": "blueprint.png",
+        "tradable": true,
+        "masterable": false,
+        "ducats": 45,
+        "drops": [
+          {
+            "location": "Axi F3 Relic",
+            "type": "Lavos Prime Blueprint",
+            "chance": 11,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionLavosPrimeBBronze"
+          },
+          {
+            "location": "Axi Y1 Relic",
+            "type": "Lavos Prime Blueprint",
+            "chance": 11,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionYareliPrimeCBronze"
+          },
+          {
+            "location": "Lith C14 Relic",
+            "type": "Lavos Prime Blueprint",
+            "chance": 11,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionVorunaPrimeABronze"
+          },
+          {
+            "location": "Neo A16 Relic",
+            "type": "Lavos Prime Blueprint",
+            "chance": 11,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeBBronze"
+          },
+          {
+            "location": "Axi F3 Relic (Exceptional)",
+            "type": "Lavos Prime Blueprint",
+            "chance": 13,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionLavosPrimeBBronze"
+          },
+          {
+            "location": "Axi Y1 Relic (Exceptional)",
+            "type": "Lavos Prime Blueprint",
+            "chance": 13,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionYareliPrimeCBronze"
+          },
+          {
+            "location": "Lith C14 Relic (Exceptional)",
+            "type": "Lavos Prime Blueprint",
+            "chance": 13,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionVorunaPrimeABronze"
+          },
+          {
+            "location": "Neo A16 Relic (Exceptional)",
+            "type": "Lavos Prime Blueprint",
+            "chance": 13,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeBBronze"
+          },
+          {
+            "location": "Axi F3 Relic (Flawless)",
+            "type": "Lavos Prime Blueprint",
+            "chance": 17,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionLavosPrimeBBronze"
+          },
+          {
+            "location": "Axi Y1 Relic (Flawless)",
+            "type": "Lavos Prime Blueprint",
+            "chance": 17,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionYareliPrimeCBronze"
+          },
+          {
+            "location": "Lith C14 Relic (Flawless)",
+            "type": "Lavos Prime Blueprint",
+            "chance": 17,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionVorunaPrimeABronze"
+          },
+          {
+            "location": "Neo A16 Relic (Flawless)",
+            "type": "Lavos Prime Blueprint",
+            "chance": 17,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeBBronze"
+          },
+          {
+            "location": "Axi F3 Relic (Radiant)",
+            "type": "Lavos Prime Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionLavosPrimeBBronze"
+          },
+          {
+            "location": "Axi Y1 Relic (Radiant)",
+            "type": "Lavos Prime Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionYareliPrimeCBronze"
+          },
+          {
+            "location": "Lith C14 Relic (Radiant)",
+            "type": "Lavos Prime Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionVorunaPrimeABronze"
+          },
+          {
+            "location": "Neo A16 Relic (Radiant)",
+            "type": "Lavos Prime Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeBBronze"
+          }
+        ]
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/LavosPrimeChassisComponent",
+        "name": "Chassis",
+        "description": "Chassis component of the Lavos Prime Warframe.",
+        "codexSecret": false,
+        "primeSellingPrice": 15,
+        "itemCount": 1,
+        "imageName": "GenericWarframePrimeChassis.png",
+        "tradable": true,
+        "drops": [
+          {
+            "location": "Axi C10 Relic (Radiant)",
+            "type": "Lavos Prime Chassis Blueprint",
+            "chance": 16.67,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionCalibanPrimeCBronze"
+          },
+          {
+            "location": "Axi D6 Relic (Radiant)",
+            "type": "Lavos Prime Chassis Blueprint",
+            "chance": 16.67,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeBBronze"
+          },
+          {
+            "location": "Lith G14 Relic (Radiant)",
+            "type": "Lavos Prime Chassis Blueprint",
+            "chance": 16.67,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGyrePrimeDBronze"
+          },
+          {
+            "location": "Lith T14 Relic (Radiant)",
+            "type": "Lavos Prime Chassis Blueprint",
+            "chance": 16.67,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionStyanaxPrimeDBronze"
+          },
+          {
+            "location": "Neo X1 Relic (Radiant)",
+            "type": "Lavos Prime Chassis Blueprint",
+            "chance": 16.67,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionLavosPrimeBBronze"
+          },
+          {
+            "location": "Axi C10 Relic (Flawless)",
+            "type": "Lavos Prime Chassis Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionCalibanPrimeCBronze"
+          },
+          {
+            "location": "Axi D6 Relic (Flawless)",
+            "type": "Lavos Prime Chassis Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeBBronze"
+          },
+          {
+            "location": "Lith G14 Relic (Flawless)",
+            "type": "Lavos Prime Chassis Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGyrePrimeDBronze"
+          },
+          {
+            "location": "Lith T14 Relic (Flawless)",
+            "type": "Lavos Prime Chassis Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionStyanaxPrimeDBronze"
+          },
+          {
+            "location": "Neo X1 Relic (Flawless)",
+            "type": "Lavos Prime Chassis Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionLavosPrimeBBronze"
+          },
+          {
+            "location": "Axi C10 Relic (Exceptional)",
+            "type": "Lavos Prime Chassis Blueprint",
+            "chance": 23.33,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionCalibanPrimeCBronze"
+          },
+          {
+            "location": "Axi D6 Relic (Exceptional)",
+            "type": "Lavos Prime Chassis Blueprint",
+            "chance": 23.33,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeBBronze"
+          },
+          {
+            "location": "Lith G14 Relic (Exceptional)",
+            "type": "Lavos Prime Chassis Blueprint",
+            "chance": 23.33,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGyrePrimeDBronze"
+          },
+          {
+            "location": "Lith T14 Relic (Exceptional)",
+            "type": "Lavos Prime Chassis Blueprint",
+            "chance": 23.33,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionStyanaxPrimeDBronze"
+          },
+          {
+            "location": "Neo X1 Relic (Exceptional)",
+            "type": "Lavos Prime Chassis Blueprint",
+            "chance": 23.33,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionLavosPrimeBBronze"
+          },
+          {
+            "location": "Axi C10 Relic",
+            "type": "Lavos Prime Chassis Blueprint",
+            "chance": 25.33,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionCalibanPrimeCBronze"
+          },
+          {
+            "location": "Axi D6 Relic",
+            "type": "Lavos Prime Chassis Blueprint",
+            "chance": 25.33,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeBBronze"
+          },
+          {
+            "location": "Lith G14 Relic",
+            "type": "Lavos Prime Chassis Blueprint",
+            "chance": 25.33,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGyrePrimeDBronze"
+          },
+          {
+            "location": "Lith T14 Relic",
+            "type": "Lavos Prime Chassis Blueprint",
+            "chance": 25.33,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionStyanaxPrimeDBronze"
+          },
+          {
+            "location": "Neo X1 Relic",
+            "type": "Lavos Prime Chassis Blueprint",
+            "chance": 25.33,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionLavosPrimeBBronze"
+          }
+        ],
+        "masterable": false,
+        "ducats": 15
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/LavosPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "description": "Neuroptics component of the Lavos Prime Warframe.",
+        "codexSecret": false,
+        "primeSellingPrice": 45,
+        "itemCount": 1,
+        "imageName": "GenericWarframePrimeHelmet.png",
+        "tradable": true,
+        "drops": [
+          {
+            "location": "Axi A20 Relic",
+            "type": "Lavos Prime Neuroptics Blueprint",
+            "chance": 11,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGyrePrimeABronze"
+          },
+          {
+            "location": "Axi P10 Relic",
+            "type": "Lavos Prime Neuroptics Blueprint",
+            "chance": 11,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionStyanaxPrimeBBronze"
+          },
+          {
+            "location": "Meso A8 Relic",
+            "type": "Lavos Prime Neuroptics Blueprint",
+            "chance": 11,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLavosPrimeABronze"
+          },
+          {
+            "location": "Neo N24 Relic",
+            "type": "Lavos Prime Neuroptics Blueprint",
+            "chance": 11,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeABronze"
+          },
+          {
+            "location": "Axi A20 Relic (Exceptional)",
+            "type": "Lavos Prime Neuroptics Blueprint",
+            "chance": 13,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGyrePrimeABronze"
+          },
+          {
+            "location": "Axi P10 Relic (Exceptional)",
+            "type": "Lavos Prime Neuroptics Blueprint",
+            "chance": 13,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionStyanaxPrimeBBronze"
+          },
+          {
+            "location": "Meso A8 Relic (Exceptional)",
+            "type": "Lavos Prime Neuroptics Blueprint",
+            "chance": 13,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLavosPrimeABronze"
+          },
+          {
+            "location": "Neo N24 Relic (Exceptional)",
+            "type": "Lavos Prime Neuroptics Blueprint",
+            "chance": 13,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeABronze"
+          },
+          {
+            "location": "Axi A20 Relic (Flawless)",
+            "type": "Lavos Prime Neuroptics Blueprint",
+            "chance": 17,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGyrePrimeABronze"
+          },
+          {
+            "location": "Axi P10 Relic (Flawless)",
+            "type": "Lavos Prime Neuroptics Blueprint",
+            "chance": 17,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionStyanaxPrimeBBronze"
+          },
+          {
+            "location": "Meso A8 Relic (Flawless)",
+            "type": "Lavos Prime Neuroptics Blueprint",
+            "chance": 17,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLavosPrimeABronze"
+          },
+          {
+            "location": "Neo N24 Relic (Flawless)",
+            "type": "Lavos Prime Neuroptics Blueprint",
+            "chance": 17,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeABronze"
+          },
+          {
+            "location": "Axi A20 Relic (Radiant)",
+            "type": "Lavos Prime Neuroptics Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGyrePrimeABronze"
+          },
+          {
+            "location": "Axi P10 Relic (Radiant)",
+            "type": "Lavos Prime Neuroptics Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionStyanaxPrimeBBronze"
+          },
+          {
+            "location": "Meso A8 Relic (Radiant)",
+            "type": "Lavos Prime Neuroptics Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLavosPrimeABronze"
+          },
+          {
+            "location": "Neo N24 Relic (Radiant)",
+            "type": "Lavos Prime Neuroptics Blueprint",
+            "chance": 20,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeABronze"
+          }
+        ],
+        "masterable": false,
+        "ducats": 45
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "description": "Ancient energy cell from the Orokin era.\n\nLocation: Ceres, Saturn, and Deimos",
+        "codexSecret": false,
+        "itemCount": 5,
+        "imageName": "ComponentCell.png",
+        "tradable": false,
+        "drops": [],
+        "masterable": false,
+        "type": "Resource"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/LavosPrimeSystemsComponent",
+        "name": "Systems",
+        "description": "Systems component of the Lavos Prime Warframe.",
+        "codexSecret": false,
+        "primeSellingPrice": 100,
+        "itemCount": 1,
+        "imageName": "GenericWarframePrimeSystem.png",
+        "tradable": true,
+        "drops": [
+          {
+            "location": "Lith L5 Relic (Radiant)",
+            "type": "Lavos Prime Systems Blueprint",
+            "chance": 10,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLavosPrimeABronze"
+          },
+          {
+            "location": "Lith L7 Relic (Radiant)",
+            "type": "Lavos Prime Systems Blueprint",
+            "chance": 10,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGyrePrimeBBronze"
+          },
+          {
+            "location": "Meso L3 Relic (Radiant)",
+            "type": "Lavos Prime Systems Blueprint",
+            "chance": 10,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionCalibanPrimeABronze"
+          },
+          {
+            "location": "Meso L4 Relic (Radiant)",
+            "type": "Lavos Prime Systems Blueprint",
+            "chance": 10,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeABronze"
+          },
+          {
+            "location": "Meso L5 Relic (Radiant)",
+            "type": "Lavos Prime Systems Blueprint",
+            "chance": 10,
+            "rarity": "Uncommon",
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionStyanaxPrimeABronze"
+          },
+          {
+            "location": "Lith L5 Relic",
+            "type": "Lavos Prime Systems Blueprint",
+            "chance": 2,
+            "rarity": "Rare",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLavosPrimeABronze"
+          },
+          {
+            "location": "Lith L7 Relic",
+            "type": "Lavos Prime Systems Blueprint",
+            "chance": 2,
+            "rarity": "Rare",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGyrePrimeBBronze"
+          },
+          {
+            "location": "Meso L3 Relic",
+            "type": "Lavos Prime Systems Blueprint",
+            "chance": 2,
+            "rarity": "Rare",
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionCalibanPrimeABronze"
+          },
+          {
+            "location": "Meso L4 Relic",
+            "type": "Lavos Prime Systems Blueprint",
+            "chance": 2,
+            "rarity": "Rare",
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeABronze"
+          },
+          {
+            "location": "Meso L5 Relic",
+            "type": "Lavos Prime Systems Blueprint",
+            "chance": 2,
+            "rarity": "Rare",
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionStyanaxPrimeABronze"
+          },
+          {
+            "location": "Lith L5 Relic (Exceptional)",
+            "type": "Lavos Prime Systems Blueprint",
+            "chance": 4,
+            "rarity": "Rare",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLavosPrimeABronze"
+          },
+          {
+            "location": "Lith L7 Relic (Exceptional)",
+            "type": "Lavos Prime Systems Blueprint",
+            "chance": 4,
+            "rarity": "Rare",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGyrePrimeBBronze"
+          },
+          {
+            "location": "Meso L3 Relic (Exceptional)",
+            "type": "Lavos Prime Systems Blueprint",
+            "chance": 4,
+            "rarity": "Rare",
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionCalibanPrimeABronze"
+          },
+          {
+            "location": "Meso L4 Relic (Exceptional)",
+            "type": "Lavos Prime Systems Blueprint",
+            "chance": 4,
+            "rarity": "Rare",
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeABronze"
+          },
+          {
+            "location": "Meso L5 Relic (Exceptional)",
+            "type": "Lavos Prime Systems Blueprint",
+            "chance": 4,
+            "rarity": "Rare",
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionStyanaxPrimeABronze"
+          },
+          {
+            "location": "Lith L5 Relic (Flawless)",
+            "type": "Lavos Prime Systems Blueprint",
+            "chance": 6,
+            "rarity": "Rare",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLavosPrimeABronze"
+          },
+          {
+            "location": "Lith L7 Relic (Flawless)",
+            "type": "Lavos Prime Systems Blueprint",
+            "chance": 6,
+            "rarity": "Rare",
+            "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGyrePrimeBBronze"
+          },
+          {
+            "location": "Meso L3 Relic (Flawless)",
+            "type": "Lavos Prime Systems Blueprint",
+            "chance": 6,
+            "rarity": "Rare",
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionCalibanPrimeABronze"
+          },
+          {
+            "location": "Meso L4 Relic (Flawless)",
+            "type": "Lavos Prime Systems Blueprint",
+            "chance": 6,
+            "rarity": "Rare",
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeABronze"
+          },
+          {
+            "location": "Meso L5 Relic (Flawless)",
+            "type": "Lavos Prime Systems Blueprint",
+            "chance": 6,
+            "rarity": "Rare",
+            "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionStyanaxPrimeABronze"
+          }
+        ],
+        "masterable": false,
+        "ducats": 100
+      }
+    ],
+    "type": "Warframe",
+    "imageName": "LavosPrime.png",
+    "category": "Warframes",
+    "tradable": false,
+    "wikiAvailable": true,
+    "aura": "naramon",
+    "conclave": false,
+    "color": 0,
+    "introduced": {
+      "name": "Hotfix 38.0.10",
+      "url": "https://wiki.warframe.com/w/Update_38%23Hotfix_38.0.10",
+      "aliases": [
+        "38.0.10"
+      ],
+      "parent": "38.0",
+      "date": "2025-02-12"
+    },
+    "polarities": [
+      "vazarin",
+      "naramon",
+      "naramon"
+    ],
+    "sex": "Male",
+    "sprint": 1.15,
+    "wikiaUrl": "https://wiki.warframe.com/w/Lavos%2FPrime",
+    "releaseDate": "2025-02-12",
+    "isPrime": true,
+    "vaulted": false,
+    "estimatedVaultDate": "2026-11-12",
+    "masterable": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "warframestat-us",
+    "game": "warframe",
+    "syncedAt": "2026-08-24T11:04:46.318Z",
+    "releasedOnly": true
+  },
+  "slug": "lavosprime"
+}

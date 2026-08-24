@@ -1,12 +1,13 @@
 {
-    "name": "Phainon",
-    "rarity": "5-star",
-    "path": "Destruction",
-    "element": "Physical",
-    "faction": "Amphoreus - Aedes Elysiae",
-    "voiceActorEN": "Joshua Waters",
-    "voiceActorJP": "Satoshi Hino",
-    "description": "Also known by the name Khaslana, Phainon is the demigod of Worldbearing and a Chrysos Heir from Aedes Elysiae whose story centers on enduring millions of repeated cycles to prevent the emergence of Irontomb, the Emanator of Destruction. As a Physical Destruction DPS, he can enter an Enhanced State for devastating follow-up attacks.",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Phainon_in_Honkai_Star_Rail.png/250px-Phainon_in_Honkai_Star_Rail.png",
-    "url": "https://en.wikipedia.org/wiki/Phainon_(Honkai:_Star_Rail)"
+  "name": "Phainon",
+  "rarity": "5-star",
+  "path": "Destruction",
+  "element": "Physical",
+  "faction": "Amphoreus - Aedes Elysiae",
+  "voiceActorEN": "Joshua Waters",
+  "voiceActorJP": "Satoshi Hino",
+  "description": "Also known by the name Khaslana, Phainon is the demigod of Worldbearing and a Chrysos Heir from Aedes Elysiae whose story centers on enduring millions of repeated cycles to prevent the emergence of Irontomb, the Emanator of Destruction. As a Physical Destruction DPS, he can enter an Enhanced State for devastating follow-up attacks.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Phainon_in_Honkai_Star_Rail.png/250px-Phainon_in_Honkai_Star_Rail.png",
+  "url": "https://en.wikipedia.org/wiki/Phainon_(Honkai:_Star_Rail)",
+  "slug": "phainon"
 }

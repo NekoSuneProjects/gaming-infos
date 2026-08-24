@@ -1,0 +1,29 @@
+{
+  "name": "Mortenax Blade",
+  "description": "",
+  "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4b/Character_Mortenax_Blade_Splash_Art.png/revision/latest?cb=20260601025859",
+  "url": "https://honkai-star-rail.fandom.com/wiki/Mortenax_Blade",
+  "rarity": null,
+  "source": {
+    "provider": "Honkai: Star Rail Wiki",
+    "url": "https://honkai-star-rail.fandom.com/wiki/Mortenax_Blade",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "details": {},
+  "_sync": {
+    "managed": true,
+    "game": "honkaistarrail",
+    "provider": "fandom-mediawiki",
+    "syncedAt": "2026-08-24T11:04:38.545Z",
+    "officialAnnouncementUrl": null
+  },
+  "path": null,
+  "element": null,
+  "faction": null,
+  "voiceActorEN": null,
+  "voiceActorJP": null,
+  "releaseDate": null,
+  "version": null,
+  "slug": "mortenaxblade"
+}

@@ -1,11 +1,12 @@
 {
-    "name": "Charlotte",
-    "cv": "Waki Azumi",
-    "description": "An enthusiastic reporter for Fontaine's newspaper The Steambird, always on the hunt for an exclusive scoop. She first appeared as a non-playable character in version 3.7 before becoming playable in version 4.2.",
-    "image": "https://img.gamewith.net/article/thumbnail/rectangle/40688.png",
-    "city": "Fontaine",
-    "url": "https://gamewith.net/genshin-impact/article/show/40688",
-    "element": "Cryo",
-    "weapon": "Catalyst",
-    "rating": 4
+  "name": "Charlotte",
+  "cv": "Waki Azumi",
+  "description": "An enthusiastic reporter for Fontaine's newspaper The Steambird, always on the hunt for an exclusive scoop. She first appeared as a non-playable character in version 3.7 before becoming playable in version 4.2.",
+  "image": "https://img.gamewith.net/article/thumbnail/rectangle/40688.png",
+  "city": "Fontaine",
+  "url": "https://gamewith.net/genshin-impact/article/show/40688",
+  "element": "Cryo",
+  "weapon": "Catalyst",
+  "rating": 4,
+  "slug": "charlotte"
 }

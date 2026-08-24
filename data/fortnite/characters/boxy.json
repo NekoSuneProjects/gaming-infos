@@ -1,0 +1,44 @@
+{
+  "name": "Boxy",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/f/fc/Boxy_-_Outfit_-_Fortnite.png/revision/latest?cb=20200331111521",
+  "url": "https://fortnite.fandom.com/wiki/Boxy",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "April 5th 2020",
+  "services": null,
+  "details": {
+    "image": "Boxy - Outfit - Fortnite.png|Icon Boxy (New - Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Uncommon",
+    "set": "Special Delivery",
+    "cost": "800 1,800 (Special Delivery Bundle) 2,200 (Keiki's Locker Bundle)",
+    "unlocked": "Item Shop Special Delivery Bundle Keiki's Locker Bundle",
+    "release": "April 5th 2020",
+    "character model": "Rio",
+    "body model": "Unique",
+    "added_in": "Update v12.30",
+    "appearances": "Boxy",
+    "ID": "CID_740_Athena_Commando_F_CardboardCrew",
+    "FGUse": "y",
+    "BeanID": "Bean_CardboardCrewB",
+    "featured": "Boxy (Scare Package - Featured) - Outfit - Fortnite.png|1 Boxy (Spectral Delivery Glow - Featured) - Outfit - Fortnite.png|2",
+    "LEGOUse": "y }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Boxy",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.620Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "boxy"
+}

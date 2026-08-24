@@ -1,0 +1,29 @@
+{
+  "name": "The Herta",
+  "description": "",
+  "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/42/Character_The_Herta_Splash_Art.png/revision/latest?cb=20250121214107",
+  "url": "https://honkai-star-rail.fandom.com/wiki/The_Herta",
+  "rarity": null,
+  "source": {
+    "provider": "Honkai: Star Rail Wiki",
+    "url": "https://honkai-star-rail.fandom.com/wiki/The_Herta",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "details": {},
+  "_sync": {
+    "managed": true,
+    "game": "honkaistarrail",
+    "provider": "fandom-mediawiki",
+    "syncedAt": "2026-08-24T11:04:38.549Z",
+    "officialAnnouncementUrl": null
+  },
+  "path": null,
+  "element": null,
+  "faction": null,
+  "voiceActorEN": null,
+  "voiceActorJP": null,
+  "releaseDate": null,
+  "version": null,
+  "slug": "theherta"
+}

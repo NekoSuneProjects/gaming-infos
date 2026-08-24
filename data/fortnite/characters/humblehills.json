@@ -1,0 +1,41 @@
+{
+  "name": "Humble Hills",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/6/6c/Humble_Hills_-_Location_-_Fortnite.png/revision/latest?cb=20260312201122",
+  "url": "https://fortnite.fandom.com/wiki/Humble_Hills",
+  "title": null,
+  "location": "S Squibbly Shores NE Ripped Tides NW Battlewood Boulevard",
+  "affiliation": null,
+  "introduced": "November 29th 2025",
+  "services": null,
+  "details": {
+    "name": "Humble Hills",
+    "image": "Humble Hills - Location - Fortnite.png|Overview Humble Hills (Top View) - Location - Fortnite.png|Top View",
+    "location": "S Squibbly Shores NE Ripped Tides NW Battlewood Boulevard",
+    "type": "Named Location",
+    "island": "Golden Coast",
+    "chests": "28",
+    "ammo_boxes": "11",
+    "vending_machines": "3",
+    "release": "November 29th 2025",
+    "removed": "June 6th 2026",
+    "vehicles": "1x Reboot Van 1x Grandeur Trailsmasher 2x Motors Whiplash 2x All Terrain Kart",
+    "character": "C7S1]]",
+    "henchmen": "}}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Humble_Hills",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.533Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "humblehills"
+}

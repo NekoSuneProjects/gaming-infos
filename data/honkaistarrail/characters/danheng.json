@@ -1,12 +1,13 @@
 {
-    "name": "Dan Heng",
-    "rarity": "4-star",
-    "path": "Hunt",
-    "element": "Wind",
-    "faction": "Astral Express",
-    "voiceActorEN": "Nicholas Leung",
-    "voiceActorJP": "Kent Ito",
-    "description": "A reserved and taciturn member of the Astral Express crew who wields a spear called Cloud-Piercer. He is one of the game's free starting characters and specializes in single-target Wind damage, with a mysterious past tied to the Xianzhou Alliance.",
-    "image": "https://upload.wikimedia.org/wikipedia/en/1/16/Dan_Heng_HSR.png",
-    "url": "https://en.wikipedia.org/wiki/Dan_Heng"
+  "name": "Dan Heng",
+  "rarity": "4-star",
+  "path": "Hunt",
+  "element": "Wind",
+  "faction": "Astral Express",
+  "voiceActorEN": "Nicholas Leung",
+  "voiceActorJP": "Kent Ito",
+  "description": "A reserved and taciturn member of the Astral Express crew who wields a spear called Cloud-Piercer. He is one of the game's free starting characters and specializes in single-target Wind damage, with a mysterious past tied to the Xianzhou Alliance.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/1/16/Dan_Heng_HSR.png",
+  "url": "https://en.wikipedia.org/wiki/Dan_Heng",
+  "slug": "danheng"
 }

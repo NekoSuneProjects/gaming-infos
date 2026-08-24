@@ -1,0 +1,46 @@
+{
+  "name": "Sonor",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/8/84/Sonor_-_Outfit_-_Fortnite.png/revision/latest?cb=20240207231657",
+  "url": "https://fortnite.fandom.com/wiki/Sonor",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "February 11th 2024",
+  "services": null,
+  "details": {
+    "name": "Sonor",
+    "image": "Sonor - Outfit - Fortnite.png|Icon Sonor (Featured) - Outfit - Fortnite.png|Featured",
+    "bundled_with": "FutureSound Spinner",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "cost": "1,500 2,200 (Sonor Bundle)",
+    "unlocked": "Item Shop Sonor Bundle",
+    "release": "February 11th 2024",
+    "set": "FutureSound",
+    "character model": "Unique",
+    "body model": "Unique",
+    "appearances": "Sonor",
+    "LEGOUse": "y",
+    "FGUse": "y",
+    "ID": "Character_TechnoAwaken",
+    "BeanID": "Bean_TechnoAwaken",
+    "featured": "Sonor (Echobreaker - Featured) - Outfit - Fortnite.png|1 Sonor (Reactive Off - Featured) - Outfit - Fortnite.png|2 Sonor (Glasses Off - Featured) - Outfit - Fortnite.png|3",
+    "added_in": "Update v28.20 }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Sonor",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.626Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "sonor"
+}

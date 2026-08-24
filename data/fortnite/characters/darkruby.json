@@ -1,0 +1,43 @@
+{
+  "name": "Dark Ruby",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/4/45/Dark_Ruby_-_Outfit_-_Fortnite.png/revision/latest?cb=20241001142953",
+  "url": "https://fortnite.fandom.com/wiki/Dark_Ruby",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "November 3rd 2024",
+  "services": null,
+  "details": {
+    "image": "Dark Ruby - Outfit - Fortnite.png|Icon Dark Ruby (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Dark Series",
+    "set": "Dark Stripes",
+    "added_in": "Update v31.30",
+    "ID": "Character_DarkVogue",
+    "bundled_with": "Shadow Glyphs",
+    "unlocked": "Item Shop Dark Ruby Bundle",
+    "cost": "1,200 1,400 (Dark Ruby Bundle)",
+    "appearances": "Dark Ruby",
+    "release": "November 3rd 2024",
+    "LEGOUse": "y",
+    "FGUse": "y",
+    "character model": "Ark",
+    "BeanID": "Bean_DarkVogue}}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Dark_Ruby",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.577Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "darkruby"
+}

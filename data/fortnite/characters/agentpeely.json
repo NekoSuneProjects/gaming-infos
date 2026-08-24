@@ -1,0 +1,43 @@
+{
+  "name": "Agent Peely",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/1/1a/Agent_Peely_-_Outfit_-_Fortnite.png/revision/latest?cb=20200220201237",
+  "url": "https://fortnite.fandom.com/wiki/Agent_Peely",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "February 20th 2020",
+  "services": null,
+  "details": {
+    "name": "Agent Peely",
+    "image": "Agent Peely - Outfit - Fortnite.png|Icon Agent Peely (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "set": "Banana Royale",
+    "character model": "Empty Head",
+    "cost": "950 (2)",
+    "unlocked": "Level 1 2",
+    "release": "February 20th 2020",
+    "added_in": "Update v12.00",
+    "LEGOUse": "y",
+    "ID": "CID_701_Athena_Commando_M_BananaAgent",
+    "FGUse": "y",
+    "BeanID": "Bean_BananaAgent",
+    "featured": "Agent Peely (GHOST - Featured) - Outfit - Fortnite.png|1 Agent Peely (SHADOW - Featured) - Outfit - Fortnite.png|2 }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Agent_Peely",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.631Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "agentpeely"
+}

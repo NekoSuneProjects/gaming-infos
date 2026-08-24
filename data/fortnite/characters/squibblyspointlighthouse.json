@@ -1,0 +1,37 @@
+{
+  "name": "Squibbly's Point Lighthouse",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/7/74/Squibbly%27s_Point_Lighthouse_-_Landmark_-_Fortnite.png/revision/latest?cb=20260513212711",
+  "url": "https://fortnite.fandom.com/wiki/Squibbly's_Point_Lighthouse",
+  "title": null,
+  "location": "W Squibbly Shores S Tiptop Terrace N Ripped Tides",
+  "affiliation": null,
+  "introduced": "March 19th 2026",
+  "services": null,
+  "details": {
+    "name": "Squibbly's Point Lighthouse",
+    "image": "Squibbly's Point Lighthouse - Landmark - Fortnite.png|Overview Squibbly's Point Lighthouse (Top View) - Landmark - Fortnite.png|Top View",
+    "location": "W Squibbly Shores S Tiptop Terrace N Ripped Tides",
+    "type": "Landmark",
+    "island": "Golden Coast",
+    "release": "March 19th 2026",
+    "removed": "June 6th 2026",
+    "character": "C7S2]]",
+    "chests": "7 }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Squibbly's_Point_Lighthouse",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.526Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "squibblyspointlighthouse"
+}

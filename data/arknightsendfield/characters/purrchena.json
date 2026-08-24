@@ -1,0 +1,50 @@
+{
+  "name": "Purrchena",
+  "description": "Playable Operator in Arknights: Endfield.",
+  "image": "",
+  "url": "https://endfield.wiki.gg/wiki/Purrchena",
+  "source": {
+    "provider": "Endfield Talos Wiki",
+    "url": "https://endfield.wiki.gg/wiki/Purrchena",
+    "license": "CC BY-SA 4.0",
+    "publicDataOnly": true
+  },
+  "details": {
+    "name": "Purrchena",
+    "rarity": "5",
+    "class": "Defender",
+    "weapon": "Sword",
+    "element": "Physical",
+    "faction": "Talos-II General Chamber of Commerce (TGCC)",
+    "image": "Purrchena Splash Art.png",
+    "jpname": "プチエナ",
+    "krname": "푸치나",
+    "jpcv": "Shiori Izawa",
+    "cncv": "Han Jiaojiao",
+    "encv": "Christine Marie Cabanos",
+    "krcv": "Park Yi-seo",
+    "gender": "Female",
+    "authentication": "Talos-II General Chamber of Commerce (TGCC)",
+    "race": "Feline",
+    "matskill": "Dessert Moment",
+    "matstats": "}}"
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "public-mediawiki",
+    "game": "arknightsendfield",
+    "syncedAt": "2026-08-24T11:04:45.481Z",
+    "releasedOnly": true
+  },
+  "rarity": "5",
+  "element": "Physical",
+  "class": "Defender",
+  "weapon": "Sword",
+  "faction": "Talos-II General Chamber of Commerce (TGCC)",
+  "race": "Feline",
+  "gender": "Female",
+  "releaseDate": null,
+  "voiceActorEN": null,
+  "voiceActorJP": null,
+  "slug": "purrchena"
+}

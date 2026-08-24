@@ -1,0 +1,43 @@
+{
+  "name": "Medusa",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/d/db/Medusa_-_Outfit_-_Fortnite.png/revision/latest?cb=20240308163648",
+  "url": "https://fortnite.fandom.com/wiki/Medusa",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "March 8th 2024",
+  "services": null,
+  "details": {
+    "name": "Medusa",
+    "image": "Medusa - Outfit - Fortnite.png|Icon Medusa (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "set": "The Serpentstone",
+    "unlocked": "Page 7 2",
+    "cost": "950 (2)",
+    "release": "March 8th 2024",
+    "character model": "Unique",
+    "added_in": "Update v29.00",
+    "ID": "Character_ReptilianOcean_Sleek",
+    "BeanID": "Bean_ReptilianOcean_Sleek",
+    "LEGOUse": "Y",
+    "FGUse": "y",
+    "featured": "Medusa (Gorgon Warrior Medusa - Featured) - Outfit - Fortnite.png|1 Medusa (Stygian Medusa - Battle Pass) - Outfit - Fortnite.png|2 Medusa (Olympian Medusa - Battle Pass) - Outfit - Fortnite.png|3 Medusa (Titanflame Medusa - Battle Pass) - Outfit - Fortnite.png|4 }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Medusa",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.602Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "medusa"
+}

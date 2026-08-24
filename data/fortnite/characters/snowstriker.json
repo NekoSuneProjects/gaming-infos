@@ -1,0 +1,43 @@
+{
+  "name": "Snow Striker",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/2/28/Snow_Striker_-_Outfit_-_Fortnite.png/revision/latest?cb=20200115230915",
+  "url": "https://fortnite.fandom.com/wiki/Snow_Striker",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "January 19th 2020",
+  "services": null,
+  "details": {
+    "image": "Snow Striker (v32.00) - Outfit - Fortnite.png|Icon Snow Striker (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Uncommon",
+    "set": "Permafrost",
+    "cost": "800 2,000 (Hidden Hail Bundle)",
+    "unlocked": "Item Shop Hidden Hail Bundle",
+    "release": "January 19th 2020",
+    "character model": "Carlos",
+    "body model": "Default Male C2",
+    "added_in": "Update v11.40",
+    "appearances": "Snow Striker",
+    "ID": "CID_666_Athena_Commando_M_ArcticCamo",
+    "FGUse": "y",
+    "BeanID": "Bean_ArcticCamoA",
+    "LEGOUse": "y }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Snow_Striker",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.617Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "snowstriker"
+}

@@ -1,11 +1,12 @@
 {
-    "name": "Sayu",
-    "cv": "Aya Suzaki",
-    "description": "Sayu is a young ninja of the Shuumatsuban intelligence organization in Inazuma. Obsessed with napping and convinced that sleep will help her grow taller, she uses her ninjutsu skills as often to avoid work as to complete her missions.",
-    "image": "",
-    "city": "Inazuma",
-    "url": "https://genshin-impact.fandom.com/wiki/Sayu",
-    "element": "Anemo",
-    "weapon": "Claymore",
-    "rating": 4
+  "name": "Sayu",
+  "cv": "Aya Suzaki",
+  "description": "Sayu is a young ninja of the Shuumatsuban intelligence organization in Inazuma. Obsessed with napping and convinced that sleep will help her grow taller, she uses her ninjutsu skills as often to avoid work as to complete her missions.",
+  "image": "",
+  "city": "Inazuma",
+  "url": "https://genshin-impact.fandom.com/wiki/Sayu",
+  "element": "Anemo",
+  "weapon": "Claymore",
+  "rating": 4,
+  "slug": "sayu"
 }

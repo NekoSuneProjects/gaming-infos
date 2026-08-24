@@ -1,0 +1,27 @@
+{
+  "name": "Ming Jing",
+  "description": "Playable Simulacrum in Tower of Fantasy.",
+  "image": "/images/banner.png",
+  "url": "https://toweroffantasy.info/simulacra/imitation_50",
+  "rarity": null,
+  "role": null,
+  "elements": [
+    "Flame",
+    "Volt",
+    "Physical"
+  ],
+  "element": "Flame / Volt / Physical",
+  "source": {
+    "provider": "Tower of Fantasy Index",
+    "url": "https://toweroffantasy.info/simulacra/imitation_50",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "toweroffantasy-info",
+    "game": "toweroffantasy",
+    "syncedAt": "2026-08-24T11:05:23.972Z",
+    "releasedOnly": true
+  },
+  "slug": "mingjing"
+}

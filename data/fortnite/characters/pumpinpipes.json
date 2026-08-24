@@ -1,0 +1,39 @@
+{
+  "name": "Pumpin' Pipes",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/f/fc/Pumpin%27_Pipes_%28v33.00%29_-_Landmark_-_Fortnite.png/revision/latest?cb=20241210215505",
+  "url": "https://fortnite.fandom.com/wiki/Pumpin'_Pipes",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "December 1st 2024",
+  "services": null,
+  "details": {
+    "name": "Pumpin' Pipes",
+    "image": "Pumpin' Pipes (v33.00) - Landmark - Fortnite.png|Overview",
+    "type": "Landmark",
+    "island": "Oninoshima",
+    "chests": "12 Regular 1 Elemental",
+    "ammo_boxes": "8",
+    "floor_loot": "23",
+    "release": "December 1st 2024",
+    "removed": "November 1st 2025",
+    "character": "C6MS1]]",
+    "ID": "}}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Pumpin'_Pipes",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.562Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "pumpinpipes"
+}

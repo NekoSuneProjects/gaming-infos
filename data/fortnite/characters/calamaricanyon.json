@@ -1,0 +1,41 @@
+{
+  "name": "Calamari Canyon",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/b/b8/Calamari_Canyon_%28v41.20%29_-_Location_-_Fortnite.png/revision/latest?cb=20260721131308",
+  "url": "https://fortnite.fandom.com/wiki/Calamari_Canyon",
+  "title": null,
+  "location": "S Chopped Shop N Heatwave Harbor SW The Battlewoods NW Sinister Strip E Frosted Flats",
+  "affiliation": null,
+  "introduced": "June 6th 2026",
+  "services": null,
+  "details": {
+    "name": "Calamari Canyon",
+    "image": "Calamari Canyon (v41.20) - Location - Fortnite.png|Overview Calamari Canyon (v41.20 - Top View) - Location - Fortnite.png|Top View",
+    "location": "S Chopped Shop N Heatwave Harbor SW The Battlewoods NW Sinister Strip E Frosted Flats",
+    "type": "Named Location",
+    "island": "Shattered Coast",
+    "release": "June 6th 2026",
+    "removed": "August 20th 2026",
+    "chests": "47",
+    "ammo_boxes": "36",
+    "vending_machines": "4",
+    "vehicles": "3x Grandeur Trailsmasher 2x Motors Whiplash 1x Batman's Beach Buggy",
+    "franchises": "*Buoy Bois *Crusty Cod *Chum Gum *Barnacle Bodega *Nothing But Nets *Stanky Stems *WhaleTales *FroSDeeZ",
+    "wildlife": "C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Calamari_Canyon",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.515Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "calamaricanyon"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Sakura Circle",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/c/c3/Sakura_Circle_-_Unnamed_Location_-_Fortnite.png/revision/latest?cb=20250513133144",
+  "url": "https://fortnite.fandom.com/wiki/Sakura_Circle",
+  "title": null,
+  "location": "NW Lovely Lane",
+  "affiliation": null,
+  "introduced": "December 1st 2024",
+  "services": null,
+  "details": {
+    "name": "Sakura Circle",
+    "image": "Sakura Circle - Unnamed Location - Fortnite.png|Overview Sakura Circle (Top View) - Unnamed Location - Fortnite.png|Top View",
+    "location": "NW Lovely Lane",
+    "type": "Unnamed Location",
+    "island": "Oninoshima",
+    "release": "December 1st 2024",
+    "removed": "November 1st 2025",
+    "character": "C6S3]] }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Sakura_Circle",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.554Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "sakuracircle"
+}

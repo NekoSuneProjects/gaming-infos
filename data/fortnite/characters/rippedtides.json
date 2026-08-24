@@ -1,0 +1,43 @@
+{
+  "name": "Ripped Tides",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/6/68/Ripped_Tides_%28v40.40%29_-_Location_-_Fortnite.png/revision/latest?cb=20260526054249",
+  "url": "https://fortnite.fandom.com/wiki/Ripped_Tides",
+  "title": null,
+  "location": "W Battlewood Boulevard SW Humble Hills",
+  "affiliation": null,
+  "introduced": "November 29th 2025",
+  "services": null,
+  "details": {
+    "name": "Ripped Tides",
+    "image": "Ripped Tides (v40.40) - Location - Fortnite.png|Overview Ripped Tides (v40.40 - Top View) - Location - Fortnite.png|Top View",
+    "location": "W Battlewood Boulevard SW Humble Hills",
+    "type": "Named Location",
+    "island": "Golden Coast",
+    "landmarks": "*Route 67",
+    "chests": "20",
+    "ammo_boxes": "15",
+    "produce_boxes": "5",
+    "vending_machines": "3",
+    "release": "November 29th 2025",
+    "removed": "June 6th 2026",
+    "vehicles": "1x Reboot Van 4x Grandeur Trailsmasher 2x Motors Whiplash 1x All Terrain Kart",
+    "character": "C7S1]] C7S1]] C7S1]] C7S1]] C7S2]]",
+    "franchises": "*Arcade *Octo Inc. *Flying Fish Tacos *Ziggy's Surk & Skate *Snow Cones *Pizza Pit *Whey Protein *Saucy Sausage *Big Shots }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Ripped_Tides",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.536Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "rippedtides"
+}

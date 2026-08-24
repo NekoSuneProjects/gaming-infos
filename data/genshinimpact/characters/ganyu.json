@@ -1,11 +1,12 @@
 {
-    "name": "Ganyu",
-    "cv": "Reina Ueda",
-    "description": "Ganyu is the half-qilin secretary of the Liyue Qixing, known for her diligence, shyness, and overwhelming workload. She fights with a Cryo bow, famed for her powerful charged 'Frostflake Arrow' shots.",
-    "image": "",
-    "city": "Liyue",
-    "url": "https://en.wikipedia.org/wiki/List_of_Genshin_Impact_characters",
-    "element": "Cryo",
-    "weapon": "Bow",
-    "rating": 5
+  "name": "Ganyu",
+  "cv": "Reina Ueda",
+  "description": "Ganyu is the half-qilin secretary of the Liyue Qixing, known for her diligence, shyness, and overwhelming workload. She fights with a Cryo bow, famed for her powerful charged 'Frostflake Arrow' shots.",
+  "image": "",
+  "city": "Liyue",
+  "url": "https://en.wikipedia.org/wiki/List_of_Genshin_Impact_characters",
+  "element": "Cryo",
+  "weapon": "Bow",
+  "rating": 5,
+  "slug": "ganyu"
 }

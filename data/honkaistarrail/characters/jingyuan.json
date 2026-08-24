@@ -1,12 +1,13 @@
 {
-    "name": "Jing Yuan",
-    "rarity": "5-star",
-    "path": "Erudition",
-    "element": "Lightning",
-    "faction": "Xianzhou Luofu",
-    "voiceActorEN": "Alejandro Saab",
-    "voiceActorJP": "Daisuke Ono",
-    "description": "Jing Yuan is one of the seven Arbiter-Generals of the Xianzhou Alliance's Cloud Knights and commands the Xianzhou Luofu. Though outwardly languid, he is a meticulous strategist who fights alongside his lightning-lord familiar, Lightning-Lord.",
-    "image": "",
-    "url": "https://honkai-star-rail.fandom.com/wiki/Jing_Yuan"
+  "name": "Jing Yuan",
+  "rarity": "5-star",
+  "path": "Erudition",
+  "element": "Lightning",
+  "faction": "Xianzhou Luofu",
+  "voiceActorEN": "Alejandro Saab",
+  "voiceActorJP": "Daisuke Ono",
+  "description": "Jing Yuan is one of the seven Arbiter-Generals of the Xianzhou Alliance's Cloud Knights and commands the Xianzhou Luofu. Though outwardly languid, he is a meticulous strategist who fights alongside his lightning-lord familiar, Lightning-Lord.",
+  "image": "",
+  "url": "https://honkai-star-rail.fandom.com/wiki/Jing_Yuan",
+  "slug": "jingyuan"
 }

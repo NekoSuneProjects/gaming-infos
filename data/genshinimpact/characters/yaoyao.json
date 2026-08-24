@@ -1,12 +1,13 @@
 {
-    "name": "Yaoyao",
-    "quote": "Hello, I'm Yaoyao, a lowly disciple of the adeptus, Streetward Rambler. It's a pleasure to make your acquaintance! If you encounter any difficulties outdoors... then lemme help you!",
-    "cv": "Mai Kadowaki",
-    "description": "A young disciple of the adeptus Streetward Rambler in Liyue, known for her kindness, cooking skill, and eagerness to help travelers in need.",
-    "image": "",
-    "city": "Liyue",
-    "url": "https://genshin-impact.fandom.com/wiki/Yaoyao",
-    "element": "Dendro",
-    "weapon": "Polearm",
-    "rating": 4
+  "name": "Yaoyao",
+  "quote": "Hello, I'm Yaoyao, a lowly disciple of the adeptus, Streetward Rambler. It's a pleasure to make your acquaintance! If you encounter any difficulties outdoors... then lemme help you!",
+  "cv": "Mai Kadowaki",
+  "description": "A young disciple of the adeptus Streetward Rambler in Liyue, known for her kindness, cooking skill, and eagerness to help travelers in need.",
+  "image": "",
+  "city": "Liyue",
+  "url": "https://genshin-impact.fandom.com/wiki/Yaoyao",
+  "element": "Dendro",
+  "weapon": "Polearm",
+  "rating": 4,
+  "slug": "yaoyao"
 }

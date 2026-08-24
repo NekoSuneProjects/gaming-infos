@@ -1,0 +1,43 @@
+{
+  "name": "Donut District",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/c/c3/Donut_District_-_Location_-_Fortnite.png/revision/latest?cb=20260412201308",
+  "url": "https://fortnite.fandom.com/wiki/Donut_District",
+  "title": null,
+  "location": "SE Springfield Slurpworks SW Springfield Town Square",
+  "affiliation": null,
+  "introduced": "November 1st 2025 (Battle Royale) July 30th 2026 (Reload)",
+  "services": null,
+  "details": {
+    "name": "Donut District",
+    "image": "Donut District - Location - Fortnite.png|Overview Donut District (Top View) - Location - Fortnite.png|Top View",
+    "location": "SE Springfield Slurpworks SW Springfield Town Square",
+    "type": "Named Location",
+    "island": "Springfield Island",
+    "chests": "44",
+    "ammo_boxes": "71",
+    "produce_boxes": "4",
+    "burns_boxes": "3",
+    "freezers": "2",
+    "release": "November 1st 2025 (Battle Royale) July 30th 2026 (Reload)",
+    "removed": "November 29th 2025 (Battle Royale)",
+    "character": "C6MS2]] C6MS2]]",
+    "vehicles": "x4 Grandeur Trailsmasher x3 Victory Motors Whiplash",
+    "franchises": "*Lard Lad Donuts }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Donut_District",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.539Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "donutdistrict"
+}

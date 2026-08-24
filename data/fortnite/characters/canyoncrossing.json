@@ -1,0 +1,45 @@
+{
+  "name": "Canyon Crossing",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/5/57/Canyon_Crossing_-_Location_-_Fortnite.png/revision/latest?cb=20250422215922",
+  "url": "https://fortnite.fandom.com/wiki/Canyon_Crossing",
+  "title": null,
+  "location": "W Masked Meadows S Crime City NE Shogun's Solitude",
+  "affiliation": null,
+  "introduced": "December 1st 2024",
+  "services": null,
+  "details": {
+    "name": "Canyon Crossing",
+    "image": "Canyon Crossing - Location - Fortnite.png|Overview Canyon Crossing (Top View) - Location - Fortnite.png|Top View",
+    "location": "W Masked Meadows S Crime City NE Shogun's Solitude",
+    "type": "Named Location",
+    "island": "Oninoshima",
+    "owner": "(Smash N' Grab store)",
+    "franchises": "*Mad Buns *Cuddle Buns *Smash N' Grab",
+    "chests": "36",
+    "vending_machines": "1",
+    "ammo_boxes": "26",
+    "floor_loot": "73",
+    "produce_boxes": "3",
+    "release": "December 1st 2024",
+    "removed": "November 1st 2025",
+    "vehicles": "2x Victory Crown Rogue 2x Motors Whiplash 1x Grandeur Trailsmasher 1x Trail Thrasher",
+    "character": "C6S1]] C6S1]]",
+    "ID": "Athena.Location.POI.CanyonTown}}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Canyon_Crossing",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.570Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "canyoncrossing"
+}

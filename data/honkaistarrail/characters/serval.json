@@ -1,12 +1,13 @@
 {
-    "name": "Serval",
-    "rarity": "4-star",
-    "path": "Erudition",
-    "element": "Lightning",
-    "faction": "Wildfire",
-    "voiceActorEN": "Natalie Van Sistine",
-    "voiceActorJP": "Aimi",
-    "description": "The free-spirited eldest daughter of the Landau family and sister to Gepard and Lynx, Serval is a mechanic who runs the Neverwinter workshop in Belobog and plays guitar in a rock n' roll band with Pela.",
-    "image": "",
-    "url": "https://honkai-star-rail.fandom.com/wiki/Serval"
+  "name": "Serval",
+  "rarity": "4-star",
+  "path": "Erudition",
+  "element": "Lightning",
+  "faction": "Wildfire",
+  "voiceActorEN": "Natalie Van Sistine",
+  "voiceActorJP": "Aimi",
+  "description": "The free-spirited eldest daughter of the Landau family and sister to Gepard and Lynx, Serval is a mechanic who runs the Neverwinter workshop in Belobog and plays guitar in a rock n' roll band with Pela.",
+  "image": "",
+  "url": "https://honkai-star-rail.fandom.com/wiki/Serval",
+  "slug": "serval"
 }

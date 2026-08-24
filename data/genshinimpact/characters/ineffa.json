@@ -1,11 +1,12 @@
 {
-    "name": "Ineffa",
-    "cv": "Megumi Nakajima",
-    "description": "The benevolent half of the late Eleventh Dragon Lord, created and cared for by Aino in Nod-Krai. Introduced in Version 5.8 as a shield-support character who pioneers the Lunar-Charged reaction, a variant of Electro-Charged. Note: unlike the rest of this batch, Ineffa is associated with Nod-Krai, not Natlan.",
-    "image": "",
-    "city": "Nod-Krai",
-    "url": "https://genshin-impact.fandom.com/wiki/Ineffa",
-    "element": "Electro",
-    "weapon": "Polearm",
-    "rating": 5
+  "name": "Ineffa",
+  "cv": "Megumi Nakajima",
+  "description": "The benevolent half of the late Eleventh Dragon Lord, created and cared for by Aino in Nod-Krai. Introduced in Version 5.8 as a shield-support character who pioneers the Lunar-Charged reaction, a variant of Electro-Charged. Note: unlike the rest of this batch, Ineffa is associated with Nod-Krai, not Natlan.",
+  "image": "",
+  "city": "Nod-Krai",
+  "url": "https://genshin-impact.fandom.com/wiki/Ineffa",
+  "element": "Electro",
+  "weapon": "Polearm",
+  "rating": 5,
+  "slug": "ineffa"
 }

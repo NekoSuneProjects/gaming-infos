@@ -1,12 +1,13 @@
 {
-    "name": "Bailu",
-    "rarity": "5-star",
-    "path": "Abundance",
-    "element": "Lightning",
-    "faction": "Xianzhou Luofu",
-    "voiceActorEN": "Su Ling Chan",
-    "voiceActorJP": "Emiri Kato",
-    "description": "Bailu is a member of the Vidyadhara, an ancient race gifted with healing powers, and serves as their High Elder. Known affectionately on the Luofu as the 'Healer Lady,' she uses her divine abilities to cure ailments and disasters.",
-    "image": "",
-    "url": "https://honkai-star-rail.fandom.com/wiki/Bailu"
+  "name": "Bailu",
+  "rarity": "5-star",
+  "path": "Abundance",
+  "element": "Lightning",
+  "faction": "Xianzhou Luofu",
+  "voiceActorEN": "Su Ling Chan",
+  "voiceActorJP": "Emiri Kato",
+  "description": "Bailu is a member of the Vidyadhara, an ancient race gifted with healing powers, and serves as their High Elder. Known affectionately on the Luofu as the 'Healer Lady,' she uses her divine abilities to cure ailments and disasters.",
+  "image": "",
+  "url": "https://honkai-star-rail.fandom.com/wiki/Bailu",
+  "slug": "bailu"
 }

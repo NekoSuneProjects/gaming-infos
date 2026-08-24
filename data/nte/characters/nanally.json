@@ -1,14 +1,15 @@
 {
-    "name": "Nanally",
-    "role": "DPS",
-    "element": "Anima",
-    "faction": "Colucci Family",
-    "rarity": "S-Rank",
-    "voiceActorEN": "TBA",
-    "voiceActorJP": "TBA",
-    "gender": "Female",
-    "favoriteGift": "TBA",
-    "birthdate": "August 20",
-    "image": "",
-    "url": "https://nte.wiki/characters/nanally/"
+  "name": "Nanally",
+  "role": "DPS",
+  "element": "Anima",
+  "faction": "Colucci Family",
+  "rarity": "S-Rank",
+  "voiceActorEN": "TBA",
+  "voiceActorJP": "TBA",
+  "gender": "Female",
+  "favoriteGift": "TBA",
+  "birthdate": "August 20",
+  "image": "",
+  "url": "https://nte.wiki/characters/nanally/",
+  "slug": "nanally"
 }

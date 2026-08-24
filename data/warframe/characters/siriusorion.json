@@ -1,0 +1,247 @@
+{
+  "name": "Sirius & Orion",
+  "description": "Wield the power of the stars in a constant battle for supremacy. The dueling sons, Sirius & Orion, occupy the space of a single Warframe, jockeying for position to rain cosmic destruction upon foes.",
+  "image": "https://cdn.warframestat.us/img/SiriusOrion.png",
+  "url": "https://wiki.warframe.com/w/Sirius_%26_Orion",
+  "uniqueName": "/Lotus/Powersuits/SiriusOrion/SiriusSuit",
+  "isPrime": false,
+  "health": 475,
+  "shield": 355,
+  "armor": 160,
+  "energy": 200,
+  "sprintSpeed": 1.15,
+  "masteryReq": 0,
+  "sex": "Male",
+  "aura": "vazarin",
+  "polarities": [
+    "vazarin",
+    "naramon",
+    "aura"
+  ],
+  "abilities": [
+    {
+      "uniqueName": "/Lotus/Powersuits/SiriusOrion/Abilities/SiriusScytheAbility",
+      "name": "Coronal Ejection",
+      "description": "Hurl Sirius' Jade Light infused scythe, dealing <DT_FIRE_COLOR>Heat Damage while collecting any pickups in its path.\n\n(HOLD) Swap to Orion and use Gravitic Slash.",
+      "imageName": "SiriusCoronalEjection.png"
+    },
+    {
+      "uniqueName": "/Lotus/Powersuits/SiriusOrion/Abilities/SiriusBuffAbility",
+      "name": "Jade Stars",
+      "description": "Sirius conjures Jade Light motes that slowly regenerate over time. Attacking enemies launches the motes, dealing <DT_FIRE_COLOR>Heat Damage and Status Effect.\n\n(HOLD) Swap to Orion and use Astral Shell.",
+      "imageName": "SiriusStarEater.png"
+    },
+    {
+      "uniqueName": "/Lotus/Powersuits/SiriusOrion/Abilities/SiriusFieldAbility",
+      "name": "Light's Sanctuary",
+      "description": "Sirius creates a well of light that heals and revives allies, while reducing incoming damage. The well slowly grows in size and power.\n\n(HOLD) Swap to Orion and use Event Horizon.",
+      "imageName": "SiriusAurora.png"
+    },
+    {
+      "uniqueName": "/Lotus/Powersuits/SiriusOrion/Abilities/SiriusOrionUltimateAbility",
+      "name": "Celestial Clash",
+      "description": "Sirius & Orion take to the skies in a cosmic duel. Each attack consumes a Constellation Star to inflict colossal collateral <DT_EXPLOSION_COLOR>Blast damage. Match the star's color to the Warframes color to gain increased Critical Chance.\n\n|LEFT_ATTACK| Sirius attacks\n|RIGHT_ATTACK| Orion attacks\n\nGenerate Constellation Stars by using abilities. No more than two stars of the same color can be added in a row.",
+      "imageName": "SiriusOrionUltimate.png"
+    }
+  ],
+  "releaseDate": "2026-06-17",
+  "source": {
+    "provider": "WarframeStat.us / WFCD",
+    "url": "https://api.warframestat.us/warframes",
+    "publicDataOnly": true,
+    "project": "Warframe Community Developers"
+  },
+  "details": {
+    "uniqueName": "/Lotus/Powersuits/SiriusOrion/SiriusSuit",
+    "name": "Sirius & Orion",
+    "description": "Wield the power of the stars in a constant battle for supremacy. The dueling sons, Sirius & Orion, occupy the space of a single Warframe, jockeying for position to rain cosmic destruction upon foes.",
+    "health": 475,
+    "shield": 355,
+    "armor": 160,
+    "stamina": 3,
+    "power": 200,
+    "codexSecret": false,
+    "masteryReq": 0,
+    "sprintSpeed": 1.15,
+    "passiveDescription": "Swapping between them grants |EFFICIENCY|% Ability Efficiency for the next |COUNT| casts.\n\nWhen below 50 energy, Sirius & Orion will steal energy from each other.",
+    "abilities": [
+      {
+        "uniqueName": "/Lotus/Powersuits/SiriusOrion/Abilities/SiriusScytheAbility",
+        "name": "Coronal Ejection",
+        "description": "Hurl Sirius' Jade Light infused scythe, dealing <DT_FIRE_COLOR>Heat Damage while collecting any pickups in its path.\n\n(HOLD) Swap to Orion and use Gravitic Slash.",
+        "imageName": "SiriusCoronalEjection.png"
+      },
+      {
+        "uniqueName": "/Lotus/Powersuits/SiriusOrion/Abilities/SiriusBuffAbility",
+        "name": "Jade Stars",
+        "description": "Sirius conjures Jade Light motes that slowly regenerate over time. Attacking enemies launches the motes, dealing <DT_FIRE_COLOR>Heat Damage and Status Effect.\n\n(HOLD) Swap to Orion and use Astral Shell.",
+        "imageName": "SiriusStarEater.png"
+      },
+      {
+        "uniqueName": "/Lotus/Powersuits/SiriusOrion/Abilities/SiriusFieldAbility",
+        "name": "Light's Sanctuary",
+        "description": "Sirius creates a well of light that heals and revives allies, while reducing incoming damage. The well slowly grows in size and power.\n\n(HOLD) Swap to Orion and use Event Horizon.",
+        "imageName": "SiriusAurora.png"
+      },
+      {
+        "uniqueName": "/Lotus/Powersuits/SiriusOrion/Abilities/SiriusOrionUltimateAbility",
+        "name": "Celestial Clash",
+        "description": "Sirius & Orion take to the skies in a cosmic duel. Each attack consumes a Constellation Star to inflict colossal collateral <DT_EXPLOSION_COLOR>Blast damage. Match the star's color to the Warframes color to gain increased Critical Chance.\n\n|LEFT_ATTACK| Sirius attacks\n|RIGHT_ATTACK| Orion attacks\n\nGenerate Constellation Stars by using abilities. No more than two stars of the same color can be added in a row.",
+        "imageName": "SiriusOrionUltimate.png"
+      }
+    ],
+    "productCategory": "Suits",
+    "buildPrice": 25000,
+    "buildTime": 259200,
+    "skipBuildTimePrice": 50,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SiriusOrionBlueprint",
+        "name": "Blueprint",
+        "description": "Wield the power of the stars in a constant battle for supremacy. The dueling sons, Sirius & Orion, occupy the space of a single Warframe, jockeying for position to rain cosmic destruction upon foes.",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false,
+        "masterable": false,
+        "drops": [
+          {
+            "location": "Uranus/Scoria's Angel (Skirmish)",
+            "type": "Sirius & Orion Blueprint",
+            "chance": 14.29,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Uranus/The Kuva Wytch (Skirmish)",
+            "type": "Sirius & Orion Blueprint",
+            "chance": 14.29,
+            "rarity": "Uncommon"
+          }
+        ]
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SiriusOrionChassisComponent",
+        "name": "Chassis",
+        "description": "Chassis component for the Sirius & Orion Warframe.",
+        "codexSecret": false,
+        "itemCount": 1,
+        "imageName": "GenericWarframeChassis.png",
+        "tradable": false,
+        "drops": [
+          {
+            "location": "Uranus/Scoria's Angel (Skirmish)",
+            "type": "Sirius & Orion Chassis Blueprint",
+            "chance": 14.29,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Uranus/The Kuva Wytch (Skirmish)",
+            "type": "Sirius & Orion Chassis Blueprint",
+            "chance": 14.29,
+            "rarity": "Uncommon"
+          }
+        ],
+        "masterable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SiriusOrionHelmetComponent",
+        "name": "Neuroptics",
+        "description": "Neuroptics component for the Sirius & Orion Warframe.",
+        "codexSecret": false,
+        "itemCount": 1,
+        "imageName": "GenericWarframeHelmet.png",
+        "tradable": false,
+        "drops": [
+          {
+            "location": "Uranus/Scoria's Angel (Skirmish)",
+            "type": "Sirius & Orion Neuroptics Blueprint",
+            "chance": 14.29,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Uranus/The Kuva Wytch (Skirmish)",
+            "type": "Sirius & Orion Neuroptics Blueprint",
+            "chance": 14.29,
+            "rarity": "Uncommon"
+          }
+        ],
+        "masterable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "description": "Ancient energy cell from the Orokin era.\n\nLocation: Ceres, Saturn, and Deimos",
+        "codexSecret": false,
+        "itemCount": 3,
+        "imageName": "ComponentCell.png",
+        "tradable": false,
+        "drops": [],
+        "masterable": false,
+        "type": "Resource"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SiriusOrionSystemsComponent",
+        "name": "Systems",
+        "description": "Systems component for the Sirius & Orion Warframe.",
+        "codexSecret": false,
+        "itemCount": 1,
+        "imageName": "GenericWarframeSystem.png",
+        "tradable": false,
+        "drops": [
+          {
+            "location": "Uranus/Scoria's Angel (Skirmish)",
+            "type": "Sirius & Orion Systems Blueprint",
+            "chance": 14.29,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Uranus/The Kuva Wytch (Skirmish)",
+            "type": "Sirius & Orion Systems Blueprint",
+            "chance": 14.29,
+            "rarity": "Uncommon"
+          }
+        ],
+        "masterable": false
+      }
+    ],
+    "type": "Warframe",
+    "imageName": "SiriusOrion.png",
+    "category": "Warframes",
+    "tradable": false,
+    "wikiAvailable": true,
+    "aura": "vazarin",
+    "conclave": false,
+    "color": 0,
+    "introduced": {
+      "name": "Update 43.0",
+      "url": "https://wiki.warframe.com/w/Update_43%3A_Jade_Shadows%3A_Constellations",
+      "aliases": [
+        "43",
+        "43.0",
+        "Jade Shadows: Constellations"
+      ],
+      "parent": "43.0",
+      "date": "2026-06-17"
+    },
+    "polarities": [
+      "vazarin",
+      "naramon",
+      "aura"
+    ],
+    "sex": "Male",
+    "sprint": 1.15,
+    "wikiaUrl": "https://wiki.warframe.com/w/Sirius",
+    "releaseDate": "2026-06-17",
+    "isPrime": false,
+    "masterable": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "warframestat-us",
+    "game": "warframe",
+    "syncedAt": "2026-08-24T11:04:46.378Z",
+    "releasedOnly": true
+  },
+  "slug": "siriusorion"
+}

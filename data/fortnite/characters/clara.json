@@ -1,0 +1,43 @@
+{
+  "name": "Clara",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/c/c9/Clara_-_Outfit_-_Fortnite.png/revision/latest?cb=20240222215027",
+  "url": "https://fortnite.fandom.com/wiki/Clara",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "March 13th 2024",
+  "services": null,
+  "details": {
+    "image": "Clara - Outfit - Fortnite.png|Icon Clara (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Rare",
+    "character model": "Joana",
+    "body model": "Unique",
+    "set": "Perfect Execution",
+    "cost": "$4.49 (Perfect Execution Pack)",
+    "unlocked": "Perfect Execution Pack",
+    "release": "March 13th 2024",
+    "added_in": "Update v28.30",
+    "ID": "Character_BalletAssassin",
+    "BeanID": "Bean_BalletAssassin",
+    "appearances": "Perfect Execution Pack",
+    "LEGOUse": "y",
+    "FGUse": "y }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Clara",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.606Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "clara"
+}

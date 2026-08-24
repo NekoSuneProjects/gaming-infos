@@ -1,0 +1,43 @@
+{
+  "name": "Hope",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/2/29/Hope_-_Outfit_-_Fortnite.png/revision/latest?cb=20231203125225",
+  "url": "https://fortnite.fandom.com/wiki/Hope",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "December 3rd 2023",
+  "services": null,
+  "details": {
+    "image": "Hope - Outfit - Fortnite.png|Icon Hope (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "set": "The Underground",
+    "unlocked": "Page 1 1",
+    "cost": "950 (1)",
+    "release": "December 3rd 2023",
+    "added_in": "Update v28.00",
+    "LEGOUse": "y",
+    "FGUse": "y",
+    "featured": "Hope (Glasses Off - Featured) - Outfit - Fortnite.png|1 Hope (Hat On - Featured) - Outfit - Fortnite.png|2 Hope (Underground Chic Hope - Featured) - Outfit - Fortnite.png|3 Hope (Rebel Runway Hope - Featured) - Outfit - Fortnite.png|4 Hope (Expressionist Hope - Featured) - Outfit - Fortnite.png|5 Hope (Prismatic Terazzo Hope - Featured) - Outfit - Fortnite.png|6 Hope (Glasswork Hope - Featured) - Outfit - Fortnite.png|7",
+    "ID": "Character_VoidRedemption_Rebel",
+    "BeanID": "Bean_VoidRedemptionRebel",
+    "character model": "Hope",
+    "body model": "}}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Hope",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.591Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "hope"
+}

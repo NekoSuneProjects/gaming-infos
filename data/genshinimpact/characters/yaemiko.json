@@ -1,12 +1,13 @@
 {
-    "name": "Yae Miko",
-    "quote": "Astute Amusement",
-    "cv": "Ayane Sakura",
-    "description": "Yae Miko is the Guuji (chief priestess) of the Grand Narukami Shrine in Inazuma and owns the Yae Publishing House. A kitsune and a treasured friend of the Raiden Shogun, she is playful, sharp-tongued, and enjoys teasing those around her.",
-    "image": "https://upload.wikimedia.org/wikipedia/en/6/67/Genshin_Yae_Miko.png",
-    "city": "Inazuma",
-    "url": "https://en.wikipedia.org/wiki/Yae_Miko",
-    "element": "Electro",
-    "weapon": "Catalyst",
-    "rating": 5
+  "name": "Yae Miko",
+  "quote": "Astute Amusement",
+  "cv": "Ayane Sakura",
+  "description": "Yae Miko is the Guuji (chief priestess) of the Grand Narukami Shrine in Inazuma and owns the Yae Publishing House. A kitsune and a treasured friend of the Raiden Shogun, she is playful, sharp-tongued, and enjoys teasing those around her.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/6/67/Genshin_Yae_Miko.png",
+  "city": "Inazuma",
+  "url": "https://en.wikipedia.org/wiki/Yae_Miko",
+  "element": "Electro",
+  "weapon": "Catalyst",
+  "rating": 5,
+  "slug": "yaemiko"
 }

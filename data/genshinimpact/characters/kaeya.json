@@ -1,11 +1,12 @@
 {
-    "name": "Kaeya",
-    "cv": "Kosuke Toriumi",
-    "description": "Cavalry Captain of the Knights of Favonius and the most trusted aide to Acting Grand Master Jean, Kaeya is a witty, charming knight who can be counted on to solve intractable problems, though he guards secrets about his past that few in Mondstadt know.",
-    "image": "",
-    "city": "Mondstadt",
-    "url": "https://genshin-impact.fandom.com/wiki/Kaeya",
-    "element": "Cryo",
-    "weapon": "Sword",
-    "rating": 5
+  "name": "Kaeya",
+  "cv": "Kosuke Toriumi",
+  "description": "Cavalry Captain of the Knights of Favonius and the most trusted aide to Acting Grand Master Jean, Kaeya is a witty, charming knight who can be counted on to solve intractable problems, though he guards secrets about his past that few in Mondstadt know.",
+  "image": "",
+  "city": "Mondstadt",
+  "url": "https://genshin-impact.fandom.com/wiki/Kaeya",
+  "element": "Cryo",
+  "weapon": "Sword",
+  "rating": 5,
+  "slug": "kaeya"
 }

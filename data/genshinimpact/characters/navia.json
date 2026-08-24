@@ -1,11 +1,12 @@
 {
-    "name": "Navia",
-    "cv": "Toyosaki Aki",
-    "description": "The optimistic president of the Spina di Rosula, an organization that extends aid to Fontaine citizens not covered by the nation's governing body, a mantle she inherited from her late father Callas.",
-    "image": "https://img.gamewith.net/article/thumbnail/rectangle/40684.png",
-    "city": "Fontaine",
-    "url": "https://gamewith.net/genshin-impact/article/show/40684",
-    "element": "Geo",
-    "weapon": "Claymore",
-    "rating": 5
+  "name": "Navia",
+  "cv": "Toyosaki Aki",
+  "description": "The optimistic president of the Spina di Rosula, an organization that extends aid to Fontaine citizens not covered by the nation's governing body, a mantle she inherited from her late father Callas.",
+  "image": "https://img.gamewith.net/article/thumbnail/rectangle/40684.png",
+  "city": "Fontaine",
+  "url": "https://gamewith.net/genshin-impact/article/show/40684",
+  "element": "Geo",
+  "weapon": "Claymore",
+  "rating": 5,
+  "slug": "navia"
 }

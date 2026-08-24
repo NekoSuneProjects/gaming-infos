@@ -1,0 +1,42 @@
+{
+  "name": "Nisha",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/c/cb/Nisha_-_Outfit_-_Fortnite.png/revision/latest?cb=20231203125229",
+  "url": "https://fortnite.fandom.com/wiki/Nisha",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "December 3rd 2023",
+  "services": null,
+  "details": {
+    "image": "Nisha - Outfit - Fortnite.png|Icon Nisha (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "set": "En Garde",
+    "character model": "Unique",
+    "unlocked": "Page 7 1 9",
+    "cost": "950 (1)",
+    "added_in": "Update v28.00",
+    "release": "December 3rd 2023",
+    "LEGOUse": "y",
+    "FGUse": "y",
+    "ID": "Character_CeremonialGuard_Fencer",
+    "BeanID": "Bean_CeremonialGuardFencer",
+    "featured": "Nisha (Heiress Mask - Featured) - Outfit - Fortnite.png|1 Nisha (Tactician Mask - Featured) - Outfit - Fortnite.png|2 Nisha (Maskless - Featured) - Outfit - Fortnite.png|3 Nisha (Midnight Duelist Nisha - Featured) - Outfit - Fortnite.png|4 Nisha (Midnight Duelist Nisha, Heiress Mask - Featured) - Outfit - Fortnite.png|5 Nisha (Dawn Duelist Nisha - Featured) - Outfit - Fortnite.png|6 Nisha (Dawn Duelist Nisha, Tactician Mask - Featured) - Outfit - Fortnite.png|7 Nisha (Expressionist Nisha - Battle Pass) - Outfit - Fortnite.png|8 Nisha (Prismatic Terazzo Nisha - Battle Pass) - Outfit - Fortnite.png|9 Nisha (Glasswork Nisha - Battle Pass) - Outfit - Fortnite.png|10 }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Nisha",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.581Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "nisha"
+}

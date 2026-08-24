@@ -1,0 +1,40 @@
+{
+  "name": "Springfield Slurpworks",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/3/3a/Springfield_Slurpworks_-_Location_-_Fortnite.png/revision/latest?cb=20251129043239",
+  "url": "https://fortnite.fandom.com/wiki/Springfield_Slurpworks",
+  "title": null,
+  "location": "S Evergreen Terrace NW Donut District",
+  "affiliation": null,
+  "introduced": "November 1st 2025 (Battle Royale) July 30th 2026 (Reload)",
+  "services": null,
+  "details": {
+    "name": "Springfield Slurpworks",
+    "image": "Springfield Slurpworks - Location - Fortnite.png|Overview Springfield Slurpworks (Top View) - Location - Fortnite.png|Top View",
+    "location": "S Evergreen Terrace NW Donut District",
+    "type": "Named Location",
+    "island": "Springfield Island",
+    "chests": "32",
+    "ammo_boxes": "33",
+    "burns_boxes": "2",
+    "release": "November 1st 2025 (Battle Royale) July 30th 2026 (Reload)",
+    "removed": "November 29th 2025 (Battle Royale)",
+    "character": "C6MS2]] C6MS2]]",
+    "vehicles": "2x Motors Whiplash }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Springfield_Slurpworks",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.543Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "springfieldslurpworks"
+}

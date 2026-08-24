@@ -1,0 +1,44 @@
+{
+  "name": "The Battlewoods",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/3/3f/The_Battlewoods_-_Location_-_Fortnite.png/revision/latest?cb=20260618152902",
+  "url": "https://fortnite.fandom.com/wiki/The_Battlewoods",
+  "title": null,
+  "location": "NE Calamari Canyon E Chopped Shop SE Lifty Lodge SW Latte Landing W Wonkeeland NW Frosted Flats",
+  "affiliation": null,
+  "introduced": "June 6th 2026",
+  "services": null,
+  "details": {
+    "name": "The Battlewoods",
+    "location": "NE Calamari Canyon E Chopped Shop SE Lifty Lodge SW Latte Landing W Wonkeeland NW Frosted Flats",
+    "image": "The Battlewoods - Location - Fortnite.png|Overview The Battlewoods (Top View) - Location - Fortnite.png|Top View",
+    "type": "Named Location",
+    "island": "Shattered Coast",
+    "chests": "81",
+    "ammo_boxes": "42",
+    "vending_machines": "3",
+    "produce_boxes": "10",
+    "release": "June 6th 2026",
+    "henchmen": "Security Guards",
+    "character": "C7S3]] v41.30]]",
+    "previous": "Battlewood Boulevard",
+    "vehicles": "2x Reboot Van 4x Grandeur Trailsmasher 6x Motors Whiplash 3x Motorboat 4x Batman's Beach Buggy",
+    "franchises": "*Pump and Run *Gar'Bagio *Uvula *Dulce & Banana *Smug Mugs *Pastry Bois *Golden Reels *Gloss Goblin *Garden Center *Leut Gear *Big Shots *Pink Dino *Otaku Oasis *Launder-Mat *Durrr Burger",
+    "wildlife": "C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/The_Battlewoods",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.518Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "thebattlewoods"
+}

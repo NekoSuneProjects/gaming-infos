@@ -1,0 +1,43 @@
+{
+  "name": "Knightmare",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/9/90/Knightmare_-_Outfit_-_Fortnite.png/revision/latest?cb=20241001145458",
+  "url": "https://fortnite.fandom.com/wiki/Knightmare",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "October 2nd 2024",
+  "services": null,
+  "details": {
+    "image": "Knightmare - Outfit - Fortnite.png|Icon Knightmare (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "set": "Nightmare Blade",
+    "character model": "Unique",
+    "added_in": "Update v31.30",
+    "ID": "Character_BucketKick",
+    "LEGOUse": "y",
+    "FGUse": "y",
+    "BeanID": "Bean_BucketKick",
+    "unlocked": "Item Shop Knightmare Bundle",
+    "cost": "1,500 2,000 (Knightmare Bundle)",
+    "appearances": "Knightmare",
+    "release": "October 2nd 2024",
+    "bundled_with": "Haunted Helm}}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Knightmare",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.581Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "knightmare"
+}

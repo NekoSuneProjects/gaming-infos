@@ -1,0 +1,43 @@
+{
+  "name": "Brite Raider",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/6/69/Brite_Raider_-_Outfit_-_Fortnite.png/revision/latest?cb=20240524143549",
+  "url": "https://fortnite.fandom.com/wiki/Brite_Raider",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "May 24th 2024",
+  "services": null,
+  "details": {
+    "name": "Brite Raider",
+    "image": "Brite Raider - Outfit - Fortnite.png|Icon Brite Raider (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "set": "Sandstorms and Rainbows",
+    "character model": "Ramirez",
+    "unlocked": "Page 11 3 9",
+    "cost": "950 (3)",
+    "added_in": "Update v30.00",
+    "release": "May 24th 2024",
+    "ID": "Character_ShiverFlame_Ace",
+    "BeanID": "Bean_ShiverFlame_Ace",
+    "LEGOUse": "y",
+    "FGUse": "y",
+    "featured": "Brite Raider (Pastel Brite Raider - Featured) - Outfit - Fortnite.png|1 Brite Raider (Brite Raider Helmet On - Featured) - Outfit - Fortnite.png|2 Brite Raider (Darklands Brite Raider - Battle Pass) - Outfit - Fortnite.png|3 Brite Raider (Cold Fusion Brite Raider - Battle Pass) - Outfit - Fortnite.png|4 Brite Raider (Neon Hazard Brite Raider - Battle Pass) - Outfit - Fortnite.png|5 Brite Raider (Digital Ghost Brite Raider - Battle Pass) - Outfit - Fortnite.png|6 }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Brite_Raider",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.575Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "briteraider"
+}

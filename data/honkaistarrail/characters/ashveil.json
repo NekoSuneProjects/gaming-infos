@@ -1,12 +1,13 @@
 {
-    "name": "Ashveil",
-    "rarity": "5-star",
-    "path": "Hunt",
-    "element": "Lightning",
-    "faction": "Galaxy Rangers (leader)",
-    "voiceActorEN": "Blythe Melin",
-    "voiceActorJP": "Takehito Koyasu",
-    "description": "Introduced as an NPC in Version 4.0 and made playable in Version 4.1, Ashveil poses as a humble private detective on Planarcadia while secretly being La Mancha, the legendary former leader of the Galaxy Rangers. He retired into hiding after leading the Rangers to a great loss.",
-    "image": "",
-    "url": "https://honkai-star-rail.fandom.com/wiki/Ashveil"
+  "name": "Ashveil",
+  "rarity": "5-star",
+  "path": "Hunt",
+  "element": "Lightning",
+  "faction": "Galaxy Rangers (leader)",
+  "voiceActorEN": "Blythe Melin",
+  "voiceActorJP": "Takehito Koyasu",
+  "description": "Introduced as an NPC in Version 4.0 and made playable in Version 4.1, Ashveil poses as a humble private detective on Planarcadia while secretly being La Mancha, the legendary former leader of the Galaxy Rangers. He retired into hiding after leading the Rangers to a great loss.",
+  "image": "",
+  "url": "https://honkai-star-rail.fandom.com/wiki/Ashveil",
+  "slug": "ashveil"
 }

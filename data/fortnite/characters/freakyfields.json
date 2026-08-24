@@ -1,0 +1,38 @@
+{
+  "name": "Freaky Fields",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/b/bc/Freaky_Fields_%28v37.50%29_-_Location_-_Fortnite.png/revision/latest?cb=20251011042419",
+  "url": "https://fortnite.fandom.com/wiki/Freaky_Fields",
+  "title": null,
+  "location": "E Dreamy Domain S Kappa Kappa Factory",
+  "affiliation": null,
+  "introduced": "October 9th 2025",
+  "services": null,
+  "details": {
+    "name": "Freaky Fields",
+    "image": "Freaky Fields (v37.50) - Location - Fortnite.png|Overview Freaky Fields (v37.50 - Top View) - Location - Fortnite.png|Top View",
+    "location": "E Dreamy Domain S Kappa Kappa Factory",
+    "type": "Named Location",
+    "island": "Oninoshima",
+    "chests": "|vending_machines",
+    "release": "October 9th 2025",
+    "removed": "November 1st 2025",
+    "boss": "C6S4]] C6S4]]",
+    "previous": "Outpost Enclave }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Freaky_Fields",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.551Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "freakyfields"
+}

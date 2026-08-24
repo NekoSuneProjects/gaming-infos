@@ -1,0 +1,43 @@
+{
+  "name": "Cletus' Corn Hole",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/8/80/Cletus%27_Corn_Hole_%28v38.11%29_-_Location_-_Fortnite.png/revision/latest?cb=20260412170227",
+  "url": "https://fortnite.fandom.com/wiki/Cletus'_Corn_Hole",
+  "title": null,
+  "location": "NE Evergreen Terrace NW Kamp Krusty",
+  "affiliation": null,
+  "introduced": "November 1st 2025 (Battle Royale) July 30th 2026 (Reload)",
+  "services": null,
+  "details": {
+    "name": "Cletus' Corn Hole",
+    "image": "Cletus' Corn Hole (v38.11) - Location - Fortnite.png|Overview Cletus' Corn Hole (v38.11 - Top View) - Location - Fortnite.png|Top View",
+    "location": "NE Evergreen Terrace NW Kamp Krusty",
+    "type": "Named Location",
+    "island": "Springfield Island",
+    "chests": "70",
+    "ammo_boxes": "43",
+    "produce_boxes": "9",
+    "burns_boxes": "3",
+    "release": "November 1st 2025 (Battle Royale) July 30th 2026 (Reload)",
+    "removed": "November 29th 2025 (Battle Royale)",
+    "character": "C6MS2]] C6MS2]]",
+    "vehicles": "x5 Grandeur Trailsmasher x4 Victory Motors Whiplash",
+    "franchises": "*BURD",
+    "owner": "[https://simpsons.fandom.com/wiki/Cletus_Spuckler Cletus Spuckler] }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Cletus'_Corn_Hole",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.543Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "cletuscornhole"
+}

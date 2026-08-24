@@ -1,0 +1,42 @@
+{
+  "name": "Ruckus",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/e/e7/Ruckus_%28v31.20%29_-_Outfit_-_Fortnite.png/revision/latest?cb=20240917174215",
+  "url": "https://fortnite.fandom.com/wiki/Ruckus",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "November 4th 2018",
+  "services": null,
+  "details": {
+    "name": "Ruckus",
+    "image": "Ruckus (v31.20) - Outfit - Fortnite.png|Icon Ruckus (Default Featured) - Featured - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Rare",
+    "set": "Wasteland Warriors",
+    "bundled_with": "Spike Chamber",
+    "cost": "1,200 2,000 (Wasteland Warriors Bundle)",
+    "unlocked": "Item Shop Wasteland Warriors Bundle",
+    "added_in": "Update v6.21",
+    "release": "November 4th 2018",
+    "appearances": "Ruckus",
+    "featured": "Ruckus (Rage - Featured) - Outfit - Fortnite.png",
+    "LEGOUse": "y",
+    "ID": "CID_262_Athena_Commando_M_MadCommander }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Ruckus",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.584Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "ruckus"
+}

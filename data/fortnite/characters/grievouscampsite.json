@@ -1,0 +1,38 @@
+{
+  "name": "Grievous' Campsite",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/a/a7/Grievous%27_Campsite_-_Unnamed_Location_-_Fortnite.png/revision/latest?cb=20250502214537",
+  "url": "https://fortnite.fandom.com/wiki/Grievous'_Campsite",
+  "title": null,
+  "location": "NW Rolling Blossoms Farm",
+  "affiliation": null,
+  "introduced": "May 2nd 2025",
+  "services": null,
+  "details": {
+    "name": "Grievous' Campsite",
+    "image": "Grievous' Campsite - Unnamed Location - Fortnite.png|Overview Grievous' Campsite (Top View) - Unnamed Location - Fortnite.png|Top View",
+    "location": "NW Rolling Blossoms Farm",
+    "type": "Unnamed Location",
+    "island": "Oninoshima",
+    "owner": "General Grievous",
+    "release": "May 2nd 2025",
+    "removed": "June 7th 2025",
+    "character": "C6MS1]]",
+    "henchmen": "}}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Grievous'_Campsite",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.561Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "grievouscampsite"
+}

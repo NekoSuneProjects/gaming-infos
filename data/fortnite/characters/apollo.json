@@ -1,0 +1,36 @@
+{
+  "name": "Apollo",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/6/67/Apollo_%28Update_v32.11%29_-_Island_-_Fortnite.jpg/revision/latest?cb=20250217002855",
+  "url": "https://fortnite.fandom.com/wiki/Apollo",
+  "title": null,
+  "location": "*Reality Zero (Chapter 2 - Chapter 3) *Reality: UN-0-C2R (Chapter 2 Remix)",
+  "affiliation": null,
+  "introduced": "October 15th 2019 November 2nd 2024 (returned)",
+  "services": null,
+  "details": {
+    "name": "Apollo 25px|link=",
+    "image": "Apollo (Update v32.11) - Island - Fortnite.jpg|C2R (C5SR) (Final Day) Apollo (Update v32.00) - Island - Fortnite.png|C2R (C5SR) (Launch Day) Apollo (12-04-2021) - Map - Fortnite.png|Final Day (C2S8) Apollo (Update v18.00) - Island - Fortnite.png|Start of C2S8 Apollo (Update v17.00) - Island - Fortnite.png|C2S7 Apollo (Update v16.00) - Island - Fortnite.png|C2S6 Apollo (Update v15.00) - Island - Fortnite.png|C2S5 Apollo (Update v14.10) - Island - Fortnite.png|C2S4 Apollo (Update v13.00) - Island - Fortnite.png|C2S3 Apollo (Update v12.00) - Island - Fortnite.png|C2S2 Apollo (Update v11.00) - Island - Fortnite.png|Launch Day (C2S1)",
+    "type": "Island",
+    "status": "*Flipped to the Artemis side (The End (Chapter 2)). Later destroyed and merged with Artemis, a part of Reality: 659 and bits of other realities to form Asteria(Fracture). *Habitable, abandoned (Chapter 6: Season 1)",
+    "location": "*Reality Zero (Chapter 2 - Chapter 3) *Reality: UN-0-C2R (Chapter 2 Remix)",
+    "release": "October 15th 2019 November 2nd 2024 (returned)",
+    "removed": "December 4th 2021 (Flipped) December 4th 2022 (Destroyed) November 30, 2024",
+    "owner": "The Zero Point (C2S8) }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Apollo",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.610Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "apollo"
+}

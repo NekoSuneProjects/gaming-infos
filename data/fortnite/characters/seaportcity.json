@@ -1,0 +1,48 @@
+{
+  "name": "Seaport City",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/5/55/Seaport_City_-_Location_-_Fortnite.png/revision/latest?cb=20241209201415",
+  "url": "https://fortnite.fandom.com/wiki/Seaport_City",
+  "title": null,
+  "location": "W Shining Span S Pumped Power N Hopeful Heights",
+  "affiliation": null,
+  "introduced": "December 1st 2024",
+  "services": null,
+  "details": {
+    "name": "Seaport City",
+    "image": "Seaport City - Location - Fortnite.png|Overview Seaport City (v35.00 - Top View) - Location - Fortnite.png|Top View",
+    "location": "W Shining Span S Pumped Power N Hopeful Heights",
+    "type": "Named Location",
+    "island": "Oninoshima",
+    "owner": "(Seaport City Bank)",
+    "chests": "71",
+    "vending_machines": "2",
+    "ammo_boxes": "51",
+    "floor_loot": "115",
+    "produce_boxes": "10",
+    "landmarks": "*Seaport City Bank (Removed) *Seaport City Station",
+    "release": "December 1st 2024",
+    "removed": "June 7th 2025",
+    "vehicles": "4x Motors Whiplash 2x Grandeur Trailsmasher",
+    "character": "C6S1]] C6S1]]",
+    "boss": "C6S2]] C6S2]]",
+    "ID": "Athena.Location.POI.City",
+    "next": "Utopia City",
+    "franchises": "*Cuddle Buns *Durrr Sushi *Mad Buns *BURD }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Seaport_City",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.569Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "seaportcity"
+}

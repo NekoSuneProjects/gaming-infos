@@ -1,0 +1,42 @@
+{
+  "name": "Persephone",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/8/85/Persephone_%28Stygian_Legacy%29_-_Outfit_-_Fortnite.png/revision/latest?cb=20240622100957",
+  "url": "https://fortnite.fandom.com/wiki/Persephone",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "July 1st 2024",
+  "services": null,
+  "details": {
+    "image": "Persephone - Outfit - Fortnite.png|Icon Persephone (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Crew Series",
+    "set": "Underworld Queen",
+    "character model": "Amelia",
+    "added_in": "Update v30.20",
+    "ID": "Character_FairyFlex",
+    "BeanID": "Bean_FairyFlex",
+    "unlocked": "July 2024 Fortnite Crew Pack",
+    "LEGOUse": "y",
+    "FGUse": "y",
+    "cost": "$11.99 ()",
+    "release": "July 1st 2024",
+    "featured": "Persephone (Stygian Legacy - Featured) - Outfit - Fortnite.png }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Persephone",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.594Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "persephone"
+}

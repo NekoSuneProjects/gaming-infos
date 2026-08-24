@@ -1,0 +1,42 @@
+{
+  "name": "Dara",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/6/60/Dara_-_Outfit_-_Fortnite.png/revision/latest?cb=20231207112839",
+  "url": "https://fortnite.fandom.com/wiki/Dara",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "December 21st 2023",
+  "services": null,
+  "details": {
+    "image": "Dara - Outfit - Fortnite.png|Icon Dara (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "set": "Rogue Scout",
+    "cost": "$18.49 (Rogue Scout Pack)",
+    "unlocked": "Rogue Scout Pack",
+    "release": "December 21st 2023",
+    "character model": "Unique",
+    "added_in": "Update v28.01",
+    "ID": "Character_GoldenPleats",
+    "BeanID": "Bean_GoldenPleats",
+    "appearances": "Rogue Scout Pack",
+    "LEGOUse": "y",
+    "FGUse": "y }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Dara",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.623Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "dara"
+}

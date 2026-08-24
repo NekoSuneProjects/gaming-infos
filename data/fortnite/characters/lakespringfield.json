@@ -1,0 +1,35 @@
+{
+  "name": "Lake Springfield",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/c/c5/Lake_Springfield_%28v38.11%29_-_Landmark_-_Fortnite.png/revision/latest?cb=20260414145123",
+  "url": "https://fortnite.fandom.com/wiki/Lake_Springfield",
+  "title": null,
+  "location": "W Kamp Krusty SE Springfield Nuclear Power Plant",
+  "affiliation": null,
+  "introduced": "November 1st 2025",
+  "services": null,
+  "details": {
+    "image": "Lake Springfield (v38.11) - Landmark - Fortnite.png|Overview Lake Springfield (v38.11 - Top View) - Landmark - Fortnite.png|Top View",
+    "location": "W Kamp Krusty SE Springfield Nuclear Power Plant",
+    "type": "Landmark",
+    "island": "Springfield Island",
+    "release": "November 1st 2025",
+    "removed": "November 29th 2025",
+    "character": "C6MS2]] }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Lake_Springfield",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.545Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "lakespringfield"
+}

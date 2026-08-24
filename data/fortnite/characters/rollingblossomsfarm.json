@@ -1,0 +1,41 @@
+{
+  "name": "Rolling Blossoms Farm",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/c/cb/Rolling_Blossoms_Farm_-_Landmark_-_Fortnite.png/revision/latest?cb=20250426191514",
+  "url": "https://fortnite.fandom.com/wiki/Rolling_Blossoms_Farm",
+  "title": null,
+  "location": "S Seaport City NE Masked Meadows",
+  "affiliation": null,
+  "introduced": "December 1st 2024",
+  "services": null,
+  "details": {
+    "name": "Rolling Blossoms Farm",
+    "image": "Rolling Blossoms Farm - Landmark - Fortnite.png|Overview Rolling Blossoms Farm (Top View) - Landmark - Fortnite.png|Top View",
+    "location": "S Seaport City NE Masked Meadows",
+    "type": "Landmark",
+    "island": "Oninoshima",
+    "chests": "26",
+    "ammo_boxes": "1",
+    "floor_loot": "11",
+    "release": "December 1st 2024",
+    "removed": "November 1st 2025",
+    "vehicles": "1x Trail Thrasher",
+    "character": "C6S1]] C6S2]]",
+    "henchmen": "}}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Rolling_Blossoms_Farm",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.567Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "rollingblossomsfarm"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Centurion",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/8/82/Centurion_-_Outfit_-_Fortnite.png/revision/latest?cb=20210302121044",
+  "url": "https://fortnite.fandom.com/wiki/Centurion",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "March 23rd 2021 Part 1 (Removed quickly, Lack of assets) March 30th 2021",
+  "services": null,
+  "details": {
+    "name": "Centurion",
+    "image": "Centurion - Outfit - Fortnite.png|Icon Centurion (Featured) - Outfit - Fortnite.png|Featured",
+    "rarity": "Rare",
+    "type": "Outfit",
+    "cost": "$3.99 (Hazard Platoon Pack)",
+    "set": "Hazard Platoon",
+    "unlocked": "Hazard Platoon Pack",
+    "featured": "Centurion (Assault - Featured) - Outfit - Fortnite.png",
+    "character model": "Adam",
+    "appearances": "Hazard Platoon Pack",
+    "LEGOUse": "y",
+    "FGUse": "y",
+    "release": "March 23rd 2021 Part 1 (Removed quickly, Lack of assets) March 30th 2021",
+    "added_in": "Update v15.40",
+    "ID": "CID_A_035_Athena_Commando_M_LionSoldier",
+    "BeanID": "Bean_LionSoldierDark }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Centurion",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.576Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "centurion"
+}

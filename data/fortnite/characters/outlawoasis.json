@@ -1,0 +1,40 @@
+{
+  "name": "Outlaw Oasis",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/3/33/Outlaw_Oasis_-_Location_-_Fortnite.png/revision/latest?cb=20250422215217",
+  "url": "https://fortnite.fandom.com/wiki/Outlaw_Oasis",
+  "title": null,
+  "location": "SW Viney Shafts W Crime City",
+  "affiliation": null,
+  "introduced": "February 21st 2025",
+  "services": null,
+  "details": {
+    "name": "Outlaw Oasis",
+    "image": "Outlaw Oasis - Location - Fortnite.png|Overview Outlaw Oasis (Top) - Location - Fortnite.png|Top View",
+    "type": "Named Location",
+    "island": "Oninoshima",
+    "release": "February 21st 2025",
+    "removed": "November 1st 2025",
+    "character": "C6S2]] C6S4]] C6S4]]",
+    "location": "SW Viney Shafts W Crime City",
+    "chests": "28 normal 1 guaranteed rare",
+    "ammo_boxes": "11",
+    "produce_boxes": "4",
+    "previous": "Nightshift Forest }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Outlaw_Oasis",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.563Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "outlawoasis"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Sun Tan Specialist",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/e/e3/Sun_Tan_Specialist_%28New%29_-_Outfit_-_Fortnite.png/revision/latest?cb=20191202111332",
+  "url": "https://fortnite.fandom.com/wiki/Sun_Tan_Specialist",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "July 29th 2018",
+  "services": null,
+  "details": {
+    "image": "Sun Tan Specialist (v33.00) - Outfit - Fortnite.png|Icon Sun Tan Specialist (v36.00 - Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "bundled_with": "Rescue Ring",
+    "set": "Rescue Patrol",
+    "cost": "1,500",
+    "unlocked": "Item Shop",
+    "release": "July 29th 2018",
+    "appearances": "Sun Tan Specialist",
+    "character model": "Jonesy",
+    "added_in": "Update v5.10",
+    "LEGOUse": "y",
+    "ID": "CID_176_Athena_Commando_M_Lifeguard",
+    "FGUse": "y",
+    "BeanID": "Bean_SummerHeroesA }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Sun_Tan_Specialist",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.615Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "suntanspecialist"
+}

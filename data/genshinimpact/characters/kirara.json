@@ -1,11 +1,12 @@
 {
-    "name": "Kirara",
-    "cv": "Sayumi Suzushiro",
-    "description": "Kirara is a nekomata (cat spirit) who works as the Gold Level Courier for the Komaniya Express delivery service in Inazuma. She is perpetually drowsy and prone to falling asleep at odd moments, yet she takes great pride in completing every delivery.",
-    "image": "",
-    "city": "Inazuma",
-    "url": "https://genshin-impact.fandom.com/wiki/Kirara",
-    "element": "Dendro",
-    "weapon": "Sword",
-    "rating": 4
+  "name": "Kirara",
+  "cv": "Sayumi Suzushiro",
+  "description": "Kirara is a nekomata (cat spirit) who works as the Gold Level Courier for the Komaniya Express delivery service in Inazuma. She is perpetually drowsy and prone to falling asleep at odd moments, yet she takes great pride in completing every delivery.",
+  "image": "",
+  "city": "Inazuma",
+  "url": "https://genshin-impact.fandom.com/wiki/Kirara",
+  "element": "Dendro",
+  "weapon": "Sword",
+  "rating": 4,
+  "slug": "kirara"
 }

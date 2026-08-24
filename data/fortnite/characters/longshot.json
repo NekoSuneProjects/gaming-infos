@@ -1,0 +1,41 @@
+{
+  "name": "Longshot",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/5/56/Longshot_%28v31.20%29_-_Outfit_-_Fortnite.png/revision/latest?cb=20240917170701",
+  "url": "https://fortnite.fandom.com/wiki/Longshot",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "December 16th 2018",
+  "services": null,
+  "details": {
+    "image": "Longshot (v31.20) - Outfit - Fortnite.png|Icon Longshot (v15.00 - Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Rare",
+    "bundled_with": "Scope Satchel",
+    "set": "Ranged Recon",
+    "cost": "1,200",
+    "unlocked": "Item Shop",
+    "release": "December 16th 2018",
+    "added_in": "Update v6.31",
+    "LEGOUse": "y",
+    "ID": "CID_275_Athena_Commando_M_SniperHood",
+    "appearances": "Longshot",
+    "featured": "Longshot (Black - Featured) - Outfit - Fortnite.png }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Longshot",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.649Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "longshot"
+}

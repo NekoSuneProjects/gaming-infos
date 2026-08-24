@@ -1,14 +1,15 @@
 {
-    "name": "Jiuyuan",
-    "role": "DPS",
-    "element": "Lakshana",
-    "faction": "Sterry Express",
-    "rarity": "S-Rank",
-    "voiceActorEN": "Baraka May",
-    "voiceActorJP": "田中理恵",
-    "gender": "Female",
-    "favoriteGift": "TBA",
-    "birthdate": "July 24",
-    "image": "https://nte.wiki/images/characters/splash/jiuyuan.webp",
-    "url": "https://neverness-to-everness.fandom.com/wiki/Jiuyuan"
+  "name": "Jiuyuan",
+  "role": "DPS",
+  "element": "Lakshana",
+  "faction": "Sterry Express",
+  "rarity": "S-Rank",
+  "voiceActorEN": "Baraka May",
+  "voiceActorJP": "田中理恵",
+  "gender": "Female",
+  "favoriteGift": "TBA",
+  "birthdate": "July 24",
+  "image": "https://nte.wiki/images/characters/splash/jiuyuan.webp",
+  "url": "https://neverness-to-everness.fandom.com/wiki/Jiuyuan",
+  "slug": "jiuyuan"
 }

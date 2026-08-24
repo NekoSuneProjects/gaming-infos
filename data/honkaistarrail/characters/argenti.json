@@ -1,12 +1,13 @@
 {
-    "name": "Argenti",
-    "rarity": "5-star",
-    "path": "Erudition",
-    "element": "Physical",
-    "faction": "Knights of Beauty (independent knight-errant)",
-    "voiceActorEN": "Talon Warburton",
-    "voiceActorJP": "Shinnosuke Tachibana",
-    "description": "A classic knight of the Knights of Beauty, Argenti wanders the cosmos as a knight-errant performing heroic deeds in search of the missing Aeon of Beauty, Idrila. He upholds an old-fashioned code of chivalry and romanticism rare among the game's more cynical spacefarers.",
-    "image": "",
-    "url": "https://honkai-star-rail.fandom.com/wiki/Argenti"
+  "name": "Argenti",
+  "rarity": "5-star",
+  "path": "Erudition",
+  "element": "Physical",
+  "faction": "Knights of Beauty (independent knight-errant)",
+  "voiceActorEN": "Talon Warburton",
+  "voiceActorJP": "Shinnosuke Tachibana",
+  "description": "A classic knight of the Knights of Beauty, Argenti wanders the cosmos as a knight-errant performing heroic deeds in search of the missing Aeon of Beauty, Idrila. He upholds an old-fashioned code of chivalry and romanticism rare among the game's more cynical spacefarers.",
+  "image": "",
+  "url": "https://honkai-star-rail.fandom.com/wiki/Argenti",
+  "slug": "argenti"
 }

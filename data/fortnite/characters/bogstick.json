@@ -1,0 +1,43 @@
+{
+  "name": "Bogstick",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/d/d3/Bogstick_-_Outfit_-_Fortnite.png/revision/latest?cb=20231010102027",
+  "url": "https://fortnite.fandom.com/wiki/Bogstick",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "October 14th 2023",
+  "services": null,
+  "details": {
+    "image": "Bogstick - Outfit - Fortnite.png|Icon Bogstick (v31.40 - Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Rare",
+    "bundled_with": "Boggy Lamps",
+    "set": "Muckfish",
+    "release": "October 14th 2023",
+    "cost": "1,200",
+    "character model": "Unique",
+    "added_in": "Update v26.30",
+    "ID": "Character_SwampFish",
+    "BeanID": "Bean_SwampFish",
+    "appearances": "Bogstick",
+    "featured": "Bogstick (Reactive - Featured) - Outfit - Fortnite.png",
+    "LEGOUse": "y",
+    "FGUse": "y }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Bogstick",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.642Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "bogstick"
+}

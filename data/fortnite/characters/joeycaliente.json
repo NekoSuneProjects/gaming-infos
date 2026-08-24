@@ -1,0 +1,44 @@
+{
+  "name": "Joey Caliente",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/0/00/Joey_Caliente_-_Outfit_-_Fortnite.png/revision/latest?cb=20240622100942",
+  "url": "https://fortnite.fandom.com/wiki/Joey_Caliente",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "July 1st 2024",
+  "services": null,
+  "details": {
+    "image": "Joey Caliente - Outfit - Fortnite.png|Icon Joey Caliente (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "bundled_with": "Liquid Regret",
+    "set": "Well-Seasoned",
+    "character model": "Unique",
+    "added_in": "Update v30.20",
+    "unlocked": "Item Shop Joey Caliente Bundle",
+    "cost": "1,500 1,800 (Joey Caliente Bundle)",
+    "release": "July 1st 2024",
+    "appearances": "Joey Caliente",
+    "ID": "Character_CarolinaChili",
+    "BeanID": "Bean_CarolinaChili",
+    "FGUse": "y",
+    "LEGOUse": "y",
+    "featured": "Joey Caliente (Nightshades Off - Featured) - Outfit - Fortnite.png }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Joey_Caliente",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.592Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "joeycaliente"
+}

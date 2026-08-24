@@ -1,0 +1,23 @@
+{
+  "name": "Cobalt-B",
+  "description": "Playable Simulacrum in Tower of Fantasy.",
+  "image": "/images/banner.png",
+  "url": "https://toweroffantasy.info/simulacra/imitation_10",
+  "rarity": null,
+  "role": null,
+  "elements": [],
+  "element": null,
+  "source": {
+    "provider": "Tower of Fantasy Index",
+    "url": "https://toweroffantasy.info/simulacra/imitation_10",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "toweroffantasy-info",
+    "game": "toweroffantasy",
+    "syncedAt": "2026-08-24T11:05:51.011Z",
+    "releasedOnly": true
+  },
+  "slug": "cobaltb"
+}

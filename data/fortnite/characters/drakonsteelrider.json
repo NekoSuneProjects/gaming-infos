@@ -1,0 +1,43 @@
+{
+  "name": "Drakon Steel Rider",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/f/f4/Drakon_Steel_Rider_%28Ranked_-_On%29_-_Outfit_-_Fortnite.png/revision/latest?cb=20240524143307",
+  "url": "https://fortnite.fandom.com/wiki/Drakon_Steel_Rider",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "May 27th 2024",
+  "services": null,
+  "details": {
+    "image": "Drakon Steel Rider - Outfit - Fortnite.png|Icon Drakon Steel Rider (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "set": "Scarlet Champion",
+    "character model": "Empty Head",
+    "unlocked": "Item Shop Drakon Steel Rider Bundle",
+    "cost": "1,500 1,800 (Drakon Steel Rider Bundle)",
+    "release": "May 27th 2024",
+    "appearances": "Drakon Steel Rider",
+    "added_in": "Update v30.00",
+    "ID": "Character_RankedSpeeder",
+    "BeanID": "Bean_RankedSpeeder",
+    "featured": "Drakon Steel Rider (Ranked On - Featured) - Outfit - Fortnite.png",
+    "LEGOUse": "y",
+    "FGUse": "y }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Drakon_Steel_Rider",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.590Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "drakonsteelrider"
+}

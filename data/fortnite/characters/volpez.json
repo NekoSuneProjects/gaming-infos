@@ -1,0 +1,41 @@
+{
+  "name": "Volpez",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/0/0c/Volpez_-_Outfit_-_Fortnite.png/revision/latest?cb=20230131111459",
+  "url": "https://fortnite.fandom.com/wiki/Volpez",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "October 1st 2023",
+  "services": null,
+  "details": {
+    "image": "Volpez - Outfit - Fortnite.png|Icon Volpez (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Rare",
+    "set": "Winter's Trickster",
+    "unlocked": "Winter's Trickster Legacy Set",
+    "cost": "$47.96 (4x )",
+    "added_in": "Update v23.30",
+    "release": "October 1st 2023",
+    "character model": "Fennix",
+    "LEGOUse": "y",
+    "FGUse": "y",
+    "ID": "Character_LopexSnow",
+    "BeanID": "Bean_LopexSnow }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Volpez",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.642Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "volpez"
+}

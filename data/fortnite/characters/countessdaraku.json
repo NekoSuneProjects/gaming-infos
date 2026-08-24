@@ -1,0 +1,45 @@
+{
+  "name": "Countess Daraku",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/0/01/Countess_Daraku_-_Outfit_-_Fortnite.png/revision/latest?cb=20230825083413",
+  "url": "https://fortnite.fandom.com/wiki/Countess_Daraku",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "September 10th 2023",
+  "services": null,
+  "details": {
+    "name": "Countess Daraku",
+    "image": "Countess Daraku - Outfit - Fortnite.png|Icon Countess Daraku (v40.20 - Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Rare",
+    "cost": "1,200",
+    "bundled_with": "Waveform Wings",
+    "unlocked": "Item Shop",
+    "release": "September 10th 2023",
+    "character model": "Daraku",
+    "set": "Starfang",
+    "added_in": "Update v26.00",
+    "appearances": "Countess Daraku",
+    "LEGOUse": "y",
+    "FGUse": "y",
+    "ID": "Character_IchorIncisor",
+    "BeanID": "Bean_IchorIncisor",
+    "featured": "Countess Daraku (v40.20 - Glasses - Off - Featured) - Outfit - Fortnite.png }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Countess_Daraku",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.633Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "countessdaraku"
+}

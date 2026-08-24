@@ -1,12 +1,13 @@
 {
-    "name": "Escoffier",
-    "quote": "I came up with a 'Lily sugar-glazed opera cake,' and Lady Furina actually liked it and said she would remember me.",
-    "cv": "Sato Satomi",
-    "description": "The strict and talented ex-head chef of Hotel Debord, whose precision gastronomy is famed throughout Fontaine and whose exacting standards make her feared by kitchen staff who waste food.",
-    "image": "https://www.destructoid.com/wp-content/uploads/2025/04/escoffier-va-in-genshin-impact.jpg",
-    "city": "Fontaine",
-    "url": "https://www.sportskeeda.com/esports/escoffier-va-genshin-impact-official-japanese-voice-actor-notable-works",
-    "element": "Cryo",
-    "weapon": "Polearm",
-    "rating": 5
+  "name": "Escoffier",
+  "quote": "I came up with a 'Lily sugar-glazed opera cake,' and Lady Furina actually liked it and said she would remember me.",
+  "cv": "Sato Satomi",
+  "description": "The strict and talented ex-head chef of Hotel Debord, whose precision gastronomy is famed throughout Fontaine and whose exacting standards make her feared by kitchen staff who waste food.",
+  "image": "https://www.destructoid.com/wp-content/uploads/2025/04/escoffier-va-in-genshin-impact.jpg",
+  "city": "Fontaine",
+  "url": "https://www.sportskeeda.com/esports/escoffier-va-genshin-impact-official-japanese-voice-actor-notable-works",
+  "element": "Cryo",
+  "weapon": "Polearm",
+  "rating": 5,
+  "slug": "escoffier"
 }

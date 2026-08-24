@@ -1,0 +1,47 @@
+{
+  "name": "Crime City",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/2/28/Crime_City_%28v35.10%29_-_Location_-_Fortnite.png/revision/latest?cb=20260705223049",
+  "url": "https://fortnite.fandom.com/wiki/Crime_City",
+  "title": null,
+  "location": "W Foxy Floodgate E Outlaw Oasis SE Shiny Shafts",
+  "affiliation": null,
+  "introduced": "February 21st 2025",
+  "services": null,
+  "details": {
+    "name": "Crime City",
+    "image": "Crime City (v35.10) - Location - Fortnite.png|Overview Crime City (v35.10 - Top View) - Location - Fortnite.png|Top View",
+    "location": "W Foxy Floodgate E Outlaw Oasis SE Shiny Shafts",
+    "island": "Oninoshima",
+    "type": "Named Location",
+    "release": "February 21st 2025",
+    "removed": "August 7th 2025",
+    "character": "C6S3]] C6S3]]",
+    "boss": "C6S2]] C6S2]]",
+    "owner": "(Crime City Bank)",
+    "landmarks": "*Crime City Bank (C6S2)",
+    "vehicles": "4x Grandeur Trailsmasher 6x Motors Whiplash",
+    "chests": "53",
+    "ammo_boxes": "40",
+    "floor_loot": "83",
+    "produce_boxes": "3",
+    "franchises": "*Pew Pew Pawn Shop *Dead Lifts *Pig'N Pinch *Garden Center *Shady Eyes *Arcade *Two Guys Cleaning *BURD *Slurp Room *Hostile Hotel *Smash N' Grab *Launder-Mat *Some Regerts *Red Light Specials *Wise Guys Bookstore *Cuddle Buns",
+    "previous": "Warrior's Watch",
+    "next": "Ranger's Ruin }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Crime_City",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.559Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "crimecity"
+}

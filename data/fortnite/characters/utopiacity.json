@@ -1,0 +1,27 @@
+{
+  "name": "Utopia City",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/a/a7/Utopia_City_%28v37.40%29_-_Location_-_Fortnite.png/revision/latest?cb=20260531165239",
+  "url": "https://fortnite.fandom.com/wiki/Utopia_City",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": null,
+  "services": null,
+  "details": {},
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Utopia_City",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.552Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "utopiacity"
+}

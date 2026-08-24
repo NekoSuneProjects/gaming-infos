@@ -1,0 +1,42 @@
+{
+  "name": "Sunken Shores",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/0/06/Sunken_Shores_-_Location_-_Fortnite.png/revision/latest?cb=20260630183906",
+  "url": "https://fortnite.fandom.com/wiki/Sunken_Shores",
+  "title": null,
+  "location": "S Sinister Strip SW Shaken Sanctuary SE Heatwave Harbor W Cluster Coast",
+  "affiliation": null,
+  "introduced": "June 6th 2026",
+  "services": null,
+  "details": {
+    "name": "Sunken Shores",
+    "image": "Sunken Shores - Location - Fortnite.png|Overview Sunken Shores (Top View) - Location - Fortnite.png|Top View",
+    "location": "S Sinister Strip SW Shaken Sanctuary SE Heatwave Harbor W Cluster Coast",
+    "type": "Named Location",
+    "island": "Shattered Coast",
+    "chests": "36",
+    "ammo_boxes": "21",
+    "produce_boxes": "12",
+    "vending_machines": "3",
+    "release": "June 6th 2026",
+    "character": "C7S3]]",
+    "franchises": "*Sticks *Ziggy's Surf & Skate *Durrr Burger *Snow Cones *Mother Puckers",
+    "vehicles": "2x Grandeur Trailsmasher 1x Motors Whiplash 2x Motorboat 1x Reboot Van 1x Batman's Beach Buggy",
+    "wildlife": "C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Sunken_Shores",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.507Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "sunkenshores"
+}

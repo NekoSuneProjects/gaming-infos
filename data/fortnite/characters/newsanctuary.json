@@ -1,0 +1,43 @@
+{
+  "name": "New Sanctuary",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/b/b5/New_Sanctuary_-_Location_-_Fortnite.png/revision/latest?cb=20260602163730",
+  "url": "https://fortnite.fandom.com/wiki/New_Sanctuary",
+  "title": null,
+  "location": "E Sus Studios S Sandy Strip",
+  "affiliation": null,
+  "introduced": "March 19th 2026",
+  "services": null,
+  "details": {
+    "name": "New Sanctuary",
+    "image": "New Sanctuary - Location - Fortnite.png|Overview New Sanctuary (Top View) - Location - Fortnite.png|Top View",
+    "location": "E Sus Studios S Sandy Strip",
+    "type": "Named Location",
+    "island": "Golden Coast",
+    "chests": "77",
+    "ammo_boxes": "65",
+    "produce_boxes": "5",
+    "vending_machines": "3",
+    "release": "March 19th 2026",
+    "removed": "June 6th 2026",
+    "vehicles": "2x Reboot Van 10x Grandeur Trailsmasher 1x Motors Whiplash 1x All Terrain Kart",
+    "character": "C7S2]] C7S2]] C7S2]]",
+    "previous": "Classified Canyon",
+    "next": "Shaken Sanctuary}}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/New_Sanctuary",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.519Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "newsanctuary"
+}

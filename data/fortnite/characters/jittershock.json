@@ -1,0 +1,44 @@
+{
+  "name": "Jittershock",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/9/95/Jittershock_-_Outfit_-_Fortnite.png/revision/latest?cb=20230726090854",
+  "url": "https://fortnite.fandom.com/wiki/Jittershock",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "August 7th 2023",
+  "services": null,
+  "details": {
+    "image": "Jittershock - Outfit - Fortnite.png|Icon Jittershock (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "bundled_with": "Jittervault Jolt Carver",
+    "set": "Spark of Adventure",
+    "cost": "1,500 1,800 (Thunder Bundle)",
+    "unlocked": "Item Shop Thunder Bundle",
+    "release": "August 7th 2023",
+    "appearances": "Jittershock",
+    "added_in": "Update v25.20",
+    "character model": "Empty Head",
+    "LEGOUse": "y",
+    "FGUse": "y",
+    "ID": "Character_StaticShades",
+    "BeanID": "Bean_StaticShades",
+    "featured": "Jittershock (FX Off - Featured) - Outfit - Fortnite.png }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Jittershock",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.606Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "jittershock"
+}

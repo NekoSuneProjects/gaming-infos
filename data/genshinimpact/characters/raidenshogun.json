@@ -1,12 +1,13 @@
 {
-    "name": "Raiden Shogun",
-    "quote": "Eternity is the very essence of justice.",
-    "cv": "Miyuki Sawashiro",
-    "description": "The Electro Archon and ruler of Inazuma, who seeks to attain 'Eternity' by shielding her nation from change. She governs through a puppet body while her true self, Raiden Ei, meditates in a plane outside time.",
-    "image": "",
-    "city": "Inazuma",
-    "url": "https://genshin-impact.fandom.com/wiki/Raiden_Shogun",
-    "element": "Electro",
-    "weapon": "Polearm",
-    "rating": 5
+  "name": "Raiden Shogun",
+  "quote": "Eternity is the very essence of justice.",
+  "cv": "Miyuki Sawashiro",
+  "description": "The Electro Archon and ruler of Inazuma, who seeks to attain 'Eternity' by shielding her nation from change. She governs through a puppet body while her true self, Raiden Ei, meditates in a plane outside time.",
+  "image": "",
+  "city": "Inazuma",
+  "url": "https://genshin-impact.fandom.com/wiki/Raiden_Shogun",
+  "element": "Electro",
+  "weapon": "Polearm",
+  "rating": 5,
+  "slug": "raidenshogun"
 }

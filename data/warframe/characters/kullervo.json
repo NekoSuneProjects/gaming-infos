@@ -1,0 +1,191 @@
+{
+  "name": "Kullervo",
+  "description": "Kullervo answers for his sins and the sins of others. His daggers and melee prowess deal high damage. Seize the power of treachery to slake his thirst for revenge.",
+  "image": "https://cdn.warframestat.us/img/PaxDuviricus.png",
+  "url": "https://wiki.warframe.com/w/Kullervo",
+  "uniqueName": "/Lotus/Powersuits/PaxDuviricus/PaxDuviricus",
+  "isPrime": false,
+  "health": 1005,
+  "shield": 0,
+  "armor": 550,
+  "energy": 175,
+  "sprintSpeed": 1.1,
+  "masteryReq": 0,
+  "sex": "Male",
+  "aura": "naramon",
+  "polarities": [
+    "madurai",
+    "madurai"
+  ],
+  "abilities": [
+    {
+      "uniqueName": "/Lotus/Powersuits/PaxDuviricus/Abilities/PaxTeleportAbility",
+      "name": "Wrathful Advance",
+      "description": "(TAP) Kullervo charges a Heavy Attack, then teleports to his target and strikes. His rage-filled focus temporarily increases his Melee Critical Chance.\n(HOLD) Teleport to any marked location.",
+      "imageName": "KullervoExecute.png"
+    },
+    {
+      "uniqueName": "/Lotus/Powersuits/PaxDuviricus/Abilities/PaxBladesAbility",
+      "name": "Recompense",
+      "description": "Kullervo surrounds himself with daggers. Each dagger that strikes an enemy restores his health, but each dagger that misses an enemy strikes Kullervo, dealing a bit of damage. When Kullervo has max Health, he receives Overguard from struck enemies.",
+      "imageName": "KullervoBackstab.png"
+    },
+    {
+      "uniqueName": "/Lotus/Powersuits/PaxDuviricus/Abilities/PaxLinkAbility",
+      "name": "Collective Curse",
+      "description": "Kullervo sends forth a curse that binds enemies. When a cursed enemy takes damage from him, every other cursed enemy also suffers a portion of that damage.",
+      "imageName": "KullervoSharedFate.png"
+    },
+    {
+      "uniqueName": "/Lotus/Powersuits/PaxDuviricus/Abilities/PaxFieldAbility",
+      "name": "Storm Of Ukko",
+      "description": "The Void answers Kullervo's invocation with a storm of daggers that rain down upon his enemies.",
+      "imageName": "KullervoRisingBlades.png"
+    }
+  ],
+  "releaseDate": "2023-06-21",
+  "source": {
+    "provider": "WarframeStat.us / WFCD",
+    "url": "https://api.warframestat.us/warframes",
+    "publicDataOnly": true,
+    "project": "Warframe Community Developers"
+  },
+  "details": {
+    "uniqueName": "/Lotus/Powersuits/PaxDuviricus/PaxDuviricus",
+    "name": "Kullervo",
+    "description": "Kullervo answers for his sins and the sins of others. His daggers and melee prowess deal high damage. Seize the power of treachery to slake his thirst for revenge.",
+    "health": 1005,
+    "shield": 0,
+    "armor": 550,
+    "stamina": 3,
+    "power": 175,
+    "codexSecret": false,
+    "masteryReq": 0,
+    "sprintSpeed": 1.1,
+    "passiveDescription": "Kullervo boasts +|EFFICIENCY|% Heavy Attack Efficiency and +|WINDUP|% Heavy Attack Wind Up Speed on all melee weapons.",
+    "abilities": [
+      {
+        "uniqueName": "/Lotus/Powersuits/PaxDuviricus/Abilities/PaxTeleportAbility",
+        "name": "Wrathful Advance",
+        "description": "(TAP) Kullervo charges a Heavy Attack, then teleports to his target and strikes. His rage-filled focus temporarily increases his Melee Critical Chance.\n(HOLD) Teleport to any marked location.",
+        "imageName": "KullervoExecute.png"
+      },
+      {
+        "uniqueName": "/Lotus/Powersuits/PaxDuviricus/Abilities/PaxBladesAbility",
+        "name": "Recompense",
+        "description": "Kullervo surrounds himself with daggers. Each dagger that strikes an enemy restores his health, but each dagger that misses an enemy strikes Kullervo, dealing a bit of damage. When Kullervo has max Health, he receives Overguard from struck enemies.",
+        "imageName": "KullervoBackstab.png"
+      },
+      {
+        "uniqueName": "/Lotus/Powersuits/PaxDuviricus/Abilities/PaxLinkAbility",
+        "name": "Collective Curse",
+        "description": "Kullervo sends forth a curse that binds enemies. When a cursed enemy takes damage from him, every other cursed enemy also suffers a portion of that damage.",
+        "imageName": "KullervoSharedFate.png"
+      },
+      {
+        "uniqueName": "/Lotus/Powersuits/PaxDuviricus/Abilities/PaxFieldAbility",
+        "name": "Storm Of Ukko",
+        "description": "The Void answers Kullervo's invocation with a storm of daggers that rain down upon his enemies.",
+        "imageName": "KullervoRisingBlades.png"
+      }
+    ],
+    "productCategory": "Suits",
+    "buildPrice": 30000,
+    "buildTime": 259200,
+    "skipBuildTimePrice": 50,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/PaxDuviricusBlueprint",
+        "name": "Blueprint",
+        "description": "Kullervo answers for his sins and the sins of others. His daggers and melee prowess deal high damage. Seize the power of treachery to slake his thirst for revenge.",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false,
+        "masterable": false,
+        "drops": []
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/PaxDuviricusChassisComponent",
+        "name": "Chassis",
+        "description": "Chassis component of the Kullervo Warframe.",
+        "codexSecret": false,
+        "itemCount": 1,
+        "imageName": "GenericWarframeChassis.png",
+        "tradable": false,
+        "masterable": false,
+        "drops": []
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/PaxDuviricusHelmetComponent",
+        "name": "Neuroptics",
+        "description": "Neuroptics component of the Kullervo Warframe.",
+        "codexSecret": false,
+        "itemCount": 1,
+        "imageName": "GenericWarframeHelmet.png",
+        "tradable": false,
+        "masterable": false,
+        "drops": []
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriDragonDropItem",
+        "name": "Pathos Clamp",
+        "description": "The manifestation of Thrax's malevolence that shapes the Orowyrms' outbursts.\n\nLocation: Rewarded upon defeating the Orowyrm in Duviri ",
+        "codexSecret": false,
+        "itemCount": 10,
+        "imageName": "DuviriWyrmsoul.png",
+        "tradable": false,
+        "masterable": false,
+        "drops": []
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/PaxDuviricusSystemsComponent",
+        "name": "Systems",
+        "description": "Systems component of the Kullervo Warframe.",
+        "codexSecret": false,
+        "itemCount": 1,
+        "imageName": "GenericWarframeSystem.png",
+        "tradable": false,
+        "masterable": false,
+        "drops": []
+      }
+    ],
+    "type": "Warframe",
+    "imageName": "PaxDuviricus.png",
+    "category": "Warframes",
+    "tradable": false,
+    "wikiAvailable": true,
+    "aura": "naramon",
+    "conclave": false,
+    "color": 0,
+    "introduced": {
+      "name": "Update 33.5",
+      "url": "https://wiki.warframe.com/w/Update_33%23Update_33.5",
+      "aliases": [
+        "33.5"
+      ],
+      "parent": "33.0",
+      "date": "2023-06-21"
+    },
+    "marketCost": 325,
+    "polarities": [
+      "madurai",
+      "madurai"
+    ],
+    "sex": "Male",
+    "sprint": 1.1,
+    "wikiaUrl": "https://wiki.warframe.com/w/Kullervo",
+    "releaseDate": "2023-06-21",
+    "isPrime": false,
+    "masterable": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "warframestat-us",
+    "game": "warframe",
+    "syncedAt": "2026-08-24T11:04:46.318Z",
+    "releasedOnly": true
+  },
+  "slug": "kullervo"
+}

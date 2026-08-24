@@ -1,0 +1,39 @@
+{
+  "name": "The Quackaway",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/f/f4/The_Quackaway_-_Landmark_-_Fortnite.png/revision/latest?cb=20260619034032",
+  "url": "https://fortnite.fandom.com/wiki/The_Quackaway",
+  "title": null,
+  "location": "S Heatwave Harbor",
+  "affiliation": null,
+  "introduced": "June 6th 2026",
+  "services": null,
+  "details": {
+    "name": "The Quackaway",
+    "image": "The Quackaway - Landmark - Fortnite.png|Overview The Quackaway (Top View) - Landmark - Fortnite.png|Top View",
+    "location": "S Heatwave Harbor",
+    "type": "Landmark",
+    "island": "Shattered Coast",
+    "release": "June 6th 2026",
+    "chests": "15",
+    "ammo_boxes": "10",
+    "vending_machines": "3",
+    "owner": "Cluster",
+    "character": "v41.30]] }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/The_Quackaway",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.501Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "thequackaway"
+}

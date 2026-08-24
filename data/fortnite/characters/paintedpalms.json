@@ -1,0 +1,41 @@
+{
+  "name": "Painted Palms",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/6/67/Painted_Palms_-_Location_-_Fortnite.png/revision/latest?cb=20260526060948",
+  "url": "https://fortnite.fandom.com/wiki/Painted_Palms",
+  "title": null,
+  "location": "SE Latte Landing N Sandy Strip NW Fore Fields",
+  "affiliation": null,
+  "introduced": "November 29th 2025",
+  "services": null,
+  "details": {
+    "name": "Painted Palms",
+    "image": "Painted Palms - Location - Fortnite.png|Overview Painted Palms (Top View) - Location - Fortnite.png|Top View",
+    "location": "SE Latte Landing N Sandy Strip NW Fore Fields",
+    "type": "Named Location",
+    "island": "Golden Coast",
+    "chests": "33",
+    "ammo_boxes": "22",
+    "produce_boxes": "4",
+    "release": "November 29th 2025",
+    "removed": "June 6th 2026",
+    "character": "C7S1]] C7S2]]",
+    "vehicles": "1x Reboot Van 3x Grandeur Trailsmasher 2x Motors Whiplash",
+    "franchises": "*Durrr Burger }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Painted_Palms",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.527Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "paintedpalms"
+}

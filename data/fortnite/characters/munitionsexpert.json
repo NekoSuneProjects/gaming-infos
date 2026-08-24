@@ -1,0 +1,42 @@
+{
+  "name": "Munitions Expert",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/8/8f/Munitions_Expert_-_Outfit_-_Fortnite.png/revision/latest?cb=20180607174348",
+  "url": "https://fortnite.fandom.com/wiki/Munitions_Expert",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "October 27th 2017",
+  "services": null,
+  "details": {
+    "image": "Munitions Expert (v34.10) - Outfit - Fortnite.png|Icon Munitions Expert (Featured) (New) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Rare",
+    "cost": "1,200 1,800 (Bizzle's Locker Bundle)",
+    "unlocked": "Item Shop Bizzle's Locker Bundle",
+    "release": "October 27th 2017",
+    "character model": "Ramirez",
+    "body model": "Default Female C1",
+    "added_in": "Update v1.8",
+    "appearances": "Munitions Expert",
+    "LEGOUse": "y",
+    "ID": "CID_023_Athena_Commando_F",
+    "FGUse": "y",
+    "BeanID": "Bean_MunitionsExpert }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Munitions_Expert",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.650Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "munitionsexpert"
+}

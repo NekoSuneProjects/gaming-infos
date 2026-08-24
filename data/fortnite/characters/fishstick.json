@@ -1,0 +1,45 @@
+{
+  "name": "Fishstick",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/f/f6/Fishstick_%28Default_Featured%29_-_Outfit_-_Fortnite.png/revision/latest?cb=20210418032248",
+  "url": "https://fortnite.fandom.com/wiki/Fishstick",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "December 27th 2018",
+  "services": null,
+  "details": {
+    "image": "Fishstick (v31.30) - Outfit - Fortnite.png|Icon Fishstick (Default Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Rare",
+    "bundled_with": "Saltwater Satchel",
+    "set": "Fish Food",
+    "cost": "1,200 2,200 (Fishstick Bundle)",
+    "unlocked": "Item Shop Fishstick Bundle",
+    "release": "December 27th 2018",
+    "character model": "Fishstick",
+    "body model": "Fishstick",
+    "added_in": "Update v7.10",
+    "ID": "CID_315_Athena_Commando_M_TeriyakiFish",
+    "FGUse": "y",
+    "BeanID": "Bean_TeriyakiFish",
+    "appearances": "Fishstick",
+    "featured": "Fishstick (Pirate Featured) - Outfit - Fortnite.png|1 Fishstick (VR - Featured) - Outfit - Fortnite.png|2",
+    "LEGOUse": "y }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Fishstick",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.637Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "fishstick"
+}

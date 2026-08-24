@@ -1,0 +1,44 @@
+{
+  "name": "Guardian Amara",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/1/1f/Guardian_Amara_-_Outfit_-_Fortnite.png/revision/latest?cb=20220503151956",
+  "url": "https://fortnite.fandom.com/wiki/Guardian_Amara",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "May 10th 2022",
+  "services": null,
+  "details": {
+    "image": "Guardian Amara - Outfit - Fortnite.png|Icon Guardian Amara (Hood Up - Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "set": "Goldenbane Guardian",
+    "cost": "$11.99 (Goldenbane Guardian Quest Pack)",
+    "unlocked": "Goldenbane Guardian Quest Pack",
+    "character model": "Jada",
+    "body model": "Unique",
+    "release": "May 10th 2022",
+    "added_in": "Update v20.30",
+    "LEGOUse": "y",
+    "ID": "CID_A_400_Athena_Commando_F_ShinyCreature",
+    "BeanID": "Bean_ShinyCreature",
+    "appearances": "Goldenbane Guardian Quest Pack",
+    "FGUse": "y",
+    "featured": "Guardian Amara (Featured) - Outfit - Fortnite.png|1 Guardian Amara (Goldenbane Scales - Featured) - Outfit - Fortnite.png|2 }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Guardian_Amara",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.644Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "guardianamara"
+}

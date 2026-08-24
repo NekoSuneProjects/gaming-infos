@@ -1,0 +1,51 @@
+{
+  "name": "Zankou",
+  "description": "",
+  "image": "https://static.wikia.nocookie.net/neverness-to-everness/images/0/00/Zankou_Portrait.png/revision/latest?cb=20260817142354",
+  "url": "https://neverness-to-everness.fandom.com/wiki/Zankou",
+  "rarity": "S-Rank",
+  "source": {
+    "provider": "Neverness to Everness Wiki",
+    "url": "https://neverness-to-everness.fandom.com/wiki/Zankou",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "details": {
+    "type": "Playable",
+    "rarity": "S",
+    "arctype": "Gas",
+    "espertype": "Incantation",
+    "esperability": "The Eye of Delusion",
+    "releaseDate": "2026-08-19",
+    "name": "Zankou",
+    "alias": "Bella",
+    "gender": "Female",
+    "affiliation": "No Faction",
+    "affiliation2": "The Scarlet Letter",
+    "obtain": "Alluring Shadows",
+    "voiceEN": "Stephanie Wong",
+    "voiceCN": "Chen Tingting (陳婷婷)",
+    "voiceJP": "Inoue Kikuko (井上 喜久子)",
+    "voiceKR": "Heo Ye-eun (허예은) }}"
+  },
+  "_sync": {
+    "managed": true,
+    "game": "nte",
+    "provider": "fandom-mediawiki",
+    "syncedAt": "2026-08-24T11:04:42.204Z",
+    "officialAnnouncementUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html"
+  },
+  "role": null,
+  "element": "Incantation",
+  "esperType": "Incantation",
+  "arcType": "Gas",
+  "faction": "No Faction",
+  "voiceActorEN": null,
+  "voiceActorJP": null,
+  "gender": "Female",
+  "favoriteGift": null,
+  "birthdate": null,
+  "releaseDate": "2026-08-19",
+  "version": null,
+  "slug": "zankou"
+}

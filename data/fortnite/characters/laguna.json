@@ -1,0 +1,43 @@
+{
+  "name": "Laguna",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/1/1d/Laguna_%28New%29_-_Outfit_-_Fortnite.png/revision/latest?cb=20201118195441",
+  "url": "https://fortnite.fandom.com/wiki/Laguna",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "March 12th 2019",
+  "services": null,
+  "details": {
+    "image": "Laguna (v30.00) - Outfit - Fortnite.png|Icon Laguna (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Rare",
+    "set": "Beach Battalion",
+    "cost": "$4.99 (The Laguna Pack)",
+    "unlocked": "The Laguna Pack",
+    "release": "March 12th 2019",
+    "character model": "Headhunter",
+    "body model": "Default Female C1",
+    "added_in": "Update v8.10",
+    "ID": "CID_367_Athena_Commando_F_Tropical",
+    "BeanID": "Bean_TropicalB",
+    "appearances": "The Laguna Pack",
+    "LEGOUse": "y",
+    "FGUse": "y }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Laguna",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.600Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "laguna"
+}

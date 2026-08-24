@@ -1,0 +1,41 @@
+{
+  "name": "Heatwave Harbor",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/2/22/Heatwave_Harbor_-_Location_-_Fortnite.png/revision/latest?cb=20260630181710",
+  "url": "https://fortnite.fandom.com/wiki/Heatwave_Harbor",
+  "title": null,
+  "location": "W Sinister Strip NW Sunken Shores S Calamari Canyon",
+  "affiliation": null,
+  "introduced": "June 6th 2026",
+  "services": null,
+  "details": {
+    "name": "Heatwave Harbor",
+    "image": "Heatwave Harbor - Location - Fortnite.png|Overview Heatwave Harbor (Top View) - Location - Fortnite.png|Top View",
+    "location": "W Sinister Strip NW Sunken Shores S Calamari Canyon",
+    "type": "Named Location",
+    "island": "Shattered Coast",
+    "chests": "37",
+    "ammo_boxes": "36",
+    "vending_machines": "3",
+    "release": "June 6th 2026",
+    "character": "C7S3]]",
+    "vehicles": "1x Grandeur Trailsmasher 2x Motors Whiplash 1x Reboot Van 2x Batman's Beach Buggy",
+    "wildlife": "C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]]",
+    "franchises": "*Shady Eyes *Ziggy's Surf & Skate *Flying Fish Tacos *Pink Dino *Sidekickin' It *Floats McGoats }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Heatwave_Harbor",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.510Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "heatwaveharbor"
+}

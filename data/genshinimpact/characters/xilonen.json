@@ -1,11 +1,12 @@
 {
-    "name": "Xilonen",
-    "cv": "Fairouz Ai",
-    "description": "A smith from the Children of Echoes whose skill with the forge is renowned throughout Natlan.",
-    "image": "",
-    "city": "Natlan",
-    "url": "https://genshin-impact.fandom.com/wiki/Xilonen",
-    "element": "Geo",
-    "weapon": "Sword",
-    "rating": 5
+  "name": "Xilonen",
+  "cv": "Fairouz Ai",
+  "description": "A smith from the Children of Echoes whose skill with the forge is renowned throughout Natlan.",
+  "image": "",
+  "city": "Natlan",
+  "url": "https://genshin-impact.fandom.com/wiki/Xilonen",
+  "element": "Geo",
+  "weapon": "Sword",
+  "rating": 5,
+  "slug": "xilonen"
 }

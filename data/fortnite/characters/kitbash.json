@@ -1,0 +1,44 @@
+{
+  "name": "Kitbash",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/0/01/Kitbash_%28v31.30%29_-_Outfit_-_Fortnite.png/revision/latest?cb=20241223214459",
+  "url": "https://fortnite.fandom.com/wiki/Kitbash",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "February 10th 2019",
+  "services": null,
+  "details": {
+    "image": "Kitbash (v31.30) - Outfit - Fortnite.png|Icon Kitbash (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "bundled_with": "Trash Lid",
+    "set": "Boneyard",
+    "cost": "1,500",
+    "unlocked": "Item Shop",
+    "release": "February 10th 2019",
+    "appearances": "Kitbash",
+    "character model": "Unique",
+    "added_in": "Update v7.30",
+    "featured": "Kitbash (Catbash - Featured) - Outfit - Fortnite.png",
+    "LEGOUse": "y",
+    "ID": "CID_334_Athena_Commando_M_Scrapyard",
+    "FGUse": "y",
+    "BeanID": "Bean_Garbage }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Kitbash",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.646Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "kitbash"
+}

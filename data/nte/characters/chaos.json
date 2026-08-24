@@ -1,14 +1,15 @@
 {
-    "name": "Chaos",
-    "role": "DPS",
-    "element": "Lakshana",
-    "faction": "Bureau of Anomaly Control (ETD-6)",
-    "rarity": "S-Rank",
-    "voiceActorEN": "Rick Kumazawa",
-    "voiceActorJP": "小西克幸",
-    "gender": "Male",
-    "favoriteGift": "TBA",
-    "birthdate": "TBA",
-    "image": "https://nte.wiki/images/characters/splash/chaos.webp",
-    "url": "https://neverness-to-everness.fandom.com/wiki/Chaos"
+  "name": "Chaos",
+  "role": "DPS",
+  "element": "Lakshana",
+  "faction": "Bureau of Anomaly Control (ETD-6)",
+  "rarity": "S-Rank",
+  "voiceActorEN": "Rick Kumazawa",
+  "voiceActorJP": "小西克幸",
+  "gender": "Male",
+  "favoriteGift": "TBA",
+  "birthdate": "TBA",
+  "image": "https://nte.wiki/images/characters/splash/chaos.webp",
+  "url": "https://neverness-to-everness.fandom.com/wiki/Chaos",
+  "slug": "chaos"
 }

@@ -1,0 +1,42 @@
+{
+  "name": "Nia",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/9/93/Nia_-_Outfit_-_Fortnite.png/revision/latest?cb=20220816092253",
+  "url": "https://fortnite.fandom.com/wiki/Nia",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "September 6th 2022",
+  "services": null,
+  "details": {
+    "image": "Nia - Outfit - Fortnite.png|Icon Nia (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Rare",
+    "set": "Crossmark Operative",
+    "cost": "$15.99 (Crossmark Operative Pack)",
+    "unlocked": "Crossmark Operative Pack",
+    "character model": "Imani",
+    "release": "September 6th 2022",
+    "added_in": "Update v21.40",
+    "LEGOUse": "y",
+    "FGUse": "y",
+    "ID": "CID_A_473_Athena_Commando_F_Fog",
+    "BeanID": "Bean_Fog",
+    "appearances": "Crossmark Operative Pack }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Nia",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.643Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "nia"
+}

@@ -1,12 +1,13 @@
 {
-    "name": "Clara",
-    "rarity": "5-star",
-    "path": "Destruction",
-    "element": "Physical",
-    "faction": "Belobog Underworld",
-    "voiceActorEN": "Emily Sun",
-    "voiceActorJP": "Rina Hidaka",
-    "description": "A mild-mannered orphan raised in Belobog's Robot Settlement, Clara is the ward of the ancient combat automaton Svarog, whom she treats as family. In battle she draws enemy attacks toward herself so Svarog can shield her and counterattack.",
-    "image": "",
-    "url": "https://honkai-star-rail.fandom.com/wiki/Clara"
+  "name": "Clara",
+  "rarity": "5-star",
+  "path": "Destruction",
+  "element": "Physical",
+  "faction": "Belobog Underworld",
+  "voiceActorEN": "Emily Sun",
+  "voiceActorJP": "Rina Hidaka",
+  "description": "A mild-mannered orphan raised in Belobog's Robot Settlement, Clara is the ward of the ancient combat automaton Svarog, whom she treats as family. In battle she draws enemy attacks toward herself so Svarog can shield her and counterattack.",
+  "image": "",
+  "url": "https://honkai-star-rail.fandom.com/wiki/Clara",
+  "slug": "clara"
 }

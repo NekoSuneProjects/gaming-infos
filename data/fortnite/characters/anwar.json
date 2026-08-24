@@ -1,0 +1,44 @@
+{
+  "name": "Anwar",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/0/0b/Anwar_-_Outfit_-_Fortnite.png/revision/latest?cb=20240308163648",
+  "url": "https://fortnite.fandom.com/wiki/Anwar",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "March 14th 2024",
+  "services": null,
+  "details": {
+    "image": "Anwar - Outfit - Fortnite.png|Icon Anwar (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Rare",
+    "bundled_with": "Moonlit Blades",
+    "set": "Radiant Moon",
+    "cost": "1,200 1,800 (Radiant Moon Bundle)",
+    "unlocked": "Item Shop Radiant Moon Bundle Lantern Fest Cup",
+    "release": "March 14th 2024",
+    "character model": "Scimitar",
+    "added_in": "Update v29.00",
+    "appearances": "Anwar",
+    "ID": "Character_PaperBlaze",
+    "BeanID": "Bean_PaperBlaze",
+    "featured": "Anwar (Mask - On - Featured) - Outfit - Fortnite.png",
+    "LEGOUse": "y",
+    "FGUse": "y }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Anwar",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.612Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "anwar"
+}

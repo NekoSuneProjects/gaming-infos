@@ -1,0 +1,40 @@
+{
+  "name": "Pumped Power",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/5/57/Pumped_Power_-_Location_-_Fortnite.png/revision/latest?cb=20250422215707",
+  "url": "https://fortnite.fandom.com/wiki/Pumped_Power",
+  "title": null,
+  "location": "NE Brutal Boxcars W Demon's Dojo‎ SE Magic Mosses",
+  "affiliation": null,
+  "introduced": "December 1st 2024",
+  "services": null,
+  "details": {
+    "name": "Pumped Power",
+    "image": "Pumped Power - Location - Fortnite.png|Overview Pumped Power (Top View) - Location - Fortnite.png|Top View",
+    "location": "NE Brutal Boxcars W Demon's Dojo‎ SE Magic Mosses",
+    "type": "Named Location",
+    "island": "Oninoshima",
+    "chests": "36 normal 2 elemental",
+    "vending_machines": "1",
+    "ammo_boxes": "39",
+    "release": "December 1st 2024",
+    "removed": "August 7th 2025",
+    "character": "C6S3]]",
+    "ID": "Athena.Location.POI.GeothermalPlant }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Pumped_Power",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.553Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "pumpedpower"
+}

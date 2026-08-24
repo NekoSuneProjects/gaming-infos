@@ -1,12 +1,13 @@
 {
-    "name": "Jiaoqiu",
-    "rarity": "5-star",
-    "path": "Nihility",
-    "element": "Fire",
-    "faction": "Xianzhou Yaoqing",
-    "voiceActorEN": "Mark Whitten",
-    "voiceActorJP": "Toshiyuki Toyonaga",
-    "description": "Jiaoqiu is a Foxian healer and counselor from the Xianzhou Yaoqing. As a Nihility character he weakens enemies through DoT-focused debuffs, and he was released as a 5-star character in version 2.4 (August 2024).",
-    "image": "",
-    "url": "https://honkai-star-rail.fandom.com/wiki/Jiaoqiu"
+  "name": "Jiaoqiu",
+  "rarity": "5-star",
+  "path": "Nihility",
+  "element": "Fire",
+  "faction": "Xianzhou Yaoqing",
+  "voiceActorEN": "Mark Whitten",
+  "voiceActorJP": "Toshiyuki Toyonaga",
+  "description": "Jiaoqiu is a Foxian healer and counselor from the Xianzhou Yaoqing. As a Nihility character he weakens enemies through DoT-focused debuffs, and he was released as a 5-star character in version 2.4 (August 2024).",
+  "image": "",
+  "url": "https://honkai-star-rail.fandom.com/wiki/Jiaoqiu",
+  "slug": "jiaoqiu"
 }

@@ -1,0 +1,39 @@
+{
+  "name": "Busan Sanctuary",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/2/2f/Busan_Sanctuary_-_Landmark_-_Fortnite.png/revision/latest?cb=20260514191414",
+  "url": "https://fortnite.fandom.com/wiki/Busan_Sanctuary",
+  "title": null,
+  "location": "NW Battlewood Boulevard SE Humble Hills",
+  "affiliation": null,
+  "introduced": "May 14th 2026",
+  "services": null,
+  "details": {
+    "name": "Busan Sanctuary",
+    "image": "Busan Sanctuary - Landmark - Fortnite.png|Overview Busan Sanctuary (Top View) - Landmark - Fortnite.png|Top View",
+    "location": "NW Battlewood Boulevard SE Humble Hills",
+    "type": "Landmark",
+    "island": "Golden Coast",
+    "release": "May 14th 2026",
+    "removed": "June 6th 2026",
+    "character": "C7S2]]",
+    "chests": "2",
+    "ammo_boxes": "1",
+    "vehicles": "}}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Busan_Sanctuary",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.531Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "busansanctuary"
+}

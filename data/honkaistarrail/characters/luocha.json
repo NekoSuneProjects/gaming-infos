@@ -1,12 +1,13 @@
 {
-    "name": "Luocha",
-    "rarity": "5-star",
-    "path": "Abundance",
-    "element": "Imaginary",
-    "faction": "Xianzhou Alliance (registered merchant, Xianzhou Yuque)",
-    "voiceActorEN": "Craig Lee Thomas",
-    "voiceActorJP": "Akira Ishida",
-    "description": "A mysterious foreign trader from beyond the seas who travels the Xianzhou Luofu accompanied by a large coffin, using his consummate medical skills to save those in danger.",
-    "image": "",
-    "url": "https://honkai-star-rail.fandom.com/wiki/Luocha"
+  "name": "Luocha",
+  "rarity": "5-star",
+  "path": "Abundance",
+  "element": "Imaginary",
+  "faction": "Xianzhou Alliance (registered merchant, Xianzhou Yuque)",
+  "voiceActorEN": "Craig Lee Thomas",
+  "voiceActorJP": "Akira Ishida",
+  "description": "A mysterious foreign trader from beyond the seas who travels the Xianzhou Luofu accompanied by a large coffin, using his consummate medical skills to save those in danger.",
+  "image": "",
+  "url": "https://honkai-star-rail.fandom.com/wiki/Luocha",
+  "slug": "luocha"
 }

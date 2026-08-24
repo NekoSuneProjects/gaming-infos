@@ -1,12 +1,13 @@
 {
-    "name": "Sparkle",
-    "rarity": "5-star",
-    "path": "Harmony",
-    "element": "Quantum",
-    "faction": "Masked Fools",
-    "voiceActorEN": "Lizzie Freeman",
-    "voiceActorJP": "Reina Ueda",
-    "description": "A mysterious, shapeshifting member of the Masked Fools who pursues elation above all else. Her Harmony kit buffs allies through skill-point manipulation while her illusions sow confusion among enemies.",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Sparkle_in_Honkai_Star_Rail.png/250px-Sparkle_in_Honkai_Star_Rail.png",
-    "url": "https://en.wikipedia.org/wiki/Sparkle_(Honkai:_Star_Rail)"
+  "name": "Sparkle",
+  "rarity": "5-star",
+  "path": "Harmony",
+  "element": "Quantum",
+  "faction": "Masked Fools",
+  "voiceActorEN": "Lizzie Freeman",
+  "voiceActorJP": "Reina Ueda",
+  "description": "A mysterious, shapeshifting member of the Masked Fools who pursues elation above all else. Her Harmony kit buffs allies through skill-point manipulation while her illusions sow confusion among enemies.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Sparkle_in_Honkai_Star_Rail.png/250px-Sparkle_in_Honkai_Star_Rail.png",
+  "url": "https://en.wikipedia.org/wiki/Sparkle_(Honkai:_Star_Rail)",
+  "slug": "sparkle"
 }

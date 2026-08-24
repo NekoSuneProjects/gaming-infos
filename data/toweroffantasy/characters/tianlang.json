@@ -1,0 +1,25 @@
+{
+  "name": "Tian Lang",
+  "description": "Playable Simulacrum in Tower of Fantasy.",
+  "image": "/images/banner.png",
+  "url": "https://toweroffantasy.info/simulacra/imitation_29",
+  "rarity": null,
+  "role": null,
+  "elements": [
+    "Volt"
+  ],
+  "element": "Volt",
+  "source": {
+    "provider": "Tower of Fantasy Index",
+    "url": "https://toweroffantasy.info/simulacra/imitation_29",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "toweroffantasy-info",
+    "game": "toweroffantasy",
+    "syncedAt": "2026-08-24T11:05:43.039Z",
+    "releasedOnly": true
+  },
+  "slug": "tianlang"
+}

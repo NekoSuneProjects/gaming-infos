@@ -1,12 +1,13 @@
 {
-    "name": "Hysilens",
-    "rarity": "5-star",
-    "path": "Nihility",
-    "element": "Physical",
-    "faction": "Amphoreus - Okhema",
-    "voiceActorEN": "Rosie Day",
-    "voiceActorJP": "Manaka Iwami",
-    "description": "Real name Helektra, Hysilens is the demigod of Ocean and a Chrysos Heir who served as knight commander of Okhema, originally hailing from the coastal city of Styxia. As a Physical Nihility character, she inflicts damage-over-time and debuffs on enemies.",
-    "image": "",
-    "url": "https://honkai-star-rail.fandom.com/wiki/Hysilens"
+  "name": "Hysilens",
+  "rarity": "5-star",
+  "path": "Nihility",
+  "element": "Physical",
+  "faction": "Amphoreus - Okhema",
+  "voiceActorEN": "Rosie Day",
+  "voiceActorJP": "Manaka Iwami",
+  "description": "Real name Helektra, Hysilens is the demigod of Ocean and a Chrysos Heir who served as knight commander of Okhema, originally hailing from the coastal city of Styxia. As a Physical Nihility character, she inflicts damage-over-time and debuffs on enemies.",
+  "image": "",
+  "url": "https://honkai-star-rail.fandom.com/wiki/Hysilens",
+  "slug": "hysilens"
 }

@@ -1,11 +1,12 @@
 {
-    "name": "Eula",
-    "cv": "Rina Sato",
-    "description": "Known as the Spindrift Knight, Eula is a descendant of the disgraced Lawrence Clan who severed ties with her family and now serves as Captain of the Reconnaissance Company within the Knights of Favonius, hunting down threats to Mondstadt out in the wild.",
-    "image": "",
-    "city": "Mondstadt",
-    "url": "https://wiki.hoyolab.com/pc/genshin/entry/6",
-    "element": "Cryo",
-    "weapon": "Claymore",
-    "rating": 5
+  "name": "Eula",
+  "cv": "Rina Sato",
+  "description": "Known as the Spindrift Knight, Eula is a descendant of the disgraced Lawrence Clan who severed ties with her family and now serves as Captain of the Reconnaissance Company within the Knights of Favonius, hunting down threats to Mondstadt out in the wild.",
+  "image": "",
+  "city": "Mondstadt",
+  "url": "https://wiki.hoyolab.com/pc/genshin/entry/6",
+  "element": "Cryo",
+  "weapon": "Claymore",
+  "rating": 5,
+  "slug": "eula"
 }

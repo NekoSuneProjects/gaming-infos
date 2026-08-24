@@ -1,8 +1,9 @@
 {
-    "name": "LiNkzr",
-    "species": "Kitsune",
-    "gender": "Male",
-    "image": "https://static.wikia.nocookie.net/vrchat-legends/images/a/a6/Crump_May_11th_2021_43_Linkzr.png/revision/latest?cb=20210513003243",
-    "description": "LiNkzr is a Twitch streamer and former professional Overwatch esports player who became a regular participant in [VRChat](https://vrchat-legends.fandom.com/wiki/VRChat) roleplay. He is known as a fixture of [The Golden Gator](https://vrchat-legends.fandom.com/wiki/The_Golden_Gator) community, taking part in improv RP scenes and community game shows alongside other streamers.",
-    "url": "https://vrchat-legends.fandom.com/wiki/LiNkzr"
+  "name": "LiNkzr",
+  "species": "Kitsune",
+  "gender": "Male",
+  "image": "https://static.wikia.nocookie.net/vrchat-legends/images/a/a6/Crump_May_11th_2021_43_Linkzr.png/revision/latest?cb=20210513003243",
+  "description": "LiNkzr is a Twitch streamer and former professional Overwatch esports player who became a regular participant in [VRChat](https://vrchat-legends.fandom.com/wiki/VRChat) roleplay. He is known as a fixture of [The Golden Gator](https://vrchat-legends.fandom.com/wiki/The_Golden_Gator) community, taking part in improv RP scenes and community game shows alongside other streamers.",
+  "url": "https://vrchat-legends.fandom.com/wiki/LiNkzr",
+  "slug": "linkzr"
 }

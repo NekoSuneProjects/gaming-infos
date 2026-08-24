@@ -1,0 +1,42 @@
+{
+  "name": "Poseidon",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/a/a2/Poseidon_-_Outfit_-_Fortnite.png/revision/latest?cb=20240308163648",
+  "url": "https://fortnite.fandom.com/wiki/Poseidon",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "March 8th 2024",
+  "services": null,
+  "details": {
+    "image": "Poseidon - Outfit - Fortnite.png|Icon Poseidon (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Slurp Series",
+    "unlocked": "Page 5 2 9",
+    "cost": "950 (2)",
+    "set": "Tidal King",
+    "character model": "Unique",
+    "ID": "Character_TideKing_Regal",
+    "BeanID": "Bean_TideKing_Regal",
+    "LEGOUse": "y",
+    "FGUse": "y",
+    "added_in": "Update v29.00",
+    "release": "March 8th 2024",
+    "featured": "Poseidon (Immortal - Featured) - Outfit - Fortnite.png|1 Poseidon (Magmatic - Featured) - Outfit - Fortnite.png|2 }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Poseidon",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.601Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "poseidon"
+}

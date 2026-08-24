@@ -1,0 +1,45 @@
+{
+  "name": "Beastmode",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/5/5b/Beastmode_%28v10.20_-_New%29_-_Outfit_-_Fortnite.png/revision/latest?cb=20210208202032",
+  "url": "https://fortnite.fandom.com/wiki/Beastmode",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "March 24th 2019",
+  "services": null,
+  "details": {
+    "image": "Beastmode (v31.30) - Outfit - Fortnite.png|Icon Beastmode (New - Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "bundled_with": "V6",
+    "set": "Mechanimal",
+    "cost": "1,500",
+    "unlocked": "Item Shop",
+    "release": "March 24th 2019",
+    "appearances": "Beastmode",
+    "character model": "Unique",
+    "body model": "Unique",
+    "added_in": "Update v8.11",
+    "featured": "Beastmode (Jackal - Featured) - Outfit - Fortnite.png|1 Beastmode (Jaguar - Featured) - Outfit - Fortnite.png|2 Beastmode (Lion - Featured) - Outfit - Fortnite.png|3",
+    "LEGOUse": "y",
+    "ID": "CID_301_Athena_Commando_M_Rhino",
+    "FGUse": "y",
+    "BeanID": "Bean_Rhino }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Beastmode",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.635Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "beastmode"
+}

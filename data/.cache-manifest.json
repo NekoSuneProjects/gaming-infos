@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "source": "https://api.nekosunevr.co.uk/v5/games/api/gaming-infos",
+  "syncedAt": "2026-08-24T11:54:56.967Z",
+  "contentHash": "ccb1f783d0f6e2f95129bd9659b00d63c3ae1db1b5577ff90fe86565b1a4b6f7",
+  "rootGameCount": 10,
+  "games": {
+    "vrchat": {
+      "types": [
+        "players",
+        "groups",
+        "worlds",
+        "avatars"
+      ],
+      "counts": {
+        "meta": 1,
+        "players": 17,
+        "groups": 14,
+        "worlds": 22,
+        "avatars": 0
+      }
+    },
+    "genshinimpact": {
+      "types": [
+        "characters"
+      ],
+      "counts": {
+        "meta": 1,
+        "characters": 121
+      }
+    },
+    "honkaistarrail": {
+      "types": [
+        "characters"
+      ],
+      "counts": {
+        "meta": 1,
+        "characters": 88
+      }
+    },
+    "nte": {
+      "types": [
+        "characters"
+      ],
+      "counts": {
+        "meta": 1,
+        "characters": 21
+      }
+    },
+    "wutheringwaves": {
+      "types": [
+        "characters"
+      ],
+      "counts": {
+        "meta": 1,
+        "characters": 0
+      }
+    },
+    "warframe": {
+      "types": [
+        "characters"
+      ],
+      "counts": {
+        "meta": 1,
+        "characters": 126
+      }
+    },
+    "fortnite": {
+      "types": [
+        "characters"
+      ],
+      "counts": {
+        "meta": 1,
+        "characters": 187
+      }
+    },
+    "zenlesszonezero": {
+      "types": [
+        "characters"
+      ],
+      "counts": {
+        "meta": 1,
+        "characters": 0
+      }
+    },
+    "toweroffantasy": {
+      "types": [
+        "characters"
+      ],
+      "counts": {
+        "meta": 1,
+        "characters": 46
+      }
+    },
+    "arknightsendfield": {
+      "types": [
+        "characters"
+      ],
+      "counts": {
+        "meta": 1,
+        "characters": 32
+      }
+    }
+  },
+  "stats": {
+    "added": 429,
+    "changed": 249,
+    "removed": 1,
+    "unchanged": 6,
+    "total": 684
+  }
+}

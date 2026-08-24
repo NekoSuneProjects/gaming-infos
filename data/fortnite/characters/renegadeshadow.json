@@ -1,0 +1,44 @@
+{
+  "name": "Renegade Shadow",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/a/ab/Renegade_Shadow_-_Outfit_-_Fortnite.png/revision/latest?cb=20200520084637",
+  "url": "https://fortnite.fandom.com/wiki/Renegade_Shadow",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "May 26th 2020 Part 2",
+  "services": null,
+  "details": {
+    "image": "Renegade Shadow - Outfit - Fortnite.png|Icon Renegade Shadow (v40.20 - Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "bundled_with": "Blast Radius",
+    "set": "Lone Shadow",
+    "cost": "1,500",
+    "release": "May 26th 2020 Part 2",
+    "unlocked": "Item Shop",
+    "character model": "Carlos",
+    "added_in": "Update v12.60",
+    "appearances": "Renegade Shadow",
+    "LEGOUse": "y",
+    "ID": "CID_747_Athena_Commando_M_BadEgg",
+    "FGUse": "y",
+    "BeanID": "Bean_BadEgg",
+    "featured": "Renegade Shadow (v40.20 - Goggles Off - Featured) - Outfit - Fortnite.png|1 Renegade Shadow (v40.20 - Mask On - Featured) - Outfit - Fortnite.png|2 Renegade Shadow (v40.20 - GHOST - Featured) - Outfit - Fortnite.png|3 }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Renegade_Shadow",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.630Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "renegadeshadow"
+}

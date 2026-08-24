@@ -1,12 +1,13 @@
 {
-    "name": "Cyrene",
-    "rarity": "5-star",
-    "path": "Remembrance",
-    "element": "Ice",
-    "faction": "Amphoreus - Aedes Elysiae",
-    "voiceActorEN": "Aiden Dawn",
-    "voiceActorJP": "Marina Inoue",
-    "description": "Cyrene is a Chrysos Heir and Phainon's childhood friend from Aedes Elysiae, initially accompanying the Trailblazer through Amphoreus as a memosprite creature called Mem before transforming into her playable humanoid form. As a Remembrance support, she grants the team True Damage and can fully charge allies' Ultimates.",
-    "image": "https://upload.wikimedia.org/wikipedia/en/1/17/Cyrene_in_Honkai_Star_Rail.png",
-    "url": "https://en.wikipedia.org/wiki/Cyrene_(Honkai:_Star_Rail)"
+  "name": "Cyrene",
+  "rarity": "5-star",
+  "path": "Remembrance",
+  "element": "Ice",
+  "faction": "Amphoreus - Aedes Elysiae",
+  "voiceActorEN": "Aiden Dawn",
+  "voiceActorJP": "Marina Inoue",
+  "description": "Cyrene is a Chrysos Heir and Phainon's childhood friend from Aedes Elysiae, initially accompanying the Trailblazer through Amphoreus as a memosprite creature called Mem before transforming into her playable humanoid form. As a Remembrance support, she grants the team True Damage and can fully charge allies' Ultimates.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/1/17/Cyrene_in_Honkai_Star_Rail.png",
+  "url": "https://en.wikipedia.org/wiki/Cyrene_(Honkai:_Star_Rail)",
+  "slug": "cyrene"
 }

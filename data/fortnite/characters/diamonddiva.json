@@ -1,0 +1,43 @@
+{
+  "name": "Diamond Diva",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/8/83/Diamond_Diva_-_Outfit_-_Fortnite.png/revision/latest?cb=20201118123740",
+  "url": "https://fortnite.fandom.com/wiki/Diamond_Diva",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "December 8th 2020",
+  "services": null,
+  "details": {
+    "image": "Diamond Diva - Outfit - Fortnite.png|Icon Diamond Diva (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Rare",
+    "set": "Encrusted",
+    "cost": "$4.49 (The Diamond Diva Pack)",
+    "unlocked": "The Diamond Diva Pack",
+    "character model": "Ice Queen",
+    "body model": "Athleisure Assassin",
+    "release": "December 8th 2020",
+    "added_in": "Update v14.60",
+    "appearances": "The Diamond Diva Pack",
+    "LEGOUse": "y",
+    "ID": "CID_936_Athena_Commando_F_RaiderSilver",
+    "FGUse": "y",
+    "BeanID": "Bean_RaiderSilver }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Diamond_Diva",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.632Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "diamonddiva"
+}

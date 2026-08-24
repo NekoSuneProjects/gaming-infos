@@ -1,0 +1,43 @@
+{
+  "name": "Cerberus",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/e/e7/Cerberus_-_Outfit_-_Fortnite.png/revision/latest?cb=20240308163647",
+  "url": "https://fortnite.fandom.com/wiki/Cerberus",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "March 8th 2024",
+  "services": null,
+  "details": {
+    "name": "Cerberus",
+    "image": "Cerberus - Outfit - Fortnite.png|Icon Cerberus (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "set": "Grim Gatekeeper",
+    "unlocked": "Page 1 2",
+    "cost": "950 (2)",
+    "release": "March 8th 2024",
+    "character model": "Unique",
+    "added_in": "Update v29.00",
+    "ID": "Character_GateHound_Spectral",
+    "BeanID": "Bean_GateHound_Spectral",
+    "LEGOUse": "y",
+    "FGUse": "y",
+    "featured": "Cerberus (Immortal Cerberus - Featured) - Outfit - Fortnite.png|1 Cerberus (Blazing Fire Cerberus - Featured) - Outfit - Fortnite.png|2 }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Cerberus",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.589Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "cerberus"
+}

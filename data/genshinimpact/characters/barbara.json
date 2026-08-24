@@ -1,11 +1,12 @@
 {
-    "name": "Barbara",
-    "cv": "Akari Kito",
-    "description": "The Deaconess of the Church of Favonius and a beloved idol of Mondstadt, Barbara is a cheerful Hydro healer whose stage performances lift the spirits of the city, all while she remains genuinely devoted to helping and healing anyone in need.",
-    "image": "",
-    "city": "Mondstadt",
-    "url": "https://genshin-impact.fandom.com/wiki/Barbara",
-    "element": "Hydro",
-    "weapon": "Catalyst",
-    "rating": 4
+  "name": "Barbara",
+  "cv": "Akari Kito",
+  "description": "The Deaconess of the Church of Favonius and a beloved idol of Mondstadt, Barbara is a cheerful Hydro healer whose stage performances lift the spirits of the city, all while she remains genuinely devoted to helping and healing anyone in need.",
+  "image": "",
+  "city": "Mondstadt",
+  "url": "https://genshin-impact.fandom.com/wiki/Barbara",
+  "element": "Hydro",
+  "weapon": "Catalyst",
+  "rating": 4,
+  "slug": "barbara"
 }

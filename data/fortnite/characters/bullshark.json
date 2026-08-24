@@ -1,0 +1,43 @@
+{
+  "name": "Bull Shark",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/8/88/Bull_Shark_-_Outfit_-_Fortnite.png/revision/latest?cb=20200115221540",
+  "url": "https://fortnite.fandom.com/wiki/Bull_Shark",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "January 16th 2020",
+  "services": null,
+  "details": {
+    "image": "Bull Shark (v32.00) - Outfit - Fortnite.png|Icon Bull Shark (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Rare",
+    "bundled_with": "Shark's Tank",
+    "set": "Fathoms Deep",
+    "cost": "1,200 2,000 (Fathoms Deep Bundle)",
+    "unlocked": "Item Shop Fathoms Deep Bundle",
+    "release": "January 16th 2020",
+    "character model": "Mannequin Male",
+    "added_in": "Update v11.40",
+    "appearances": "Bull Shark",
+    "LEGOUse": "y",
+    "ID": "CID_677_Athena_Commando_M_SharkAttack",
+    "FGUse": "y",
+    "BeanID": "Bean_SharkAttack }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Bull_Shark",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.633Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "bullshark"
+}

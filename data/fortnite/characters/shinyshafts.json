@@ -1,0 +1,38 @@
+{
+  "name": "Shiny Shafts",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/8/8e/Shiny_Shafts_-_Location_-_Fortnite.png/revision/latest?cb=20250422214912",
+  "url": "https://fortnite.fandom.com/wiki/Shiny_Shafts",
+  "title": null,
+  "location": "SW Bugswatter Beach NE Outlaw Oasis NW Ranger's Rest",
+  "affiliation": null,
+  "introduced": "February 21st 2025",
+  "services": null,
+  "details": {
+    "image": "Shiny Shafts - Location - Fortnite.png|Overview Shiny Shafts (Top) - Location - Fortnite.jpeg|Top View",
+    "location": "SW Bugswatter Beach NE Outlaw Oasis NW Ranger's Rest",
+    "type": "Named Location|island=Oninoshima",
+    "release": "February 21st 2025",
+    "removed": "October 9th 2025",
+    "character": "C6S3]]",
+    "chests": "57",
+    "ammo_boxes": "16",
+    "previous": "Twinkle Terrace",
+    "next": "Viney Shafts }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Shiny_Shafts",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.554Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "shinyshafts"
+}

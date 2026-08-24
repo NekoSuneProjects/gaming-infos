@@ -1,0 +1,43 @@
+{
+  "name": "Peely Bone",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/e/e5/Peely_Bone_-_Outfit_-_Fortnite.png/revision/latest?cb=20191101013642",
+  "url": "https://fortnite.fandom.com/wiki/Peely_Bone",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "November 1st 2019",
+  "services": null,
+  "details": {
+    "image": "Peely Bone - Outfit - Fortnite.png|Icon Peely Bone (v31.30 - Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "bundled_with": "Xylo-bone",
+    "set": "Banana Bunch",
+    "cost": "1,500 2,500 (Peely Party Bundle) 2,500 (FriendlyMachine's Locker Bundle)",
+    "unlocked": "Item Shop Peely Party Bundle FriendlyMachine's Locker Bundle",
+    "release": "November 1st 2019",
+    "character model": "Empty Head",
+    "added_in": "Update v11.10",
+    "appearances": "Peely Bone",
+    "LEGOUse": "y",
+    "ID": "CID_602_Athena_Commando_M_NanaSplit",
+    "FGUse": "y",
+    "BeanID": "Bean_NanaSplit }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Peely_Bone",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.582Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "peelybone"
+}

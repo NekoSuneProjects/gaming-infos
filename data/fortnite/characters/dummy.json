@@ -1,0 +1,45 @@
+{
+  "name": "Dummy",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/c/c9/Dummy_-_Outfit_-_Fortnite.png/revision/latest?cb=20200721083946",
+  "url": "https://fortnite.fandom.com/wiki/Dummy",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "August 5th 2020 Part 2",
+  "services": null,
+  "details": {
+    "image": "Dummy - Outfit - Fortnite.png|Icon Dummy (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Rare",
+    "bundled_with": "Wrong Turn",
+    "set": "Dummy Brigade",
+    "cost": "1,200 1,500 (Dummy Brigade Bundle)",
+    "unlocked": "Item Shop Dummy Brigade Bundle",
+    "release": "August 5th 2020 Part 2",
+    "character model": "Empty Head",
+    "body model": "Dummy",
+    "added_in": "Update v13.30",
+    "appearances": "Dummy",
+    "ID": "CID_795_Athena_Commando_M_Dummeez",
+    "FGUse": "y",
+    "BeanID": "Bean_Dummeez",
+    "featured": "Dummy (Carbon Fiber - Featured) - Outfit - Fortnite.png",
+    "LEGOUse": "y }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Dummy",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.614Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "dummy"
+}

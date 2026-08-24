@@ -1,0 +1,40 @@
+{
+  "name": "Captain Jones",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/7/7a/Captain_Jones_-_Outfit_-_Fortnite.png/revision/latest?cb=20240816082451",
+  "url": "https://fortnite.fandom.com/wiki/Captain_Jones",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "June 29th 2026 (Item Shop) August 16th 2024 (4)",
+  "services": null,
+  "details": {
+    "image": "Captain Jones - Outfit - Fortnite.png|Icon Captain Jones (v41.10 - Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Marvel Series",
+    "set": "Captain Jones",
+    "character model": "Jonesy",
+    "unlocked": "Item Shop Captain Jones Bundle Page 9 4 9",
+    "cost": "1,500 2,000 (Captain Jones Bundle) 950 (4)",
+    "release": "June 29th 2026 (Item Shop) August 16th 2024 (4)",
+    "appearances": "Captain Jones",
+    "added_in": "Update v31.00",
+    "LEGOUse": "y",
+    "ID": "Character_HerbHutch_Breath }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Captain_Jones",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.575Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "captainjones"
+}

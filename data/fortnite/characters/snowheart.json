@@ -1,0 +1,44 @@
+{
+  "name": "Snowheart",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/e/ed/Snowheart_-_Outfit_-_Fortnite.png/revision/latest?cb=20201215163937",
+  "url": "https://fortnite.fandom.com/wiki/Snowheart",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "December 25th 2020",
+  "services": null,
+  "details": {
+    "name": "Snowheart",
+    "image": "Snowheart - Outfit - Fortnite.png|Icon Snowheart (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Frozen Series",
+    "set": "Frost Legends",
+    "cost": "2,500 (Frost Legends Pack)",
+    "unlocked": "Frost Legends Pack",
+    "character model": "Stoneheart",
+    "body model": "Stoneheart",
+    "release": "December 25th 2020",
+    "appearances": "Frost Legends Pack",
+    "added_in": "Update v15.10",
+    "LEGOUse": "y",
+    "FGUse": "y",
+    "ID": "CID_983_Athena_Commando_F_CupidWinter",
+    "BeanID": "Bean_CupidWinterB }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Snowheart",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.625Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "snowheart"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Lana Llane",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/5/5e/Lana_Llane_-_Outfit_-_Fortnite.png/revision/latest?cb=20240123110151",
+  "url": "https://fortnite.fandom.com/wiki/Lana_Llane",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "February 1st 2024 Part 1 }}",
+  "services": null,
+  "details": {
+    "name": "Lana Llane",
+    "image": "Lana Llane - Outfit - Fortnite.png|Icon Lana Llane (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Crew Series",
+    "set": "Llana Origins",
+    "character model": "Lana",
+    "unlocked": "February 2024 Fortnite Crew Pack",
+    "cost": "$11.99 ()",
+    "ID": "Character_RainbowStraps",
+    "BeanID": "Bean_RainbowStraps",
+    "LEGOUse": "y",
+    "FGUse": "y",
+    "added_in": "Update v28.10",
+    "release": "February 1st 2024 Part 1 }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Lana_Llane",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.625Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "lanallane"
+}

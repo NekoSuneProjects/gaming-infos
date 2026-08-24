@@ -1,0 +1,44 @@
+{
+  "name": "Mecha Team Shadow",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/a/aa/Mecha_Team_Shadow_-_Outfit_-_Fortnite.png/revision/latest?cb=20200805085958",
+  "url": "https://fortnite.fandom.com/wiki/Mecha_Team_Shadow",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "September 17th 2020",
+  "services": null,
+  "details": {
+    "image": "Mecha Team Shadow - Outfit - Fortnite.png|Icon Mecha Team Shadow (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Shadow Series",
+    "bundled_with": "Shadow Jet Set",
+    "set": "Shadow Strike",
+    "cost": "1,500 2,800 (Shadow Strike Pack)",
+    "unlocked": "Item Shop Shadow Strike Pack",
+    "release": "September 17th 2020",
+    "character model": "Mecha",
+    "body model": "Mecha",
+    "added_in": "Update v13.40",
+    "appearances": "Mecha Team Shadow",
+    "ID": "CID_827_Athena_Commando_M_MultibotStealth",
+    "FGUse": "y",
+    "BeanID": "Bean_MultibotStealth",
+    "LEGOUse": "y }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Mecha_Team_Shadow",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.619Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "mechateamshadow"
+}

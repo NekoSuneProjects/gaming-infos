@@ -1,0 +1,48 @@
+{
+  "name": "Masked Meadows",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/7/7e/Masked_Meadows_%28v35.00%29_-_Location_-_Fortnite.png/revision/latest?cb=20250503183328",
+  "url": "https://fortnite.fandom.com/wiki/Masked_Meadows",
+  "title": null,
+  "location": "E Canyon Crossing W Outpost Enclave",
+  "affiliation": null,
+  "introduced": "December 1st 2024",
+  "services": null,
+  "details": {
+    "name": "Masked Meadows",
+    "image": "Masked Meadows (v35.00) - Location - Fortnite.png|Overview Masked Meadows (v35.00 - Top View) - Location - Fortnite.png|Top View",
+    "location": "E Canyon Crossing W Outpost Enclave",
+    "type": "Named Location",
+    "island": "Oninoshima",
+    "chests": "58",
+    "vending_machines": "2",
+    "ammo_boxes": "27",
+    "floor_loot": "77",
+    "produce_boxes": "9",
+    "release": "December 1st 2024",
+    "removed": "June 7th 2025",
+    "vehicles": "3x Motors Whiplash 4x Grandeur Trailsmasher",
+    "character": "C6S1]] C6S1]] C6S1]] C6MS1]]",
+    "boss": "C6S2]] C6S2]] C6S2]]",
+    "ID": "Athena.Location.POI.MaskMakerTown",
+    "landmarks": "*The Dead Pool (Removed) *Masked Motorway Bank (Removed)",
+    "next": "Demon's Domain",
+    "owner": "(Masked Motorway Bank)",
+    "franchises": "*BURD *The Thousand Faces *Mad Buns }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Masked_Meadows",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.560Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "maskedmeadows"
+}

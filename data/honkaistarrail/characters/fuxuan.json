@@ -1,12 +1,13 @@
 {
-    "name": "Fu Xuan",
-    "rarity": "5-star",
-    "path": "Preservation",
-    "element": "Quantum",
-    "faction": "Xianzhou Luofu",
-    "voiceActorEN": "Sarah Wiedenheft",
-    "voiceActorJP": "Miku Itou",
-    "description": "Fu Xuan is the head of the Xianzhou Luofu's Divination Commission, able to foresee the future through her psychic divination abilities. She dedicates herself to shielding her allies from misfortune, often shouldering the cost herself.",
-    "image": "",
-    "url": "https://honkai-star-rail.fandom.com/wiki/Fu_Xuan"
+  "name": "Fu Xuan",
+  "rarity": "5-star",
+  "path": "Preservation",
+  "element": "Quantum",
+  "faction": "Xianzhou Luofu",
+  "voiceActorEN": "Sarah Wiedenheft",
+  "voiceActorJP": "Miku Itou",
+  "description": "Fu Xuan is the head of the Xianzhou Luofu's Divination Commission, able to foresee the future through her psychic divination abilities. She dedicates herself to shielding her allies from misfortune, often shouldering the cost herself.",
+  "image": "",
+  "url": "https://honkai-star-rail.fandom.com/wiki/Fu_Xuan",
+  "slug": "fuxuan"
 }

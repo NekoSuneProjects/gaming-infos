@@ -1,0 +1,436 @@
+{
+  "Active": [
+    {
+      "id": 10,
+      "game": "borderlands-1",
+      "code": "9FC33-5T9XX-K36KT-TTT33-TRJJJ",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Golden Key",
+          "quantity": 5,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://progameguides.com/borderlands/borderlands-1-shift-codes-list/"
+      ],
+      "sourceKey": null,
+      "notes": "Permanent.",
+      "firstSeenAt": "2026-08-24T09:20:30.000Z",
+      "lastSeenAt": "2026-08-24T09:20:30.000Z",
+      "lastVerifiedAt": null
+    },
+    {
+      "id": 12,
+      "game": "borderlands-1",
+      "code": "9XW3J-Z96R6-5BF5B-TJT3J-XR6CW",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Golden Key",
+          "quantity": 5,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://progameguides.com/borderlands/borderlands-1-shift-codes-list/"
+      ],
+      "sourceKey": null,
+      "notes": "Permanent.",
+      "firstSeenAt": "2026-08-24T09:20:30.000Z",
+      "lastSeenAt": "2026-08-24T09:20:30.000Z",
+      "lastVerifiedAt": null
+    },
+    {
+      "id": 13,
+      "game": "borderlands-1",
+      "code": "9XWB3-BJ9RR-WTX5B-BTJ3B-WWRKX",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Golden Key",
+          "quantity": 5,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://progameguides.com/borderlands/borderlands-1-shift-codes-list/"
+      ],
+      "sourceKey": null,
+      "notes": "Permanent.",
+      "firstSeenAt": "2026-08-24T09:20:30.000Z",
+      "lastSeenAt": "2026-08-24T09:20:30.000Z",
+      "lastVerifiedAt": null
+    },
+    {
+      "id": 11,
+      "game": "borderlands-1",
+      "code": "S6W3B-X9XF6-5J6CJ-T3B3T-9ZJTH",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Golden Key",
+          "quantity": 5,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://progameguides.com/borderlands/borderlands-1-shift-codes-list/"
+      ],
+      "sourceKey": null,
+      "notes": "Permanent.",
+      "firstSeenAt": "2026-08-24T09:20:30.000Z",
+      "lastSeenAt": "2026-08-24T09:20:30.000Z",
+      "lastVerifiedAt": null
+    },
+    {
+      "id": 9,
+      "game": "borderlands-1",
+      "code": "W9W33-59FTX-5ZTX5-9TTBB-3B5JF",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Diamond Key",
+          "quantity": 5,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://progameguides.com/borderlands/borderlands-1-shift-codes-list/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:30.000Z",
+      "lastSeenAt": "2026-08-24T09:20:30.000Z",
+      "lastVerifiedAt": null
+    },
+    {
+      "id": 8,
+      "game": "borderlands-1",
+      "code": "ZFFTJ-RWRZJ-3B333-TTJJ3-XKCSK",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Golden Key",
+          "quantity": 50,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://progameguides.com/borderlands/borderlands-1-shift-codes-list/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:30.000Z",
+      "lastSeenAt": "2026-08-24T09:20:30.000Z",
+      "lastVerifiedAt": null
+    }
+  ],
+  "Expired": [
+    {
+      "id": 16,
+      "game": "borderlands-1",
+      "code": "CTKJB-KFTJ9-CJXJS-3TB3J-3ZC6C",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Lady Finger",
+          "quantity": 1,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://progameguides.com/borderlands/borderlands-1-shift-codes-list/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:30.000Z",
+      "lastSeenAt": "2026-08-24T09:20:30.000Z",
+      "lastVerifiedAt": null
+    },
+    {
+      "id": 18,
+      "game": "borderlands-1",
+      "code": "CTWBT-Z6JJS-CBRJ9-3TJJJ-ZX3CK",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "The Sentinel",
+          "quantity": 1,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://progameguides.com/borderlands/borderlands-1-shift-codes-list/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:30.000Z",
+      "lastSeenAt": "2026-08-24T09:20:30.000Z",
+      "lastVerifiedAt": null
+    },
+    {
+      "id": 17,
+      "game": "borderlands-1",
+      "code": "CTWTB-X6TBH-WBXT9-B3JTJ-3JKS5",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Elephant Gun",
+          "quantity": 1,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://progameguides.com/borderlands/borderlands-1-shift-codes-list/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:30.000Z",
+      "lastSeenAt": "2026-08-24T09:20:30.000Z",
+      "lastVerifiedAt": null
+    },
+    {
+      "id": 15,
+      "game": "borderlands-1",
+      "code": "KTC3J-TXB39-5TF3Z-T3TJB-TCFBX",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "TK's Wave",
+          "quantity": 1,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://progameguides.com/borderlands/borderlands-1-shift-codes-list/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:30.000Z",
+      "lastSeenAt": "2026-08-24T09:20:30.000Z",
+      "lastVerifiedAt": null
+    },
+    {
+      "id": 14,
+      "game": "borderlands-1",
+      "code": "ZFR3B-S6653-T3T3J-TBJ3J-ZB3WH",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Golden Key",
+          "quantity": 5,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://progameguides.com/borderlands/borderlands-1-shift-codes-list/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:30.000Z",
+      "lastSeenAt": "2026-08-24T09:20:30.000Z",
+      "lastVerifiedAt": null
+    }
+  ],
+  "Unknown": []
+}

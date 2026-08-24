@@ -1,0 +1,43 @@
+{
+  "name": "Spartan Assassin",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/a/ac/Spartan_Assassin_-_Outfit_-_Fortnite.png/revision/latest?cb=20210525103727",
+  "url": "https://fortnite.fandom.com/wiki/Spartan_Assassin",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "June 3rd 2021",
+  "services": null,
+  "details": {
+    "image": "Spartan Assassin - Outfit - Fortnite.png|Icon Spartan Assassin (Featured) - Outfit - Fortnite.png|Featured",
+    "rarity": "Uncommon",
+    "type": "Outfit",
+    "release": "June 3rd 2021",
+    "set": "Ancient Eternal",
+    "cost": "800 2,700 (All Occasion Assassins Bundle)",
+    "unlocked": "Item Shop All Occasion Assassins Bundle",
+    "appearances": "Spartan Assassin",
+    "character model": "Unique",
+    "body model": "Spartan Assassin",
+    "added_in": "Update v16.50",
+    "LEGOUse": "y",
+    "ID": "CID_A_098_Athena_Commando_F_SpartanFuture",
+    "FGUse": "y",
+    "BeanID": "Bean_SpartanFuture }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Spartan_Assassin",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.603Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "spartanassassin"
+}

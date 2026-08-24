@@ -1,0 +1,40 @@
+{
+  "name": "Slurp Room",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/a/a8/Rouge_Repairs_Black_Market_-_Landmark_-_Fortnite.png/revision/latest?cb=20250311194958",
+  "url": "https://fortnite.fandom.com/wiki/Slurp_Room",
+  "title": null,
+  "location": "W Rolling Blossoms Farm NE Demon's Debris",
+  "affiliation": null,
+  "introduced": "June 7th 2025",
+  "services": null,
+  "details": {
+    "name": "Slurp Room",
+    "image": "Rouge Repairs Black Market - Landmark - Fortnite.png|Overview Rouge Repairs Black Market (Top View) - Landmark - Fortnite.png|Top View",
+    "location": "W Rolling Blossoms Farm NE Demon's Debris",
+    "type": "Landmark",
+    "island": "Oninoshima",
+    "release": "June 7th 2025",
+    "removed": "November 1st 2025",
+    "ammo_boxes": "8",
+    "floor_loot": "5",
+    "franchises": "*Slurp Room",
+    "character": "C6S3]]",
+    "previous": "BURD To Go }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Slurp_Room",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.555Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "slurproom"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Kite's Flight",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/c/cd/Kite%27s_Flight_-_Landmark_-_Fortnite.png/revision/latest?cb=20250426210018",
+  "url": "https://fortnite.fandom.com/wiki/Kite's_Flight",
+  "title": null,
+  "location": "SE Kappa Kappa Factory NE The Great Turtle",
+  "affiliation": null,
+  "introduced": "December 1st 2024",
+  "services": null,
+  "details": {
+    "name": "Kite's Flight",
+    "image": "Kite's Flight - Landmark - Fortnite.png|Overview Kite's Flight (Top View) - Landmark - Fortnite.png|Top View",
+    "location": "SE Kappa Kappa Factory NE The Great Turtle",
+    "type": "Landmark",
+    "island": "Oninoshima",
+    "chests": "6",
+    "vending_machines": "1",
+    "ammo_boxes": "6",
+    "floor_loot": "11",
+    "release": "December 1st 2024",
+    "removed": "November 1st 2025",
+    "character": "C6S2]]",
+    "henchmen": "}}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Kite's_Flight",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.565Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "kitesflight"
+}

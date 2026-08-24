@@ -1,8 +1,9 @@
 {
-    "name": "Qwonk",
-    "title": "The most famous VRChat player",
-    "gender": "Male",
-    "image": "https://static.wikia.nocookie.net/vrchat-legends/images/4/4c/Q.PNG/revision/latest?cb=20181022040819",
-    "description": "Qwonk is an American YouTuber who began making videos with friends back in 2007 before becoming closely associated with [VRChat](https://vrchat-legends.fandom.com/wiki/VRChat) content. After losing a channel with over a million subscribers in 2017, he restarted from scratch in 2018 and rebuilt his audience partly through appearances alongside other well-known VRChat YouTubers. He has never done a public face reveal, keeping his real-life identity private, and is often cited by the wiki community (somewhat tongue-in-cheek) as one of the platform's most-searched personalities.",
-    "url": "https://vrchat-legends.fandom.com/wiki/Qwonk"
+  "name": "Qwonk",
+  "title": "The most famous VRChat player",
+  "gender": "Male",
+  "image": "https://static.wikia.nocookie.net/vrchat-legends/images/4/4c/Q.PNG/revision/latest?cb=20181022040819",
+  "description": "Qwonk is an American YouTuber who began making videos with friends back in 2007 before becoming closely associated with [VRChat](https://vrchat-legends.fandom.com/wiki/VRChat) content. After losing a channel with over a million subscribers in 2017, he restarted from scratch in 2018 and rebuilt his audience partly through appearances alongside other well-known VRChat YouTubers. He has never done a public face reveal, keeping his real-life identity private, and is often cited by the wiki community (somewhat tongue-in-cheek) as one of the platform's most-searched personalities.",
+  "url": "https://vrchat-legends.fandom.com/wiki/Qwonk",
+  "slug": "qwonk"
 }

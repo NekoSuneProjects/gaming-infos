@@ -1,0 +1,23 @@
+{
+  "name": "Meryl",
+  "description": "Playable Simulacrum in Tower of Fantasy.",
+  "image": "/images/banner.png",
+  "url": "https://toweroffantasy.info/simulacra/imitation_3",
+  "rarity": null,
+  "role": null,
+  "elements": [],
+  "element": null,
+  "source": {
+    "provider": "Tower of Fantasy Index",
+    "url": "https://toweroffantasy.info/simulacra/imitation_3",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "toweroffantasy-info",
+    "game": "toweroffantasy",
+    "syncedAt": "2026-08-24T11:06:03.810Z",
+    "releasedOnly": true
+  },
+  "slug": "meryl"
+}

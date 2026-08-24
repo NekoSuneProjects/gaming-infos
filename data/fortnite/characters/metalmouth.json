@@ -1,0 +1,44 @@
+{
+  "name": "Metal Mouth",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/0/07/Metal_Mouth_-_Outfit_-_Fortnite.png/revision/latest?cb=20200319132423",
+  "url": "https://fortnite.fandom.com/wiki/Metal_Mouth",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "February 5th 2020 Part 2",
+  "services": null,
+  "details": {
+    "image": "Metal Mouth (v32.00) - Outfit - Fortnite.png|Icon Metal Mouth (New - Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Rare",
+    "set": "Metal Masq",
+    "cost": "1,200 2,400 (Metal Masq Bundle)",
+    "unlocked": "Item Shop Metal Masq Bundle",
+    "release": "February 5th 2020 Part 2",
+    "character model": "Metal Mouth",
+    "body model": "Metal Mouth",
+    "appearances": "Metal Mouth",
+    "added_in": "Update v11.40",
+    "LEGOUse": "y",
+    "ID": "CID_626_Athena_Commando_M_PinkTrooper",
+    "FGUse": "y",
+    "BeanID": "Bean_PinkTrooperA",
+    "featured": "Metal Mouth (Arctic - Featured) - Outfit - Fortnite.png|1 Metal Mouth (Jungle - Featured) - Outfit - Fortnite.png|2 }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Metal_Mouth",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.616Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "metalmouth"
+}

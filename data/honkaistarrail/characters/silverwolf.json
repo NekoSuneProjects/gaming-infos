@@ -1,12 +1,13 @@
 {
-    "name": "Silver Wolf",
-    "rarity": "5-star",
-    "path": "Nihility",
-    "element": "Quantum",
-    "faction": "Stellaron Hunters",
-    "voiceActorEN": "Melissa Fahn",
-    "voiceActorJP": "Kana Asumi",
-    "description": "A genius-level hacker and the newest member of the Stellaron Hunters, who views the universe as a video game. She masters 'aether editing,' a technique that lets her alter reality's data and implant weaknesses in enemies.",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Honkai_Star_Rail_Silver_Wolf_Normal.png/250px-Honkai_Star_Rail_Silver_Wolf_Normal.png",
-    "url": "https://en.wikipedia.org/wiki/Silver_Wolf_(Honkai:_Star_Rail)"
+  "name": "Silver Wolf",
+  "rarity": "5-star",
+  "path": "Nihility",
+  "element": "Quantum",
+  "faction": "Stellaron Hunters",
+  "voiceActorEN": "Melissa Fahn",
+  "voiceActorJP": "Kana Asumi",
+  "description": "A genius-level hacker and the newest member of the Stellaron Hunters, who views the universe as a video game. She masters 'aether editing,' a technique that lets her alter reality's data and implant weaknesses in enemies.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Honkai_Star_Rail_Silver_Wolf_Normal.png/250px-Honkai_Star_Rail_Silver_Wolf_Normal.png",
+  "url": "https://en.wikipedia.org/wiki/Silver_Wolf_(Honkai:_Star_Rail)",
+  "slug": "silverwolf"
 }

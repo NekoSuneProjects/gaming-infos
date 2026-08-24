@@ -1,0 +1,37 @@
+{
+  "name": "The Great Turtle",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/2/29/The_Great_Turtle_%28v35.00%29_-_Landmark_-_Fortnite.png/revision/latest?cb=20250721141127",
+  "url": "https://fortnite.fandom.com/wiki/The_Great_Turtle",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "January 14th 2025",
+  "services": null,
+  "details": {
+    "name": "The Great Turtle",
+    "image": "The Great Turtle (v35.00) - Landmark - Fortnite.png|Overview The Great Turtle (v35.00 - Top View) - Landmark - Fortnite.png|Top View",
+    "type": "Landmark",
+    "island": "Oninoshima",
+    "chests": "8",
+    "release": "January 14th 2025",
+    "removed": "November 1st 2025",
+    "character": "C6S1]]",
+    "ID": "}}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/The_Great_Turtle",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.572Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "thegreatturtle"
+}

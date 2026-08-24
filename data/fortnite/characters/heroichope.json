@@ -1,0 +1,44 @@
+{
+  "name": "Heroic Hope",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/7/77/Heroic_Hope_-_Outfit_-_Fortnite.png/revision/latest?cb=20240816081631",
+  "url": "https://fortnite.fandom.com/wiki/Heroic_Hope",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "August 18th 2024",
+  "services": null,
+  "details": {
+    "image": "Heroic Hope - Outfit - Fortnite.png|Icon Heroic Hope (v40.20 - Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "set": "Hope Bringer",
+    "character model": "Hope",
+    "bundled_with": "Waters of Change",
+    "unlocked": "Item Shop",
+    "cost": "1,200",
+    "release": "August 18th 2024",
+    "added_in": "Update v31.00",
+    "LEGOUse": "y",
+    "appearances": "Heroic Hope",
+    "FGUse": "y",
+    "ID": "Character_BrightDisk",
+    "BeanID": "Bean_BrightDisk",
+    "featured": "Heroic Hope (v40.20 - Glasses - Off - Featured) - Outfit - Fortnite.png|1 Heroic Hope (v40.20 - Cat Ears - Off - Featured) - Outfit - Fortnite.png|2 Heroic Hope (v40.20 - Pandora's Chosen - Featured) - Outfit - Fortnite.png|3 }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Heroic_Hope",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.579Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "heroichope"
+}

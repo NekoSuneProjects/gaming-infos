@@ -1,12 +1,13 @@
 {
-    "name": "Guinaifen",
-    "rarity": "4-star",
-    "path": "Nihility",
-    "element": "Fire",
-    "faction": "Xianzhou Luofu",
-    "voiceActorEN": "Morgan Lauré Garrett",
-    "voiceActorJP": "Hina Suguta",
-    "description": "Guinaifen, born Guinevere, is an outsider who came to call the Xianzhou Luofu home after being stranded there. Now a passionate street performer and livestreamer, she is a support unit who amplifies Burn damage against enemies.",
-    "image": "",
-    "url": "https://honkai-star-rail.fandom.com/wiki/Guinaifen"
+  "name": "Guinaifen",
+  "rarity": "4-star",
+  "path": "Nihility",
+  "element": "Fire",
+  "faction": "Xianzhou Luofu",
+  "voiceActorEN": "Morgan Lauré Garrett",
+  "voiceActorJP": "Hina Suguta",
+  "description": "Guinaifen, born Guinevere, is an outsider who came to call the Xianzhou Luofu home after being stranded there. Now a passionate street performer and livestreamer, she is a support unit who amplifies Burn damage against enemies.",
+  "image": "",
+  "url": "https://honkai-star-rail.fandom.com/wiki/Guinaifen",
+  "slug": "guinaifen"
 }

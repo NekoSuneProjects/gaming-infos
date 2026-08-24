@@ -1,0 +1,40 @@
+{
+  "name": "Open-Air Onsen",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/0/08/Open-Air_Onsen_-_Landmark_-_Fortnite.png/revision/latest?cb=20250424151601",
+  "url": "https://fortnite.fandom.com/wiki/Open-Air_Onsen",
+  "title": null,
+  "location": "E Base Tunnel SW Demon's Dojo‎ SE Pumped Power",
+  "affiliation": null,
+  "introduced": "December 1st 2024",
+  "services": null,
+  "details": {
+    "name": "Open-Air Onsen",
+    "image": "Open-Air Onsen - Landmark - Fortnite.png|Overview Open-Air Onsen (Top View) - Landmark - Fortnite.png|Top View",
+    "location": "E Base Tunnel SW Demon's Dojo‎ SE Pumped Power",
+    "type": "Landmark",
+    "island": "Oninoshima",
+    "chests": "12",
+    "ammo_boxes": "3",
+    "floor_loot": "17",
+    "release": "December 1st 2024",
+    "removed": "November 1st 2025",
+    "character": "C6S1]]",
+    "boss": "C6S4]] }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Open-Air_Onsen",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.550Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "openaironsen"
+}

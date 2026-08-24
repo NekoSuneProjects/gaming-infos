@@ -1,12 +1,13 @@
 {
-    "name": "Candace",
-    "quote": "The oath of the guardians is more stalwart yet than the shields they inherit.",
-    "cv": "Yuzuki Ryoka",
-    "description": "A guardian of Aaru Village in Sumeru's desert, Candace protects the descendants of an ancient civilization from monsters and looters, wielding a polearm infused with Hydro.",
-    "image": "https://static.icy-veins.com/images/genshin-impact/characters/candace.webp",
-    "city": "Sumeru",
-    "url": "https://www.icy-veins.com/genshin-impact/candace-profile-talents-constellations",
-    "element": "Hydro",
-    "weapon": "Polearm",
-    "rating": 4
+  "name": "Candace",
+  "quote": "The oath of the guardians is more stalwart yet than the shields they inherit.",
+  "cv": "Yuzuki Ryoka",
+  "description": "A guardian of Aaru Village in Sumeru's desert, Candace protects the descendants of an ancient civilization from monsters and looters, wielding a polearm infused with Hydro.",
+  "image": "https://static.icy-veins.com/images/genshin-impact/characters/candace.webp",
+  "city": "Sumeru",
+  "url": "https://www.icy-veins.com/genshin-impact/candace-profile-talents-constellations",
+  "element": "Hydro",
+  "weapon": "Polearm",
+  "rating": 4,
+  "slug": "candace"
 }

@@ -1,0 +1,43 @@
+{
+  "name": "Fish Thicc",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/b/b8/Fish_Thicc_-_Outfit_-_Fortnite.png/revision/latest?cb=20230825083557",
+  "url": "https://fortnite.fandom.com/wiki/Fish_Thicc",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "August 25th 2023",
+  "services": null,
+  "details": {
+    "image": "Fish Thicc - Outfit - Fortnite.png|Icon Fish Thicc (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "set": "Buffer Fish",
+    "unlocked": "Page 5 4 9",
+    "cost": "950 (4)",
+    "release": "August 25th 2023",
+    "LEGOUse": "y",
+    "FGUse": "y",
+    "character model": "Unique",
+    "body model": "Unique",
+    "added_in": "Update v26.00",
+    "featured": "Fish Thicc (Headgear Fin - Featured) - Outfit - Fortnite.png|1 Fish Thicc (Headgear Hat Shades On - Featured) - Outfit - Fortnite.png|2 Fish Thicc (Headgear Fin Shades On - Featured) - Outfit - Fortnite.png|3 Fish Thicc (Fin-dicator Fish Thicc - Featured) - Outfit - Fortnite.png|4 Fish Thicc (Fin-dicator Fish Thicc Headgear Fin - Featured) - Outfit - Fortnite.png|5 Fish Thicc (Fin-dicator Fish Thicc Headgear Hat Shades On - Featured) - Outfit - Fortnite.png|6 Fish Thicc (Fin-dicator Fish Thicc Shades On - Featured) - Outfit - Fortnite.png|7 Fish Thicc (Reef Cake Fish Thicc - Featured) - Outfit - Fortnite.png|8 Fish Thicc (Heisted Jade Fish Thicc - Featured) - Outfit - Fortnite.png|9 Fish Thicc (Lost Amethyst Fish Thicc - Featured) - Outfit - Fortnite.png|10 Fish Thicc (Yellow Diamond Fish Thicc - Featured) - Outfit - Fortnite.png|11",
+    "ID": "Character_BrawnyBass",
+    "BeanID": "Bean_BrawnyBass }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Fish_Thicc",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.628Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "fishthicc"
+}

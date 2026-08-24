@@ -1,12 +1,13 @@
 {
-    "name": "Xingqiu",
-    "quote": "Be good, and do good.",
-    "cv": "Junko Minagawa",
-    "description": "The second son of the guild manager of the Feiyun Commerce Guild in Liyue, an avid reader of chivalric tales who tries to embody the heroism of his favorite books, despite a mischievous streak.",
-    "image": "",
-    "city": "Liyue",
-    "url": "https://genshin-impact.fandom.com/wiki/Xingqiu",
-    "element": "Hydro",
-    "weapon": "Sword",
-    "rating": 4
+  "name": "Xingqiu",
+  "quote": "Be good, and do good.",
+  "cv": "Junko Minagawa",
+  "description": "The second son of the guild manager of the Feiyun Commerce Guild in Liyue, an avid reader of chivalric tales who tries to embody the heroism of his favorite books, despite a mischievous streak.",
+  "image": "",
+  "city": "Liyue",
+  "url": "https://genshin-impact.fandom.com/wiki/Xingqiu",
+  "element": "Hydro",
+  "weapon": "Sword",
+  "rating": 4,
+  "slug": "xingqiu"
 }

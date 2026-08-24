@@ -1,0 +1,23 @@
+{
+  "name": "Icarus",
+  "description": "Playable Simulacrum in Tower of Fantasy.",
+  "image": "/images/banner.png",
+  "url": "https://toweroffantasy.info/simulacra/imitation_35",
+  "rarity": null,
+  "role": null,
+  "elements": [],
+  "element": null,
+  "source": {
+    "provider": "Tower of Fantasy Index",
+    "url": "https://toweroffantasy.info/simulacra/imitation_35",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "toweroffantasy-info",
+    "game": "toweroffantasy",
+    "syncedAt": "2026-08-24T11:05:33.500Z",
+    "releasedOnly": true
+  },
+  "slug": "icarus"
+}

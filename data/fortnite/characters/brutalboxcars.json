@@ -1,0 +1,46 @@
+{
+  "name": "Brutal Boxcars",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/8/88/Brutal_Boxcars_-_Location_-_Fortnite.png/revision/latest?cb=20250422215948",
+  "url": "https://fortnite.fandom.com/wiki/Brutal_Boxcars",
+  "title": null,
+  "location": "S Magic Mosses SW Pumped Power‎ N Foxy Floodgate E Lonewolf Lair",
+  "affiliation": null,
+  "introduced": "December 1st 2024",
+  "services": null,
+  "details": {
+    "name": "Brutal Boxcars",
+    "image": "Brutal Boxcars - Location - Fortnite.png|Overview Brutal Boxcars (Top View) - Location - Fortnite.png|Top View",
+    "location": "S Magic Mosses SW Pumped Power‎ N Foxy Floodgate E Lonewolf Lair",
+    "type": "Named Location",
+    "island": "Oninoshima",
+    "owner": "FNTransport (Store)",
+    "franchises": "*Cuddle Buns (Replaced with Kappa Kappa)",
+    "chests": "15",
+    "vending_machines": "1",
+    "ammo_boxes": "15",
+    "floor_loot": "34",
+    "produce_boxes": "1",
+    "release": "December 1st 2024",
+    "removed": "August 7th 2025",
+    "vehicles": "3x Victory Crown Rogue 1x Motors Whiplash 2x Grandeur Trailsmasher 1x Trail Thrasher",
+    "character": "C6S2]]",
+    "ID": "Athena.Location.POI.TrainStation",
+    "next": "Swarmy Stash }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Brutal_Boxcars",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.566Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "brutalboxcars"
+}

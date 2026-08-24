@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "source": "https://api.nekosunevr.co.uk/v5/games/api/codes",
+  "syncedAt": "2026-08-24T11:55:11.810Z",
+  "contentHash": "041a359d6be9102e2970ce905290c4d0817aaeba038f9073a340b046e647e9dd",
+  "gameCount": 21,
+  "counts": {
+    "arknights-endfield": {
+      "active": 15,
+      "expired": 11,
+      "unknown": 0,
+      "total": 26
+    },
+    "borderlands-1": {
+      "active": 6,
+      "expired": 5,
+      "unknown": 0,
+      "total": 11
+    },
+    "borderlands-2": {
+      "active": 6,
+      "expired": 3,
+      "unknown": 0,
+      "total": 9
+    },
+    "borderlands-3": {
+      "active": 24,
+      "expired": 3,
+      "unknown": 0,
+      "total": 27
+    },
+    "borderlands-4": {
+      "active": 15,
+      "expired": 82,
+      "unknown": 0,
+      "total": 97
+    },
+    "borderlands-the-pre-sequel": {
+      "active": 11,
+      "expired": 5,
+      "unknown": 0,
+      "total": 16
+    },
+    "brawl-stars": {
+      "active": 140,
+      "expired": 0,
+      "unknown": 0,
+      "total": 140
+    },
+    "clash-of-clans": {
+      "active": 140,
+      "expired": 0,
+      "unknown": 0,
+      "total": 140
+    },
+    "clash-royale": {
+      "active": 0,
+      "expired": 0,
+      "unknown": 0,
+      "total": 0
+    },
+    "cookie-run-kingdom": {
+      "active": 4,
+      "expired": 167,
+      "unknown": 0,
+      "total": 171
+    },
+    "fortnite": {
+      "active": 23,
+      "expired": 0,
+      "unknown": 0,
+      "total": 23
+    },
+    "genshin-impact": {
+      "active": 19,
+      "expired": 248,
+      "unknown": 0,
+      "total": 267
+    },
+    "honkai-impact-3rd": {
+      "active": 6,
+      "expired": 3,
+      "unknown": 0,
+      "total": 9
+    },
+    "honkai-star-rail": {
+      "active": 89,
+      "expired": 221,
+      "unknown": 0,
+      "total": 310
+    },
+    "neverness-to-everness": {
+      "active": 11,
+      "expired": 25,
+      "unknown": 0,
+      "total": 36
+    },
+    "roblox-doors": {
+      "active": 34,
+      "expired": 17,
+      "unknown": 0,
+      "total": 51
+    },
+    "roblox-rivals": {
+      "active": 9,
+      "expired": 75,
+      "unknown": 0,
+      "total": 84
+    },
+    "tower-of-fantasy": {
+      "active": 84,
+      "expired": 3,
+      "unknown": 0,
+      "total": 87
+    },
+    "warframe": {
+      "active": 503,
+      "expired": 32,
+      "unknown": 0,
+      "total": 535
+    },
+    "wuthering-waves": {
+      "active": 5,
+      "expired": 71,
+      "unknown": 0,
+      "total": 76
+    },
+    "zenless-zone-zero": {
+      "active": 13,
+      "expired": 102,
+      "unknown": 0,
+      "total": 115
+    }
+  },
+  "statusIsCacheOnly": true,
+  "stats": {
+    "added": 23,
+    "changed": 0,
+    "removed": 1,
+    "unchanged": 0,
+    "total": 23
+  }
+}

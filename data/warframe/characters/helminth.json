@@ -1,0 +1,220 @@
+{
+  "name": "Helminth",
+  "description": "Playable Warframe in Warframe.",
+  "image": "",
+  "url": "https://wiki.warframe.com/w/Helminth",
+  "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/Helminth",
+  "isPrime": false,
+  "health": 0,
+  "shield": 0,
+  "armor": 0,
+  "energy": 0,
+  "sprintSpeed": null,
+  "masteryReq": null,
+  "sex": null,
+  "aura": null,
+  "polarities": [],
+  "abilities": [
+    {
+      "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/HelminthEfficiencyAbility",
+      "name": "Energized Munitions",
+      "description": "Increase the efficiency of your ammo consumption.",
+      "imageName": "HelminthEfficiencyAbility.png"
+    },
+    {
+      "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/HelminthCompanionAbility",
+      "name": "Master's Summons",
+      "description": "Heal your companion and call it to your side.",
+      "imageName": "HelminthCompanionAbility.png"
+    },
+    {
+      "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/HelminthEnergyShareAbility",
+      "name": "Voracious Metastasis",
+      "description": "Consume Energy to heal yourself and grant matching Energy to each ally.",
+      "imageName": "HelminthAbilitiesEnergyTransfer.png"
+    },
+    {
+      "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/HelminthHackAbility",
+      "name": "Perspicacity",
+      "description": "Automatically succeed at your next hack attempt.",
+      "imageName": "HelminthHackAbility.png"
+    },
+    {
+      "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/HelminthMaxStatusAbility",
+      "name": "Sickening Pulse",
+      "description": "Emit a pulse that adds stacks to Status Effects already afflicting enemies. The damage of <DT_SLASH_COLOR>Slash, <DT_FIRE_COLOR>Heat, and <DT_POISON_COLOR>Toxin effects, excluding those created by Sickening Pulse itself, are added together to create a new instance of the Effect with a refreshed timer",
+      "imageName": "HelminthAbilitiesMaximizeStatus.png"
+    },
+    {
+      "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/HelminthProcBlockAbility",
+      "name": "Hideous Resistance",
+      "description": "Grant yourself immunity to Status effects.",
+      "imageName": "HelminthAbilitiesUnstoppableForce.png"
+    },
+    {
+      "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/HelminthShieldArmorAbility",
+      "name": "Parasitic Armor",
+      "description": "Sacrifice Shields to reinforce Armor for a period of time.",
+      "imageName": "HelminthAbilitiesRerouteShields.png"
+    },
+    {
+      "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/HelminthShieldsAbility",
+      "name": "Rebuild Shields",
+      "description": "Instantly restore your shields.",
+      "imageName": "HelmintShieldAbility.png"
+    },
+    {
+      "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/HelminthSpeedAbility",
+      "name": "Infested Mobility",
+      "description": "Increase your parkour velocity.",
+      "imageName": "HelminthSpeedAbility.png"
+    },
+    {
+      "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/HelminthStatusAbility",
+      "name": "Expedite Suffering",
+      "description": "Condense all <DT_SLASH_COLOR>Slash and <DT_POISON_COLOR>Toxin Status Effects into a single damage instance.",
+      "imageName": "HelminthStatusAbility.png"
+    },
+    {
+      "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/HelminthStrengthAbility",
+      "name": "Empower",
+      "description": "Increase the strength of your next ability use.",
+      "imageName": "HelminthStrengthAbility.png"
+    },
+    {
+      "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/HelminthStunAbility",
+      "name": "Marked For Death",
+      "description": "Stun an enemy; a portion of the next damage you deal to it will be dealt to all enemies around it.",
+      "imageName": "HelminthStunAbility.png"
+    },
+    {
+      "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/HelminthTreasureAbility",
+      "name": "Golden Instinct",
+      "description": "Send out a short-lived Void Spark that is drawn toward the nearest Medallion, Ayatan Sculpture, rare crate, unscanned Kuria or unscanned Fragment.",
+      "imageName": "HelminthAbilitiesTreasureSeeker.png"
+    }
+  ],
+  "releaseDate": null,
+  "source": {
+    "provider": "WarframeStat.us / WFCD",
+    "url": "https://api.warframestat.us/warframes",
+    "publicDataOnly": true,
+    "project": "Warframe Community Developers"
+  },
+  "details": {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/Helminth",
+    "name": "Helminth",
+    "health": 0,
+    "shield": 0,
+    "armor": 0,
+    "stamina": 0,
+    "power": 0,
+    "abilities": [
+      {
+        "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/HelminthEfficiencyAbility",
+        "name": "Energized Munitions",
+        "description": "Increase the efficiency of your ammo consumption.",
+        "imageName": "HelminthEfficiencyAbility.png"
+      },
+      {
+        "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/HelminthCompanionAbility",
+        "name": "Master's Summons",
+        "description": "Heal your companion and call it to your side.",
+        "imageName": "HelminthCompanionAbility.png"
+      },
+      {
+        "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/HelminthEnergyShareAbility",
+        "name": "Voracious Metastasis",
+        "description": "Consume Energy to heal yourself and grant matching Energy to each ally.",
+        "imageName": "HelminthAbilitiesEnergyTransfer.png"
+      },
+      {
+        "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/HelminthHackAbility",
+        "name": "Perspicacity",
+        "description": "Automatically succeed at your next hack attempt.",
+        "imageName": "HelminthHackAbility.png"
+      },
+      {
+        "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/HelminthMaxStatusAbility",
+        "name": "Sickening Pulse",
+        "description": "Emit a pulse that adds stacks to Status Effects already afflicting enemies. The damage of <DT_SLASH_COLOR>Slash, <DT_FIRE_COLOR>Heat, and <DT_POISON_COLOR>Toxin effects, excluding those created by Sickening Pulse itself, are added together to create a new instance of the Effect with a refreshed timer",
+        "imageName": "HelminthAbilitiesMaximizeStatus.png"
+      },
+      {
+        "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/HelminthProcBlockAbility",
+        "name": "Hideous Resistance",
+        "description": "Grant yourself immunity to Status effects.",
+        "imageName": "HelminthAbilitiesUnstoppableForce.png"
+      },
+      {
+        "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/HelminthShieldArmorAbility",
+        "name": "Parasitic Armor",
+        "description": "Sacrifice Shields to reinforce Armor for a period of time.",
+        "imageName": "HelminthAbilitiesRerouteShields.png"
+      },
+      {
+        "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/HelminthShieldsAbility",
+        "name": "Rebuild Shields",
+        "description": "Instantly restore your shields.",
+        "imageName": "HelmintShieldAbility.png"
+      },
+      {
+        "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/HelminthSpeedAbility",
+        "name": "Infested Mobility",
+        "description": "Increase your parkour velocity.",
+        "imageName": "HelminthSpeedAbility.png"
+      },
+      {
+        "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/HelminthStatusAbility",
+        "name": "Expedite Suffering",
+        "description": "Condense all <DT_SLASH_COLOR>Slash and <DT_POISON_COLOR>Toxin Status Effects into a single damage instance.",
+        "imageName": "HelminthStatusAbility.png"
+      },
+      {
+        "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/HelminthStrengthAbility",
+        "name": "Empower",
+        "description": "Increase the strength of your next ability use.",
+        "imageName": "HelminthStrengthAbility.png"
+      },
+      {
+        "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/HelminthStunAbility",
+        "name": "Marked For Death",
+        "description": "Stun an enemy; a portion of the next damage you deal to it will be dealt to all enemies around it.",
+        "imageName": "HelminthStunAbility.png"
+      },
+      {
+        "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/HelminthTreasureAbility",
+        "name": "Golden Instinct",
+        "description": "Send out a short-lived Void Spark that is drawn toward the nearest Medallion, Ayatan Sculpture, rare crate, unscanned Kuria or unscanned Fragment.",
+        "imageName": "HelminthAbilitiesTreasureSeeker.png"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "tradable": false,
+    "drops": [
+      {
+        "location": "Entrati (Son), Associate",
+        "type": "Helminth Segment Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      },
+      {
+        "location": "Entrati (Son), Family",
+        "type": "Helminth Invigoration Segment Blueprint",
+        "chance": 100,
+        "rarity": "Common"
+      }
+    ],
+    "isPrime": false,
+    "masterable": false
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "warframestat-us",
+    "game": "warframe",
+    "syncedAt": "2026-08-24T11:04:46.306Z",
+    "releasedOnly": true
+  },
+  "slug": "helminth"
+}

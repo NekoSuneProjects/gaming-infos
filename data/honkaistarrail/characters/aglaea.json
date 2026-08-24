@@ -1,12 +1,13 @@
 {
-    "name": "Aglaea",
-    "rarity": "5-star",
-    "path": "Remembrance",
-    "element": "Lightning",
-    "faction": "Amphoreus - Okhema",
-    "voiceActorEN": "Morgan Lauré",
-    "voiceActorJP": "Aya Endo",
-    "description": "The Dressmaster of Okhema and one of Amphoreus' Chrysos Heirs, holding the Coreflame of Romance. She maintains the World Wound Web and is renowned as a masterful dressmaker who weaves intricate golden thread. Aglaea was the first Amphoreus character to join the playable roster, debuting in version 3.0.",
-    "image": "https://img.game8.co/4045833/e83dc6b2353dd84813ae7c1d0adb14bc.png/show",
-    "url": "https://honkai-star-rail.fandom.com/wiki/Aglaea"
+  "name": "Aglaea",
+  "rarity": "5-star",
+  "path": "Remembrance",
+  "element": "Lightning",
+  "faction": "Amphoreus - Okhema",
+  "voiceActorEN": "Morgan Lauré",
+  "voiceActorJP": "Aya Endo",
+  "description": "The Dressmaster of Okhema and one of Amphoreus' Chrysos Heirs, holding the Coreflame of Romance. She maintains the World Wound Web and is renowned as a masterful dressmaker who weaves intricate golden thread. Aglaea was the first Amphoreus character to join the playable roster, debuting in version 3.0.",
+  "image": "https://img.game8.co/4045833/e83dc6b2353dd84813ae7c1d0adb14bc.png/show",
+  "url": "https://honkai-star-rail.fandom.com/wiki/Aglaea",
+  "slug": "aglaea"
 }

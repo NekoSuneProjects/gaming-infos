@@ -1,0 +1,3087 @@
+{
+  "Active": [
+    {
+      "id": 201,
+      "game": "roblox-rivals",
+      "code": "BONUS",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Reward",
+          "quantity": 1,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pcgamesn.com/roblox-rivals/codes",
+        "https://www.pocketgamer.com/roblox/rivals-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:38.000Z",
+      "lastSeenAt": "2026-08-24T11:02:19.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:19.000Z"
+    },
+    {
+      "id": 202,
+      "game": "roblox-rivals",
+      "code": "BOOST",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Reward",
+          "quantity": 1,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:38.000Z",
+      "lastSeenAt": "2026-08-24T11:02:19.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:19.000Z"
+    },
+    {
+      "id": 199,
+      "game": "roblox-rivals",
+      "code": "COCONUTBONK",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Pearls",
+          "quantity": 250,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:38.000Z",
+      "lastSeenAt": "2026-08-24T11:02:19.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:19.000Z"
+    },
+    {
+      "id": 205,
+      "game": "roblox-rivals",
+      "code": "COMMUNITY24",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Community Wrap",
+          "quantity": 1,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pcgamesn.com/roblox-rivals/codes",
+        "https://www.pocketgamer.com/roblox/rivals-codes/"
+      ],
+      "sourceKey": null,
+      "notes": "Sources disagreed on this code's status during the August 2026 baseline; seeded expired conservatively and daily refresh can reactivate it if a trusted current source lists it as working.",
+      "firstSeenAt": "2026-08-24T09:20:38.000Z",
+      "lastSeenAt": "2026-08-24T11:02:19.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:19.000Z"
+    },
+    {
+      "id": 198,
+      "game": "roblox-rivals",
+      "code": "COMMUNITY25",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Community Wrap",
+          "quantity": 1,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:38.000Z",
+      "lastSeenAt": "2026-08-24T11:01:08.000Z",
+      "lastVerifiedAt": "2026-08-24T11:01:08.000Z"
+    },
+    {
+      "id": 197,
+      "game": "roblox-rivals",
+      "code": "FREE193",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Keys",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:38.000Z",
+      "lastSeenAt": "2026-08-24T11:01:08.000Z",
+      "lastVerifiedAt": "2026-08-24T11:01:08.000Z"
+    },
+    {
+      "id": 196,
+      "game": "roblox-rivals",
+      "code": "FREE194",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Keys",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pcgamesn.com/roblox-rivals/codes",
+        "https://www.pocketgamer.com/roblox/rivals-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:38.000Z",
+      "lastSeenAt": "2026-08-24T11:02:19.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:19.000Z"
+    },
+    {
+      "id": 200,
+      "game": "roblox-rivals",
+      "code": "RIVALSSUMMER",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Tropical Chests",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:38.000Z",
+      "lastSeenAt": "2026-08-24T11:02:19.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:19.000Z"
+    },
+    {
+      "id": 203,
+      "game": "roblox-rivals",
+      "code": "roblox_rtc",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Reward",
+          "quantity": 1,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:38.000Z",
+      "lastSeenAt": "2026-08-24T11:02:20.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:20.000Z"
+    }
+  ],
+  "Expired": [
+    {
+      "id": 536,
+      "game": "roblox-rivals",
+      "code": "5B_VISITS_WHATTTTTT",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/",
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:52.000Z",
+      "lastSeenAt": "2026-08-24T11:02:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:21.000Z"
+    },
+    {
+      "id": 1176,
+      "game": "roblox-rivals",
+      "code": "About us",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:23:44.000Z",
+      "lastSeenAt": "2026-08-24T11:02:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:22.000Z"
+    },
+    {
+      "id": 1190,
+      "game": "roblox-rivals",
+      "code": "Accessibility",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:23:45.000Z",
+      "lastSeenAt": "2026-08-24T11:02:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:22.000Z"
+    },
+    {
+      "id": 1184,
+      "game": "roblox-rivals",
+      "code": "Advertise with us",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:23:44.000Z",
+      "lastSeenAt": "2026-08-24T11:02:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:22.000Z"
+    },
+    {
+      "id": 530,
+      "game": "roblox-rivals",
+      "code": "BESTSHOOTERGAME",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "RIA 25 Award Charm",
+          "quantity": 1,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/",
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:52.000Z",
+      "lastSeenAt": "2026-08-24T11:02:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:21.000Z"
+    },
+    {
+      "id": 551,
+      "game": "roblox-rivals",
+      "code": "COMMUNITY",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/",
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:53.000Z",
+      "lastSeenAt": "2026-08-24T11:02:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:22.000Z"
+    },
+    {
+      "id": 540,
+      "game": "roblox-rivals",
+      "code": "COMMUNITY10",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/",
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:52.000Z",
+      "lastSeenAt": "2026-08-24T11:02:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:21.000Z"
+    },
+    {
+      "id": 539,
+      "game": "roblox-rivals",
+      "code": "COMMUNITY11",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/",
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:52.000Z",
+      "lastSeenAt": "2026-08-24T11:02:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:21.000Z"
+    },
+    {
+      "id": 538,
+      "game": "roblox-rivals",
+      "code": "COMMUNITY12",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/",
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:52.000Z",
+      "lastSeenAt": "2026-08-24T11:02:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:21.000Z"
+    },
+    {
+      "id": 537,
+      "game": "roblox-rivals",
+      "code": "COMMUNITY13",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/",
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:52.000Z",
+      "lastSeenAt": "2026-08-24T11:02:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:21.000Z"
+    },
+    {
+      "id": 535,
+      "game": "roblox-rivals",
+      "code": "COMMUNITY14",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/",
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:52.000Z",
+      "lastSeenAt": "2026-08-24T11:02:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:21.000Z"
+    },
+    {
+      "id": 534,
+      "game": "roblox-rivals",
+      "code": "COMMUNITY15",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Community Wrap (Random Weapon)",
+          "quantity": 1,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/",
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:52.000Z",
+      "lastSeenAt": "2026-08-24T11:02:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:21.000Z"
+    },
+    {
+      "id": 532,
+      "game": "roblox-rivals",
+      "code": "COMMUNITY16",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Community Wrap (Random Weapon)",
+          "quantity": 1,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/",
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:52.000Z",
+      "lastSeenAt": "2026-08-24T11:02:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:21.000Z"
+    },
+    {
+      "id": 531,
+      "game": "roblox-rivals",
+      "code": "COMMUNITY17",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Community Wrap (Random Weapon)",
+          "quantity": 1,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/",
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:52.000Z",
+      "lastSeenAt": "2026-08-24T11:02:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:21.000Z"
+    },
+    {
+      "id": 528,
+      "game": "roblox-rivals",
+      "code": "COMMUNITY18",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Community Wrap (Random Weapon)",
+          "quantity": 1,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/",
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:52.000Z",
+      "lastSeenAt": "2026-08-24T11:02:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:21.000Z"
+    },
+    {
+      "id": 524,
+      "game": "roblox-rivals",
+      "code": "COMMUNITY19",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Community Wrap (Random Weapon)",
+          "quantity": 1,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/",
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:52.000Z",
+      "lastSeenAt": "2026-08-24T11:02:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:21.000Z"
+    },
+    {
+      "id": 550,
+      "game": "roblox-rivals",
+      "code": "COMMUNITY2",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/",
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:52.000Z",
+      "lastSeenAt": "2026-08-24T11:02:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:22.000Z"
+    },
+    {
+      "id": 520,
+      "game": "roblox-rivals",
+      "code": "COMMUNITY20",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Community Wrap (Random Weapon)",
+          "quantity": 1,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/",
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:52.000Z",
+      "lastSeenAt": "2026-08-24T11:02:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:21.000Z"
+    },
+    {
+      "id": 518,
+      "game": "roblox-rivals",
+      "code": "COMMUNITY21",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Community Wrap",
+          "quantity": 1,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/",
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:52.000Z",
+      "lastSeenAt": "2026-08-24T11:02:20.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:20.000Z"
+    },
+    {
+      "id": 515,
+      "game": "roblox-rivals",
+      "code": "COMMUNITY22",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Community Wrap",
+          "quantity": 1,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/",
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:51.000Z",
+      "lastSeenAt": "2026-08-24T11:02:20.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:20.000Z"
+    },
+    {
+      "id": 1118,
+      "game": "roblox-rivals",
+      "code": "COMMUNITY23",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:23:42.000Z",
+      "lastSeenAt": "2026-08-24T11:02:20.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:20.000Z"
+    },
+    {
+      "id": 549,
+      "game": "roblox-rivals",
+      "code": "COMMUNITY3",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/",
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:52.000Z",
+      "lastSeenAt": "2026-08-24T11:02:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:22.000Z"
+    },
+    {
+      "id": 547,
+      "game": "roblox-rivals",
+      "code": "COMMUNITY4",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/",
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:52.000Z",
+      "lastSeenAt": "2026-08-24T11:02:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:22.000Z"
+    },
+    {
+      "id": 546,
+      "game": "roblox-rivals",
+      "code": "COMMUNITY5",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/",
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:52.000Z",
+      "lastSeenAt": "2026-08-24T11:02:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:21.000Z"
+    },
+    {
+      "id": 545,
+      "game": "roblox-rivals",
+      "code": "COMMUNITY6",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/",
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:52.000Z",
+      "lastSeenAt": "2026-08-24T11:02:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:21.000Z"
+    },
+    {
+      "id": 544,
+      "game": "roblox-rivals",
+      "code": "COMMUNITY7",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/",
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:52.000Z",
+      "lastSeenAt": "2026-08-24T11:02:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:21.000Z"
+    },
+    {
+      "id": 542,
+      "game": "roblox-rivals",
+      "code": "COMMUNITY8",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/",
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:52.000Z",
+      "lastSeenAt": "2026-08-24T11:02:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:21.000Z"
+    },
+    {
+      "id": 541,
+      "game": "roblox-rivals",
+      "code": "COMMUNITY9",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/",
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:52.000Z",
+      "lastSeenAt": "2026-08-24T11:02:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:21.000Z"
+    },
+    {
+      "id": 1192,
+      "game": "roblox-rivals",
+      "code": "Cookie policy",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:23:45.000Z",
+      "lastSeenAt": "2026-08-24T11:02:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:22.000Z"
+    },
+    {
+      "id": 1180,
+      "game": "roblox-rivals",
+      "code": "Editorial policy",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:23:44.000Z",
+      "lastSeenAt": "2026-08-24T11:02:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:22.000Z"
+    },
+    {
+      "id": 1174,
+      "game": "roblox-rivals",
+      "code": "Find us on",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:23:44.000Z",
+      "lastSeenAt": "2026-08-24T11:02:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:22.000Z"
+    },
+    {
+      "id": 533,
+      "game": "roblox-rivals",
+      "code": "FREE100",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Keys",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:52.000Z",
+      "lastSeenAt": "2026-08-24T11:01:11.000Z",
+      "lastVerifiedAt": "2026-08-24T11:01:11.000Z"
+    },
+    {
+      "id": 526,
+      "game": "roblox-rivals",
+      "code": "FREE121",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Keys",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:52.000Z",
+      "lastSeenAt": "2026-08-24T11:01:10.000Z",
+      "lastVerifiedAt": "2026-08-24T11:01:10.000Z"
+    },
+    {
+      "id": 1143,
+      "game": "roblox-rivals",
+      "code": "FREE127",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:23:43.000Z",
+      "lastSeenAt": "2026-08-24T11:02:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:21.000Z"
+    },
+    {
+      "id": 525,
+      "game": "roblox-rivals",
+      "code": "FREE129",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Keys",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/",
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:52.000Z",
+      "lastSeenAt": "2026-08-24T11:02:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:21.000Z"
+    },
+    {
+      "id": 521,
+      "game": "roblox-rivals",
+      "code": "FREE135",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Keys",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:52.000Z",
+      "lastSeenAt": "2026-08-24T11:01:09.000Z",
+      "lastVerifiedAt": "2026-08-24T11:01:09.000Z"
+    },
+    {
+      "id": 1137,
+      "game": "roblox-rivals",
+      "code": "FREE137",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:23:43.000Z",
+      "lastSeenAt": "2026-08-24T11:02:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:21.000Z"
+    },
+    {
+      "id": 1134,
+      "game": "roblox-rivals",
+      "code": "FREE138",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:23:42.000Z",
+      "lastSeenAt": "2026-08-24T11:02:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:21.000Z"
+    },
+    {
+      "id": 519,
+      "game": "roblox-rivals",
+      "code": "FREE155",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Keys",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/",
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:52.000Z",
+      "lastSeenAt": "2026-08-24T11:02:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:21.000Z"
+    },
+    {
+      "id": 1131,
+      "game": "roblox-rivals",
+      "code": "FREE158",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:23:42.000Z",
+      "lastSeenAt": "2026-08-24T11:02:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:21.000Z"
+    },
+    {
+      "id": 1129,
+      "game": "roblox-rivals",
+      "code": "FREE159",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:23:42.000Z",
+      "lastSeenAt": "2026-08-24T11:02:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:21.000Z"
+    },
+    {
+      "id": 517,
+      "game": "roblox-rivals",
+      "code": "FREE160",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Keys",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/",
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:51.000Z",
+      "lastSeenAt": "2026-08-24T11:02:20.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:20.000Z"
+    },
+    {
+      "id": 1126,
+      "game": "roblox-rivals",
+      "code": "FREE161",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:23:42.000Z",
+      "lastSeenAt": "2026-08-24T11:02:20.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:20.000Z"
+    },
+    {
+      "id": 529,
+      "game": "roblox-rivals",
+      "code": "FREE162",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Keys",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/",
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:52.000Z",
+      "lastSeenAt": "2026-08-24T11:02:20.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:20.000Z"
+    },
+    {
+      "id": 1124,
+      "game": "roblox-rivals",
+      "code": "FREE163",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:23:42.000Z",
+      "lastSeenAt": "2026-08-24T11:02:20.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:20.000Z"
+    },
+    {
+      "id": 516,
+      "game": "roblox-rivals",
+      "code": "FREE164",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Keys",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/",
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:51.000Z",
+      "lastSeenAt": "2026-08-24T11:02:20.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:20.000Z"
+    },
+    {
+      "id": 514,
+      "game": "roblox-rivals",
+      "code": "FREE166",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Keys",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:51.000Z",
+      "lastSeenAt": "2026-08-24T11:01:09.000Z",
+      "lastVerifiedAt": "2026-08-24T11:01:09.000Z"
+    },
+    {
+      "id": 513,
+      "game": "roblox-rivals",
+      "code": "FREE168",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Keys",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:51.000Z",
+      "lastSeenAt": "2026-08-24T11:01:09.000Z",
+      "lastVerifiedAt": "2026-08-24T11:01:09.000Z"
+    },
+    {
+      "id": 512,
+      "game": "roblox-rivals",
+      "code": "FREE169",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Keys",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:51.000Z",
+      "lastSeenAt": "2026-08-24T11:01:09.000Z",
+      "lastVerifiedAt": "2026-08-24T11:01:09.000Z"
+    },
+    {
+      "id": 511,
+      "game": "roblox-rivals",
+      "code": "FREE171",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Keys",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:51.000Z",
+      "lastSeenAt": "2026-08-24T11:01:09.000Z",
+      "lastVerifiedAt": "2026-08-24T11:01:09.000Z"
+    },
+    {
+      "id": 510,
+      "game": "roblox-rivals",
+      "code": "FREE176",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Keys",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:51.000Z",
+      "lastSeenAt": "2026-08-24T11:01:09.000Z",
+      "lastVerifiedAt": "2026-08-24T11:01:09.000Z"
+    },
+    {
+      "id": 509,
+      "game": "roblox-rivals",
+      "code": "FREE177",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Keys",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:51.000Z",
+      "lastSeenAt": "2026-08-24T11:01:09.000Z",
+      "lastVerifiedAt": "2026-08-24T11:01:09.000Z"
+    },
+    {
+      "id": 508,
+      "game": "roblox-rivals",
+      "code": "FREE179",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Keys",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:51.000Z",
+      "lastSeenAt": "2026-08-24T11:01:09.000Z",
+      "lastVerifiedAt": "2026-08-24T11:01:09.000Z"
+    },
+    {
+      "id": 507,
+      "game": "roblox-rivals",
+      "code": "FREE181",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Keys",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:51.000Z",
+      "lastSeenAt": "2026-08-24T11:01:09.000Z",
+      "lastVerifiedAt": "2026-08-24T11:01:09.000Z"
+    },
+    {
+      "id": 506,
+      "game": "roblox-rivals",
+      "code": "FREE182",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Keys",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:51.000Z",
+      "lastSeenAt": "2026-08-24T11:01:09.000Z",
+      "lastVerifiedAt": "2026-08-24T11:01:09.000Z"
+    },
+    {
+      "id": 505,
+      "game": "roblox-rivals",
+      "code": "FREE184",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Keys",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:51.000Z",
+      "lastSeenAt": "2026-08-24T11:01:09.000Z",
+      "lastVerifiedAt": "2026-08-24T11:01:09.000Z"
+    },
+    {
+      "id": 504,
+      "game": "roblox-rivals",
+      "code": "FREE185",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Keys",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:50.000Z",
+      "lastSeenAt": "2026-08-24T11:01:09.000Z",
+      "lastVerifiedAt": "2026-08-24T11:01:09.000Z"
+    },
+    {
+      "id": 503,
+      "game": "roblox-rivals",
+      "code": "FREE186",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Keys",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:50.000Z",
+      "lastSeenAt": "2026-08-24T11:01:08.000Z",
+      "lastVerifiedAt": "2026-08-24T11:01:08.000Z"
+    },
+    {
+      "id": 502,
+      "game": "roblox-rivals",
+      "code": "FREE187",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Keys",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:50.000Z",
+      "lastSeenAt": "2026-08-24T11:01:08.000Z",
+      "lastVerifiedAt": "2026-08-24T11:01:08.000Z"
+    },
+    {
+      "id": 501,
+      "game": "roblox-rivals",
+      "code": "FREE188",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Keys",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:50.000Z",
+      "lastSeenAt": "2026-08-24T11:01:08.000Z",
+      "lastVerifiedAt": "2026-08-24T11:01:08.000Z"
+    },
+    {
+      "id": 500,
+      "game": "roblox-rivals",
+      "code": "FREE190",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Keys",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:50.000Z",
+      "lastSeenAt": "2026-08-24T11:01:08.000Z",
+      "lastVerifiedAt": "2026-08-24T11:01:08.000Z"
+    },
+    {
+      "id": 204,
+      "game": "roblox-rivals",
+      "code": "FREE192",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Keys",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:38.000Z",
+      "lastSeenAt": "2026-08-24T11:01:08.000Z",
+      "lastVerifiedAt": "2026-08-24T11:01:08.000Z"
+    },
+    {
+      "id": 527,
+      "game": "roblox-rivals",
+      "code": "HAPPYRIVALSWEEN",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Candy",
+          "quantity": 250,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/",
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:52.000Z",
+      "lastSeenAt": "2026-08-24T11:02:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:21.000Z"
+    },
+    {
+      "id": 1182,
+      "game": "roblox-rivals",
+      "code": "How we test",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:23:44.000Z",
+      "lastSeenAt": "2026-08-24T11:02:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:22.000Z"
+    },
+    {
+      "id": 1194,
+      "game": "roblox-rivals",
+      "code": "Manage Consent",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:23:45.000Z",
+      "lastSeenAt": "2026-08-24T11:02:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:22.000Z"
+    },
+    {
+      "id": 1178,
+      "game": "roblox-rivals",
+      "code": "Meet the team",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:23:44.000Z",
+      "lastSeenAt": "2026-08-24T11:02:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:22.000Z"
+    },
+    {
+      "id": 523,
+      "game": "roblox-rivals",
+      "code": "MERRYMERRYXMAS<3",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Crystals",
+          "quantity": 250,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/",
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:52.000Z",
+      "lastSeenAt": "2026-08-24T11:02:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:21.000Z"
+    },
+    {
+      "id": 1172,
+      "game": "roblox-rivals",
+      "code": "PCGamesN",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:23:44.000Z",
+      "lastSeenAt": "2026-08-24T11:02:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:22.000Z"
+    },
+    {
+      "id": 1186,
+      "game": "roblox-rivals",
+      "code": "Privacy policy",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:23:44.000Z",
+      "lastSeenAt": "2026-08-24T11:02:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:22.000Z"
+    },
+    {
+      "id": 552,
+      "game": "roblox-rivals",
+      "code": "RELEASE",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/",
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:53.000Z",
+      "lastSeenAt": "2026-08-24T11:02:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:22.000Z"
+    },
+    {
+      "id": 548,
+      "game": "roblox-rivals",
+      "code": "SORRY",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/",
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:52.000Z",
+      "lastSeenAt": "2026-08-24T11:02:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:22.000Z"
+    },
+    {
+      "id": 522,
+      "game": "roblox-rivals",
+      "code": "TEN_BILLION_VISITS_OMG",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Limited-time Skin",
+          "quantity": null,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/",
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:52.000Z",
+      "lastSeenAt": "2026-08-24T11:02:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:21.000Z"
+    },
+    {
+      "id": 1188,
+      "game": "roblox-rivals",
+      "code": "Terms of use",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:23:44.000Z",
+      "lastSeenAt": "2026-08-24T11:02:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:22.000Z"
+    },
+    {
+      "id": 543,
+      "game": "roblox-rivals",
+      "code": "THANKYOU_1BVISITS!",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/roblox/rivals-codes/",
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:22:52.000Z",
+      "lastSeenAt": "2026-08-24T11:02:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:21.000Z"
+    },
+    {
+      "id": 1152,
+      "game": "roblox-rivals",
+      "code": "UPDATE 12 code",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pcgamesn.com/roblox-rivals/codes"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:23:44.000Z",
+      "lastSeenAt": "2026-08-24T11:02:21.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:21.000Z"
+    }
+  ],
+  "Unknown": []
+}

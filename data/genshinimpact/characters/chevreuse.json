@@ -1,11 +1,12 @@
 {
-    "name": "Chevreuse",
-    "cv": "Shimoji Shino",
-    "description": "A musketeer and the hardworking captain of the Special Security and Surveillance Patrol, a law enforcement branch of the Maison Gardiennage in Fontaine, known for her unorthodox but firm sense of justice.",
-    "image": "",
-    "city": "Fontaine",
-    "url": "https://gamewith.net/genshin-impact/article/show/41820",
-    "element": "Pyro",
-    "weapon": "Polearm",
-    "rating": 4
+  "name": "Chevreuse",
+  "cv": "Shimoji Shino",
+  "description": "A musketeer and the hardworking captain of the Special Security and Surveillance Patrol, a law enforcement branch of the Maison Gardiennage in Fontaine, known for her unorthodox but firm sense of justice.",
+  "image": "",
+  "city": "Fontaine",
+  "url": "https://gamewith.net/genshin-impact/article/show/41820",
+  "element": "Pyro",
+  "weapon": "Polearm",
+  "rating": 4,
+  "slug": "chevreuse"
 }

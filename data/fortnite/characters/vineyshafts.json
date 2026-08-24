@@ -1,0 +1,35 @@
+{
+  "name": "Viney Shafts",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/b/b6/Viney_Shafts_-_Location_-_Fortnite.png/revision/latest?cb=20251011042541",
+  "url": "https://fortnite.fandom.com/wiki/Viney_Shafts",
+  "title": null,
+  "location": "SW Bugswatter Beach NE Outlaw Oasis NW Ranger's Rest",
+  "affiliation": null,
+  "introduced": "October 9th 2025",
+  "services": null,
+  "details": {
+    "image": "Viney Shafts - Location - Fortnite.png|Overview Viney Shafts (Top View) - Location - Fortnite.png|Top View",
+    "location": "SW Bugswatter Beach NE Outlaw Oasis NW Ranger's Rest",
+    "type": "Named Location",
+    "island": "Oninoshima",
+    "release": "October 9th 2025",
+    "removed": "November 1st 2025",
+    "previous": "Shiny Shafts }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Viney_Shafts",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.547Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "vineyshafts"
+}

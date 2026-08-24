@@ -1,0 +1,40 @@
+{
+  "name": "Wastelander Magneto",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/7/70/Wastelander_Magneto_-_Outfit_-_Fortnite.png/revision/latest?cb=20240524143354",
+  "url": "https://fortnite.fandom.com/wiki/Wastelander_Magneto",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "July 2nd 2024",
+  "services": null,
+  "details": {
+    "image": "Wastelander Magneto - Outfit - Fortnite.png|Icon Wastelander Magneto (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Marvel Series",
+    "set": "Magneto",
+    "character model": "Unique",
+    "unlocked": "Magneto Quests",
+    "cost": "950 (3)",
+    "added_in": "Update v30.00",
+    "release": "July 2nd 2024",
+    "ID": "Character_RoundThumb_Nail",
+    "LEGOUse": "y",
+    "featured": "Wastelander Magneto (Face Plate - Featured) - Outfit - Fortnite.png|1 Wastelander Magneto (Helmet Off - Featured) - Outfit - Fortnite.png|2 }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Wastelander_Magneto",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.598Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "wastelandermagneto"
+}

@@ -1,12 +1,13 @@
 {
-    "name": "Aventurine",
-    "rarity": "5-star",
-    "path": "Preservation",
-    "element": "Imaginary",
-    "faction": "Interastral Peace Corporation (one of the Ten Stonehearts)",
-    "voiceActorEN": "Camden Sutkowski",
-    "voiceActorJP": "Kengo Kawanishi",
-    "description": "Real name Kakavasha, Aventurine is one of the IPC's ten senior executives known as the Ten Stonehearts. The sole survivor of a massacre on his homeworld Sigonia-IV, he endured enslavement before rising through the IPC's ranks, and treats life as a high-risk gamble worth wagering everything on.",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Aventurine_in_Honkai_Star_Rail.png/250px-Aventurine_in_Honkai_Star_Rail.png",
-    "url": "https://en.wikipedia.org/wiki/Aventurine_(Honkai:_Star_Rail)"
+  "name": "Aventurine",
+  "rarity": "5-star",
+  "path": "Preservation",
+  "element": "Imaginary",
+  "faction": "Interastral Peace Corporation (one of the Ten Stonehearts)",
+  "voiceActorEN": "Camden Sutkowski",
+  "voiceActorJP": "Kengo Kawanishi",
+  "description": "Real name Kakavasha, Aventurine is one of the IPC's ten senior executives known as the Ten Stonehearts. The sole survivor of a massacre on his homeworld Sigonia-IV, he endured enslavement before rising through the IPC's ranks, and treats life as a high-risk gamble worth wagering everything on.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Aventurine_in_Honkai_Star_Rail.png/250px-Aventurine_in_Honkai_Star_Rail.png",
+  "url": "https://en.wikipedia.org/wiki/Aventurine_(Honkai:_Star_Rail)",
+  "slug": "aventurine"
 }

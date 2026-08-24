@@ -1,0 +1,44 @@
+{
+  "name": "Khari",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/c/c4/Khari_%28Gilded_Ace%29_-_Outfit_-_Fortnite.png/revision/latest?cb=20240207223528",
+  "url": "https://fortnite.fandom.com/wiki/Khari",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "July 23rd 2022",
+  "services": null,
+  "details": {
+    "image": "Khari (v28.20) - Outfit - Fortnite.png|Icon Khari (v28.20 - Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "bundled_with": "Truth's Quiver",
+    "set": "Starlit Archer",
+    "rarity": "Epic",
+    "cost": "1,500 1,800 (Starlit Archer Bundle) 2,600 (Bryciee_xo's Locker Bundle)",
+    "unlocked": "Item Shop Starlit Archer Bundle Galaxy Cup 3 Bryciee_xo's Locker Bundle",
+    "release": "July 23rd 2022",
+    "appearances": "Khari",
+    "character model": "Khari",
+    "added_in": "Update v21.20",
+    "LEGOUse": "y",
+    "ID": "CID_A_451_Athena_Commando_F_Rays",
+    "FGUse": "y",
+    "BeanID": "Bean_RaysNight",
+    "featured": "Khari (Terrabound Featured) - Outfit - Fortnite.png|1 Khari (Gilded Ace - Featured) - Outfit - Fortnite.png|2 }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Khari",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.605Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "khari"
+}

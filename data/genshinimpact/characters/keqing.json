@@ -1,11 +1,12 @@
 {
-    "name": "Keqing",
-    "cv": "Eri Kitamura",
-    "description": "Keqing is the Yuheng of the Liyue Qixing, a sharp, hardworking, and skeptical official who values evidence and effort over blind faith in the Archons. She fights with an Electro sword, striking rapidly through short teleportation bursts.",
-    "image": "",
-    "city": "Liyue",
-    "url": "https://en.wikipedia.org/wiki/List_of_Genshin_Impact_characters",
-    "element": "Electro",
-    "weapon": "Sword",
-    "rating": 5
+  "name": "Keqing",
+  "cv": "Eri Kitamura",
+  "description": "Keqing is the Yuheng of the Liyue Qixing, a sharp, hardworking, and skeptical official who values evidence and effort over blind faith in the Archons. She fights with an Electro sword, striking rapidly through short teleportation bursts.",
+  "image": "",
+  "city": "Liyue",
+  "url": "https://en.wikipedia.org/wiki/List_of_Genshin_Impact_characters",
+  "element": "Electro",
+  "weapon": "Sword",
+  "rating": 5,
+  "slug": "keqing"
 }

@@ -1,0 +1,42 @@
+{
+  "name": "Meowscles",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/d/d7/Meowscles_-_Outfit_-_Fortnite.png/revision/latest?cb=20200509144639",
+  "url": "https://fortnite.fandom.com/wiki/Meowscles",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "February 20th 2020",
+  "services": null,
+  "details": {
+    "image": "Meowscles - Outfit - Fortnite.png|Icon Meowscles (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "set": "Swole Cat",
+    "cost": "950 (2)",
+    "unlocked": "Level 60 2",
+    "release": "February 20th 2020",
+    "added_in": "Update v12.00",
+    "character model": "Meowscles",
+    "featured": "Meowscles (SHADOW - Featured) - Outfit - Fortnite.png|1 Meowscles (GHOST - Featured) - Outfit - Fortnite.png|2",
+    "LEGOUse": "y",
+    "ID": "CID_693_Athena_Commando_M_BuffCat",
+    "FGUse": "y",
+    "BeanID": "Bean_BuffCat }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Meowscles",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.599Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "meowscles"
+}

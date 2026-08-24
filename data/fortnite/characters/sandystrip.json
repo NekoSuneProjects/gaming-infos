@@ -1,0 +1,44 @@
+{
+  "name": "Sandy Strip",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/0/07/Sandy_Strip_%28v40.40%29_-_Location_-_Fortnite.png/revision/latest?cb=20260514203241",
+  "url": "https://fortnite.fandom.com/wiki/Sandy_Strip",
+  "title": null,
+  "location": "S Painted Palms W Fore Fields N New Sanctuary",
+  "affiliation": null,
+  "introduced": "November 29th 2025",
+  "services": null,
+  "details": {
+    "name": "Sandy Strip",
+    "image": "Sandy Strip (v40.40) - Location - Fortnite.png|Overview Sandy Strip (v40.40 - Top View) - Location - Fortnite.png|Top View",
+    "location": "S Painted Palms W Fore Fields N New Sanctuary",
+    "type": "Named Location",
+    "island": "Golden Coast",
+    "chests": "41",
+    "ammo_boxes": "50",
+    "produce_boxes": "3",
+    "vending_machines": "3",
+    "landmarks": "*The Shape *King's Row Tower",
+    "release": "November 29th 2025",
+    "removed": "June 6th 2026",
+    "vehicles": "1x Reboot Van 3x Grandeur Trailsmasher 1x Motors Whiplash 1x All Terrain Kart",
+    "character": "C7S1]] v39.30]] C7S1]] C7S1]] C7S2]] C7S2]]",
+    "next": "Sinister Strip",
+    "franchises": "*Deca Hotels *Deep Cuts *Pizza Pit *Saucy Sausage *Durrr Burger }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Sandy_Strip",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.530Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "sandystrip"
+}

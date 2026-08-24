@@ -1,0 +1,44 @@
+{
+  "name": "Lavendra",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/d/da/Lavendra_-_Outfit_-_Fortnite.png/revision/latest?cb=20240503095840",
+  "url": "https://fortnite.fandom.com/wiki/Lavendra",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "May 6th 2024",
+  "services": null,
+  "details": {
+    "image": "Lavendra - Outfit - Fortnite.png|Icon Lavendra (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "bundled_with": "Snapshot Pack Dreamy Bouquet",
+    "set": "Flawless Flora",
+    "cost": "1,200",
+    "unlocked": "Item Shop",
+    "release": "May 6th 2024",
+    "character model": "Stacy",
+    "added_in": "Update v29.40",
+    "appearances": "Lavendra",
+    "FGUse": "y",
+    "ID": "Character_RetroPhotographer",
+    "BeanID": "Bean_RetroPhotographer",
+    "featured": "Lavendra (Glasses - Off - Featured) - Outfit - Fortnite.png",
+    "LEGOUse": "y }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Lavendra",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.613Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "lavendra"
+}

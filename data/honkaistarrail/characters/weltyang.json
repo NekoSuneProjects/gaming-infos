@@ -1,12 +1,13 @@
 {
-    "name": "Welt Yang",
-    "rarity": "5-star",
-    "path": "Nihility",
-    "element": "Imaginary",
-    "faction": "Astral Express",
-    "voiceActorEN": "Corey Landis",
-    "voiceActorJP": "Yoshimasa Hosoya",
-    "description": "Also known by his former alias Otto Apocalypse from Honkai Impact 3rd, Welt Yang is a founding member of the Astral Express crew. He is a powerful Nihility-path damage dealer who manipulates gravity and imprisons enemies with Imaginary energy.",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Welt_HSR_Portrait.png/250px-Welt_HSR_Portrait.png",
-    "url": "https://en.wikipedia.org/wiki/Welt_Yang"
+  "name": "Welt Yang",
+  "rarity": "5-star",
+  "path": "Nihility",
+  "element": "Imaginary",
+  "faction": "Astral Express",
+  "voiceActorEN": "Corey Landis",
+  "voiceActorJP": "Yoshimasa Hosoya",
+  "description": "Also known by his former alias Otto Apocalypse from Honkai Impact 3rd, Welt Yang is a founding member of the Astral Express crew. He is a powerful Nihility-path damage dealer who manipulates gravity and imprisons enemies with Imaginary energy.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Welt_HSR_Portrait.png/250px-Welt_HSR_Portrait.png",
+  "url": "https://en.wikipedia.org/wiki/Welt_Yang",
+  "slug": "weltyang"
 }

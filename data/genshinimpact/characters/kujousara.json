@@ -1,11 +1,12 @@
 {
-    "name": "Kujou Sara",
-    "cv": "Asami Seto",
-    "description": "Kujou Sara is a tengu and the adopted daughter of the Kujou Clan, serving as a general of the Inazuma Shogunate's army under the Tenryou Commission. Loyal and severe, she carries out the Shogunate's orders without hesitation or question.",
-    "image": "",
-    "city": "Inazuma",
-    "url": "https://genshin-impact.fandom.com/wiki/Kujou_Sara",
-    "element": "Electro",
-    "weapon": "Bow",
-    "rating": 4
+  "name": "Kujou Sara",
+  "cv": "Asami Seto",
+  "description": "Kujou Sara is a tengu and the adopted daughter of the Kujou Clan, serving as a general of the Inazuma Shogunate's army under the Tenryou Commission. Loyal and severe, she carries out the Shogunate's orders without hesitation or question.",
+  "image": "",
+  "city": "Inazuma",
+  "url": "https://genshin-impact.fandom.com/wiki/Kujou_Sara",
+  "element": "Electro",
+  "weapon": "Bow",
+  "rating": 4,
+  "slug": "kujousara"
 }

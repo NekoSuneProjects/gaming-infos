@@ -1,0 +1,41 @@
+{
+  "name": "Shimmerdusk",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/0/0e/Shimmerdusk_-_Outfit_-_Fortnite.png/revision/latest?cb=20230926100441",
+  "url": "https://fortnite.fandom.com/wiki/Shimmerdusk",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "October 1st 2023",
+  "services": null,
+  "details": {
+    "image": "Shimmerdusk - Outfit - Fortnite.png|Icon Shimmerdusk (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Crew Series",
+    "set": "Extraplanar Hunter",
+    "character model": "Unique",
+    "unlocked": "October 2023 Fortnite Crew Pack",
+    "cost": "$11.99 ()",
+    "release": "October 1st 2023",
+    "added_in": "Update v26.20",
+    "LEGOUse": "y",
+    "FGUse": "y",
+    "ID": "Character_LethalVae",
+    "BeanID": "Bean_LethalVae }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Shimmerdusk",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.637Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "shimmerdusk"
+}

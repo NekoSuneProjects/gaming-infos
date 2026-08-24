@@ -1,12 +1,13 @@
 {
-    "name": "Huohuo",
-    "rarity": "5-star",
-    "path": "Abundance",
-    "element": "Wind",
-    "faction": "Ten-Lords Commission (Xianzhou Luofu)",
-    "voiceActorEN": "Megan Shipman",
-    "voiceActorJP": "Maria Naganawa",
-    "description": "Huohuo is a Foxian girl training to become a judge of the Ten-Lords Commission, with a heliobus spirit named Tail sealed within her own tail to bind her powers. She serves as a dedicated healer for her team.",
-    "image": "",
-    "url": "https://honkai-star-rail.fandom.com/wiki/Huohuo"
+  "name": "Huohuo",
+  "rarity": "5-star",
+  "path": "Abundance",
+  "element": "Wind",
+  "faction": "Ten-Lords Commission (Xianzhou Luofu)",
+  "voiceActorEN": "Megan Shipman",
+  "voiceActorJP": "Maria Naganawa",
+  "description": "Huohuo is a Foxian girl training to become a judge of the Ten-Lords Commission, with a heliobus spirit named Tail sealed within her own tail to bind her powers. She serves as a dedicated healer for her team.",
+  "image": "",
+  "url": "https://honkai-star-rail.fandom.com/wiki/Huohuo",
+  "slug": "huohuo"
 }

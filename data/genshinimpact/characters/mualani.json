@@ -1,11 +1,12 @@
 {
-    "name": "Mualani",
-    "cv": "Nao Tōyama",
-    "description": "A knowledgeable and popular guide from the People of the Springs, known for surfing across Natlan's waters on her Portable Water Slide.",
-    "image": "",
-    "city": "Natlan",
-    "url": "https://genshin-impact.fandom.com/wiki/Mualani",
-    "element": "Hydro",
-    "weapon": "Catalyst",
-    "rating": 5
+  "name": "Mualani",
+  "cv": "Nao Tōyama",
+  "description": "A knowledgeable and popular guide from the People of the Springs, known for surfing across Natlan's waters on her Portable Water Slide.",
+  "image": "",
+  "city": "Natlan",
+  "url": "https://genshin-impact.fandom.com/wiki/Mualani",
+  "element": "Hydro",
+  "weapon": "Catalyst",
+  "rating": 5,
+  "slug": "mualani"
 }

@@ -1,0 +1,45 @@
+{
+  "name": "Leelah",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/b/b7/Leelah_-_Outfit_-_Fortnite.png/revision/latest?cb=20220301152158",
+  "url": "https://fortnite.fandom.com/wiki/Leelah",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "March 11th 2022",
+  "services": null,
+  "details": {
+    "image": "Leelah - Outfit - Fortnite.png|Icon Leelah (v40.20 - Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Rare",
+    "bundled_with": "Hoppabuns",
+    "set": "Luckypaw",
+    "cost": "1,200 2,200 (Best Friends Bundle)",
+    "unlocked": "Item Shop Best Friends Bundle",
+    "release": "March 11th 2022",
+    "character model": "Unique",
+    "body model": "Unique",
+    "appearances": "Leelah",
+    "added_in": "Update v19.40",
+    "ID": "CID_A_359_Athena_Commando_F_BunnyPurple",
+    "FGUse": "y",
+    "BeanID": "Bean_BunnyPurple",
+    "featured": "Leelah (v40.20 - Snowy Lite - Featured) - Outfit - Fortnite.png|1 Leelah (v40.20 - Festive - Featured) - Outfit - Fortnite.png|2",
+    "LEGOUse": "y }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Leelah",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.621Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "leelah"
+}

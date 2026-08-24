@@ -1,0 +1,373 @@
+{
+  "Active": [
+    {
+      "id": 22,
+      "game": "borderlands-2",
+      "code": "59KBB-95FSS-WRKRH-FJJJ3-KT6K6",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Golden Key",
+          "quantity": 10,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:31.000Z",
+      "lastSeenAt": "2026-08-24T09:20:31.000Z",
+      "lastVerifiedAt": null
+    },
+    {
+      "id": 23,
+      "game": "borderlands-2",
+      "code": "CSWTB-TZCZH-WFC6Z-633TT-SJ6JS",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Golden Key",
+          "quantity": 10,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:31.000Z",
+      "lastSeenAt": "2026-08-24T09:20:31.000Z",
+      "lastVerifiedAt": null
+    },
+    {
+      "id": 19,
+      "game": "borderlands-2",
+      "code": "SFXJT-S3XS3-3T3JT-33BTJ-R33JJ",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Golden Key",
+          "quantity": 75,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:30.000Z",
+      "lastSeenAt": "2026-08-24T09:20:30.000Z",
+      "lastVerifiedAt": null
+    },
+    {
+      "id": 21,
+      "game": "borderlands-2",
+      "code": "SXFBT-39953-J33TT-3T333-KSHW6",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Golden Key",
+          "quantity": 50,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:30.000Z",
+      "lastSeenAt": "2026-08-24T09:20:30.000Z",
+      "lastVerifiedAt": null
+    },
+    {
+      "id": 24,
+      "game": "borderlands-2",
+      "code": "WS5JB-K9KHH-WRC6S-FJ3JT-ZZZZK",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Golden Key",
+          "quantity": 10,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:31.000Z",
+      "lastSeenAt": "2026-08-24T09:20:31.000Z",
+      "lastVerifiedAt": null
+    },
+    {
+      "id": 20,
+      "game": "borderlands-2",
+      "code": "ZFFTJ-RWRZJ-3B333-TTJJ3-XKCSK",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Golden Key",
+          "quantity": 50,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:30.000Z",
+      "lastSeenAt": "2026-08-24T09:20:30.000Z",
+      "lastVerifiedAt": null
+    }
+  ],
+  "Expired": [
+    {
+      "id": 27,
+      "game": "borderlands-2",
+      "code": "SFX3T-JSSJ3-3BBTT-J3BJ3-9XWXJ",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Golden Key",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "fixed",
+        "isLifetime": false,
+        "expiresAt": "2025-08-14T23:59:59.000Z",
+        "sourceTimezone": "UTC",
+        "selectedTimezone": "UTC",
+        "local": "14/08/2025, 23:59:59 UTC",
+        "expiresInSeconds": 0,
+        "countdown": {
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "expired": true
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:31.000Z",
+      "lastSeenAt": "2026-08-24T09:20:31.000Z",
+      "lastVerifiedAt": null
+    },
+    {
+      "id": 26,
+      "game": "borderlands-2",
+      "code": "ZFR3J-WZHBJ-BJBBB-3JBBB-F9R3W",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Golden Key",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "fixed",
+        "isLifetime": false,
+        "expiresAt": "2025-08-21T23:59:59.000Z",
+        "sourceTimezone": "UTC",
+        "selectedTimezone": "UTC",
+        "local": "21/08/2025, 23:59:59 UTC",
+        "expiresInSeconds": 0,
+        "countdown": {
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "expired": true
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:31.000Z",
+      "lastSeenAt": "2026-08-24T09:20:31.000Z",
+      "lastVerifiedAt": null
+    },
+    {
+      "id": 25,
+      "game": "borderlands-2",
+      "code": "SRR3T-FZHJ3-J3JBJ-BTTBB-SF65T",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Golden Key",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "fixed",
+        "isLifetime": false,
+        "expiresAt": "2025-08-28T23:59:59.000Z",
+        "sourceTimezone": "UTC",
+        "selectedTimezone": "UTC",
+        "local": "28/08/2025, 23:59:59 UTC",
+        "expiresInSeconds": 0,
+        "countdown": {
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "expired": true
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:31.000Z",
+      "lastSeenAt": "2026-08-24T09:20:31.000Z",
+      "lastVerifiedAt": null
+    }
+  ],
+  "Unknown": []
+}

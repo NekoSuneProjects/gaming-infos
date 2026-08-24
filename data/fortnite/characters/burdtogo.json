@@ -1,0 +1,42 @@
+{
+  "name": "BURD To Go",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/4/41/BURD_To_Go_%281%29_-_Landmark_-_Fortnite.png/revision/latest?cb=20250424192202",
+  "url": "https://fortnite.fandom.com/wiki/BURD_To_Go",
+  "title": null,
+  "location": "E Base Tunnel SW Demon's Dojo‎ SE Pumped Power",
+  "affiliation": null,
+  "introduced": "December 1st 2024",
+  "services": null,
+  "details": {
+    "name": "BURD To Go",
+    "image": "BURD To Go (1) - Landmark - Fortnite.png|Overview BURD To Go (Top View - 1) - Landmark - Fortnite.png|Top View",
+    "location": "E Base Tunnel SW Demon's Dojo‎ SE Pumped Power",
+    "type": "Landmark",
+    "island": "Oninoshima",
+    "chests": "7",
+    "vending_machines": "1",
+    "ammo_boxes": "8",
+    "floor_loot": "10",
+    "release": "December 1st 2024",
+    "removed": "June 7th 2025",
+    "vehicles": "1x Motors Whiplash 1x Grandeur Trailsmasher",
+    "character": "C6S3]]",
+    "next": "Slurp Room }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/BURD_To_Go",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.547Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "burdtogo"
+}

@@ -1,0 +1,448 @@
+{
+  "Active": [
+    {
+      "id": 1043,
+      "game": "honkai-impact-3rd",
+      "code": "5T8NUPYUC2",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Asterite",
+          "quantity": 500,
+          "image": null
+        },
+        {
+          "name": "Stamina Potion",
+          "quantity": 1,
+          "image": null
+        },
+        {
+          "name": "HOHO Vacation Tickets",
+          "quantity": 4,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game: Profile/Account > Exchange Rewards",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/honkai-impact-3rd/codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:23:30.000Z",
+      "lastSeenAt": "2026-08-24T11:02:06.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:06.000Z"
+    },
+    {
+      "id": 113,
+      "game": "honkai-impact-3rd",
+      "code": "Q9MPENXJ6N",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Asterite",
+          "quantity": 500,
+          "image": null
+        },
+        {
+          "name": "Stamina Potion",
+          "quantity": 1,
+          "image": null
+        },
+        {
+          "name": "HOHO Vacation Tickets",
+          "quantity": 4,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game: Profile/Account > Exchange Rewards",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/honkai-impact-3rd/codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:35.000Z",
+      "lastSeenAt": "2026-08-24T11:02:06.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:06.000Z"
+    },
+    {
+      "id": 114,
+      "game": "honkai-impact-3rd",
+      "code": "TimeAlbum",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Crystals",
+          "quantity": 100,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game: Profile/Account > Exchange Rewards",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/honkai-impact-3rd/codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:35.000Z",
+      "lastSeenAt": "2026-08-24T11:02:06.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:06.000Z"
+    },
+    {
+      "id": 110,
+      "game": "honkai-impact-3rd",
+      "code": "ToSenadina",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Crystals",
+          "quantity": 100,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game: Profile/Account > Exchange Rewards",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/honkai-impact-3rd/codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:35.000Z",
+      "lastSeenAt": "2026-08-24T11:02:05.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:05.000Z"
+    },
+    {
+      "id": 112,
+      "game": "honkai-impact-3rd",
+      "code": "MYDELIVERY",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Crystals",
+          "quantity": 100,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": "2026-08-25T15:59:00.000Z",
+        "sourceTimezone": "UTC+8",
+        "selectedTimezone": "UTC",
+        "local": "25/08/2026, 15:59:00 UTC",
+        "expiresInSeconds": 101033,
+        "countdown": {
+          "days": 1,
+          "hours": 4,
+          "minutes": 3,
+          "seconds": 53
+        },
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game: Profile/Account > Exchange Rewards",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/honkai-impact-3rd/codes/",
+        "https://www.mrguider.org/cheats/honkai-impact-codes/"
+      ],
+      "sourceKey": null,
+      "notes": "Reported expiry: August 25, 2026 at 23:59 UTC+8.",
+      "firstSeenAt": "2026-08-24T09:20:35.000Z",
+      "lastSeenAt": "2026-08-24T11:02:06.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:06.000Z"
+    },
+    {
+      "id": 111,
+      "game": "honkai-impact-3rd",
+      "code": "ZU1TNFWRX2",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Asterite",
+          "quantity": 500,
+          "image": null
+        },
+        {
+          "name": "Stamina Potion",
+          "quantity": 1,
+          "image": null
+        },
+        {
+          "name": "GOG Vacation Tickets",
+          "quantity": 4,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": "2026-09-17T23:59:59.000Z",
+        "sourceTimezone": "UTC",
+        "selectedTimezone": "UTC",
+        "local": "17/09/2026, 23:59:59 UTC",
+        "expiresInSeconds": 2117092,
+        "countdown": {
+          "days": 24,
+          "hours": 12,
+          "minutes": 4,
+          "seconds": 52
+        },
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game: Profile/Account > Exchange Rewards",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.pocketgamer.com/honkai-impact-3rd/codes/",
+        "https://www.mrguider.org/cheats/honkai-impact-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:35.000Z",
+      "lastSeenAt": "2026-08-24T11:02:05.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:05.000Z"
+    }
+  ],
+  "Expired": [
+    {
+      "id": 117,
+      "game": "honkai-impact-3rd",
+      "code": "M1XT0FRZLC",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Asterite",
+          "quantity": 500,
+          "image": null
+        },
+        {
+          "name": "Stamina Potion",
+          "quantity": 1,
+          "image": null
+        },
+        {
+          "name": "HOHO Vacation Tickets",
+          "quantity": 4,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": "2026-07-11T23:59:59.000Z",
+        "sourceTimezone": "UTC",
+        "selectedTimezone": "UTC",
+        "local": "11/07/2026, 23:59:59 UTC",
+        "expiresInSeconds": 0,
+        "countdown": {
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game: Profile/Account > Exchange Rewards",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.mrguider.org/cheats/honkai-impact-codes/",
+        "https://www.pocketgamer.com/honkai-impact-3rd/codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:35.000Z",
+      "lastSeenAt": "2026-08-24T11:02:06.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:06.000Z"
+    },
+    {
+      "id": 116,
+      "game": "honkai-impact-3rd",
+      "code": "G5MPONNQUT",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Asterite",
+          "quantity": 500,
+          "image": null
+        },
+        {
+          "name": "Stamina Potion",
+          "quantity": 1,
+          "image": null
+        },
+        {
+          "name": "GOG Vacation Tickets",
+          "quantity": 4,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": "2026-08-10T15:59:00.000Z",
+        "sourceTimezone": "UTC+8",
+        "selectedTimezone": "UTC",
+        "local": "10/08/2026, 15:59:00 UTC",
+        "expiresInSeconds": 0,
+        "countdown": {
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game: Profile/Account > Exchange Rewards",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.mrguider.org/cheats/honkai-impact-codes/",
+        "https://www.pocketgamer.com/honkai-impact-3rd/codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:35.000Z",
+      "lastSeenAt": "2026-08-24T11:02:05.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:05.000Z"
+    },
+    {
+      "id": 115,
+      "game": "honkai-impact-3rd",
+      "code": "W1GPB7DGNH",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "verified-source",
+      "items": [
+        {
+          "name": "Asterite",
+          "quantity": 500,
+          "image": null
+        },
+        {
+          "name": "Stamina Potion",
+          "quantity": 1,
+          "image": null
+        },
+        {
+          "name": "GOG Vacation Tickets",
+          "quantity": 4,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": "2026-08-21T15:59:00.000Z",
+        "sourceTimezone": "UTC+8",
+        "selectedTimezone": "UTC",
+        "local": "21/08/2026, 15:59:00 UTC",
+        "expiresInSeconds": 0,
+        "countdown": {
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "expired": true
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game: Profile/Account > Exchange Rewards",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://www.mrguider.org/cheats/honkai-impact-codes/",
+        "https://www.pocketgamer.com/honkai-impact-3rd/codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:35.000Z",
+      "lastSeenAt": "2026-08-24T11:02:05.000Z",
+      "lastVerifiedAt": "2026-08-24T11:02:05.000Z"
+    }
+  ],
+  "Unknown": []
+}

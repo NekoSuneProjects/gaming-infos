@@ -1,0 +1,34 @@
+{
+  "name": "Lauma",
+  "description": "",
+  "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Lauma_Card.png/revision/latest?cb=20250805151400",
+  "url": "https://genshin-impact.fandom.com/wiki/Lauma",
+  "rarity": null,
+  "source": {
+    "provider": "Genshin Impact Wiki",
+    "url": "https://genshin-impact.fandom.com/wiki/Lauma",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "details": {},
+  "_sync": {
+    "managed": true,
+    "game": "genshinimpact",
+    "provider": "fandom-mediawiki",
+    "syncedAt": "2026-08-24T11:04:37.739Z",
+    "officialAnnouncementUrl": null
+  },
+  "cv": null,
+  "voiceActorEN": null,
+  "voiceActorJP": null,
+  "city": null,
+  "element": null,
+  "weapon": null,
+  "rating": null,
+  "affiliation": null,
+  "constellation": null,
+  "birthday": null,
+  "releaseDate": null,
+  "version": null,
+  "slug": "lauma"
+}

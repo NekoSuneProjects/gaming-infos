@@ -1,12 +1,13 @@
 {
-    "name": "Kuki Shinobu",
-    "quote": "Hello, I'm Kuki Shinobu, deputy of the Arataki Gang. I handle the affairs of the gang.",
-    "cv": "Kaori Mizuhashi",
-    "description": "Deputy leader of the Arataki Gang and the last shrine maiden of the Kuki family, tied to the Sangen Chorai forest in Inazuma. She is diligent and talented, yet often plagued by self-doubt.",
-    "image": "",
-    "city": "Inazuma",
-    "url": "https://genshin-impact.fandom.com/wiki/Kuki_Shinobu",
-    "element": "Electro",
-    "weapon": "Sword",
-    "rating": 4
+  "name": "Kuki Shinobu",
+  "quote": "Hello, I'm Kuki Shinobu, deputy of the Arataki Gang. I handle the affairs of the gang.",
+  "cv": "Kaori Mizuhashi",
+  "description": "Deputy leader of the Arataki Gang and the last shrine maiden of the Kuki family, tied to the Sangen Chorai forest in Inazuma. She is diligent and talented, yet often plagued by self-doubt.",
+  "image": "",
+  "city": "Inazuma",
+  "url": "https://genshin-impact.fandom.com/wiki/Kuki_Shinobu",
+  "element": "Electro",
+  "weapon": "Sword",
+  "rating": 4,
+  "slug": "kukishinobu"
 }

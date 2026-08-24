@@ -1,0 +1,43 @@
+{
+  "name": "Victoria Saint",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/9/90/Victoria_Saint_-_Outfit_-_Fortnite.png/revision/latest?cb=20200923122639",
+  "url": "https://fortnite.fandom.com/wiki/Victoria_Saint",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "October 6th 2020",
+  "services": null,
+  "details": {
+    "image": "Victoria Saint - Outfit - Fortnite.png|Icon Victoria Saint (Default Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Rare",
+    "bundled_with": "Slayer's Saddlebag",
+    "set": "Night Hunter",
+    "cost": "1,200",
+    "unlocked": "Item Shop",
+    "release": "October 6th 2020",
+    "character model": "Victoria Saint",
+    "added_in": "Update v14.20",
+    "appearances": "Victoria Saint",
+    "LEGOUse": "y",
+    "ID": "CID_869_Athena_Commando_F_Cavalry",
+    "FGUse": "y",
+    "BeanID": "Bean_Cavalry }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Victoria_Saint",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.639Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "victoriasaint"
+}

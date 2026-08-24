@@ -1,11 +1,12 @@
 {
-    "name": "Xiao",
-    "cv": "Yoshitsugu Matsuoka",
-    "description": "Xiao is the last surviving yaksha of Liyue's Adepti, a vigilant guardian who battles the demonic remnants of the Archon War. Once bound in servitude, he was freed by the Geo Archon Morax and now fights with an Anemo polearm.",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Xiao_in_Genshin_Impact.png/250px-Xiao_in_Genshin_Impact.png",
-    "city": "Liyue",
-    "url": "https://en.wikipedia.org/wiki/Xiao_(Genshin_Impact)",
-    "element": "Anemo",
-    "weapon": "Polearm",
-    "rating": 5
+  "name": "Xiao",
+  "cv": "Yoshitsugu Matsuoka",
+  "description": "Xiao is the last surviving yaksha of Liyue's Adepti, a vigilant guardian who battles the demonic remnants of the Archon War. Once bound in servitude, he was freed by the Geo Archon Morax and now fights with an Anemo polearm.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Xiao_in_Genshin_Impact.png/250px-Xiao_in_Genshin_Impact.png",
+  "city": "Liyue",
+  "url": "https://en.wikipedia.org/wiki/Xiao_(Genshin_Impact)",
+  "element": "Anemo",
+  "weapon": "Polearm",
+  "rating": 5,
+  "slug": "xiao"
 }

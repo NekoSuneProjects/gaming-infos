@@ -1,0 +1,46 @@
+{
+  "name": "Shogun's Solitude",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/7/7f/Shogun%27s_Solitude_%28v36.00%29_-_Location_-_Fortnite.png/revision/latest?cb=20260710203221",
+  "url": "https://fortnite.fandom.com/wiki/Shogun's_Solitude",
+  "title": null,
+  "location": "S Outlaw Oasis SW Canyon Crossing‎",
+  "affiliation": null,
+  "introduced": "December 1st 2024 (First Added; C6S1) June 7th 2025 (Re-added; C6S3)",
+  "services": null,
+  "details": {
+    "name": "Shogun's Solitude",
+    "image": "Shogun's Solitude (v36.00) - Location - Fortnite.png|Overview Shogun's Solitude (v36.00 - Top View) - Location - Fortnite.png|Top View",
+    "location": "S Outlaw Oasis SW Canyon Crossing‎",
+    "type": "Named Location",
+    "island": "Oninoshima",
+    "owner": "(Formerly)",
+    "chests": "37",
+    "vending_machines": "1",
+    "ammo_boxes": "33",
+    "floor_loot": "33",
+    "release": "December 1st 2024 (First Added; C6S1) June 7th 2025 (Re-added; C6S3)",
+    "removed": "May 2nd 2025 (Re-named to Vader Samurai's Solitude; C6MS1) November 1st 2025 (Removed; C6MS2)",
+    "readded": "June 7th 2025",
+    "character": "C6S3]] C6S2]] C6S3]] C6S4]] C6S4]]",
+    "boss": "C6S1]] C6S1]] C6S1]]",
+    "henchmen": "C6S1]] C6S2]]",
+    "next": "Vader Samurai's Solitude",
+    "previous": "Vader Samurai's Solitude }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Shogun's_Solitude",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.557Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "shogunssolitude"
+}

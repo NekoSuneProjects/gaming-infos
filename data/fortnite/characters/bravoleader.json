@@ -1,0 +1,44 @@
+{
+  "name": "Bravo Leader",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/c/ce/Bravo_Leader_%28Green%29_-_Outfit_-_Fortnite.png/revision/latest?cb=20230321164622",
+  "url": "https://fortnite.fandom.com/wiki/Bravo_Leader",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "August 13th 2019",
+  "services": null,
+  "details": {
+    "name": "Bravo Leader",
+    "image": "Bravo Leader - Outfit - Fortnite.png|Icon Bravo Leader (v16.20 - Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Rare",
+    "set": "Waypoint",
+    "cost": "1,200",
+    "unlocked": "Item Shop",
+    "release": "August 13th 2019",
+    "character model": "Scimitar",
+    "body model": "Unique",
+    "bundled_with": "Tri-Pack",
+    "appearances": "Bravo Leader",
+    "added_in": "Update v10.00",
+    "LEGOUse": "y",
+    "ID": "CID_490_Athena_Commando_M_BlueBadass",
+    "featured": "Bravo Leader (No Mask - Featured) - Outfit - Fortnite.png|1 Bravo Leader (Green - Featured) - Outfit - Fortnite.png|2 Bravo Leader (Green No Mask - Featured) - Outfit - Fortnite.png|3 }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Bravo_Leader",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.588Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "bravoleader"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "BURD",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/1/1a/BURD_-_Location_-_Fortnite.png/revision/latest?cb=20250422220158",
+  "url": "https://fortnite.fandom.com/wiki/BURD",
+  "title": null,
+  "location": "S Nightshift Forest N Shogun's Solitude‎ NW Canyon Crossing SW Warrior's Watch‎",
+  "affiliation": null,
+  "introduced": "December 1st 2024",
+  "services": null,
+  "details": {
+    "name": "BURD",
+    "image": "BURD - Location - Fortnite.png|Overview BURD (Top View) - Location - Fortnite.png|Top View",
+    "location": "S Nightshift Forest N Shogun's Solitude‎ NW Canyon Crossing SW Warrior's Watch‎",
+    "type": "Named Location",
+    "island": "Oninoshima",
+    "owner": "(Section in the store)",
+    "chests": "22",
+    "vending_machines": "1",
+    "ammo_boxes": "24",
+    "floor_loot": "29",
+    "produce_boxes": "4",
+    "release": "December 1st 2024",
+    "removed": "February 21st 2025",
+    "vehicles": "2x Motors Whiplash 2x Grandeur Trailsmasher 1x Trail Thrasher",
+    "character": "C6S1]]",
+    "ID": "Athena.Location.POI.GasStation }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/BURD",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.571Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "burd"
+}

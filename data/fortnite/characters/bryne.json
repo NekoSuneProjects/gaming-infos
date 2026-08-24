@@ -1,0 +1,44 @@
+{
+  "name": "Bryne",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/3/30/Bryne_-_Outfit_-_Fortnite.png/revision/latest?cb=20200805083719",
+  "url": "https://fortnite.fandom.com/wiki/Bryne",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "August 9th 2020",
+  "services": null,
+  "details": {
+    "image": "Bryne - Outfit - Fortnite.png|Icon Bryne (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Rare",
+    "bundled_with": "Coral Cowl",
+    "set": "Reef Royalty",
+    "cost": "1,200 2,200 (Axo & Bryne Bundle)",
+    "unlocked": "Item Shop Axo & Bryne Bundle",
+    "release": "August 9th 2020",
+    "character model": "Unique",
+    "body model": "Unique",
+    "added_in": "Update v13.40",
+    "appearances": "Bryne",
+    "LEGOUse": "y",
+    "ID": "CID_835_Athena_Commando_F_LadyAtlantis",
+    "FGUse": "y",
+    "BeanID": "Bean_LadyAtlantis }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Bryne",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.651Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "bryne"
+}

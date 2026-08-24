@@ -1,0 +1,43 @@
+{
+  "name": "Piper Pace",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/e/e5/Piper_Pace_%28Hazardous_Piper_Pace%29_-_Outfit_-_Fortnite.png/revision/latest?cb=20230825090153",
+  "url": "https://fortnite.fandom.com/wiki/Piper_Pace",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "August 25th 2023",
+  "services": null,
+  "details": {
+    "image": "Piper Pace - Outfit - Fortnite.png|Icon Piper Pace (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "set": "Clutch Delivery",
+    "unlocked": "Page 3 4 9",
+    "cost": "950 (4)",
+    "release": "August 25th 2023",
+    "character model": "Unique",
+    "body model": "Unique",
+    "added_in": "Update v26.00",
+    "LEGOUse": "y",
+    "FGUse": "y",
+    "featured": "Piper Pace (Hyperspace Piper Pace - Featured) - Outfit - Fortnite.png|1 Piper Pace (Hazardous Piper Pace - Featured) - Outfit - Fortnite.png|2 Piper Pace (On the Clock Off - Featured) - Outfit - Fortnite.png|3 Piper Pace (Hat Off - Featured) - Outfit - Fortnite.png|4 Piper Pace (Hyperspace Piper Pace Hat Off - Featured) - Outfit - Fortnite.png|5 Piper Pace (Heisted Jade Piper Pace - Featured) - Outfit - Fortnite.png|6 Piper Pace (Lost Amethyst Piper Pace - Featured) - Outfit - Fortnite.png|7 Piper Pace (Yellow Diamond Piper Pace - Featured) - Outfit - Fortnite.png|8",
+    "ID": "Character_PizzaParty",
+    "BeanID": "Bean_PizzaParty }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Piper_Pace",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.627Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "piperpace"
+}

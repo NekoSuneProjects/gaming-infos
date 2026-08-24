@@ -1,12 +1,13 @@
 {
-    "name": "Constance",
-    "rarity": "5-star",
-    "path": "Nihility",
-    "element": "Fire",
-    "faction": "The Cremators (posed as a member of the Annihilation Gang's Ever-Flame Mansion)",
-    "voiceActorEN": "Cristina Vee",
-    "voiceActorJP": "Mikoi Sasaki",
-    "description": "Known publicly as 'The Dahlia,' Constance poses as the second daughter of crime lord Duke Inferno within the Annihilation Gang's Ever-Flame Mansion. She is later revealed to actually be a Cremator, a rogue sub-faction of Memokeepers who eliminate memories they deem worthless; she became playable in Version 3.8.",
-    "image": "",
-    "url": "https://honkai-star-rail.fandom.com/wiki/The_Dahlia"
+  "name": "Constance",
+  "rarity": "5-star",
+  "path": "Nihility",
+  "element": "Fire",
+  "faction": "The Cremators (posed as a member of the Annihilation Gang's Ever-Flame Mansion)",
+  "voiceActorEN": "Cristina Vee",
+  "voiceActorJP": "Mikoi Sasaki",
+  "description": "Known publicly as 'The Dahlia,' Constance poses as the second daughter of crime lord Duke Inferno within the Annihilation Gang's Ever-Flame Mansion. She is later revealed to actually be a Cremator, a rogue sub-faction of Memokeepers who eliminate memories they deem worthless; she became playable in Version 3.8.",
+  "image": "",
+  "url": "https://honkai-star-rail.fandom.com/wiki/The_Dahlia",
+  "slug": "constance"
 }

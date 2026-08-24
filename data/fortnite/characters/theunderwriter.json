@@ -1,0 +1,36 @@
+{
+  "name": "The Underwriter",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/7/72/The_Underwriter_-_NPC_-_Fortnite.png/revision/latest?cb=20220718085355",
+  "url": "https://fortnite.fandom.com/wiki/The_Underwriter",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": null,
+  "services": null,
+  "details": {
+    "name": "The Underwriter",
+    "image": "The Underwriter - NPC - Fortnite.png|Icon The Underwriter (Featured) - NPC - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "character model": "Empty Head",
+    "added_in": "Update v21.30",
+    "ID": "CID_NPC_Athena_Commando_M_HenchmanSummer",
+    "noKicks": "y }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/The_Underwriter",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.597Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "theunderwriter"
+}

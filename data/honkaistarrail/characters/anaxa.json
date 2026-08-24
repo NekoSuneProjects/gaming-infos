@@ -1,12 +1,13 @@
 {
-    "name": "Anaxa",
-    "rarity": "5-star",
-    "path": "Erudition",
-    "element": "Wind",
-    "faction": "Amphoreus - Grove of Epiphany",
-    "voiceActorEN": "Stephen Fu",
-    "voiceActorJP": "Yuma Uchida",
-    "description": "Full name Anaxagoras, Anaxa is a Chrysos Heir and one of the Seven Sages of the Grove of Epiphany, credited with introducing the concept of 'Nous.' As an Erudition DPS, his ultimate implants elemental weaknesses onto enemies, making weakness-breaking easier for any team composition.",
-    "image": "",
-    "url": "https://honkai-star-rail.fandom.com/wiki/Anaxa"
+  "name": "Anaxa",
+  "rarity": "5-star",
+  "path": "Erudition",
+  "element": "Wind",
+  "faction": "Amphoreus - Grove of Epiphany",
+  "voiceActorEN": "Stephen Fu",
+  "voiceActorJP": "Yuma Uchida",
+  "description": "Full name Anaxagoras, Anaxa is a Chrysos Heir and one of the Seven Sages of the Grove of Epiphany, credited with introducing the concept of 'Nous.' As an Erudition DPS, his ultimate implants elemental weaknesses onto enemies, making weakness-breaking easier for any team composition.",
+  "image": "",
+  "url": "https://honkai-star-rail.fandom.com/wiki/Anaxa",
+  "slug": "anaxa"
 }

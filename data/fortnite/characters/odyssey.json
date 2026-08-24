@@ -1,0 +1,43 @@
+{
+  "name": "Odyssey",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/0/01/Odyssey_%28Icon%29_-_AI_-_Fortnite.png/revision/latest?cb=20240223223606",
+  "url": "https://fortnite.fandom.com/wiki/Odyssey",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "March 11th 2024",
+  "services": null,
+  "details": {
+    "image": "Odyssey - Outfit - Fortnite.png|Icon Odyssey (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "character model": "Unique",
+    "set": "Ageless Odyssey",
+    "cost": "1,500",
+    "unlocked": "Item Shop",
+    "release": "March 11th 2024",
+    "added_in": "Update v28.30 (NPC) Update v29.00",
+    "appearances": "Odyssey",
+    "ID": "Character_RankedOlympus",
+    "BeanID": "Bean_RankedOlympus",
+    "LEGOUse": "y",
+    "FGUse": "y",
+    "featured": "Odyssey (Helmet - On - Featured) - Outfit - Fortnite.png }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Odyssey",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.626Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "odyssey"
+}

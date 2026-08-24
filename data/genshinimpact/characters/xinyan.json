@@ -1,12 +1,13 @@
 {
-    "name": "Xinyan",
-    "quote": "Everyone's always so tense. Maybe a good dance would loosen them up!",
-    "cv": "Chiaki Takahashi",
-    "description": "A rock and roll musician from Liyue who, having faced prejudice growing up for her unconventional style, uses her music to inspire others to embrace who they are.",
-    "image": "",
-    "city": "Liyue",
-    "url": "https://genshin-impact.fandom.com/wiki/Xinyan",
-    "element": "Pyro",
-    "weapon": "Claymore",
-    "rating": 4
+  "name": "Xinyan",
+  "quote": "Everyone's always so tense. Maybe a good dance would loosen them up!",
+  "cv": "Chiaki Takahashi",
+  "description": "A rock and roll musician from Liyue who, having faced prejudice growing up for her unconventional style, uses her music to inspire others to embrace who they are.",
+  "image": "",
+  "city": "Liyue",
+  "url": "https://genshin-impact.fandom.com/wiki/Xinyan",
+  "element": "Pyro",
+  "weapon": "Claymore",
+  "rating": 4,
+  "slug": "xinyan"
 }

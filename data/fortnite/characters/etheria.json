@@ -1,0 +1,43 @@
+{
+  "name": "Etheria",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/5/51/Etheria_-_Outfit_-_Fortnite.png/revision/latest?cb=20210511090341",
+  "url": "https://fortnite.fandom.com/wiki/Etheria",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "May 16th 2021",
+  "services": null,
+  "details": {
+    "image": "Etheria - Outfit - Fortnite.png|Icon Etheria (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Rare",
+    "bundled_with": "Crystal Spirit",
+    "set": "Fallen Oasis",
+    "added_in": "Update v16.40",
+    "appearances": "Etheria",
+    "unlocked": "Item Shop",
+    "cost": "1,200",
+    "ID": "CID_A_091_Athena_Commando_F_DarkElf",
+    "FGUse": "y",
+    "BeanID": "Bean_DarkElf",
+    "release": "May 16th 2021",
+    "featured": "Etheria (Enchanting - Featured) - Outfit - Fortnite.png",
+    "LEGOUse": "y }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Etheria",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.607Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "etheria"
+}

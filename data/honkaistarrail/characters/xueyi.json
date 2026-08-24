@@ -1,12 +1,13 @@
 {
-    "name": "Xueyi",
-    "rarity": "4-star",
-    "path": "Destruction",
-    "element": "Quantum",
-    "faction": "Ten-Lords Commission (Xianzhou Luofu)",
-    "voiceActorEN": "Jenny Yokobori",
-    "voiceActorJP": "Maki Kawase",
-    "description": "A judge of the Ten-Lords Commission on the Xianzhou Luofu, charged with detention duties, and the older sister of fellow judge Hanya.",
-    "image": "",
-    "url": "https://honkai-star-rail.fandom.com/wiki/Xueyi"
+  "name": "Xueyi",
+  "rarity": "4-star",
+  "path": "Destruction",
+  "element": "Quantum",
+  "faction": "Ten-Lords Commission (Xianzhou Luofu)",
+  "voiceActorEN": "Jenny Yokobori",
+  "voiceActorJP": "Maki Kawase",
+  "description": "A judge of the Ten-Lords Commission on the Xianzhou Luofu, charged with detention duties, and the older sister of fellow judge Hanya.",
+  "image": "",
+  "url": "https://honkai-star-rail.fandom.com/wiki/Xueyi",
+  "slug": "xueyi"
 }

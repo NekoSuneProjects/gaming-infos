@@ -1,0 +1,37 @@
+{
+  "name": "Rebel Outpost",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/f/fa/Rebel_Outpost_%281%29_-_Landmark_-_Fortnite.png/revision/latest?cb=20250510082354",
+  "url": "https://fortnite.fandom.com/wiki/Rebel_Outpost",
+  "title": null,
+  "location": "NW Brutal Boxcars SW Magic Mosses",
+  "affiliation": null,
+  "introduced": "May 2nd 2025",
+  "services": null,
+  "details": {
+    "name": "Rebel Outpost",
+    "image": "Rebel Outpost (1) - Landmark - Fortnite.png|Overview Rebel Outpost (Top View - 1) - Landmark - Fortnite.png|Top View",
+    "location": "NW Brutal Boxcars SW Magic Mosses",
+    "type": "Landmark",
+    "island": "Oninoshima",
+    "chests": "4",
+    "release": "May 2nd 2025",
+    "vehicles": "1x X-Wing",
+    "character": "C6MS1]] }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Rebel_Outpost",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.562Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "rebeloutpost"
+}

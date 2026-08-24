@@ -1,0 +1,44 @@
+{
+  "name": "Bumpy Bay",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/8/89/Bumpy_Bay_-_Location_-_Fortnite.png/revision/latest?cb=20260312161145",
+  "url": "https://fortnite.fandom.com/wiki/Bumpy_Bay",
+  "title": null,
+  "location": "N Humble Hills W Lethal Labs S Tiptop Terrace",
+  "affiliation": null,
+  "introduced": "November 29th 2025",
+  "services": null,
+  "details": {
+    "name": "Bumpy Bay",
+    "image": "Bumpy Bay - Location - Fortnite.png|Overview Bumpy Bay (Top View) - Location - Fortnite.png|Top View",
+    "location": "N Humble Hills W Lethal Labs S Tiptop Terrace",
+    "type": "Named Location",
+    "island": "Golden Coast",
+    "landmarks": "*Route 67",
+    "chests": "22",
+    "ammo_boxes": "35",
+    "produce_boxes": "7",
+    "vending_machines": "3",
+    "release": "November 29th 2025",
+    "removed": "March 19th 2026",
+    "vehicles": "1x Reboot Van 3x Grandeur Trailsmasher 2x Motors Whiplash",
+    "character": "v39.10]] C7S1]]",
+    "next": "Squibbly Shores",
+    "franchises": "*Durrr Burger *Pizza Pit *Sno Cones *Saucy Sausage *Noms *Bun Voyage *Funky Fromage *Chow Durrr }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Bumpy_Bay",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.535Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "bumpybay"
+}

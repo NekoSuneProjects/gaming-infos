@@ -1,0 +1,43 @@
+{
+  "name": "Battlewood Boulevard",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/6/65/Battlewood_Boulevard_-_Location_-_Fortnite.png/revision/latest?cb=20260319045911",
+  "url": "https://fortnite.fandom.com/wiki/Battlewood_Boulevard",
+  "title": null,
+  "location": "SW Sus Studios SE Humble Hills E Ripped Tides",
+  "affiliation": null,
+  "introduced": "November 29th 2025",
+  "services": null,
+  "details": {
+    "name": "Battlewood Boulevard",
+    "image": "Battlewood Boulevard - Location - Fortnite.png|Overview Battlewood Boulevard (v40.40 - Top View) - Location - Fortnite.png|Top View",
+    "location": "SW Sus Studios SE Humble Hills E Ripped Tides",
+    "type": "Named Location",
+    "island": "Golden Coast",
+    "landmarks": "*Route 67 *Watchpoint: Battlewood",
+    "chests": "70",
+    "ammo_boxes": "39",
+    "produce_boxes": "5",
+    "release": "November 29th 2025",
+    "removed": "June 6th 2026",
+    "character": "C7S1]] C7S1]] C7S1]] C7S2]]",
+    "vehicles": "2x Reboot Van 8x Grandeur Trailsmasher 6x Motors Whiplash 1x All Terrain Kart",
+    "franchises": "*Golden Reel *Garden Center *Big Shots *Leut Gear *Dulce & Banana *Puppuccino *Some Regerts *Launder-Mat *Pastry Bois *Pew Pew Pawn Shop *Durrr Burger *Pizza Pit *Saucy Sausage *Tacos *Sno Cones",
+    "next": "The Battlewoods }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Battlewood_Boulevard",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.537Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "battlewoodboulevard"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Springfield National Park Store",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/9/93/Springfield_National_Park_Store_-_Unnamed_Location_-_Fortnite.png/revision/latest?cb=20260412015357",
+  "url": "https://fortnite.fandom.com/wiki/Springfield_National_Park_Store",
+  "title": null,
+  "location": "W Springfield Nuclear Power Plant",
+  "affiliation": null,
+  "introduced": "November 1st 2025 (Battle Royale) July 30th 2026 (Reload)",
+  "services": null,
+  "details": {
+    "image": "Springfield National Park Store - Unnamed Location - Fortnite.png",
+    "location": "W Springfield Nuclear Power Plant",
+    "type": "Unnamed Location",
+    "island": "Springfield Island",
+    "chests": "3",
+    "ammo_boxes": "4",
+    "release": "November 1st 2025 (Battle Royale) July 30th 2026 (Reload)",
+    "removed": "November 29th 2025 (Battle Royale)",
+    "character": "v38.00]] v38.10]]",
+    "franchises": "}}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Springfield_National_Park_Store",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.544Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "springfieldnationalparkstore"
+}

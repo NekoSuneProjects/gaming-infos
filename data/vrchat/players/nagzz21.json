@@ -1,9 +1,10 @@
 {
-    "name": "Nagzz21",
-    "species": "Human",
-    "gender": "Male",
-    "aliases": "Joey Bagels",
-    "image": "https://static.wikia.nocookie.net/vrchat-legends/images/d/d9/Nagzz21_New.png/revision/latest?cb=20190507090123",
-    "description": "Nagzz21, also known in VRChat as Joey Bagels, is a YouTuber and Twitch streamer who became one of the platform's most popular creators through episodic VRChat adventure videos featuring a recurring cast of friends. His original YouTube episodes ran for several seasons before he shifted toward livestreaming a variety of games on Twitch. He has also organized charity livestream events with the VRChat community.",
-    "url": "https://vrchat-legends.fandom.com/wiki/Nagzz21"
+  "name": "Nagzz21",
+  "species": "Human",
+  "gender": "Male",
+  "aliases": "Joey Bagels",
+  "image": "https://static.wikia.nocookie.net/vrchat-legends/images/d/d9/Nagzz21_New.png/revision/latest?cb=20190507090123",
+  "description": "Nagzz21, also known in VRChat as Joey Bagels, is a YouTuber and Twitch streamer who became one of the platform's most popular creators through episodic VRChat adventure videos featuring a recurring cast of friends. His original YouTube episodes ran for several seasons before he shifted toward livestreaming a variety of games on Twitch. He has also organized charity livestream events with the VRChat community.",
+  "url": "https://vrchat-legends.fandom.com/wiki/Nagzz21",
+  "slug": "nagzz21"
 }

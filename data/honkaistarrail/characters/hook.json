@@ -1,12 +1,13 @@
 {
-    "name": "Hook",
-    "rarity": "4-star",
-    "path": "Destruction",
-    "element": "Fire",
-    "faction": "Belobog Underworld",
-    "voiceActorEN": "Felecia Angelle",
-    "voiceActorJP": "Sora Tokui",
-    "description": "The self-proclaimed boss of The Moles, a rambunctious group of Underworld children who go on adventures together, Hook is a spirited pyromaniac who fights with a modified drill.",
-    "image": "",
-    "url": "https://honkai-star-rail.fandom.com/wiki/Hook"
+  "name": "Hook",
+  "rarity": "4-star",
+  "path": "Destruction",
+  "element": "Fire",
+  "faction": "Belobog Underworld",
+  "voiceActorEN": "Felecia Angelle",
+  "voiceActorJP": "Sora Tokui",
+  "description": "The self-proclaimed boss of The Moles, a rambunctious group of Underworld children who go on adventures together, Hook is a spirited pyromaniac who fights with a modified drill.",
+  "image": "",
+  "url": "https://honkai-star-rail.fandom.com/wiki/Hook",
+  "slug": "hook"
 }

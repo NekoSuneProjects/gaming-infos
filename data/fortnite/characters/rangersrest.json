@@ -1,0 +1,36 @@
+{
+  "name": "Ranger's Rest",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/5/54/Ranger%27s_Rest_-_Location_-_Fortnite.png/revision/latest?cb=20251101181526",
+  "url": "https://fortnite.fandom.com/wiki/Ranger's_Rest",
+  "title": null,
+  "location": "W Foxy Floodgate E Outlaw Oasis SE Shiny Shafts",
+  "affiliation": null,
+  "introduced": "October 2nd 2025",
+  "services": null,
+  "details": {
+    "name": "Ranger's Rest",
+    "image": "Ranger's Rest - Location - Fortnite.png|Overview Ranger's Rest (Top View) - Location - Fortnite.png|Top View",
+    "location": "W Foxy Floodgate E Outlaw Oasis SE Shiny Shafts",
+    "type": "Named Location",
+    "island": "Oninoshima",
+    "release": "October 2nd 2025",
+    "removed": "November 1st 2025",
+    "previous": "Ranger's Ruin }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Ranger's_Rest",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.548Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "rangersrest"
+}

@@ -1,12 +1,13 @@
 {
-    "name": "Dr. Ratio",
-    "rarity": "5-star",
-    "path": "Hunt",
-    "element": "Imaginary",
-    "faction": "Intelligentsia Guild",
-    "voiceActorEN": "Jordan Haro",
-    "voiceActorJP": "Shunsuke Takeuchi",
-    "description": "Real name Veritas Ratio, Dr. Ratio is a renowned mathematician and scholar of the Intelligentsia Guild who conceals his face behind an alabaster, mask-like head sculpture. He treats ignorance as a disease to be cured, often through blunt, exacting criticism.",
-    "image": "",
-    "url": "https://honkai-star-rail.fandom.com/wiki/Dr._Ratio"
+  "name": "Dr. Ratio",
+  "rarity": "5-star",
+  "path": "Hunt",
+  "element": "Imaginary",
+  "faction": "Intelligentsia Guild",
+  "voiceActorEN": "Jordan Haro",
+  "voiceActorJP": "Shunsuke Takeuchi",
+  "description": "Real name Veritas Ratio, Dr. Ratio is a renowned mathematician and scholar of the Intelligentsia Guild who conceals his face behind an alabaster, mask-like head sculpture. He treats ignorance as a disease to be cured, often through blunt, exacting criticism.",
+  "image": "",
+  "url": "https://honkai-star-rail.fandom.com/wiki/Dr._Ratio",
+  "slug": "drratio"
 }

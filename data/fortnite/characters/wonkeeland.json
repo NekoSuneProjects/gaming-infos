@@ -1,0 +1,41 @@
+{
+  "name": "WonkeeLand",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/c/c4/Wonkeeland_%28v41.00%29_-_Location_-_Fortnite.png/revision/latest?cb=20260807050617",
+  "url": "https://fortnite.fandom.com/wiki/WonkeeLand",
+  "title": null,
+  "location": "SE Latte Landing",
+  "affiliation": null,
+  "introduced": "June 6th 2026",
+  "services": null,
+  "details": {
+    "name": "WonkeeLand",
+    "image": "Wonkeeland (v41.00) - Location - Fortnite.png|Overview Wonkeeland (v41.00 - Top View) - Location - Fortnite.png|Top View",
+    "location": "SE Latte Landing",
+    "type": "Named Location",
+    "island": "Shattered Coast",
+    "chests": "34",
+    "ammo_boxes": "31",
+    "produce_boxes": "2",
+    "vending_machines": "3",
+    "release": "June 6th 2026",
+    "vehicles": "1x Grandeur Trailsmasher 2x Motors Whiplash 1x Reboot Van 1x Batman's Beach Buggy",
+    "franchises": "*Arcade",
+    "wildlife": "C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/WonkeeLand",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.526Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "wonkeeland"
+}

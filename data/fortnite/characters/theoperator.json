@@ -1,0 +1,42 @@
+{
+  "name": "The Operator",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/0/0f/The_Operator_%28Machinist%27s_Legacy%29_-_Outfit_-_Fortnite.png/revision/latest?cb=20240724181401",
+  "url": "https://fortnite.fandom.com/wiki/The_Operator",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "August 1st 2024",
+  "services": null,
+  "details": {
+    "image": "The Operator - Outfit - Fortnite.png|Icon The Operator (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Crew Series",
+    "set": "Mayhem Marauder",
+    "character model": "Unique",
+    "unlocked": "August 2024 Fortnite Crew Pack",
+    "cost": "$11.99 ()",
+    "added_in": "Update v30.30",
+    "ID": "Character_CoralNumber",
+    "BeanID": "Bean_CoralNumber",
+    "release": "August 1st 2024",
+    "LEGOUse": "y",
+    "FGUse": "y",
+    "featured": "The Operator (Machinist's Legacy - Featured) - Outfit - Fortnite.png }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/The_Operator",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.597Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "theoperator"
+}

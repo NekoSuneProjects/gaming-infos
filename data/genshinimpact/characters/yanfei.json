@@ -1,12 +1,13 @@
 {
-    "name": "Yanfei",
-    "quote": "If you don't wish to be bound by the rules, you have to first understand them all.",
-    "cv": "Yumiri Hanamori",
-    "description": "Yanfei is a half-illuminated beast (xiezhi) legal adviser in Liyue, known for her encyclopedic knowledge of contracts and law despite lacking an official license. She channels Pyro abilities through a catalyst.",
-    "image": "",
-    "city": "Liyue",
-    "url": "https://en.wikipedia.org/wiki/List_of_Genshin_Impact_characters",
-    "element": "Pyro",
-    "weapon": "Catalyst",
-    "rating": 4
+  "name": "Yanfei",
+  "quote": "If you don't wish to be bound by the rules, you have to first understand them all.",
+  "cv": "Yumiri Hanamori",
+  "description": "Yanfei is a half-illuminated beast (xiezhi) legal adviser in Liyue, known for her encyclopedic knowledge of contracts and law despite lacking an official license. She channels Pyro abilities through a catalyst.",
+  "image": "",
+  "city": "Liyue",
+  "url": "https://en.wikipedia.org/wiki/List_of_Genshin_Impact_characters",
+  "element": "Pyro",
+  "weapon": "Catalyst",
+  "rating": 4,
+  "slug": "yanfei"
 }

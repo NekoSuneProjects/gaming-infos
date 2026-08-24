@@ -1,0 +1,23 @@
+{
+  "name": "Yu Lan",
+  "description": "Playable Simulacrum in Tower of Fantasy.",
+  "image": "/images/banner.png",
+  "url": "https://toweroffantasy.info/simulacra/imitation_38",
+  "rarity": null,
+  "role": null,
+  "elements": [],
+  "element": null,
+  "source": {
+    "provider": "Tower of Fantasy Index",
+    "url": "https://toweroffantasy.info/simulacra/imitation_38",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "toweroffantasy-info",
+    "game": "toweroffantasy",
+    "syncedAt": "2026-08-24T11:05:25.554Z",
+    "releasedOnly": true
+  },
+  "slug": "yulan"
+}

@@ -1,12 +1,13 @@
 {
-    "name": "Moze",
-    "rarity": "4-star",
-    "path": "Hunt",
-    "element": "Lightning",
-    "faction": "Shadow Guard of the Yaoqing (Xianzhou Alliance)",
-    "voiceActorEN": "Ben Balmaceda",
-    "voiceActorJP": "Shogo Sakata",
-    "description": "A sneaky, fastidious assassin of the Yaoqing's Shadow Guard who serves as Feixiao's assistant. He was introduced in version 2.5 alongside Feixiao and Lingsha.",
-    "image": "",
-    "url": "https://honkai-star-rail.fandom.com/wiki/Moze"
+  "name": "Moze",
+  "rarity": "4-star",
+  "path": "Hunt",
+  "element": "Lightning",
+  "faction": "Shadow Guard of the Yaoqing (Xianzhou Alliance)",
+  "voiceActorEN": "Ben Balmaceda",
+  "voiceActorJP": "Shogo Sakata",
+  "description": "A sneaky, fastidious assassin of the Yaoqing's Shadow Guard who serves as Feixiao's assistant. He was introduced in version 2.5 alongside Feixiao and Lingsha.",
+  "image": "",
+  "url": "https://honkai-star-rail.fandom.com/wiki/Moze",
+  "slug": "moze"
 }

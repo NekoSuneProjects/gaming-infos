@@ -1,0 +1,42 @@
+{
+  "name": "Myna",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/8/8d/Myna_-_Outfit_-_Fortnite.png/revision/latest?cb=20231231220734",
+  "url": "https://fortnite.fandom.com/wiki/Myna",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "January 26th 2022",
+  "services": null,
+  "details": {
+    "image": "Myna - Outfit - Fortnite.png|Icon Myna (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "set": "Witching Wing",
+    "cost": "$11.99 (Witching Wing Quest Pack)",
+    "unlocked": "Witching Wing Quest Pack",
+    "release": "January 26th 2022",
+    "appearances": "Witching Wing Quest Pack",
+    "added_in": "Update v19.10",
+    "character model": "Unique",
+    "LEGOUse": "y",
+    "ID": "CID_A_332_Athena_Commando_F_PrimalFalcon_3ITKM",
+    "FGUse": "y",
+    "BeanID": "Bean_PrimalFalcon }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Myna",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.599Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "myna"
+}

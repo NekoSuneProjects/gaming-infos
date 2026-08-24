@@ -1,0 +1,45 @@
+{
+  "name": "Starr Oakley",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/e/ef/Starr_Oakley_-_Outfit_-_Fortnite.png/revision/latest?cb=20231207112946",
+  "url": "https://fortnite.fandom.com/wiki/Starr_Oakley",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "January 26th 2024 }}",
+  "services": null,
+  "details": {
+    "image": "Starr Oakley - Outfit - Fortnite.png|Icon Starr Oakley (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Rare",
+    "character model": "Starr",
+    "body model": "Unique",
+    "set": "Underground Ace",
+    "added_in": "Update v28.01",
+    "ID": "Character_SparkArcher",
+    "BeanID": "Bean_SparkArcher",
+    "bundled_with": "Overdraw Pack",
+    "appearances": "Starr Oakley",
+    "LEGOUse": "y",
+    "FGUse": "y",
+    "featured": "Starr Oakley (Underground Rose - Featured) - Outfit - Fortnite.png",
+    "unlocked": "Item Shop Starr Oakley Bundle",
+    "cost": "1,200 1,500 (Starr Oakley Bundle)",
+    "release": "January 26th 2024 }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Starr_Oakley",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.623Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "starroakley"
+}

@@ -1,14 +1,14 @@
 {
-    "name": "Honkai: Star Rail",
-    "title": "A turn-based sci-fi/fantasy RPG following the Astral Express crew across the galaxy.",
-    "engine": "Unity",
-    "Platform": "PC, PlayStation 5, iOS, Android",
-    "Release date": "April 26, 2023 (Windows, iOS, Android) | October 11, 2023 (PS5)",
-    "Genre": "Turn-Based RPG, Gacha",
-    "developers": "miHoYo",
-    "publisher": "miHoYo (China) / HoYoverse (Global)",
-    "aliases": "HSR, Star Rail",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Honkai_Star_Rail_logo.svg/250px-Honkai_Star_Rail_logo.svg.png",
-    "description": "A free-to-play turn-based RPG by HoYoverse, following the crew of the Astral Express as they travel the stars.",
-    "url": "https://en.wikipedia.org/wiki/Honkai:_Star_Rail"
+  "name": "Honkai: Star Rail",
+  "title": "A turn-based sci-fi/fantasy RPG following the Astral Express crew across the galaxy.",
+  "engine": "Unity",
+  "Platform": "PC, PlayStation 5, iOS, Android",
+  "Release date": "April 26, 2023 (Windows, iOS, Android) | October 11, 2023 (PS5)",
+  "Genre": "Turn-Based RPG, Gacha",
+  "developers": "miHoYo",
+  "publisher": "miHoYo (China) / HoYoverse (Global)",
+  "aliases": "HSR, Star Rail",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Honkai_Star_Rail_logo.svg/250px-Honkai_Star_Rail_logo.svg.png",
+  "description": "A free-to-play turn-based RPG by HoYoverse, following the crew of the Astral Express as they travel the stars.",
+  "url": "https://en.wikipedia.org/wiki/Honkai:_Star_Rail"
 }

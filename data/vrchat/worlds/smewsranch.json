@@ -1,7 +1,8 @@
 {
-    "name": "Smew's Ranch",
-    "creator": "Smew",
-    "image": "",
-    "description": "Smew's Ranch is a follow-up world from creator Smew, built as a lighter, more playful companion to Smew's Room. It has an amusement-park feel, featuring a large Ferris wheel, a roller coaster, and assorted throwable gadgets and toys for visitors to mess around with. Since its release it has steadily grown in popularity as a fun, low-pressure hangout spot.",
-    "url": "https://vrchat-legends.fandom.com/wiki/Smew's_Room"
+  "name": "Smew's Ranch",
+  "creator": "Smew",
+  "image": "",
+  "description": "Smew's Ranch is a follow-up world from creator Smew, built as a lighter, more playful companion to Smew's Room. It has an amusement-park feel, featuring a large Ferris wheel, a roller coaster, and assorted throwable gadgets and toys for visitors to mess around with. Since its release it has steadily grown in popularity as a fun, low-pressure hangout spot.",
+  "url": "https://vrchat-legends.fandom.com/wiki/Smew's_Room",
+  "slug": "smewsranch"
 }

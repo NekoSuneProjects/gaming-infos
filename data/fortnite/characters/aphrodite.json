@@ -1,0 +1,43 @@
+{
+  "name": "Aphrodite",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/7/7d/Aphrodite_-_Outfit_-_Fortnite.png/revision/latest?cb=20240308163645",
+  "url": "https://fortnite.fandom.com/wiki/Aphrodite",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "March 8th 2024",
+  "services": null,
+  "details": {
+    "name": "Aphrodite",
+    "image": "Aphrodite - Outfit - Fortnite.png|Icon Aphrodite (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "set": "Goddess of the Heart",
+    "unlocked": "Page 3 2 9",
+    "cost": "950 (2)",
+    "release": "March 8th 2024",
+    "character model": "Aphrodite",
+    "added_in": "Update v29.00",
+    "ID": "Character_LiftingAura_Wave",
+    "BeanID": "Bean_LiftingAura_Wave",
+    "LEGOUse": "y",
+    "FGUse": "y",
+    "featured": "Aphrodite (Immortal Aphrodite - Featured) - Outfit - Fortnite.png|1 Aphrodite (Stygian Aphrodite - Battle Pass) - Outfit - Fortnite.png|2 Aphrodite (Olympian Aphrodite - Battle Pass) - Outfit - Fortnite.png|3 Aphrodite (Titanflame Aphrodite - Battle Pass) - Outfit - Fortnite.png|4 }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Aphrodite",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.602Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "aphrodite"
+}

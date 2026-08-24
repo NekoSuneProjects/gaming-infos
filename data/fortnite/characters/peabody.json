@@ -1,0 +1,42 @@
+{
+  "name": "Peabody",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/3/34/Peabody_-_Outfit_-_Fortnite.png/revision/latest?cb=20240524143723",
+  "url": "https://fortnite.fandom.com/wiki/Peabody",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "May 24th 2024",
+  "services": null,
+  "details": {
+    "image": "Peabody - Outfit - Fortnite.png|Icon Peabody (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "set": "Pea Bois",
+    "cost": "950 (3)",
+    "unlocked": "Page 5 3 9",
+    "release": "May 24th 2024",
+    "added_in": "Update v30.00",
+    "character model": "Unique",
+    "LEGOUse": "y",
+    "FGUse": "y",
+    "ID": "Character_SpeedyPeas_Sprig",
+    "BeanID": "Bean_SpeedyPeas_Sprig",
+    "featured": "Peabody (Slap Peabody - Featured) - Outfit - Fortnite.png|1 Peabody (Slurp Peabody - Battle Pass) - Outfit - Fortnite.png|2 }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Peabody",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.582Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "peabody"
+}

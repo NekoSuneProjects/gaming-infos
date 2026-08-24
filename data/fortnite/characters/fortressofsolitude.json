@@ -1,0 +1,37 @@
+{
+  "name": "Fortress of Solitude",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/3/38/Fortress_of_Solitude_-_Landmark_-_Fortnite.png/revision/latest?cb=20250731123349",
+  "url": "https://fortnite.fandom.com/wiki/Fortress_of_Solitude",
+  "title": null,
+  "location": "E Lakeside Lab S Canyon Crossing",
+  "affiliation": null,
+  "introduced": "July 15th 2025",
+  "services": null,
+  "details": {
+    "image": "Fortress of Solitude - Landmark - Fortnite.png",
+    "location": "E Lakeside Lab S Canyon Crossing",
+    "type": "Landmark",
+    "island": "Oninoshima",
+    "release": "July 15th 2025",
+    "chests": "27",
+    "ammo_boxes": "13",
+    "character": "Superman Shadow Blade Hope",
+    "vehicles": "1x Grandeur Trailsmasher }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Fortress_of_Solitude",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.551Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "fortressofsolitude"
+}

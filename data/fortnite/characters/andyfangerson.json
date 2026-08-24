@@ -1,0 +1,42 @@
+{
+  "name": "Andy Fangerson",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/6/66/Andy_Fangerson_-_Outfit_-_Fortnite.png/revision/latest?cb=20241012072055",
+  "url": "https://fortnite.fandom.com/wiki/Andy_Fangerson",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "October 12th 2024",
+  "services": null,
+  "details": {
+    "image": "Andy Fangerson - Outfit - Fortnite.png|Icon Andy Fangerson (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "set": "Party Moon",
+    "cost": "1,400 (BoT)",
+    "unlocked": "BoT",
+    "release": "October 12th 2024",
+    "character model": "Unique",
+    "body model": "Unique",
+    "added_in": "Update v31.40",
+    "ID": "Character_KoboLobo",
+    "BeanID": "Bean_KoboLobo",
+    "LEGOUse": "y",
+    "FGUse": "y }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Andy_Fangerson",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.573Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "andyfangerson"
+}

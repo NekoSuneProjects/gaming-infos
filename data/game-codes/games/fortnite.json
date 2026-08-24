@@ -1,0 +1,943 @@
+{
+  "Active": [
+    {
+      "id": 77,
+      "game": "fortnite",
+      "code": "8BitBlast",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "current-source",
+      "items": [
+        {
+          "name": "Cheat Master 8-Bit Sprite, which drops an 8-Bit Shotgun in your first chest and lets you enter Cheat Codes instantly",
+          "quantity": null,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "seasonal",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "Fortnite Battle Royale lobby > Admin Panel",
+      "claimType": "free",
+      "requirements": [
+        "Enter the code exactly as shown in the Fortnite Battle Royale Admin Panel."
+      ],
+      "sourceUrls": [
+        "https://allthings.how/fortnite-codes/"
+      ],
+      "sourceKey": "fortnite-admin-panel:allthingshow",
+      "notes": "Seasonal Fortnite Admin Panel reward code.",
+      "firstSeenAt": "2026-08-24T09:20:33.000Z",
+      "lastSeenAt": "2026-08-24T11:04:05.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:05.000Z"
+    },
+    {
+      "id": 78,
+      "game": "fortnite",
+      "code": "Abgestaubt",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "current-source",
+      "items": [
+        {
+          "name": "Sprite Dust",
+          "quantity": 2000,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "seasonal",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "Fortnite Battle Royale lobby > Admin Panel",
+      "claimType": "free",
+      "requirements": [
+        "Enter the code exactly as shown in the Fortnite Battle Royale Admin Panel."
+      ],
+      "sourceUrls": [
+        "https://allthings.how/fortnite-codes/"
+      ],
+      "sourceKey": "fortnite-admin-panel:allthingshow",
+      "notes": "Seasonal Fortnite Admin Panel reward code.",
+      "firstSeenAt": "2026-08-24T09:20:33.000Z",
+      "lastSeenAt": "2026-08-24T11:04:05.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:05.000Z"
+    },
+    {
+      "id": 79,
+      "game": "fortnite",
+      "code": "BeMoreAlien",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "current-source",
+      "items": [
+        {
+          "name": "Override Ready loading screen",
+          "quantity": null,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "seasonal",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "Fortnite Battle Royale lobby > Admin Panel",
+      "claimType": "free",
+      "requirements": [
+        "Enter the code exactly as shown in the Fortnite Battle Royale Admin Panel."
+      ],
+      "sourceUrls": [
+        "https://allthings.how/fortnite-codes/"
+      ],
+      "sourceKey": "fortnite-admin-panel:allthingshow",
+      "notes": "Seasonal Fortnite Admin Panel reward code.",
+      "firstSeenAt": "2026-08-24T09:20:33.000Z",
+      "lastSeenAt": "2026-08-24T11:04:05.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:05.000Z"
+    },
+    {
+      "id": 80,
+      "game": "fortnite",
+      "code": "Born2Play",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "current-source",
+      "items": [
+        {
+          "name": "Cheat Master Adventure Sprite, which upgrades a random inventory item each level and enters Cheat Codes instantly",
+          "quantity": null,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "seasonal",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "Fortnite Battle Royale lobby > Admin Panel",
+      "claimType": "free",
+      "requirements": [
+        "Enter the code exactly as shown in the Fortnite Battle Royale Admin Panel."
+      ],
+      "sourceUrls": [
+        "https://allthings.how/fortnite-codes/"
+      ],
+      "sourceKey": "fortnite-admin-panel:allthingshow",
+      "notes": "Seasonal Fortnite Admin Panel reward code.",
+      "firstSeenAt": "2026-08-24T09:20:33.000Z",
+      "lastSeenAt": "2026-08-24T11:04:05.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:05.000Z"
+    },
+    {
+      "id": 81,
+      "game": "fortnite",
+      "code": "Chispambo",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "current-source",
+      "items": [
+        {
+          "name": "Sprite Dust",
+          "quantity": 2000,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "seasonal",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "Fortnite Battle Royale lobby > Admin Panel",
+      "claimType": "free",
+      "requirements": [
+        "Enter the code exactly as shown in the Fortnite Battle Royale Admin Panel."
+      ],
+      "sourceUrls": [
+        "https://allthings.how/fortnite-codes/"
+      ],
+      "sourceKey": "fortnite-admin-panel:allthingshow",
+      "notes": "Seasonal Fortnite Admin Panel reward code.",
+      "firstSeenAt": "2026-08-24T09:20:33.000Z",
+      "lastSeenAt": "2026-08-24T11:04:05.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:05.000Z"
+    },
+    {
+      "id": 82,
+      "game": "fortnite",
+      "code": "DontBlockMe",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "current-source",
+      "items": [
+        {
+          "name": "Temporary Tetris Block transformation in the lobby (reusable)",
+          "quantity": null,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "seasonal",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "Fortnite Battle Royale lobby > Admin Panel",
+      "claimType": "free",
+      "requirements": [
+        "Enter the code exactly as shown in the Fortnite Battle Royale Admin Panel."
+      ],
+      "sourceUrls": [
+        "https://allthings.how/fortnite-codes/"
+      ],
+      "sourceKey": "fortnite-admin-panel:allthingshow",
+      "notes": "Seasonal Fortnite Admin Panel reward code.",
+      "firstSeenAt": "2026-08-24T09:20:34.000Z",
+      "lastSeenAt": "2026-08-24T11:04:05.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:05.000Z"
+    },
+    {
+      "id": 83,
+      "game": "fortnite",
+      "code": "FindItChat",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "current-source",
+      "items": [
+        {
+          "name": "Two Cheat Code Locators, each pointing to the nearest Cheat Code on the map",
+          "quantity": null,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "seasonal",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "Fortnite Battle Royale lobby > Admin Panel",
+      "claimType": "free",
+      "requirements": [
+        "Enter the code exactly as shown in the Fortnite Battle Royale Admin Panel."
+      ],
+      "sourceUrls": [
+        "https://allthings.how/fortnite-codes/"
+      ],
+      "sourceKey": "fortnite-admin-panel:allthingshow",
+      "notes": "Seasonal Fortnite Admin Panel reward code.",
+      "firstSeenAt": "2026-08-24T09:20:34.000Z",
+      "lastSeenAt": "2026-08-24T11:04:05.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:05.000Z"
+    },
+    {
+      "id": 97,
+      "game": "fortnite",
+      "code": "GatherAndCraft",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "current-source",
+      "items": [
+        {
+          "name": "Cheat Master Bush Sprite (only redeemable after finishing Story missions)",
+          "quantity": null,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "seasonal",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "Fortnite Battle Royale lobby > Admin Panel",
+      "claimType": "free",
+      "requirements": [
+        "Enter the code exactly as shown in the Fortnite Battle Royale Admin Panel."
+      ],
+      "sourceUrls": [
+        "https://allthings.how/fortnite-codes/"
+      ],
+      "sourceKey": "fortnite-admin-panel:allthingshow",
+      "notes": "Seasonal Fortnite Admin Panel reward code.",
+      "firstSeenAt": "2026-08-24T09:20:34.000Z",
+      "lastSeenAt": "2026-08-24T11:04:05.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:05.000Z"
+    },
+    {
+      "id": 84,
+      "game": "fortnite",
+      "code": "GottaGoFast",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "current-source",
+      "items": [
+        {
+          "name": "Cheat Master Sonic Sprite, boosting sprint speed and entering Cheat Codes instantly",
+          "quantity": null,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "seasonal",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "Fortnite Battle Royale lobby > Admin Panel",
+      "claimType": "free",
+      "requirements": [
+        "Enter the code exactly as shown in the Fortnite Battle Royale Admin Panel."
+      ],
+      "sourceUrls": [
+        "https://allthings.how/fortnite-codes/"
+      ],
+      "sourceKey": "fortnite-admin-panel:allthingshow",
+      "notes": "Seasonal Fortnite Admin Panel reward code.",
+      "firstSeenAt": "2026-08-24T09:20:34.000Z",
+      "lastSeenAt": "2026-08-24T11:04:05.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:05.000Z"
+    },
+    {
+      "id": 96,
+      "game": "fortnite",
+      "code": "H0p0nVC",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "current-source",
+      "items": [
+        {
+          "name": "Sprite Dust",
+          "quantity": 2000,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "seasonal",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "Fortnite Battle Royale lobby > Admin Panel",
+      "claimType": "free",
+      "requirements": [
+        "Enter the code exactly as shown in the Fortnite Battle Royale Admin Panel."
+      ],
+      "sourceUrls": [
+        "https://allthings.how/fortnite-codes/"
+      ],
+      "sourceKey": "fortnite-admin-panel:allthingshow",
+      "notes": "Seasonal Fortnite Admin Panel reward code.",
+      "firstSeenAt": "2026-08-24T09:20:34.000Z",
+      "lastSeenAt": "2026-08-24T11:04:05.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:05.000Z"
+    },
+    {
+      "id": 85,
+      "game": "fortnite",
+      "code": "IWannaFlyHigh",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "current-source",
+      "items": [
+        {
+          "name": "Cheat Master Tails Sprite, granting the Tails cover ability and entering Cheat Codes instantly",
+          "quantity": null,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "seasonal",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "Fortnite Battle Royale lobby > Admin Panel",
+      "claimType": "free",
+      "requirements": [
+        "Enter the code exactly as shown in the Fortnite Battle Royale Admin Panel."
+      ],
+      "sourceUrls": [
+        "https://allthings.how/fortnite-codes/"
+      ],
+      "sourceKey": "fortnite-admin-panel:allthingshow",
+      "notes": "Seasonal Fortnite Admin Panel reward code.",
+      "firstSeenAt": "2026-08-24T09:20:34.000Z",
+      "lastSeenAt": "2026-08-24T11:04:05.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:05.000Z"
+    },
+    {
+      "id": 98,
+      "game": "fortnite",
+      "code": "JonesyIsGolden",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "current-source",
+      "items": [
+        {
+          "name": "Gold Jonesy Sprite (unlocks August 24)",
+          "quantity": null,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "seasonal",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "Fortnite Battle Royale lobby > Admin Panel",
+      "claimType": "free",
+      "requirements": [
+        "Enter the code exactly as shown in the Fortnite Battle Royale Admin Panel."
+      ],
+      "sourceUrls": [
+        "https://allthings.how/fortnite-codes/"
+      ],
+      "sourceKey": "fortnite-admin-panel:allthingshow",
+      "notes": "Seasonal Fortnite Admin Panel reward code.",
+      "firstSeenAt": "2026-08-24T09:20:34.000Z",
+      "lastSeenAt": "2026-08-24T11:04:05.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:05.000Z"
+    },
+    {
+      "id": 86,
+      "game": "fortnite",
+      "code": "LetsBlockAndRoll",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "current-source",
+      "items": [
+        {
+          "name": "Temporary Tetris Block transformation in the lobby (reusable)",
+          "quantity": null,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "seasonal",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "Fortnite Battle Royale lobby > Admin Panel",
+      "claimType": "free",
+      "requirements": [
+        "Enter the code exactly as shown in the Fortnite Battle Royale Admin Panel."
+      ],
+      "sourceUrls": [
+        "https://allthings.how/fortnite-codes/"
+      ],
+      "sourceKey": "fortnite-admin-panel:allthingshow",
+      "notes": "Seasonal Fortnite Admin Panel reward code.",
+      "firstSeenAt": "2026-08-24T09:20:34.000Z",
+      "lastSeenAt": "2026-08-24T11:04:05.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:05.000Z"
+    },
+    {
+      "id": 87,
+      "game": "fortnite",
+      "code": "Magilume",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "current-source",
+      "items": [
+        {
+          "name": "Sprite Dust",
+          "quantity": 2000,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "seasonal",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "Fortnite Battle Royale lobby > Admin Panel",
+      "claimType": "free",
+      "requirements": [
+        "Enter the code exactly as shown in the Fortnite Battle Royale Admin Panel."
+      ],
+      "sourceUrls": [
+        "https://allthings.how/fortnite-codes/"
+      ],
+      "sourceKey": "fortnite-admin-panel:allthingshow",
+      "notes": "Seasonal Fortnite Admin Panel reward code.",
+      "firstSeenAt": "2026-08-24T09:20:34.000Z",
+      "lastSeenAt": "2026-08-24T11:04:05.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:05.000Z"
+    },
+    {
+      "id": 231,
+      "game": "fortnite",
+      "code": "NEKOSUNEVR",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "fortnite-api",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "Fortnite Item Shop > Support-A-Creator",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Enter NEKOSUNEVR as the Support-A-Creator code."
+      ],
+      "sourceUrls": [
+        "https://nekosunevr.co.uk/nekosunecommunity"
+      ],
+      "sourceKey": "seed:nekosunevr",
+      "notes": "Fortnite-API resolves this creator code. Account: NekoSuneVR",
+      "firstSeenAt": "2026-08-24T09:20:39.000Z",
+      "lastSeenAt": "2026-08-24T09:24:40.000Z",
+      "lastVerifiedAt": "2026-08-24T09:24:40.000Z"
+    },
+    {
+      "id": 88,
+      "game": "fortnite",
+      "code": "O2Override",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "current-source",
+      "items": [
+        {
+          "name": "Five Portable Extractors for pulling an equipped Sprite, plus a boosted llama-themed Supply Drop",
+          "quantity": null,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "seasonal",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "Fortnite Battle Royale lobby > Admin Panel",
+      "claimType": "free",
+      "requirements": [
+        "Enter the code exactly as shown in the Fortnite Battle Royale Admin Panel."
+      ],
+      "sourceUrls": [
+        "https://allthings.how/fortnite-codes/"
+      ],
+      "sourceKey": "fortnite-admin-panel:allthingshow",
+      "notes": "Seasonal Fortnite Admin Panel reward code.",
+      "firstSeenAt": "2026-08-24T09:20:34.000Z",
+      "lastSeenAt": "2026-08-24T11:04:05.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:05.000Z"
+    },
+    {
+      "id": 89,
+      "game": "fortnite",
+      "code": "OverrideXP",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "current-source",
+      "items": [
+        {
+          "name": "XP",
+          "quantity": 40000,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "seasonal",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "Fortnite Battle Royale lobby > Admin Panel",
+      "claimType": "free",
+      "requirements": [
+        "Enter the code exactly as shown in the Fortnite Battle Royale Admin Panel."
+      ],
+      "sourceUrls": [
+        "https://allthings.how/fortnite-codes/"
+      ],
+      "sourceKey": "fortnite-admin-panel:allthingshow",
+      "notes": "Seasonal Fortnite Admin Panel reward code.",
+      "firstSeenAt": "2026-08-24T09:20:34.000Z",
+      "lastSeenAt": "2026-08-24T11:04:05.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:05.000Z"
+    },
+    {
+      "id": 90,
+      "game": "fortnite",
+      "code": "PerfectOrder",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "current-source",
+      "items": [
+        {
+          "name": "Four Spicy Tacos that heal and grant a speed and stamina boost",
+          "quantity": null,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "seasonal",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "Fortnite Battle Royale lobby > Admin Panel",
+      "claimType": "free",
+      "requirements": [
+        "Enter the code exactly as shown in the Fortnite Battle Royale Admin Panel."
+      ],
+      "sourceUrls": [
+        "https://allthings.how/fortnite-codes/"
+      ],
+      "sourceKey": "fortnite-admin-panel:allthingshow",
+      "notes": "Seasonal Fortnite Admin Panel reward code.",
+      "firstSeenAt": "2026-08-24T09:20:34.000Z",
+      "lastSeenAt": "2026-08-24T11:04:05.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:05.000Z"
+    },
+    {
+      "id": 91,
+      "game": "fortnite",
+      "code": "Perlimpinpin",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "current-source",
+      "items": [
+        {
+          "name": "Sprite Dust",
+          "quantity": 2000,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "seasonal",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "Fortnite Battle Royale lobby > Admin Panel",
+      "claimType": "free",
+      "requirements": [
+        "Enter the code exactly as shown in the Fortnite Battle Royale Admin Panel."
+      ],
+      "sourceUrls": [
+        "https://allthings.how/fortnite-codes/"
+      ],
+      "sourceKey": "fortnite-admin-panel:allthingshow",
+      "notes": "Seasonal Fortnite Admin Panel reward code.",
+      "firstSeenAt": "2026-08-24T09:20:34.000Z",
+      "lastSeenAt": "2026-08-24T11:04:05.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:05.000Z"
+    },
+    {
+      "id": 92,
+      "game": "fortnite",
+      "code": "Play4All",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "current-source",
+      "items": [
+        {
+          "name": "Cheat Master Jonesy Sprite, recovering health or shields after taking damage and entering Cheat Codes instantly",
+          "quantity": null,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "seasonal",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "Fortnite Battle Royale lobby > Admin Panel",
+      "claimType": "free",
+      "requirements": [
+        "Enter the code exactly as shown in the Fortnite Battle Royale Admin Panel."
+      ],
+      "sourceUrls": [
+        "https://allthings.how/fortnite-codes/"
+      ],
+      "sourceKey": "fortnite-admin-panel:allthingshow",
+      "notes": "Seasonal Fortnite Admin Panel reward code.",
+      "firstSeenAt": "2026-08-24T09:20:34.000Z",
+      "lastSeenAt": "2026-08-24T11:04:05.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:05.000Z"
+    },
+    {
+      "id": 93,
+      "game": "fortnite",
+      "code": "ReachYourImpossible",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "current-source",
+      "items": [
+        {
+          "name": "Block Party loading screen",
+          "quantity": null,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "seasonal",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "Fortnite Battle Royale lobby > Admin Panel",
+      "claimType": "free",
+      "requirements": [
+        "Enter the code exactly as shown in the Fortnite Battle Royale Admin Panel."
+      ],
+      "sourceUrls": [
+        "https://allthings.how/fortnite-codes/"
+      ],
+      "sourceKey": "fortnite-admin-panel:allthingshow",
+      "notes": "Seasonal Fortnite Admin Panel reward code.",
+      "firstSeenAt": "2026-08-24T09:20:34.000Z",
+      "lastSeenAt": "2026-08-24T11:04:05.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:05.000Z"
+    },
+    {
+      "id": 94,
+      "game": "fortnite",
+      "code": "SurviveTheNight",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "current-source",
+      "items": [
+        {
+          "name": "Two Cheat Code Locators, each pointing to the nearest Cheat Code",
+          "quantity": null,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "seasonal",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "Fortnite Battle Royale lobby > Admin Panel",
+      "claimType": "free",
+      "requirements": [
+        "Enter the code exactly as shown in the Fortnite Battle Royale Admin Panel."
+      ],
+      "sourceUrls": [
+        "https://allthings.how/fortnite-codes/"
+      ],
+      "sourceKey": "fortnite-admin-panel:allthingshow",
+      "notes": "Seasonal Fortnite Admin Panel reward code.",
+      "firstSeenAt": "2026-08-24T09:20:34.000Z",
+      "lastSeenAt": "2026-08-24T11:04:05.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:05.000Z"
+    },
+    {
+      "id": 95,
+      "game": "fortnite",
+      "code": "TakeYourHeart",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "current-source",
+      "items": [
+        {
+          "name": "Two Extraction Accelerators that silently start a nearby extraction",
+          "quantity": null,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "seasonal",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "Fortnite Battle Royale lobby > Admin Panel",
+      "claimType": "free",
+      "requirements": [
+        "Enter the code exactly as shown in the Fortnite Battle Royale Admin Panel."
+      ],
+      "sourceUrls": [
+        "https://allthings.how/fortnite-codes/"
+      ],
+      "sourceKey": "fortnite-admin-panel:allthingshow",
+      "notes": "Seasonal Fortnite Admin Panel reward code.",
+      "firstSeenAt": "2026-08-24T09:20:34.000Z",
+      "lastSeenAt": "2026-08-24T11:04:05.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:05.000Z"
+    }
+  ],
+  "Expired": [],
+  "Unknown": []
+}

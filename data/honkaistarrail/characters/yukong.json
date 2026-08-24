@@ -1,12 +1,13 @@
 {
-    "name": "Yukong",
-    "rarity": "4-star",
-    "path": "Harmony",
-    "element": "Imaginary",
-    "faction": "Sky-Faring Commission (Xianzhou Luofu)",
-    "voiceActorEN": "Dawn M. Bennett",
-    "voiceActorJP": "Yumi Toma",
-    "description": "A foxian former wartime pilot who serves as Helm Master of the Sky-Faring Commission on the Xianzhou Luofu, and one of the Luofu's Six Charioteers.",
-    "image": "",
-    "url": "https://honkai-star-rail.fandom.com/wiki/Yukong"
+  "name": "Yukong",
+  "rarity": "4-star",
+  "path": "Harmony",
+  "element": "Imaginary",
+  "faction": "Sky-Faring Commission (Xianzhou Luofu)",
+  "voiceActorEN": "Dawn M. Bennett",
+  "voiceActorJP": "Yumi Toma",
+  "description": "A foxian former wartime pilot who serves as Helm Master of the Sky-Faring Commission on the Xianzhou Luofu, and one of the Luofu's Six Charioteers.",
+  "image": "",
+  "url": "https://honkai-star-rail.fandom.com/wiki/Yukong",
+  "slug": "yukong"
 }

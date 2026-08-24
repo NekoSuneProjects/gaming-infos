@@ -1,0 +1,43 @@
+{
+  "name": "Classified Canyon",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/e/e0/Classified_Canyon_-_Location_-_Fortnite.png/revision/latest?cb=20260205074254",
+  "url": "https://fortnite.fandom.com/wiki/Classified_Canyon",
+  "title": null,
+  "location": "E Sus Studios S Sandy Strip",
+  "affiliation": null,
+  "introduced": "November 29th 2025",
+  "services": null,
+  "details": {
+    "name": "Classified Canyon",
+    "image": "Classified Canyon - Location - Fortnite.png|Overview Classified Canyon (v39.50 - Top View) - Location - Fortnite.png|Top View",
+    "location": "E Sus Studios S Sandy Strip",
+    "type": "Named Location",
+    "island": "Golden Coast",
+    "chests": "75",
+    "ammo_boxes": "57",
+    "produce_boxes": "5",
+    "vending_machines": "3",
+    "owner": "(Turned into a Seven base at the end of C7S1)",
+    "release": "November 29th 2025",
+    "removed": "March 19th 2026",
+    "vehicles": "2x Reboot Van 12x Grandeur Trailsmasher 1x Motors Whiplash 2x All Terrain Kart",
+    "character": "C7S1]] C7S1]] C7S1]] C7S1]]",
+    "next": "New Sanctuary }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Classified_Canyon",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.534Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "classifiedcanyon"
+}

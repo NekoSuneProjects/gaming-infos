@@ -1,11 +1,12 @@
 {
-    "name": "Varesa",
-    "cv": "Mao Ichimichi",
-    "description": "A laid-back orchard owner, warrior, and competitive eater from the Collective of Plenty.",
-    "image": "",
-    "city": "Natlan",
-    "url": "https://genshin-impact.fandom.com/wiki/Varesa",
-    "element": "Electro",
-    "weapon": "Catalyst",
-    "rating": 5
+  "name": "Varesa",
+  "cv": "Mao Ichimichi",
+  "description": "A laid-back orchard owner, warrior, and competitive eater from the Collective of Plenty.",
+  "image": "",
+  "city": "Natlan",
+  "url": "https://genshin-impact.fandom.com/wiki/Varesa",
+  "element": "Electro",
+  "weapon": "Catalyst",
+  "rating": 5,
+  "slug": "varesa"
 }

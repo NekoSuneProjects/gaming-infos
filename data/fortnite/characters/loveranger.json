@@ -1,0 +1,44 @@
+{
+  "name": "Love Ranger",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/b/b7/Love_Ranger_%28New%29_-_Outfit_-_Fortnite.png/revision/latest?cb=20230826210338",
+  "url": "https://fortnite.fandom.com/wiki/Love_Ranger",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "February 13th 2018",
+  "services": null,
+  "details": {
+    "image": "Love Ranger (v33.30) - Outfit - Fortnite.png|Icon Love Ranger (New Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Legendary",
+    "bundled_with": "Love Wings",
+    "set": "Royale Hearts",
+    "cost": "2,000 2,500 (Hearts of Stone Bundle)",
+    "unlocked": "Item Shop Hearts of Stone Bundle",
+    "release": "February 13th 2018",
+    "character model": "Cupid",
+    "body model": "Cupid",
+    "added_in": "Update v2.50",
+    "appearances": "Love Ranger",
+    "ID": "CID_070_Athena_Commando_M_Cupid",
+    "FGUse": "y",
+    "BeanID": "Bean_CupidA",
+    "LEGOUse": "y }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Love_Ranger",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.629Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "loveranger"
+}

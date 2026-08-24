@@ -1,11 +1,12 @@
 {
-    "name": "Mavuika",
-    "cv": "Mikako Komatsu",
-    "description": "The Pyro Archon of Natlan, who rose from commoner status by winning a warriors' tournament and sacrificed herself five hundred years ago to delay an Abyss invasion, later being resurrected to lead Natlan to victory.",
-    "image": "https://upload.wikimedia.org/wikipedia/en/9/96/Genshin_Impact_Mavuika.png",
-    "city": "Natlan",
-    "url": "https://en.wikipedia.org/wiki/Mavuika",
-    "element": "Pyro",
-    "weapon": "Claymore",
-    "rating": 5
+  "name": "Mavuika",
+  "cv": "Mikako Komatsu",
+  "description": "The Pyro Archon of Natlan, who rose from commoner status by winning a warriors' tournament and sacrificed herself five hundred years ago to delay an Abyss invasion, later being resurrected to lead Natlan to victory.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/9/96/Genshin_Impact_Mavuika.png",
+  "city": "Natlan",
+  "url": "https://en.wikipedia.org/wiki/Mavuika",
+  "element": "Pyro",
+  "weapon": "Claymore",
+  "rating": 5,
+  "slug": "mavuika"
 }

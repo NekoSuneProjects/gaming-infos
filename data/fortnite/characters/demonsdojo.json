@@ -1,0 +1,46 @@
+{
+  "name": "Demon's Dojo",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/0/05/Demon%27s_Dojo_-_Location_-_Fortnite.png/revision/latest?cb=20250216170841",
+  "url": "https://fortnite.fandom.com/wiki/Demon's_Dojo",
+  "title": null,
+  "location": "E Pumped Power N Shining Span‎ ‎ ‎‎ ‎ ‎ ‎ ‎",
+  "affiliation": null,
+  "introduced": "December 1st 2024",
+  "services": null,
+  "details": {
+    "name": "Demon's Dojo",
+    "image": "Demon's Dojo - Location - Fortnite.png|Overview Demon's Dojo (Top View) - Location - Fortnite.png|Top View",
+    "location": "E Pumped Power N Shining Span‎ ‎ ‎‎ ‎ ‎ ‎ ‎",
+    "type": "Named Location",
+    "island": "Oninoshima",
+    "owner": "(C6S1) Demon Hunters (C6S2)",
+    "chests": "37",
+    "ammo_boxes": "40",
+    "floor_loot": "69",
+    "produce_boxes": "15",
+    "release": "December 1st 2024",
+    "removed": "May 2nd 2025",
+    "vehicles": "1x Victory Crown Rogue 1x Grandeur Trailsmasher 2x Trail Thrasher",
+    "character": "C6S2]] C6S2]]",
+    "boss": "C6S1]] C6S1]]",
+    "ID": "Athena.Location.POI.Academy",
+    "henchmen": "C6S1]]",
+    "next": "First Order Base}}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Demon's_Dojo",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.568Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "demonsdojo"
+}

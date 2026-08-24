@@ -1,0 +1,45 @@
+{
+  "name": "Saskia",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/4/42/Saskia_-_Outfit_-_Fortnite.png/revision/latest?cb=20240622101010",
+  "url": "https://fortnite.fandom.com/wiki/Saskia",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "July 7th 2024 }}",
+  "services": null,
+  "details": {
+    "name": "Saskia",
+    "image": "Saskia - Outfit - Fortnite.png|Icon Saskia (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "character model": "Samantha",
+    "body model": "Unique",
+    "added_in": "Update v30.20",
+    "ID": "Character_Bountress",
+    "BeanID": "Bean_Bountress",
+    "set": "The Bronze Barrel",
+    "LEGOUse": "yes",
+    "bundled_with": "Tattered Bronze",
+    "unlocked": "Item Shop",
+    "cost": "1,000",
+    "appearances": "Saskia",
+    "FGUse": "y",
+    "release": "July 7th 2024 }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Saskia",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.595Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "saskia"
+}

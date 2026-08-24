@@ -1,12 +1,13 @@
 {
-    "name": "Cerydra",
-    "rarity": "5-star",
-    "path": "Harmony",
-    "element": "Wind",
-    "faction": "Amphoreus - Okhema",
-    "voiceActorEN": "Rhiannon Moushall",
-    "voiceActorJP": "Kanon Takao",
-    "description": "Cerydra is the demigod of Law and a Chrysos Heir who once ruled as the self-proclaimed sovereign, or Imperator, of the holy city of Okhema. As a niche Harmony support, she buffs allies' Skill usage and Skill DMG through a 'Military Merit' mechanic.",
-    "image": "",
-    "url": "https://honkai-star-rail.fandom.com/wiki/Cerydra"
+  "name": "Cerydra",
+  "rarity": "5-star",
+  "path": "Harmony",
+  "element": "Wind",
+  "faction": "Amphoreus - Okhema",
+  "voiceActorEN": "Rhiannon Moushall",
+  "voiceActorJP": "Kanon Takao",
+  "description": "Cerydra is the demigod of Law and a Chrysos Heir who once ruled as the self-proclaimed sovereign, or Imperator, of the holy city of Okhema. As a niche Harmony support, she buffs allies' Skill usage and Skill DMG through a 'Military Merit' mechanic.",
+  "image": "",
+  "url": "https://honkai-star-rail.fandom.com/wiki/Cerydra",
+  "slug": "cerydra"
 }

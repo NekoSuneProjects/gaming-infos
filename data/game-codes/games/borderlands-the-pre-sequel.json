@@ -1,0 +1,631 @@
+{
+  "Active": [
+    {
+      "id": 60,
+      "game": "borderlands-the-pre-sequel",
+      "code": "5CKTB-CHTXR-RZBRB-TJ3JT-H6K59",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Golden Key",
+          "quantity": 5,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://progameguides.com/borderlands/borderlands-the-pre-sequel-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": "Permanent.",
+      "firstSeenAt": "2026-08-24T09:20:32.000Z",
+      "lastSeenAt": "2026-08-24T09:20:32.000Z",
+      "lastVerifiedAt": null
+    },
+    {
+      "id": 64,
+      "game": "borderlands-the-pre-sequel",
+      "code": "KCCJ3-XCBX6-R9TFB-TB3J3-6C3WR",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Golden Key",
+          "quantity": 5,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://progameguides.com/borderlands/borderlands-the-pre-sequel-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": "Permanent.",
+      "firstSeenAt": "2026-08-24T09:20:33.000Z",
+      "lastSeenAt": "2026-08-24T09:20:33.000Z",
+      "lastVerifiedAt": null
+    },
+    {
+      "id": 61,
+      "game": "borderlands-the-pre-sequel",
+      "code": "KK5BT-TSTX6-RHBRT-TBBJJ-69RHH",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Golden Key",
+          "quantity": 5,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://progameguides.com/borderlands/borderlands-the-pre-sequel-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": "Permanent.",
+      "firstSeenAt": "2026-08-24T09:20:32.000Z",
+      "lastSeenAt": "2026-08-24T09:20:32.000Z",
+      "lastVerifiedAt": null
+    },
+    {
+      "id": 67,
+      "game": "borderlands-the-pre-sequel",
+      "code": "KKWBB-5KJ6X-XSBF3-B3JT3-BWB6C",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Golden Key",
+          "quantity": 5,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://progameguides.com/borderlands/borderlands-the-pre-sequel-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": "Permanent.",
+      "firstSeenAt": "2026-08-24T09:20:33.000Z",
+      "lastSeenAt": "2026-08-24T09:20:33.000Z",
+      "lastVerifiedAt": null
+    },
+    {
+      "id": 65,
+      "game": "borderlands-the-pre-sequel",
+      "code": "W5KBB-9K3XF-R9BFT-J3BBJ-BF9K9",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Golden Key",
+          "quantity": 5,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://progameguides.com/borderlands/borderlands-the-pre-sequel-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": "Permanent.",
+      "firstSeenAt": "2026-08-24T09:20:33.000Z",
+      "lastSeenAt": "2026-08-24T09:20:33.000Z",
+      "lastVerifiedAt": null
+    },
+    {
+      "id": 59,
+      "game": "borderlands-the-pre-sequel",
+      "code": "W9W33-59FTX-5ZTX5-9TTBB-3B5JF",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Diamond Key",
+          "quantity": 5,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://progameguides.com/borderlands/borderlands-the-pre-sequel-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:32.000Z",
+      "lastSeenAt": "2026-08-24T09:20:32.000Z",
+      "lastVerifiedAt": null
+    },
+    {
+      "id": 63,
+      "game": "borderlands-the-pre-sequel",
+      "code": "WC5JJ-HXTRF-XHTRJ-BJBJJ-HXW3F",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Golden Key",
+          "quantity": 5,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://progameguides.com/borderlands/borderlands-the-pre-sequel-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": "Permanent.",
+      "firstSeenAt": "2026-08-24T09:20:33.000Z",
+      "lastSeenAt": "2026-08-24T09:20:33.000Z",
+      "lastVerifiedAt": null
+    },
+    {
+      "id": 66,
+      "game": "borderlands-the-pre-sequel",
+      "code": "WCCJB-JWJRF-FSB63-JJJ3T-WWSSJ",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Golden Key",
+          "quantity": 5,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://progameguides.com/borderlands/borderlands-the-pre-sequel-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": "Permanent.",
+      "firstSeenAt": "2026-08-24T09:20:33.000Z",
+      "lastSeenAt": "2026-08-24T09:20:33.000Z",
+      "lastVerifiedAt": null
+    },
+    {
+      "id": 68,
+      "game": "borderlands-the-pre-sequel",
+      "code": "WCW3J-KSSZC-BR5JB-JJTTB-XF9FZ",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Golden Key",
+          "quantity": 25,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://progameguides.com/borderlands/borderlands-the-pre-sequel-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:33.000Z",
+      "lastSeenAt": "2026-08-24T09:20:33.000Z",
+      "lastVerifiedAt": null
+    },
+    {
+      "id": 62,
+      "game": "borderlands-the-pre-sequel",
+      "code": "WWWTB-F63F6-R9JR3-3BJ3T-WW9XW",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Golden Key",
+          "quantity": 5,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://progameguides.com/borderlands/borderlands-the-pre-sequel-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": "Permanent.",
+      "firstSeenAt": "2026-08-24T09:20:32.000Z",
+      "lastSeenAt": "2026-08-24T09:20:32.000Z",
+      "lastVerifiedAt": null
+    },
+    {
+      "id": 58,
+      "game": "borderlands-the-pre-sequel",
+      "code": "ZFFTJ-RWRZJ-3B333-TTJJ3-XKCSK",
+      "category": "redeem-code",
+      "status": "active",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Golden Key",
+          "quantity": 50,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://progameguides.com/borderlands/borderlands-the-pre-sequel-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:32.000Z",
+      "lastSeenAt": "2026-08-24T09:20:32.000Z",
+      "lastVerifiedAt": null
+    }
+  ],
+  "Expired": [
+    {
+      "id": 71,
+      "game": "borderlands-the-pre-sequel",
+      "code": "96RBT-ZTC33-T3T33-JT3BT-9BHZJ",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Golden Key",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://progameguides.com/borderlands/borderlands-the-pre-sequel-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:33.000Z",
+      "lastSeenAt": "2026-08-24T09:20:33.000Z",
+      "lastVerifiedAt": null
+    },
+    {
+      "id": 70,
+      "game": "borderlands-the-pre-sequel",
+      "code": "H6RJ3-K9RT3-TT3JJ-T3JBJ-SWW9H",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Golden Key",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://progameguides.com/borderlands/borderlands-the-pre-sequel-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:33.000Z",
+      "lastSeenAt": "2026-08-24T09:20:33.000Z",
+      "lastVerifiedAt": null
+    },
+    {
+      "id": 69,
+      "game": "borderlands-the-pre-sequel",
+      "code": "H6RJB-RW533-TTJBJ-BJJJT-JW53S",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Golden Key",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://progameguides.com/borderlands/borderlands-the-pre-sequel-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:33.000Z",
+      "lastSeenAt": "2026-08-24T09:20:33.000Z",
+      "lastVerifiedAt": null
+    },
+    {
+      "id": 72,
+      "game": "borderlands-the-pre-sequel",
+      "code": "SRRTJ-JTHJT-BTTT3-JJB3B-CZWRK",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Golden Key",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://progameguides.com/borderlands/borderlands-the-pre-sequel-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:33.000Z",
+      "lastSeenAt": "2026-08-24T09:20:33.000Z",
+      "lastVerifiedAt": null
+    },
+    {
+      "id": 73,
+      "game": "borderlands-the-pre-sequel",
+      "code": "SXFTJ-R6XT3-3JBJ3-BT3B3-ZJJRW",
+      "category": "redeem-code",
+      "status": "expired",
+      "verificationStatus": "seeded",
+      "items": [
+        {
+          "name": "Golden Key",
+          "quantity": 3,
+          "image": null
+        }
+      ],
+      "image": null,
+      "expiry": {
+        "type": "unknown",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": true
+      },
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "claimType": "free",
+      "requirements": [],
+      "sourceUrls": [
+        "https://progameguides.com/borderlands/borderlands-the-pre-sequel-shift-codes/"
+      ],
+      "sourceKey": null,
+      "notes": null,
+      "firstSeenAt": "2026-08-24T09:20:33.000Z",
+      "lastSeenAt": "2026-08-24T09:20:33.000Z",
+      "lastVerifiedAt": null
+    }
+  ],
+  "Unknown": []
+}

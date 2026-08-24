@@ -1,12 +1,13 @@
 {
-    "name": "Yanqing",
-    "rarity": "5-star",
-    "path": "Hunt",
-    "element": "Ice",
-    "faction": "Cloud Knights (Xianzhou Luofu)",
-    "voiceActorEN": "Amber May",
-    "voiceActorJP": "Marina Inoue",
-    "description": "The youngest lieutenant of the Xianzhou Luofu's Cloud Knights and a retainer of General Jing Yuan. A swordsman with a prodigious talent for combat who collects blades from the Artisanship Commission.",
-    "image": "",
-    "url": "https://honkai-star-rail.fandom.com/wiki/Yanqing"
+  "name": "Yanqing",
+  "rarity": "5-star",
+  "path": "Hunt",
+  "element": "Ice",
+  "faction": "Cloud Knights (Xianzhou Luofu)",
+  "voiceActorEN": "Amber May",
+  "voiceActorJP": "Marina Inoue",
+  "description": "The youngest lieutenant of the Xianzhou Luofu's Cloud Knights and a retainer of General Jing Yuan. A swordsman with a prodigious talent for combat who collects blades from the Artisanship Commission.",
+  "image": "",
+  "url": "https://honkai-star-rail.fandom.com/wiki/Yanqing",
+  "slug": "yanqing"
 }

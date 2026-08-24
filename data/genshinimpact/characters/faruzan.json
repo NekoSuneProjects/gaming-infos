@@ -1,12 +1,13 @@
 {
-    "name": "Faruzan",
-    "quote": "Before you ask a question, do call me 'Madam.'",
-    "cv": "Horie Yui",
-    "description": "A young but accomplished engineer of the Sumeru Akademiya's Rtawahist Darshan, Faruzan designed wind-catching devices to protect the desert from sandstorms and fights with an Anemo-infused bow.",
-    "image": "https://static.icy-veins.com/images/genshin-impact/characters/faruzan.webp",
-    "city": "Sumeru",
-    "url": "https://www.icy-veins.com/genshin-impact/faruzan-profile-talents-constellations",
-    "element": "Anemo",
-    "weapon": "Bow",
-    "rating": 4
+  "name": "Faruzan",
+  "quote": "Before you ask a question, do call me 'Madam.'",
+  "cv": "Horie Yui",
+  "description": "A young but accomplished engineer of the Sumeru Akademiya's Rtawahist Darshan, Faruzan designed wind-catching devices to protect the desert from sandstorms and fights with an Anemo-infused bow.",
+  "image": "https://static.icy-veins.com/images/genshin-impact/characters/faruzan.webp",
+  "city": "Sumeru",
+  "url": "https://www.icy-veins.com/genshin-impact/faruzan-profile-talents-constellations",
+  "element": "Anemo",
+  "weapon": "Bow",
+  "rating": 4,
+  "slug": "faruzan"
 }

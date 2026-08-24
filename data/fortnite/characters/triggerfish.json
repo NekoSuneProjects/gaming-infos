@@ -1,0 +1,44 @@
+{
+  "name": "Triggerfish",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/9/94/Triggerfish_%28v32.00%29_-_Outfit_-_Fortnite.png/revision/latest?cb=20241123171948",
+  "url": "https://fortnite.fandom.com/wiki/Triggerfish",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "November 23rd 2019",
+  "services": null,
+  "details": {
+    "image": "Triggerfish (v32.00) - Outfit - Fortnite.png|Icon Triggerfish (v37.00 - Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Rare",
+    "bundled_with": "Coral Commandos",
+    "set": "Fish Food",
+    "cost": "1,200 1,700 (Kebcio's Locker Bundle) 2,200 (Giova's Locker Bundle) 1,500 (Triggerfish Bundle)",
+    "unlocked": "Item Shop Kebcio's Locker Bundle Giova's Locker Bundle Triggerfish Bundle",
+    "release": "November 23rd 2019",
+    "character model": "Fishstick",
+    "added_in": "Update v11.20",
+    "appearances": "Triggerfish",
+    "LEGOUse": "y",
+    "ID": "CID_624_Athena_Commando_M_TeriyakiWarrior",
+    "FGUse": "y",
+    "BeanID": "Bean_TeriyakiWarrior",
+    "featured": "Triggerfish (v37.00 - Helmet - Featured) - Outfit - Fortnite.png|1 Triggerfish (v37.00 - No Face Paint - Featured) - Outfit - Fortnite.png|2 Triggerfish (Helmet, No Paint - Featured) - Outfit - Fortnite.png|3 }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Triggerfish",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.650Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "triggerfish"
+}

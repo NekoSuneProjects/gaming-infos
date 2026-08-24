@@ -1,12 +1,13 @@
 {
-    "name": "Rappa",
-    "rarity": "5-star",
-    "path": "Erudition",
-    "element": "Imaginary",
-    "faction": "Galaxy Rangers",
-    "voiceActorEN": "Kendell Byrd",
-    "voiceActorJP": "Megumi Han",
-    "description": "A Galaxy Ranger and former experimental test subject, Rappa was implanted with a memetic virus based on ninja manga and now interprets the entire world through that lens. She pursues a self-declared arch-nemesis, 'Evil Ninja Osaru,' across the cosmos.",
-    "image": "",
-    "url": "https://honkai-star-rail.fandom.com/wiki/Rappa"
+  "name": "Rappa",
+  "rarity": "5-star",
+  "path": "Erudition",
+  "element": "Imaginary",
+  "faction": "Galaxy Rangers",
+  "voiceActorEN": "Kendell Byrd",
+  "voiceActorJP": "Megumi Han",
+  "description": "A Galaxy Ranger and former experimental test subject, Rappa was implanted with a memetic virus based on ninja manga and now interprets the entire world through that lens. She pursues a self-declared arch-nemesis, 'Evil Ninja Osaru,' across the cosmos.",
+  "image": "",
+  "url": "https://honkai-star-rail.fandom.com/wiki/Rappa",
+  "slug": "rappa"
 }

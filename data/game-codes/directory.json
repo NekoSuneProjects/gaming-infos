@@ -1,0 +1,1196 @@
+{
+  "success": true,
+  "requiresApiKey": false,
+  "endpoint": "/v5/games/api/codes/:game",
+  "detailEndpoint": "/v5/games/api/codes/:game/:code",
+  "fortniteCreatorSubmitEndpoint": "/v5/games/api/codes/fortnite/creator",
+  "timezoneQuery": "?timezone=Europe/London",
+  "filters": [
+    "category",
+    "claimType",
+    "includeUnknown"
+  ],
+  "games": [
+    {
+      "game": "arknights-endfield",
+      "name": "Arknights: Endfield",
+      "description": "3D real-time strategy RPG set in the Arknights universe.",
+      "developer": "Hypergryph / Mountain Contour",
+      "publisher": "GRYPHLINE",
+      "genres": [
+        "RPG",
+        "Strategy"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation 5",
+        "iOS",
+        "Android"
+      ],
+      "aliases": [
+        "arknightsendfield",
+        "endfield"
+      ],
+      "iconUrl": "https://endfield.gryphline.com/favicon.ico",
+      "officialWebsite": "https://endfield.gryphline.com/",
+      "getGameUrl": "https://endfield.gryphline.com/",
+      "redeemUrl": null,
+      "redeemLocation": "In-game: Settings > Platform & Account > Exchange Code",
+      "codeTypes": [
+        "redeem-code"
+      ],
+      "counts": {
+        "total": 26,
+        "active": 15,
+        "expired": 11,
+        "unknown": 0,
+        "categories": {
+          "redeem-code": {
+            "total": 26,
+            "active": 15,
+            "expired": 11,
+            "unknown": 0
+          }
+        }
+      },
+      "sources": {
+        "total": 2,
+        "generic": 2,
+        "specialized": 0
+      },
+      "lastUpdatedAt": "2026-08-24T11:02:33.000Z",
+      "endpoints": {
+        "codes": "https://api.nekosunevr.co.uk/v5/games/api/codes/arknights-endfield",
+        "codeDetail": "https://api.nekosunevr.co.uk/v5/games/api/codes/arknights-endfield/:code"
+      }
+    },
+    {
+      "game": "borderlands-1",
+      "name": "Borderlands 1",
+      "description": "Borderlands is part of Gearbox's looter-shooter Borderlands series.",
+      "developer": "Gearbox Software",
+      "publisher": "2K",
+      "genres": [
+        "Looter Shooter",
+        "Action RPG"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation",
+        "Xbox"
+      ],
+      "aliases": [
+        "borderlands1",
+        "bl1"
+      ],
+      "iconUrl": null,
+      "officialWebsite": "https://borderlands.2k.com/",
+      "getGameUrl": "https://borderlands.2k.com/",
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "codeTypes": [
+        "redeem-code"
+      ],
+      "counts": {
+        "total": 11,
+        "active": 6,
+        "expired": 5,
+        "unknown": 0,
+        "categories": {
+          "redeem-code": {
+            "total": 11,
+            "active": 6,
+            "expired": 5,
+            "unknown": 0
+          }
+        }
+      },
+      "sources": {
+        "total": 1,
+        "generic": 1,
+        "specialized": 0
+      },
+      "lastUpdatedAt": "2026-08-24T09:20:30.000Z",
+      "endpoints": {
+        "codes": "https://api.nekosunevr.co.uk/v5/games/api/codes/borderlands-1",
+        "codeDetail": "https://api.nekosunevr.co.uk/v5/games/api/codes/borderlands-1/:code"
+      }
+    },
+    {
+      "game": "borderlands-2",
+      "name": "Borderlands 2",
+      "description": "Borderlands 2 is part of Gearbox's looter-shooter Borderlands series.",
+      "developer": "Gearbox Software",
+      "publisher": "2K",
+      "genres": [
+        "Looter Shooter",
+        "Action RPG"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation",
+        "Xbox"
+      ],
+      "aliases": [
+        "borderlands2",
+        "bl2"
+      ],
+      "iconUrl": null,
+      "officialWebsite": "https://borderlands.2k.com/",
+      "getGameUrl": "https://borderlands.2k.com/",
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "codeTypes": [
+        "redeem-code"
+      ],
+      "counts": {
+        "total": 9,
+        "active": 6,
+        "expired": 3,
+        "unknown": 0,
+        "categories": {
+          "redeem-code": {
+            "total": 9,
+            "active": 6,
+            "expired": 3,
+            "unknown": 0
+          }
+        }
+      },
+      "sources": {
+        "total": 1,
+        "generic": 1,
+        "specialized": 0
+      },
+      "lastUpdatedAt": "2026-08-24T11:00:41.000Z",
+      "endpoints": {
+        "codes": "https://api.nekosunevr.co.uk/v5/games/api/codes/borderlands-2",
+        "codeDetail": "https://api.nekosunevr.co.uk/v5/games/api/codes/borderlands-2/:code"
+      }
+    },
+    {
+      "game": "borderlands-3",
+      "name": "Borderlands 3",
+      "description": "Borderlands 3 is part of Gearbox's looter-shooter Borderlands series.",
+      "developer": "Gearbox Software",
+      "publisher": "2K",
+      "genres": [
+        "Looter Shooter",
+        "Action RPG"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation",
+        "Xbox"
+      ],
+      "aliases": [
+        "borderlands3",
+        "bl3"
+      ],
+      "iconUrl": null,
+      "officialWebsite": "https://borderlands.2k.com/",
+      "getGameUrl": "https://borderlands.2k.com/",
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "codeTypes": [
+        "redeem-code"
+      ],
+      "counts": {
+        "total": 27,
+        "active": 24,
+        "expired": 3,
+        "unknown": 0,
+        "categories": {
+          "redeem-code": {
+            "total": 27,
+            "active": 24,
+            "expired": 3,
+            "unknown": 0
+          }
+        }
+      },
+      "sources": {
+        "total": 1,
+        "generic": 1,
+        "specialized": 0
+      },
+      "lastUpdatedAt": "2026-08-24T11:00:22.000Z",
+      "endpoints": {
+        "codes": "https://api.nekosunevr.co.uk/v5/games/api/codes/borderlands-3",
+        "codeDetail": "https://api.nekosunevr.co.uk/v5/games/api/codes/borderlands-3/:code"
+      }
+    },
+    {
+      "game": "borderlands-4",
+      "name": "Borderlands 4",
+      "description": "Borderlands 4 is part of Gearbox's looter-shooter Borderlands series.",
+      "developer": "Gearbox Software",
+      "publisher": "2K",
+      "genres": [
+        "Looter Shooter",
+        "Action RPG"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation",
+        "Xbox"
+      ],
+      "aliases": [
+        "borderlands4",
+        "bl4"
+      ],
+      "iconUrl": null,
+      "officialWebsite": "https://borderlands.2k.com/",
+      "getGameUrl": "https://borderlands.2k.com/",
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "codeTypes": [
+        "redeem-code"
+      ],
+      "counts": {
+        "total": 97,
+        "active": 15,
+        "expired": 82,
+        "unknown": 0,
+        "categories": {
+          "redeem-code": {
+            "total": 97,
+            "active": 15,
+            "expired": 82,
+            "unknown": 0
+          }
+        }
+      },
+      "sources": {
+        "total": 1,
+        "generic": 1,
+        "specialized": 0
+      },
+      "lastUpdatedAt": "2026-08-24T11:02:39.000Z",
+      "endpoints": {
+        "codes": "https://api.nekosunevr.co.uk/v5/games/api/codes/borderlands-4",
+        "codeDetail": "https://api.nekosunevr.co.uk/v5/games/api/codes/borderlands-4/:code"
+      }
+    },
+    {
+      "game": "borderlands-the-pre-sequel",
+      "name": "Borderlands: The Pre-Sequel",
+      "description": "Borderlands: The Pre-Sequel is part of Gearbox's looter-shooter Borderlands series.",
+      "developer": "Gearbox Software",
+      "publisher": "2K",
+      "genres": [
+        "Looter Shooter",
+        "Action RPG"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation",
+        "Xbox"
+      ],
+      "aliases": [
+        "borderlands-pre-sequel",
+        "borderlandsthepresequel",
+        "bltps",
+        "presequel"
+      ],
+      "iconUrl": null,
+      "officialWebsite": "https://borderlands.2k.com/",
+      "getGameUrl": "https://borderlands.2k.com/",
+      "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
+      "redeemLocation": "SHiFT website or the SHiFT menu in-game",
+      "codeTypes": [
+        "redeem-code"
+      ],
+      "counts": {
+        "total": 16,
+        "active": 11,
+        "expired": 5,
+        "unknown": 0,
+        "categories": {
+          "redeem-code": {
+            "total": 16,
+            "active": 11,
+            "expired": 5,
+            "unknown": 0
+          }
+        }
+      },
+      "sources": {
+        "total": 1,
+        "generic": 1,
+        "specialized": 0
+      },
+      "lastUpdatedAt": "2026-08-24T09:20:33.000Z",
+      "endpoints": {
+        "codes": "https://api.nekosunevr.co.uk/v5/games/api/codes/borderlands-the-pre-sequel",
+        "codeDetail": "https://api.nekosunevr.co.uk/v5/games/api/codes/borderlands-the-pre-sequel/:code"
+      }
+    },
+    {
+      "game": "brawl-stars",
+      "name": "Brawl Stars",
+      "description": "Brawl Stars is a Supercell game supporting creator codes for eligible purchases.",
+      "developer": "Supercell",
+      "publisher": "Supercell",
+      "genres": [
+        "Mobile",
+        "Multiplayer"
+      ],
+      "platforms": [
+        "iOS",
+        "Android"
+      ],
+      "aliases": [
+        "brawlstars",
+        "bs"
+      ],
+      "iconUrl": "https://brawlstars.com/favicon.ico",
+      "officialWebsite": "https://brawlstars.com/",
+      "getGameUrl": "https://brawlstars.com/",
+      "redeemUrl": null,
+      "redeemLocation": "In-game Shop > Content Creator Boost / Support a Creator > Enter Code",
+      "codeTypes": [
+        "creator-code"
+      ],
+      "counts": {
+        "total": 140,
+        "active": 140,
+        "expired": 0,
+        "unknown": 0,
+        "categories": {
+          "creator-code": {
+            "total": 140,
+            "active": 140,
+            "expired": 0,
+            "unknown": 0
+          }
+        }
+      },
+      "sources": {
+        "total": 1,
+        "generic": 0,
+        "specialized": 1
+      },
+      "lastUpdatedAt": "2026-08-24T11:04:18.000Z",
+      "endpoints": {
+        "codes": "https://api.nekosunevr.co.uk/v5/games/api/codes/brawl-stars",
+        "codeDetail": "https://api.nekosunevr.co.uk/v5/games/api/codes/brawl-stars/:code"
+      }
+    },
+    {
+      "game": "clash-of-clans",
+      "name": "Clash of Clans",
+      "description": "Clash of Clans is a Supercell game supporting creator codes for eligible purchases.",
+      "developer": "Supercell",
+      "publisher": "Supercell",
+      "genres": [
+        "Mobile",
+        "Multiplayer"
+      ],
+      "platforms": [
+        "iOS",
+        "Android"
+      ],
+      "aliases": [
+        "clashofclans",
+        "coc"
+      ],
+      "iconUrl": "https://www.clashofclans.com/favicon.ico",
+      "officialWebsite": "https://www.clashofclans.com/",
+      "getGameUrl": "https://www.clashofclans.com/",
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "codeTypes": [
+        "creator-code"
+      ],
+      "counts": {
+        "total": 140,
+        "active": 140,
+        "expired": 0,
+        "unknown": 0,
+        "categories": {
+          "creator-code": {
+            "total": 140,
+            "active": 140,
+            "expired": 0,
+            "unknown": 0
+          }
+        }
+      },
+      "sources": {
+        "total": 1,
+        "generic": 0,
+        "specialized": 1
+      },
+      "lastUpdatedAt": "2026-08-24T11:04:33.000Z",
+      "endpoints": {
+        "codes": "https://api.nekosunevr.co.uk/v5/games/api/codes/clash-of-clans",
+        "codeDetail": "https://api.nekosunevr.co.uk/v5/games/api/codes/clash-of-clans/:code"
+      }
+    },
+    {
+      "game": "clash-royale",
+      "name": "Clash Royale",
+      "description": "Clash Royale is a Supercell game supporting creator codes for eligible purchases.",
+      "developer": "Supercell",
+      "publisher": "Supercell",
+      "genres": [
+        "Mobile",
+        "Multiplayer"
+      ],
+      "platforms": [
+        "iOS",
+        "Android"
+      ],
+      "aliases": [
+        "clashroyale",
+        "cr"
+      ],
+      "iconUrl": "https://clashroyale.com/favicon.ico",
+      "officialWebsite": "https://clashroyale.com/",
+      "getGameUrl": "https://clashroyale.com/",
+      "redeemUrl": null,
+      "redeemLocation": "In-game Shop > Creator Boost / Support a Creator > Enter Code",
+      "codeTypes": [
+        "creator-code"
+      ],
+      "counts": {
+        "total": 0,
+        "active": 0,
+        "expired": 0,
+        "unknown": 0,
+        "categories": {}
+      },
+      "sources": {
+        "total": 1,
+        "generic": 0,
+        "specialized": 1
+      },
+      "lastUpdatedAt": null,
+      "endpoints": {
+        "codes": "https://api.nekosunevr.co.uk/v5/games/api/codes/clash-royale",
+        "codeDetail": "https://api.nekosunevr.co.uk/v5/games/api/codes/clash-royale/:code"
+      }
+    },
+    {
+      "game": "cookie-run-kingdom",
+      "name": "Cookie Run: Kingdom",
+      "description": "Cookie-themed kingdom-building RPG from Devsisters.",
+      "developer": "Devsisters",
+      "publisher": "Devsisters",
+      "genres": [
+        "RPG",
+        "Kingdom Builder"
+      ],
+      "platforms": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "aliases": [
+        "cookierunkingdom",
+        "crk"
+      ],
+      "iconUrl": null,
+      "officialWebsite": "https://www.cookierun-kingdom.com/",
+      "getGameUrl": "https://www.cookierun-kingdom.com/",
+      "redeemUrl": "https://game.devplay.com/coupon/ck/en",
+      "redeemLocation": "DevPlay Cookie Run: Kingdom coupon page",
+      "codeTypes": [
+        "redeem-code"
+      ],
+      "counts": {
+        "total": 171,
+        "active": 4,
+        "expired": 167,
+        "unknown": 0,
+        "categories": {
+          "redeem-code": {
+            "total": 171,
+            "active": 4,
+            "expired": 167,
+            "unknown": 0
+          }
+        }
+      },
+      "sources": {
+        "total": 2,
+        "generic": 2,
+        "specialized": 0
+      },
+      "lastUpdatedAt": "2026-08-24T11:01:54.000Z",
+      "endpoints": {
+        "codes": "https://api.nekosunevr.co.uk/v5/games/api/codes/cookie-run-kingdom",
+        "codeDetail": "https://api.nekosunevr.co.uk/v5/games/api/codes/cookie-run-kingdom/:code"
+      }
+    },
+    {
+      "game": "fortnite",
+      "name": "Fortnite",
+      "description": "Epic Games ecosystem containing Battle Royale, LEGO Fortnite, creator experiences and more.",
+      "developer": "Epic Games",
+      "publisher": "Epic Games",
+      "genres": [
+        "Battle Royale",
+        "Action",
+        "Sandbox"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation",
+        "Xbox",
+        "Nintendo Switch",
+        "Android",
+        "Cloud"
+      ],
+      "aliases": [
+        "fn"
+      ],
+      "iconUrl": "https://www.fortnite.com/favicon.ico",
+      "officialWebsite": "https://www.fortnite.com/",
+      "getGameUrl": "https://www.fortnite.com/download",
+      "redeemUrl": "https://www.fortnite.com/redeem",
+      "redeemLocation": "Fortnite Battle Royale lobby > Admin Panel for seasonal codes; fortnite.com/redeem for external product/promo codes",
+      "codeTypes": [
+        "redeem-code",
+        "creator-code"
+      ],
+      "counts": {
+        "total": 23,
+        "active": 23,
+        "expired": 0,
+        "unknown": 0,
+        "categories": {
+          "redeem-code": {
+            "total": 22,
+            "active": 22,
+            "expired": 0,
+            "unknown": 0
+          },
+          "creator-code": {
+            "total": 1,
+            "active": 1,
+            "expired": 0,
+            "unknown": 0
+          }
+        }
+      },
+      "sources": {
+        "total": 1,
+        "generic": 0,
+        "specialized": 1
+      },
+      "lastUpdatedAt": "2026-08-24T11:04:06.000Z",
+      "endpoints": {
+        "codes": "https://api.nekosunevr.co.uk/v5/games/api/codes/fortnite",
+        "codeDetail": "https://api.nekosunevr.co.uk/v5/games/api/codes/fortnite/:code",
+        "submitCreatorCode": "https://api.nekosunevr.co.uk/v5/games/api/codes/fortnite/creator"
+      }
+    },
+    {
+      "game": "genshin-impact",
+      "name": "Genshin Impact",
+      "description": "Open-world action RPG from HoYoverse.",
+      "developer": "HoYoverse",
+      "publisher": "HoYoverse",
+      "genres": [
+        "Action RPG",
+        "Open World"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation",
+        "Xbox Series X|S",
+        "iOS",
+        "Android"
+      ],
+      "aliases": [
+        "genshinimpact",
+        "genshin"
+      ],
+      "iconUrl": null,
+      "officialWebsite": "https://genshin.hoyoverse.com/",
+      "getGameUrl": "https://genshin.hoyoverse.com/",
+      "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
+      "redeemLocation": "Official HoYoverse Gift Redemption site or in-game Settings > Account > Redeem Code",
+      "codeTypes": [
+        "redeem-code"
+      ],
+      "counts": {
+        "total": 267,
+        "active": 19,
+        "expired": 248,
+        "unknown": 0,
+        "categories": {
+          "redeem-code": {
+            "total": 267,
+            "active": 19,
+            "expired": 248,
+            "unknown": 0
+          }
+        }
+      },
+      "sources": {
+        "total": 2,
+        "generic": 2,
+        "specialized": 0
+      },
+      "lastUpdatedAt": "2026-08-24T11:02:53.000Z",
+      "endpoints": {
+        "codes": "https://api.nekosunevr.co.uk/v5/games/api/codes/genshin-impact",
+        "codeDetail": "https://api.nekosunevr.co.uk/v5/games/api/codes/genshin-impact/:code"
+      }
+    },
+    {
+      "game": "honkai-impact-3rd",
+      "name": "Honkai Impact 3rd",
+      "description": "Action RPG from HoYoverse.",
+      "developer": "HoYoverse",
+      "publisher": "HoYoverse",
+      "genres": [
+        "Action RPG"
+      ],
+      "platforms": [
+        "PC",
+        "iOS",
+        "Android"
+      ],
+      "aliases": [
+        "honkaiimpact3rd",
+        "honkaiimpact3",
+        "hi3"
+      ],
+      "iconUrl": null,
+      "officialWebsite": "https://honkaiimpact3.hoyoverse.com/",
+      "getGameUrl": "https://honkaiimpact3.hoyoverse.com/",
+      "redeemUrl": null,
+      "redeemLocation": "In-game: Profile/Account > Exchange Rewards",
+      "codeTypes": [
+        "redeem-code"
+      ],
+      "counts": {
+        "total": 9,
+        "active": 6,
+        "expired": 3,
+        "unknown": 0,
+        "categories": {
+          "redeem-code": {
+            "total": 9,
+            "active": 6,
+            "expired": 3,
+            "unknown": 0
+          }
+        }
+      },
+      "sources": {
+        "total": 2,
+        "generic": 2,
+        "specialized": 0
+      },
+      "lastUpdatedAt": "2026-08-24T11:04:05.000Z",
+      "endpoints": {
+        "codes": "https://api.nekosunevr.co.uk/v5/games/api/codes/honkai-impact-3rd",
+        "codeDetail": "https://api.nekosunevr.co.uk/v5/games/api/codes/honkai-impact-3rd/:code"
+      }
+    },
+    {
+      "game": "honkai-star-rail",
+      "name": "Honkai: Star Rail",
+      "description": "Turn-based space fantasy RPG from HoYoverse.",
+      "developer": "HoYoverse",
+      "publisher": "HoYoverse",
+      "genres": [
+        "RPG",
+        "Turn-Based"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation 5",
+        "iOS",
+        "Android"
+      ],
+      "aliases": [
+        "honkaistarrail",
+        "hsr"
+      ],
+      "iconUrl": null,
+      "officialWebsite": "https://hsr.hoyoverse.com/",
+      "getGameUrl": "https://hsr.hoyoverse.com/",
+      "redeemUrl": "https://hsr.hoyoverse.com/gift",
+      "redeemLocation": "Official HoYoverse redemption site or in-game Redemption Code menu",
+      "codeTypes": [
+        "redeem-code"
+      ],
+      "counts": {
+        "total": 310,
+        "active": 89,
+        "expired": 221,
+        "unknown": 0,
+        "categories": {
+          "redeem-code": {
+            "total": 310,
+            "active": 89,
+            "expired": 221,
+            "unknown": 0
+          }
+        }
+      },
+      "sources": {
+        "total": 3,
+        "generic": 3,
+        "specialized": 0
+      },
+      "lastUpdatedAt": "2026-08-24T11:03:11.000Z",
+      "endpoints": {
+        "codes": "https://api.nekosunevr.co.uk/v5/games/api/codes/honkai-star-rail",
+        "codeDetail": "https://api.nekosunevr.co.uk/v5/games/api/codes/honkai-star-rail/:code"
+      }
+    },
+    {
+      "game": "neverness-to-everness",
+      "name": "Neverness to Everness",
+      "description": "Urban open-world supernatural RPG from Hotta Studio.",
+      "developer": "Hotta Studio",
+      "publisher": "Perfect World Games",
+      "genres": [
+        "RPG",
+        "Open World"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation 5",
+        "iOS",
+        "Android"
+      ],
+      "aliases": [
+        "nevernesstoeverness",
+        "nte"
+      ],
+      "iconUrl": null,
+      "officialWebsite": "https://nte.perfectworld.com/",
+      "getGameUrl": "https://nte.perfectworld.com/",
+      "redeemUrl": null,
+      "redeemLocation": "In-game: Me > Settings > Redeem Code",
+      "codeTypes": [
+        "redeem-code"
+      ],
+      "counts": {
+        "total": 36,
+        "active": 11,
+        "expired": 25,
+        "unknown": 0,
+        "categories": {
+          "redeem-code": {
+            "total": 36,
+            "active": 11,
+            "expired": 25,
+            "unknown": 0
+          }
+        }
+      },
+      "sources": {
+        "total": 3,
+        "generic": 3,
+        "specialized": 0
+      },
+      "lastUpdatedAt": "2026-08-24T11:04:05.000Z",
+      "endpoints": {
+        "codes": "https://api.nekosunevr.co.uk/v5/games/api/codes/neverness-to-everness",
+        "codeDetail": "https://api.nekosunevr.co.uk/v5/games/api/codes/neverness-to-everness/:code"
+      }
+    },
+    {
+      "game": "roblox-doors",
+      "name": "Roblox DOORS",
+      "description": "DOORS is a Roblox experience with its own in-game redemption system.",
+      "developer": null,
+      "publisher": "Roblox",
+      "genres": [
+        "Roblox Experience"
+      ],
+      "platforms": [
+        "Roblox"
+      ],
+      "aliases": [
+        "doors",
+        "robloxdoors"
+      ],
+      "iconUrl": "https://www.roblox.com/favicon.ico",
+      "officialWebsite": "https://www.roblox.com/",
+      "getGameUrl": "https://www.roblox.com/download",
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox DOORS: Shop > enter code > verify",
+      "codeTypes": [
+        "redeem-code"
+      ],
+      "counts": {
+        "total": 51,
+        "active": 34,
+        "expired": 17,
+        "unknown": 0,
+        "categories": {
+          "redeem-code": {
+            "total": 51,
+            "active": 34,
+            "expired": 17,
+            "unknown": 0
+          }
+        }
+      },
+      "sources": {
+        "total": 2,
+        "generic": 2,
+        "specialized": 0
+      },
+      "lastUpdatedAt": "2026-08-24T11:02:17.000Z",
+      "endpoints": {
+        "codes": "https://api.nekosunevr.co.uk/v5/games/api/codes/roblox-doors",
+        "codeDetail": "https://api.nekosunevr.co.uk/v5/games/api/codes/roblox-doors/:code"
+      }
+    },
+    {
+      "game": "roblox-rivals",
+      "name": "Roblox RIVALS",
+      "description": "RIVALS is a Roblox experience with its own in-game redemption system.",
+      "developer": null,
+      "publisher": "Roblox",
+      "genres": [
+        "Roblox Experience"
+      ],
+      "platforms": [
+        "Roblox"
+      ],
+      "aliases": [
+        "rivals",
+        "robloxrivals"
+      ],
+      "iconUrl": "https://www.roblox.com/favicon.ico",
+      "officialWebsite": "https://www.roblox.com/",
+      "getGameUrl": "https://www.roblox.com/download",
+      "redeemUrl": null,
+      "redeemLocation": "In Roblox RIVALS: Rewards/Shop > Codes > Redeem",
+      "codeTypes": [
+        "redeem-code"
+      ],
+      "counts": {
+        "total": 84,
+        "active": 9,
+        "expired": 75,
+        "unknown": 0,
+        "categories": {
+          "redeem-code": {
+            "total": 84,
+            "active": 9,
+            "expired": 75,
+            "unknown": 0
+          }
+        }
+      },
+      "sources": {
+        "total": 2,
+        "generic": 2,
+        "specialized": 0
+      },
+      "lastUpdatedAt": "2026-08-24T11:02:22.000Z",
+      "endpoints": {
+        "codes": "https://api.nekosunevr.co.uk/v5/games/api/codes/roblox-rivals",
+        "codeDetail": "https://api.nekosunevr.co.uk/v5/games/api/codes/roblox-rivals/:code"
+      }
+    },
+    {
+      "game": "tower-of-fantasy",
+      "name": "Tower of Fantasy",
+      "description": "Shared open-world action RPG by Hotta Studio.",
+      "developer": "Hotta Studio",
+      "publisher": "Perfect World Games / Level Infinite",
+      "genres": [
+        "Action RPG",
+        "Open World",
+        "Online"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation",
+        "iOS",
+        "Android"
+      ],
+      "aliases": [
+        "toweroffantasy",
+        "tof"
+      ],
+      "iconUrl": null,
+      "officialWebsite": "https://www.toweroffantasy-global.com/",
+      "getGameUrl": "https://www.toweroffantasy-global.com/",
+      "redeemUrl": null,
+      "redeemLocation": "In-game: Gift icon > Rewards > Exchange",
+      "codeTypes": [
+        "redeem-code"
+      ],
+      "counts": {
+        "total": 87,
+        "active": 84,
+        "expired": 3,
+        "unknown": 0,
+        "categories": {
+          "redeem-code": {
+            "total": 87,
+            "active": 84,
+            "expired": 3,
+            "unknown": 0
+          }
+        }
+      },
+      "sources": {
+        "total": 2,
+        "generic": 2,
+        "specialized": 0
+      },
+      "lastUpdatedAt": "2026-08-24T11:03:17.000Z",
+      "endpoints": {
+        "codes": "https://api.nekosunevr.co.uk/v5/games/api/codes/tower-of-fantasy",
+        "codeDetail": "https://api.nekosunevr.co.uk/v5/games/api/codes/tower-of-fantasy/:code"
+      }
+    },
+    {
+      "game": "warframe",
+      "name": "Warframe",
+      "description": "Free-to-play cooperative action game by Digital Extremes.",
+      "developer": "Digital Extremes",
+      "publisher": "Digital Extremes",
+      "genres": [
+        "Action",
+        "Third-Person Shooter",
+        "Online Co-op"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation",
+        "Xbox",
+        "Nintendo Switch",
+        "iOS",
+        "Android"
+      ],
+      "aliases": [
+        "wf"
+      ],
+      "iconUrl": "https://www.warframe.com/favicon.ico",
+      "officialWebsite": "https://www.warframe.com/",
+      "getGameUrl": "https://www.warframe.com/download",
+      "redeemUrl": "https://www.warframe.com/promocode",
+      "redeemLocation": "Official Warframe Promo Code page or in-game Market > Redeem Code",
+      "codeTypes": [
+        "redeem-code",
+        "creator-glyph"
+      ],
+      "counts": {
+        "total": 535,
+        "active": 503,
+        "expired": 32,
+        "unknown": 0,
+        "categories": {
+          "promo-code": {
+            "total": 1,
+            "active": 1,
+            "expired": 0,
+            "unknown": 0
+          },
+          "creator-glyph": {
+            "total": 479,
+            "active": 477,
+            "expired": 2,
+            "unknown": 0
+          },
+          "redeem-code": {
+            "total": 55,
+            "active": 25,
+            "expired": 30,
+            "unknown": 0
+          }
+        }
+      },
+      "sources": {
+        "total": 2,
+        "generic": 2,
+        "specialized": 0
+      },
+      "lastUpdatedAt": "2026-08-24T11:04:05.000Z",
+      "endpoints": {
+        "codes": "https://api.nekosunevr.co.uk/v5/games/api/codes/warframe",
+        "codeDetail": "https://api.nekosunevr.co.uk/v5/games/api/codes/warframe/:code"
+      }
+    },
+    {
+      "game": "wuthering-waves",
+      "name": "Wuthering Waves",
+      "description": "Open-world action RPG developed by Kuro Games.",
+      "developer": "Kuro Games",
+      "publisher": "Kuro Games",
+      "genres": [
+        "Action RPG",
+        "Open World"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation 5",
+        "iOS",
+        "Android"
+      ],
+      "aliases": [
+        "wutheringwaves",
+        "wuwa"
+      ],
+      "iconUrl": null,
+      "officialWebsite": "https://wutheringwaves.kurogames.com/",
+      "getGameUrl": "https://wutheringwaves.kurogames.com/",
+      "redeemUrl": null,
+      "redeemLocation": "In-game: Settings > Other Settings > Redemption Code",
+      "codeTypes": [
+        "redeem-code"
+      ],
+      "counts": {
+        "total": 76,
+        "active": 5,
+        "expired": 71,
+        "unknown": 0,
+        "categories": {
+          "redeem-code": {
+            "total": 76,
+            "active": 5,
+            "expired": 71,
+            "unknown": 0
+          }
+        }
+      },
+      "sources": {
+        "total": 2,
+        "generic": 2,
+        "specialized": 0
+      },
+      "lastUpdatedAt": "2026-08-24T11:03:25.000Z",
+      "endpoints": {
+        "codes": "https://api.nekosunevr.co.uk/v5/games/api/codes/wuthering-waves",
+        "codeDetail": "https://api.nekosunevr.co.uk/v5/games/api/codes/wuthering-waves/:code"
+      }
+    },
+    {
+      "game": "zenless-zone-zero",
+      "name": "Zenless Zone Zero",
+      "description": "Urban fantasy action RPG from HoYoverse.",
+      "developer": "HoYoverse",
+      "publisher": "HoYoverse",
+      "genres": [
+        "Action RPG"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation 5",
+        "Xbox Series X|S",
+        "iOS",
+        "Android"
+      ],
+      "aliases": [
+        "zenlesszonezero",
+        "zzz"
+      ],
+      "iconUrl": null,
+      "officialWebsite": "https://zenless.hoyoverse.com/",
+      "getGameUrl": "https://zenless.hoyoverse.com/",
+      "redeemUrl": "https://zenless.hoyoverse.com/redemption",
+      "redeemLocation": "Official HoYoverse redemption site or in-game More > Redemption Code",
+      "codeTypes": [
+        "redeem-code"
+      ],
+      "counts": {
+        "total": 115,
+        "active": 13,
+        "expired": 102,
+        "unknown": 0,
+        "categories": {
+          "redeem-code": {
+            "total": 115,
+            "active": 13,
+            "expired": 102,
+            "unknown": 0
+          }
+        }
+      },
+      "sources": {
+        "total": 2,
+        "generic": 2,
+        "specialized": 0
+      },
+      "lastUpdatedAt": "2026-08-24T11:03:32.000Z",
+      "endpoints": {
+        "codes": "https://api.nekosunevr.co.uk/v5/games/api/codes/zenless-zone-zero",
+        "codeDetail": "https://api.nekosunevr.co.uk/v5/games/api/codes/zenless-zone-zero/:code"
+      }
+    }
+  ],
+  "aliases": {
+    "arknights-endfield": "arknights-endfield",
+    "arknightsendfield": "arknights-endfield",
+    "endfield": "arknights-endfield",
+    "neverness-to-everness": "neverness-to-everness",
+    "nevernesstoeverness": "neverness-to-everness",
+    "nte": "neverness-to-everness",
+    "wuthering-waves": "wuthering-waves",
+    "wutheringwaves": "wuthering-waves",
+    "wuwa": "wuthering-waves",
+    "honkai-star-rail": "honkai-star-rail",
+    "honkaistarrail": "honkai-star-rail",
+    "hsr": "honkai-star-rail",
+    "genshin-impact": "genshin-impact",
+    "genshinimpact": "genshin-impact",
+    "genshin": "genshin-impact",
+    "borderlands-1": "borderlands-1",
+    "borderlands1": "borderlands-1",
+    "bl1": "borderlands-1",
+    "borderlands-2": "borderlands-2",
+    "borderlands2": "borderlands-2",
+    "bl2": "borderlands-2",
+    "borderlands-the-pre-sequel": "borderlands-the-pre-sequel",
+    "borderlands-pre-sequel": "borderlands-the-pre-sequel",
+    "borderlandsthepresequel": "borderlands-the-pre-sequel",
+    "bltps": "borderlands-the-pre-sequel",
+    "presequel": "borderlands-the-pre-sequel",
+    "borderlands-3": "borderlands-3",
+    "borderlands3": "borderlands-3",
+    "bl3": "borderlands-3",
+    "borderlands-4": "borderlands-4",
+    "borderlands4": "borderlands-4",
+    "bl4": "borderlands-4",
+    "warframe": "warframe",
+    "wf": "warframe",
+    "tower-of-fantasy": "tower-of-fantasy",
+    "toweroffantasy": "tower-of-fantasy",
+    "tof": "tower-of-fantasy",
+    "roblox-doors": "roblox-doors",
+    "doors": "roblox-doors",
+    "robloxdoors": "roblox-doors",
+    "zenless-zone-zero": "zenless-zone-zero",
+    "zenlesszonezero": "zenless-zone-zero",
+    "zzz": "zenless-zone-zero",
+    "roblox-rivals": "roblox-rivals",
+    "rivals": "roblox-rivals",
+    "robloxrivals": "roblox-rivals",
+    "cookie-run-kingdom": "cookie-run-kingdom",
+    "cookierunkingdom": "cookie-run-kingdom",
+    "crk": "cookie-run-kingdom",
+    "honkai-impact-3rd": "honkai-impact-3rd",
+    "honkaiimpact3rd": "honkai-impact-3rd",
+    "honkaiimpact3": "honkai-impact-3rd",
+    "hi3": "honkai-impact-3rd",
+    "fortnite": "fortnite",
+    "fn": "fortnite",
+    "clash-royale": "clash-royale",
+    "clashroyale": "clash-royale",
+    "cr": "clash-royale",
+    "clash-of-clans": "clash-of-clans",
+    "clashofclans": "clash-of-clans",
+    "coc": "clash-of-clans",
+    "brawl-stars": "brawl-stars",
+    "brawlstars": "brawl-stars",
+    "bs": "brawl-stars"
+  },
+  "updatedAt": "2026-08-24T11:54:59.134Z"
+}

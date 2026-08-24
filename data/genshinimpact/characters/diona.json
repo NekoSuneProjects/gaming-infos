@@ -1,11 +1,12 @@
 {
-    "name": "Diona",
-    "cv": "Shiori Izawa",
-    "description": "A feline-blooded bartender at Mondstadt's Cat's Tail tavern who paradoxically despises alcohol and strives to concoct the world's most delicious non-alcoholic drinks, driven by her disillusionment with her father's drinking.",
-    "image": "",
-    "city": "Mondstadt",
-    "url": "https://wiki.hoyolab.com/pc/genshin/entry/44/",
-    "element": "Cryo",
-    "weapon": "Bow",
-    "rating": 4
+  "name": "Diona",
+  "cv": "Shiori Izawa",
+  "description": "A feline-blooded bartender at Mondstadt's Cat's Tail tavern who paradoxically despises alcohol and strives to concoct the world's most delicious non-alcoholic drinks, driven by her disillusionment with her father's drinking.",
+  "image": "",
+  "city": "Mondstadt",
+  "url": "https://wiki.hoyolab.com/pc/genshin/entry/44/",
+  "element": "Cryo",
+  "weapon": "Bow",
+  "rating": 4,
+  "slug": "diona"
 }

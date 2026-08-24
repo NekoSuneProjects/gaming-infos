@@ -1,14 +1,15 @@
 {
-    "name": "Baicang",
-    "role": "DPS",
-    "element": "Incantation",
-    "faction": "Eibon Antique Shop",
-    "rarity": "S-Rank",
-    "voiceActorEN": "Griffin Burns",
-    "voiceActorJP": "中村悠一",
-    "gender": "Male",
-    "favoriteGift": "TBA",
-    "birthdate": "November 23",
-    "image": "",
-    "url": "https://neverness-to-everness.fandom.com/wiki/Baicang"
+  "name": "Baicang",
+  "role": "DPS",
+  "element": "Incantation",
+  "faction": "Eibon Antique Shop",
+  "rarity": "S-Rank",
+  "voiceActorEN": "Griffin Burns",
+  "voiceActorJP": "中村悠一",
+  "gender": "Male",
+  "favoriteGift": "TBA",
+  "birthdate": "November 23",
+  "image": "",
+  "url": "https://neverness-to-everness.fandom.com/wiki/Baicang",
+  "slug": "baicang"
 }

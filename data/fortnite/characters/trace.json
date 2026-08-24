@@ -1,0 +1,43 @@
+{
+  "name": "Trace",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/d/df/Trace_-_Outfit_-_Fortnite.png/revision/latest?cb=20230609181952",
+  "url": "https://fortnite.fandom.com/wiki/Trace",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "June 9th 2023",
+  "services": null,
+  "details": {
+    "image": "Trace - Outfit - Fortnite.png|Icon Trace (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "set": "Luminary Rebel",
+    "unlocked": "Page 2 3 9",
+    "cost": "950 (3)",
+    "character model": "Trace",
+    "body model": "Unique",
+    "release": "June 9th 2023",
+    "added_in": "Update v25.00",
+    "FGUse": "y",
+    "featured": "Trace (Rebel Trace - Featured) - Outfit - Fortnite.png|1 Trace (Luminary Trace - Featured) - Outfit - Fortnite.png|2 Trace (Hood Up - Featured) - Outfit - Fortnite.png|3 Trace (Rebel Trace Hood Up - Featured) - Outfit - Fortnite.png|4 Trace (Reactivity Off - Featured) - Outfit - Fortnite.png|5 Trace (Wildscorch Trace - Featured) - Outfit - Fortnite.png|6 Trace (Confetti Claw Trace - Featured) - Outfit - Fortnite.png|7 Trace (Regal Hunter Trace - Featured) - Outfit - Fortnite.png|8",
+    "LEGOUse": "y",
+    "ID": "Character_ZirconSweep",
+    "BeanID": "Bean_ZirconSweep }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Trace",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.645Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "trace"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Magic Mosses",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/a/ae/Magic_Mosses_-_Location_-_Fortnite.png/revision/latest?cb=20250422215758",
+  "url": "https://fortnite.fandom.com/wiki/Magic_Mosses",
+  "title": null,
+  "location": "N Brutal Boxcars SE Flooded Frogs‎ NW Pumped Power",
+  "affiliation": null,
+  "introduced": "December 1st 2024",
+  "services": null,
+  "details": {
+    "name": "Magic Mosses",
+    "image": "Magic Mosses - Location - Fortnite.png|Overview Magic Mosses (Top View) - Location - Fortnite.png|Top View",
+    "location": "N Brutal Boxcars SE Flooded Frogs‎ NW Pumped Power",
+    "type": "Named Location",
+    "island": "Oninoshima",
+    "chests": "57 normal 1 rare 5 elemental",
+    "ammo_boxes": "27",
+    "landmarks": "*Backwoods Black Market (Removed)",
+    "release": "December 1st 2024",
+    "removed": "June 7th 2025",
+    "character": "C6S2]] C6S2]]",
+    "boss": "C6S2]]",
+    "ID": "Athena.Location.POI.RandomPCGForest",
+    "next": "Supernova Academy }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Magic_Mosses",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.564Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "magicmosses"
+}

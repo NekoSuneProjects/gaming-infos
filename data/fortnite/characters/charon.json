@@ -1,0 +1,43 @@
+{
+  "name": "Charon",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/e/e4/Charon_-_Outfit_-_Fortnite.png/revision/latest?cb=20240326093232",
+  "url": "https://fortnite.fandom.com/wiki/Charon",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "April 6th 2024}}",
+  "services": null,
+  "details": {
+    "image": "Charon - Outfit - Fortnite.png|Icon Charon (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Rare",
+    "character model": "Unique",
+    "set": "Stygian Boatman",
+    "added_in": "Update v29.10",
+    "ID": "Character_CopperToll",
+    "BeanID": "Bean_CopperToll",
+    "LEGOUse": "y",
+    "bundled_with": "Styx Skiff",
+    "unlocked": "Item Shop Stygian Boatman Bundle",
+    "cost": "1,200 1,500 (Stygian Boatman Bundle)",
+    "appearances": "Charon",
+    "FGUse": "y",
+    "release": "April 6th 2024}}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Charon",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.608Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "charon"
+}

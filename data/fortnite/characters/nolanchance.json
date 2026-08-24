@@ -1,0 +1,43 @@
+{
+  "name": "Nolan Chance",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/8/85/Nolan_Chance_%28Tactical_Nolan_Chance%29_-_Outfit_-_Fortnite.png/revision/latest?cb=20230825085845",
+  "url": "https://fortnite.fandom.com/wiki/Nolan_Chance",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "August 25th 2023",
+  "services": null,
+  "details": {
+    "image": "Nolan Chance - Outfit - Fortnite.png|Icon Nolan Chance (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "set": "Maverick Mastermind",
+    "unlocked": "Page 1 4",
+    "cost": "950 (4)",
+    "release": "August 25th 2023",
+    "LEGOUse": "y",
+    "FGUse": "y",
+    "added_in": "Update v26.00",
+    "featured": "Nolan Chance (Tactical Nolan Chance - Featured) - Outfit - Fortnite.png|1 Nolan Chance (Tactical Nolan Chance - Mask Off - Featured) - Outfit - Fortnite.png|2 Nolan Chance (Heist Formal Nolan Chance - Featured) - Outfit - Fortnite.png|3",
+    "ID": "Character_MusketSlinger",
+    "BeanID": "Bean_MusketSlinger",
+    "character model": "Unique",
+    "body model": "Unique }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Nolan_Chance",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.627Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "nolanchance"
+}

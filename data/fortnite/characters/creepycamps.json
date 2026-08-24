@@ -1,0 +1,36 @@
+{
+  "name": "Creepy Camps",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/f/f8/Creepy_Camps_-_Location_-_Fortnite.png/revision/latest?cb=20251101173550",
+  "url": "https://fortnite.fandom.com/wiki/Creepy_Camps",
+  "title": null,
+  "location": "N Viney Shafts ‎ NW Bugswatter Beach",
+  "affiliation": null,
+  "introduced": "October 9th 2025",
+  "services": null,
+  "details": {
+    "image": "Creepy Camps - Location - Fortnite.png|Overview Creepy Camps (Top View) - Location - Fortnite.png|Top View",
+    "location": "N Viney Shafts ‎ NW Bugswatter Beach",
+    "type": "Named Location",
+    "island": "Oninoshima",
+    "boss": "Jason",
+    "release": "October 9th 2025",
+    "removed": "November 1st 2025",
+    "previous": "Resistance Base }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Creepy_Camps",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.549Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "creepycamps"
+}

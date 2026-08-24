@@ -1,10 +1,11 @@
 {
-    "name": "Nebride",
-    "title": "The slime goddess",
-    "species": "Shape-shifting slime (usually a foxgirl; also appears as many other forms)",
-    "gender": "Female",
-    "aliases": "Neb, Nebby, Nebbie, Nebi",
-    "image": "https://static.wikia.nocookie.net/vrchat-legends/images/b/bc/Nebride_Mili_slime_promo_01.png/revision/latest?cb=20231111155333",
-    "description": "Nebride is a Norwegian VTuber and [VRChat](https://vrchat-legends.fandom.com/wiki/VRChat) streamer whose lore casts her as a shape-shifting slime creature, explaining the frequent, often dramatic avatar changes during her broadcasts. She tried VRChat as early as 2017 but became a dedicated full-body streamer after getting a Quest 2 headset in 2020, building a community around high-energy dance streams, horror games, and listener-requested music playlists. She has streamed on both Twitch and Kick, branding herself as 'your favorite shiny vibetuber.'",
-    "url": "https://vrchat-legends.fandom.com/wiki/Nebride"
+  "name": "Nebride",
+  "title": "The slime goddess",
+  "species": "Shape-shifting slime (usually a foxgirl; also appears as many other forms)",
+  "gender": "Female",
+  "aliases": "Neb, Nebby, Nebbie, Nebi",
+  "image": "https://static.wikia.nocookie.net/vrchat-legends/images/b/bc/Nebride_Mili_slime_promo_01.png/revision/latest?cb=20231111155333",
+  "description": "Nebride is a Norwegian VTuber and [VRChat](https://vrchat-legends.fandom.com/wiki/VRChat) streamer whose lore casts her as a shape-shifting slime creature, explaining the frequent, often dramatic avatar changes during her broadcasts. She tried VRChat as early as 2017 but became a dedicated full-body streamer after getting a Quest 2 headset in 2020, building a community around high-energy dance streams, horror games, and listener-requested music playlists. She has streamed on both Twitch and Kick, branding herself as 'your favorite shiny vibetuber.'",
+  "url": "https://vrchat-legends.fandom.com/wiki/Nebride",
+  "slug": "nebride"
 }

@@ -1,12 +1,13 @@
 {
-    "name": "Nahida",
-    "quote": "The heavens grew eyes to behold the true beauty of the world below, but humans already have eyes to begin with.",
-    "cv": "Tamura Yukari",
-    "description": "The Dendro Archon and youngest of the Seven, Nahida rules Sumeru as Lesser Lord Kusanali and wields immense wisdom and psychic power despite her childlike form, fighting with a Dendro-infused catalyst.",
-    "image": "https://upload.wikimedia.org/wikipedia/en/d/db/Nahida_Genshin.png",
-    "city": "Sumeru",
-    "url": "https://en.wikipedia.org/wiki/Nahida_(Genshin_Impact)",
-    "element": "Dendro",
-    "weapon": "Catalyst",
-    "rating": 5
+  "name": "Nahida",
+  "quote": "The heavens grew eyes to behold the true beauty of the world below, but humans already have eyes to begin with.",
+  "cv": "Tamura Yukari",
+  "description": "The Dendro Archon and youngest of the Seven, Nahida rules Sumeru as Lesser Lord Kusanali and wields immense wisdom and psychic power despite her childlike form, fighting with a Dendro-infused catalyst.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/d/db/Nahida_Genshin.png",
+  "city": "Sumeru",
+  "url": "https://en.wikipedia.org/wiki/Nahida_(Genshin_Impact)",
+  "element": "Dendro",
+  "weapon": "Catalyst",
+  "rating": 5,
+  "slug": "nahida"
 }

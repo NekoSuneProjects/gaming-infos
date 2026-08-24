@@ -1,0 +1,44 @@
+{
+  "name": "Contract Giller",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/0/03/Contract_Giller_-_Outfit_-_Fortnite.png/revision/latest?cb=20200303224733",
+  "url": "https://fortnite.fandom.com/wiki/Contract_Giller",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "March 26th 2020",
+  "services": null,
+  "details": {
+    "name": "Contract Giller",
+    "image": "Contract Giller - Outfit - Fortnite.png|Icon Contract Giller (New - Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Rare",
+    "character model": "Fishstick",
+    "release": "March 26th 2020",
+    "cost": "$8.99 (Bassassin Quest Pack)",
+    "unlocked": "Bassassin Quest Pack",
+    "set": "Bassassin",
+    "added_in": "Update v12.10",
+    "appearances": "Bassassin Quest Pack",
+    "LEGOUse": "y",
+    "ID": "CID_722_Athena_Commando_M_TeriyakiFishAssassin",
+    "FGUse": "y",
+    "BeanID": "Bean_TeriyakiFishAssassin",
+    "featured": "Contract Giller (No Glasses - Featured) - Outfit - Fortnite.png }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Contract_Giller",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.618Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "contractgiller"
+}

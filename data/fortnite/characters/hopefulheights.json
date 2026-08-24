@@ -1,0 +1,46 @@
+{
+  "name": "Hopeful Heights",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/5/56/Hopeful_Heights_-_Location_-_Fortnite.png/revision/latest?cb=20250208121952",
+  "url": "https://fortnite.fandom.com/wiki/Hopeful_Heights",
+  "title": null,
+  "location": "S Seaport City E Masked Meadows‎",
+  "affiliation": null,
+  "introduced": "December 1st 2024",
+  "services": null,
+  "details": {
+    "name": "Hopeful Heights",
+    "image": "Hopeful Heights - Location - Fortnite.png|Overview Hopeful Heights (Top View) - Location - Fortnite.png|Top View",
+    "location": "S Seaport City E Masked Meadows‎",
+    "type": "Named Location",
+    "island": "Oninoshima",
+    "owner": "Demon Hunters (Apartament) (Smash N' Grab)",
+    "chests": "25",
+    "vending_machines": "1",
+    "ammo_boxes": "18",
+    "floor_loot": "34",
+    "release": "December 1st 2024",
+    "removed": "May 2nd 2025",
+    "vehicles": "2x Victory Crown Rogue 2x Motors Whiplash 1x Grandeur Trailsmasher 1x Trail Thrasher",
+    "character": "C6S2]] C6S1]]",
+    "henchmen": "C6S2]]",
+    "ID": "Athena.Location.POI.SmallTown",
+    "next": "Outpost Enclave",
+    "franchises": "*Tako's Wharf *Smash N' Grab *Cuddle Buns *Mad Buns }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Hopeful_Heights",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.567Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "hopefulheights"
+}

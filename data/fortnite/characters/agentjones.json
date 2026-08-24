@@ -1,0 +1,43 @@
+{
+  "name": "Agent Jones",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/5/58/Agent_Jones_-_Outfit_-_Fortnite.png/revision/latest?cb=20210316165544",
+  "url": "https://fortnite.fandom.com/wiki/Agent_Jones",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "March 16th 2021",
+  "services": null,
+  "details": {
+    "image": "Agent Jones - Outfit - Fortnite.png|Icon Agent Jones (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "set": "Agent Jones",
+    "cost": "950 (6)",
+    "unlocked": "Level 1 6",
+    "release": "March 16th 2021",
+    "added_in": "Update v16.00",
+    "character model": "Jonesy",
+    "body model": "Suit Remake",
+    "LEGOUse": "y",
+    "FGUse": "y",
+    "ID": "CID_989_Athena_Commando_M_ProgressiveJonesy",
+    "BeanID": "Bean_ProgressiveJonesy_Jump23",
+    "featured": "Agent Jones (Jump 15 - Featured) - Outfit - Fortnite.png|1 Agent Jones (Jump 23 - Featured) - Outfit - Fortnite.png|2 Agent Jones (Jump 31 - Featured) - Outfit - Fortnite.png|3 Agent Jones (Jump 42 - Featured) - Outfit - Fortnite.png|4 Agent Jones (Jump 88 - Featured) - Outfit - Fortnite.png|5 }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Agent_Jones",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.639Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "agentjones"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Vengeance Jones",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/8/8b/Vengeance_Jones_-_Outfit_-_Fortnite.png/revision/latest?cb=20231203125239",
+  "url": "https://fortnite.fandom.com/wiki/Vengeance_Jones",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "December 3rd 2023",
+  "services": null,
+  "details": {
+    "image": "Vengeance Jones - Outfit - Fortnite.png|Icon Vengeance Jones (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "set": "Jones's Revenge",
+    "character model": "Jonesy",
+    "unlocked": "Page 5 1 9",
+    "cost": "950 (1)",
+    "added_in": "Update v28.00",
+    "release": "December 3rd 2023",
+    "ID": "Character_UndergroundRebel_Fashion",
+    "BeanID": "Bean_UndergroundRebelFashion",
+    "LEGOUse": "y",
+    "FGUse": "y",
+    "featured": "Vengeance Jones (Duotone Jones - Featured) - Outfit - Fortnite.png|1 Vengeance Jones (Underground Jones - Featured) - Outfit - Fortnite.png|2 }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Vengeance_Jones",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.523Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "vengeancejones"
+}

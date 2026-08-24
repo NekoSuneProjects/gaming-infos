@@ -1,0 +1,40 @@
+{
+  "name": "Crackshot's Cabin",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/7/71/Crackshot%27s_Cabin_%28v39.20%29_-_Unnamed_Location_-_Fortnite.png/revision/latest?cb=20260525100510",
+  "url": "https://fortnite.fandom.com/wiki/Crackshot's_Cabin",
+  "title": null,
+  "location": "SW Clawsy Lodge NE Lethal Labs",
+  "affiliation": null,
+  "introduced": "December 18th 2025",
+  "services": null,
+  "details": {
+    "name": "Crackshot's Cabin",
+    "image": "Crackshot's Cabin (v39.20) - Unnamed Location - Fortnite.png|Overview Crackshot's Cabin (v39.20 - Top View) - Unnamed Location - Fortnite.png|Top View",
+    "location": "SW Clawsy Lodge NE Lethal Labs",
+    "type": "Unnamed Location",
+    "island": "Golden Coast",
+    "chests": "4",
+    "ammo_boxes": "2",
+    "release": "December 18th 2025",
+    "removed": "March 19th 2026",
+    "owner": "Crackshot",
+    "character": "C7S1]]",
+    "vehicles": "}}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Crackshot's_Cabin",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.549Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "crackshotscabin"
+}

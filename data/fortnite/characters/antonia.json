@@ -1,0 +1,43 @@
+{
+  "name": "Antonia",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/7/7d/Antonia_-_Outfit_-_Fortnite.png/revision/latest?cb=20230825084445",
+  "url": "https://fortnite.fandom.com/wiki/Antonia",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "August 25th 2023",
+  "services": null,
+  "details": {
+    "image": "Antonia - Outfit - Fortnite.png|Icon Antonia (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "set": "Masqued Maven",
+    "unlocked": "Page 9 4 9",
+    "cost": "950 (4)",
+    "release": "August 25th 2023",
+    "character model": "Unique",
+    "body model": "Unique",
+    "added_in": "Update v26.00",
+    "LEGOUse": "y",
+    "FGUse": "y",
+    "featured": "Antonia (Jacket On - Featured) - Outfit - Fortnite.png|1 Antonia (Masque On - Featured) - Outfit - Fortnite.png|2 Antonia (Combat Chic - Featured) - Outfit - Fortnite.png|3 Antonia (Combat Chic Jacket On - Featured) - Outfit - Fortnite.png|4 Antonia (Masquerade Antonia - Featured) - Outfit - Fortnite.png|5 Antonia (Heisted Jade Antonia - Featured) - Outfit - Fortnite.png|6 Antonia (Lost Amethyst Antonia - Featured) - Outfit - Fortnite.png|7 Antonia (Yellow Diamond Antonia - Featured) - Outfit - Fortnite.png|8",
+    "ID": "Character_BlazerVeil",
+    "BeanID": "Bean_BlazerVeil }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Antonia",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.628Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "antonia"
+}

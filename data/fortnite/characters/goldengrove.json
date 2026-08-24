@@ -1,0 +1,41 @@
+{
+  "name": "Golden Grove",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/d/d8/Golden_Grove_-_Location_-_Fortnite.png/revision/latest?cb=20260618152829",
+  "url": "https://fortnite.fandom.com/wiki/Golden_Grove",
+  "title": null,
+  "location": "S Wonkeeland E Frosted Flats NE Shaken Sanctuary N Cluster Coast",
+  "affiliation": null,
+  "introduced": "June 6th 2026",
+  "services": null,
+  "details": {
+    "name": "Golden Grove",
+    "location": "S Wonkeeland E Frosted Flats NE Shaken Sanctuary N Cluster Coast",
+    "image": "Golden Grove - Location - Fortnite.png|Overview Golden Grove (Top View) - Location - Fortnite.png|Top View",
+    "type": "Named Location",
+    "island": "Shattered Coast",
+    "chests": "51",
+    "ammo_boxes": "38",
+    "vending_machines": "3",
+    "produce_boxes": "3",
+    "release": "June 6th 2026",
+    "vehicles": "3x Grandeur Trailsmasher 1x Motors Whiplash 1x Reboot Van 2x Batman's Beach Buggy",
+    "character": "C7S3]]",
+    "wildlife": "C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Golden_Grove",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.505Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "goldengrove"
+}

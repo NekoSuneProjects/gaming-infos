@@ -1,0 +1,41 @@
+{
+  "name": "Gwenpool",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/4/40/Gwenpool_-_Outfit_-_Fortnite.png/revision/latest?cb=20240816082224",
+  "url": "https://fortnite.fandom.com/wiki/Gwenpool",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "June 29th 2026 (Item Shop) August 16th 2024 (4)",
+  "services": null,
+  "details": {
+    "image": "Gwenpool - Outfit - Fortnite.png|Icon Gwenpool (v41.10 - Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Marvel Series",
+    "character model": "Unique",
+    "set": "Gwenpool",
+    "unlocked": "Item Shop Gwenpool Bundle Page 1 4",
+    "cost": "1,500 2,400 (Gwenpool Bundle) 950 (4)",
+    "release": "June 29th 2026 (Item Shop) August 16th 2024 (4)",
+    "appearances": "Gwenpool",
+    "added_in": "Update v31.00",
+    "LEGOUse": "y",
+    "featured": "Gwenpool (Accessory - Off - Featured) - Outfit - Fortnite.png|1 Gwenpool (Shading - Gradient - Featured) - Outfit - Fortnite.png|2",
+    "ID": "Character_PillowMill_Mastery }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Gwenpool",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.578Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "gwenpool"
+}

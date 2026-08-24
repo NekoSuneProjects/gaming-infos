@@ -1,0 +1,27 @@
+{
+  "name": "Alyss",
+  "description": "Playable Simulacrum in Tower of Fantasy.",
+  "image": "/images/banner.png",
+  "url": "https://toweroffantasy.info/simulacra/imitation_30",
+  "rarity": null,
+  "role": "support",
+  "elements": [
+    "Flame",
+    "Volt",
+    "Physical"
+  ],
+  "element": "Flame / Volt / Physical",
+  "source": {
+    "provider": "Tower of Fantasy Index",
+    "url": "https://toweroffantasy.info/simulacra/imitation_30",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "toweroffantasy-info",
+    "game": "toweroffantasy",
+    "syncedAt": "2026-08-24T11:05:39.843Z",
+    "releasedOnly": true
+  },
+  "slug": "alyss"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Triage Trooper",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/d/de/Triage_Trooper_%28v33.00%29_-_Outfit_-_Fortnite.png/revision/latest?cb=20241215194306",
+  "url": "https://fortnite.fandom.com/wiki/Triage_Trooper",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "September 8th 2018",
+  "services": null,
+  "details": {
+    "image": "Triage Trooper (v33.00) - Outfit - Fortnite.png|Icon Triage Trooper (New - Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "bundled_with": "Care Package",
+    "set": "Support Squadron",
+    "cost": "1,500",
+    "unlocked": "Item Shop",
+    "release": "September 8th 2018",
+    "character model": "Jonesy",
+    "added_in": "Update v5.40",
+    "LEGOUse": "y",
+    "ID": "CID_217_Athena_Commando_M_Medic",
+    "FGUse": "y",
+    "BeanID": "Bean_MedicA",
+    "appearances": "Triage Trooper }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Triage_Trooper",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.585Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "triagetrooper"
+}

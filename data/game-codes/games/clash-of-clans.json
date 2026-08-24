@@ -1,0 +1,5046 @@
+{
+  "Active": [
+    {
+      "id": 1278,
+      "game": "clash-of-clans",
+      "code": "aj",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: AshJer",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1270,
+      "game": "clash-of-clans",
+      "code": "akari",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Akari Gaming",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1271,
+      "game": "clash-of-clans",
+      "code": "alvaro845",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Alvaro845",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1272,
+      "game": "clash-of-clans",
+      "code": "anikilo",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Anikilo",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1274,
+      "game": "clash-of-clans",
+      "code": "ark",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Ark",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1275,
+      "game": "clash-of-clans",
+      "code": "artube",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Artube Clash",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1277,
+      "game": "clash-of-clans",
+      "code": "ashbs",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Ash Brawl Stars",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1279,
+      "game": "clash-of-clans",
+      "code": "ashtax",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Ashtax",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1280,
+      "game": "clash-of-clans",
+      "code": "aurum",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: AuRuM TV",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1319,
+      "game": "clash-of-clans",
+      "code": "avi",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: ClashPlayhouse",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1281,
+      "game": "clash-of-clans",
+      "code": "axael",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Axael TV",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1282,
+      "game": "clash-of-clans",
+      "code": "bangskot",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: BangSkot",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1304,
+      "game": "clash-of-clans",
+      "code": "bash",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Clash Bashing",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1283,
+      "game": "clash-of-clans",
+      "code": "bd",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: BDLegend",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1284,
+      "game": "clash-of-clans",
+      "code": "beak",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Beaker's Lab",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1287,
+      "game": "clash-of-clans",
+      "code": "bigspin",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: BigSpin",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1286,
+      "game": "clash-of-clans",
+      "code": "bigvale",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Big Vale",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1289,
+      "game": "clash-of-clans",
+      "code": "brawlify",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Brawlify",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1290,
+      "game": "clash-of-clans",
+      "code": "brocast",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: BroCast",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1291,
+      "game": "clash-of-clans",
+      "code": "bruna7cr",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Bruna7Cr",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1292,
+      "game": "clash-of-clans",
+      "code": "brunoclash",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Bruno Clash",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1285,
+      "game": "clash-of-clans",
+      "code": "bt1",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: BenTimm1",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1293,
+      "game": "clash-of-clans",
+      "code": "bucanero",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Bucanero",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1297,
+      "game": "clash-of-clans",
+      "code": "carbonfin",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: CarbonFin Gaming",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1451,
+      "game": "clash-of-clans",
+      "code": "cauemp",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Well Played",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1436,
+      "game": "clash-of-clans",
+      "code": "chicken",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: The Chicken 2",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1300,
+      "game": "clash-of-clans",
+      "code": "chiefavalon",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: ChiefAvalon eSports and Gaming",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1302,
+      "game": "clash-of-clans",
+      "code": "cidukbeban",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Ciduk Warrior",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1306,
+      "game": "clash-of-clans",
+      "code": "clash champs",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Clash Champs",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1464,
+      "game": "clash-of-clans",
+      "code": "Clash of Clans",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Read more",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1315,
+      "game": "clash-of-clans",
+      "code": "clashdicas",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Clash Royale Dicas",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1363,
+      "game": "clash-of-clans",
+      "code": "clashjo",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Kenny Jo",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1309,
+      "game": "clash-of-clans",
+      "code": "clashking",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: ClashKing",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1320,
+      "game": "clash-of-clans",
+      "code": "clashspot",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: ClashSpot",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1323,
+      "game": "clash-of-clans",
+      "code": "clashtrack",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: ClashTrack",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1317,
+      "game": "clash-of-clans",
+      "code": "cng",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Clashing N Games",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1328,
+      "game": "clash-of-clans",
+      "code": "coco",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Coco",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1329,
+      "game": "clash-of-clans",
+      "code": "coolrick",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Congressman Cool Rick",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1331,
+      "game": "clash-of-clans",
+      "code": "corrupt",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: CorruptYT",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1326,
+      "game": "clash-of-clans",
+      "code": "cory",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Coach Cory",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1313,
+      "game": "clash-of-clans",
+      "code": "cos",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Clash of Stats",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1333,
+      "game": "clash-of-clans",
+      "code": "cosmic",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: CosmicDuo",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1295,
+      "game": "clash-of-clans",
+      "code": "cptnben",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Captain Ben",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1394,
+      "game": "clash-of-clans",
+      "code": "crux",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Pixel Crux",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1276,
+      "game": "clash-of-clans",
+      "code": "cwa",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Ash (Clash With Ash)",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1336,
+      "game": "clash-of-clans",
+      "code": "deckshop",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Deck Shop",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1337,
+      "game": "clash-of-clans",
+      "code": "decow",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Decow do Canal",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1338,
+      "game": "clash-of-clans",
+      "code": "doluk",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Doluk",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1339,
+      "game": "clash-of-clans",
+      "code": "echo",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: ECHO Gaming",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1340,
+      "game": "clash-of-clans",
+      "code": "elchiki",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Elchiki",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1341,
+      "game": "clash-of-clans",
+      "code": "emre",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Emre Kara",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1380,
+      "game": "clash-of-clans",
+      "code": "erikuh",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: NotErikuh",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1343,
+      "game": "clash-of-clans",
+      "code": "ewe",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Ewelina",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1344,
+      "game": "clash-of-clans",
+      "code": "ferre",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Ferre",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1345,
+      "game": "clash-of-clans",
+      "code": "fluxxy",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Fluxxy",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1346,
+      "game": "clash-of-clans",
+      "code": "fullfrontage",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: FullFrontage",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1347,
+      "game": "clash-of-clans",
+      "code": "galadon",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Galadon Gaming",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1348,
+      "game": "clash-of-clans",
+      "code": "gizmo",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: GizmoSpike",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1349,
+      "game": "clash-of-clans",
+      "code": "godson",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Godson - Gaming",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1350,
+      "game": "clash-of-clans",
+      "code": "gouloulou",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: gouloulou",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1351,
+      "game": "clash-of-clans",
+      "code": "grax",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Grax",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1352,
+      "game": "clash-of-clans",
+      "code": "havoc",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Havoc Gaming",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1353,
+      "game": "clash-of-clans",
+      "code": "hawk",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Hawk Eye",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1354,
+      "game": "clash-of-clans",
+      "code": "heybrother",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Hey! Brother",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1355,
+      "game": "clash-of-clans",
+      "code": "itzu",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: iTzu",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1357,
+      "game": "clash-of-clans",
+      "code": "joe",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Joe McDonalds",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1356,
+      "game": "clash-of-clans",
+      "code": "jojonas",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Jo Jonas",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1358,
+      "game": "clash-of-clans",
+      "code": "judo",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Judo Sloth Gaming",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1359,
+      "game": "clash-of-clans",
+      "code": "june",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: JUNE",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1360,
+      "game": "clash-of-clans",
+      "code": "kairos",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: KairosTime Gaming",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1361,
+      "game": "clash-of-clans",
+      "code": "kart",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Kart",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1362,
+      "game": "clash-of-clans",
+      "code": "ken",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Ken",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1364,
+      "game": "clash-of-clans",
+      "code": "klaus",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Klaus Gaming",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1288,
+      "game": "clash-of-clans",
+      "code": "lazer",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Boss LA",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1365,
+      "game": "clash-of-clans",
+      "code": "lex",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Lex",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1366,
+      "game": "clash-of-clans",
+      "code": "lukas",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Lukas - Brawl Stars",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1368,
+      "game": "clash-of-clans",
+      "code": "malcaide",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Malcaide",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1369,
+      "game": "clash-of-clans",
+      "code": "markokc",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: MarkoKC",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1370,
+      "game": "clash-of-clans",
+      "code": "mautic",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Mautic",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1424,
+      "game": "clash-of-clans",
+      "code": "mave",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Srta Maverick",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1342,
+      "game": "clash-of-clans",
+      "code": "maxi",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: eVe MAXI",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1375,
+      "game": "clash-of-clans",
+      "code": "mbf",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: MrMobilefanboy",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1371,
+      "game": "clash-of-clans",
+      "code": "menver",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Menerv",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1367,
+      "game": "clash-of-clans",
+      "code": "michael",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: M1CHA3L",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1372,
+      "game": "clash-of-clans",
+      "code": "michelindagame",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: MICHELINDA GAME",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1373,
+      "game": "clash-of-clans",
+      "code": "molt",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: MOLT",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1411,
+      "game": "clash-of-clans",
+      "code": "moose",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Sir Moose Gaming",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1374,
+      "game": "clash-of-clans",
+      "code": "morten",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: mortenroyale",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1377,
+      "game": "clash-of-clans",
+      "code": "nana",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: nana",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1378,
+      "game": "clash-of-clans",
+      "code": "nat",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: nat ♡",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1308,
+      "game": "clash-of-clans",
+      "code": "nery",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Clash com Nery",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1311,
+      "game": "clash-of-clans",
+      "code": "ninja",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Clash Ninja",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1379,
+      "game": "clash-of-clans",
+      "code": "noobs",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Noobs iMTV",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1382,
+      "game": "clash-of-clans",
+      "code": "og",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: OG",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1385,
+      "game": "clash-of-clans",
+      "code": "oj",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Orange Juice Gaming",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1387,
+      "game": "clash-of-clans",
+      "code": "omer",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Oynamak Lazım",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1383,
+      "game": "clash-of-clans",
+      "code": "oofro",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: OOfro",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1384,
+      "game": "clash-of-clans",
+      "code": "optimus",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Optimus Prime",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1386,
+      "game": "clash-of-clans",
+      "code": "ouah",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Ouah Leouff",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1381,
+      "game": "clash-of-clans",
+      "code": "owl",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: NyteOwl",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1389,
+      "game": "clash-of-clans",
+      "code": "oyungemisi",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Oyun Gemisi",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1390,
+      "game": "clash-of-clans",
+      "code": "pan",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Panda Casts",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1298,
+      "game": "clash-of-clans",
+      "code": "pat",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Chief Pat",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1392,
+      "game": "clash-of-clans",
+      "code": "pioupiou",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Pioupiou",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1393,
+      "game": "clash-of-clans",
+      "code": "pitbullfera",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: PitBullFera",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1395,
+      "game": "clash-of-clans",
+      "code": "puuki",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: puuki",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1397,
+      "game": "clash-of-clans",
+      "code": "r3dknight",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: R3DKNIGHT",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1398,
+      "game": "clash-of-clans",
+      "code": "radical",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Radical Rosh",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1399,
+      "game": "clash-of-clans",
+      "code": "rey",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Rey",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1401,
+      "game": "clash-of-clans",
+      "code": "romain",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Romain Dot Live",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1403,
+      "game": "clash-of-clans",
+      "code": "royaleapi",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: RoyaleAPI",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1405,
+      "game": "clash-of-clans",
+      "code": "rozetmen",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Rozetmen",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1396,
+      "game": "clash-of-clans",
+      "code": "rsclash",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: R S Clash",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1324,
+      "game": "clash-of-clans",
+      "code": "shane",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: CLASHwithSHANE",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1407,
+      "game": "clash-of-clans",
+      "code": "shelbi",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: SHELBI",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1409,
+      "game": "clash-of-clans",
+      "code": "sidekick",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Sidekick",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1413,
+      "game": "clash-of-clans",
+      "code": "sirtag",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: SirTagCR",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1415,
+      "game": "clash-of-clans",
+      "code": "skullcrusher",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: SkullCrusher Boom Beach",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1417,
+      "game": "clash-of-clans",
+      "code": "soking",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: sokingrcq",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1420,
+      "game": "clash-of-clans",
+      "code": "spanser",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: spAnser",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1422,
+      "game": "clash-of-clans",
+      "code": "spartafail",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Spartafail",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1426,
+      "game": "clash-of-clans",
+      "code": "stats",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Stats Royale",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1428,
+      "game": "clash-of-clans",
+      "code": "stormm",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Stormm",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1430,
+      "game": "clash-of-clans",
+      "code": "sumit007",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Sumit 007",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1432,
+      "game": "clash-of-clans",
+      "code": "surgicalgoblin",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Surgical Goblin",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1434,
+      "game": "clash-of-clans",
+      "code": "suzie",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Suzie",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1438,
+      "game": "clash-of-clans",
+      "code": "trample",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Trample Damage",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1440,
+      "game": "clash-of-clans",
+      "code": "trymacs",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Trymacs",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1442,
+      "game": "clash-of-clans",
+      "code": "tryso",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Tryso",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1444,
+      "game": "clash-of-clans",
+      "code": "turtle",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Turtle",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1447,
+      "game": "clash-of-clans",
+      "code": "twenty",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: TwentyFour Bytes",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1449,
+      "game": "clash-of-clans",
+      "code": "vinho",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Vinhô",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1334,
+      "game": "clash-of-clans",
+      "code": "wikibarbar",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: DarkBarbarian",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1453,
+      "game": "clash-of-clans",
+      "code": "withzack",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: WithZack",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1455,
+      "game": "clash-of-clans",
+      "code": "yde",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Yde",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1376,
+      "game": "clash-of-clans",
+      "code": "yes",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: MyYes",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1457,
+      "game": "clash-of-clans",
+      "code": "yosoyrick",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: YoSoyRick",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1273,
+      "game": "clash-of-clans",
+      "code": "zmot",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Anon Moose",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1460,
+      "game": "clash-of-clans",
+      "code": "zoloko",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Zolokotroko TOP",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    },
+    {
+      "id": 1462,
+      "game": "clash-of-clans",
+      "code": "zsomac",
+      "category": "creator-code",
+      "status": "active",
+      "verificationStatus": "current-community-source",
+      "items": [],
+      "image": null,
+      "expiry": {
+        "type": "creator-active",
+        "isLifetime": false,
+        "expiresAt": null,
+        "sourceTimezone": null,
+        "selectedTimezone": "UTC",
+        "local": null,
+        "expiresInSeconds": null,
+        "countdown": null,
+        "expired": false
+      },
+      "redeemUrl": null,
+      "redeemLocation": "In-game Settings > More Settings > Creator Boost / Support a Creator > Enter Code",
+      "claimType": "support-a-creator",
+      "requirements": [
+        "Free to enter; supports the selected creator on eligible purchases. Creator support may need to be renewed periodically."
+      ],
+      "sourceUrls": [
+        "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+        "https://www.mejoress.com/clash-of-clans-codes-content-creators/"
+      ],
+      "sourceKey": "supercell-creators:clash-of-clans:primary",
+      "notes": "Creator: Zsomac",
+      "firstSeenAt": "2026-08-24T09:23:50.000Z",
+      "lastSeenAt": "2026-08-24T11:04:22.000Z",
+      "lastVerifiedAt": "2026-08-24T11:04:22.000Z"
+    }
+  ],
+  "Expired": [],
+  "Unknown": []
+}

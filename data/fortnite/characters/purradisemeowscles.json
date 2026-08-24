@@ -1,0 +1,43 @@
+{
+  "name": "Purradise Meowscles",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/7/74/Purradise_Meowscles_-_Outfit_-_Fortnite.png/revision/latest?cb=20230609182253",
+  "url": "https://fortnite.fandom.com/wiki/Purradise_Meowscles",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "July 6th 2023",
+  "services": null,
+  "details": {
+    "image": "Purradise Meowscles - Outfit - Fortnite.png|Icon Purradise Meowscles (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "unlocked": "Purradise Meowscles Quests",
+    "set": "Taste of Purradise",
+    "character model": "Meowscles",
+    "body model": "Unique",
+    "cost": "950 (3)",
+    "added_in": "Update v25.00",
+    "release": "July 6th 2023",
+    "featured": "Purradise Meowscles (Clawesome Meowscles - Featured) - Outfit - Fortnite.png|1 Purradise Meowscles (Furmidable Meowscles - Featured) - Outfit - Fortnite.png|2",
+    "LEGOUse": "y",
+    "FGUse": "y",
+    "ID": "Character_BuffCatCruise",
+    "BeanID": "Bean_BuffCatCruise }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Purradise_Meowscles",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.646Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "purradisemeowscles"
+}

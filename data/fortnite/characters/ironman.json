@@ -1,0 +1,40 @@
+{
+  "name": "Iron Man",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/1/14/Iron_Man_-_Outfit_-_Fortnite.png/revision/latest?cb=20250212141352",
+  "url": "https://fortnite.fandom.com/wiki/Iron_Man",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "February 14th 2025",
+  "services": null,
+  "details": {
+    "image": "Iron Man - Outfit - Fortnite.png|Icon Iron Man (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Marvel Series",
+    "set": "Iron Legion",
+    "unlocked": "Item Shop Iron Legion Bundle",
+    "cost": "2,000 2,500 (Iron Legion Bundle)",
+    "release": "February 14th 2025",
+    "added_in": "Update v33.30",
+    "appearances": "Iron Man",
+    "ID": "Character_AgileRug",
+    "LEGOUse": "y",
+    "featured": "Iron Man (Prime - Featured) - Outfit - Fortnite.png|1 Iron Man (Ultimate - Featured) - Outfit - Fortnite.png|2 Iron Man (Classic - Featured) - Outfit - Fortnite.png|3 }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Iron_Man",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.579Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "ironman"
+}

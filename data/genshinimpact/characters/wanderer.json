@@ -1,11 +1,12 @@
 {
-    "name": "Wanderer",
-    "cv": "Kakihara Tetsuya",
-    "description": "Once the Fatui Harbinger known as the Balladeer (formerly Scaramouche), Wanderer is an artificial puppet created by Raiden Ei who now resides in Sumeru as a ward of the Dendro Archon Nahida, fighting with an Anemo-infused catalyst.",
-    "image": "https://upload.wikimedia.org/wikipedia/en/6/6c/Wanderer_in_Genshin_Impact.png",
-    "city": "Sumeru",
-    "url": "https://en.wikipedia.org/wiki/Wanderer_(Genshin_Impact)",
-    "element": "Anemo",
-    "weapon": "Catalyst",
-    "rating": 5
+  "name": "Wanderer",
+  "cv": "Kakihara Tetsuya",
+  "description": "Once the Fatui Harbinger known as the Balladeer (formerly Scaramouche), Wanderer is an artificial puppet created by Raiden Ei who now resides in Sumeru as a ward of the Dendro Archon Nahida, fighting with an Anemo-infused catalyst.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/6/6c/Wanderer_in_Genshin_Impact.png",
+  "city": "Sumeru",
+  "url": "https://en.wikipedia.org/wiki/Wanderer_(Genshin_Impact)",
+  "element": "Anemo",
+  "weapon": "Catalyst",
+  "rating": 5,
+  "slug": "wanderer"
 }

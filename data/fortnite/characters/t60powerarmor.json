@@ -1,0 +1,39 @@
+{
+  "name": "T-60 Power Armor",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/0/03/T-60_Power_Armor_-_Outfit_-_Fortnite.png/revision/latest?cb=20240524142157",
+  "url": "https://fortnite.fandom.com/wiki/T-60_Power_Armor",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "May 24th 2024",
+  "services": null,
+  "details": {
+    "image": "T-60 Power Armor - Outfit - Fortnite.png|Icon T-60 Power Armor (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Gaming Legends Series",
+    "set": "Brotherhood of Steel",
+    "character model": "Empty Head",
+    "unlocked": "Page 9 3 9",
+    "cost": "950 (3)",
+    "release": "May 24th 2024",
+    "added_in": "Update v30.00",
+    "ID": "Character_RadiumFox_Flame",
+    "featured": "T-60 Power Armor (Hot Rod T-60 Power Armor - Featured) - Outfit - Fortnite.png|1 T-60 Power Armor (Black Knight T-60 Power Armor - Featured) - Outfit - Fortnite.png|2 }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/T-60_Power_Armor",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.596Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "t60powerarmor"
+}

@@ -1,12 +1,13 @@
 {
-    "name": "Bronya",
-    "rarity": "5-star",
-    "path": "Harmony",
-    "element": "Wind",
-    "faction": "Silvermane Guards",
-    "voiceActorEN": "Madeline Reiter",
-    "voiceActorJP": "Kana Asumi",
-    "description": "Commander of the Silvermane Guards and adoptive daughter of the previous Supreme Guardian Cocolia, Bronya becomes Belobog's Supreme Guardian after resisting her mother's corruption by a Stellaron. Her Harmony-path abilities buff allies' attack and critical damage in battle.",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Bronya_Rand.png/250px-Bronya_Rand.png",
-    "url": "https://honkai-star-rail.fandom.com/wiki/Bronya"
+  "name": "Bronya",
+  "rarity": "5-star",
+  "path": "Harmony",
+  "element": "Wind",
+  "faction": "Silvermane Guards",
+  "voiceActorEN": "Madeline Reiter",
+  "voiceActorJP": "Kana Asumi",
+  "description": "Commander of the Silvermane Guards and adoptive daughter of the previous Supreme Guardian Cocolia, Bronya becomes Belobog's Supreme Guardian after resisting her mother's corruption by a Stellaron. Her Harmony-path abilities buff allies' attack and critical damage in battle.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Bronya_Rand.png/250px-Bronya_Rand.png",
+  "url": "https://honkai-star-rail.fandom.com/wiki/Bronya",
+  "slug": "bronya"
 }

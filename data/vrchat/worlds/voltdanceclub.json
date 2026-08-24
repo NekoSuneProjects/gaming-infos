@@ -1,7 +1,8 @@
 {
-    "name": "VOLT Dance Club",
-    "creator": "DigitrevX",
-    "image": "",
-    "description": "VOLT Dance Club is a highly detailed mega-club world created by DigitrevX, featuring custom LED wall visuals, dynamic lighting, multiple bars, private rooms, a dart game, and jacuzzis. It's built to feel like a genuine high-end nightclub experience and even includes an optional RTX ray-tracing graphics mode for compatible Nvidia GPUs. The polish and scale of the build have made it a popular destination among VRChat's club and dance community.",
-    "url": "https://vrchat-legends.fandom.com/wiki/VOLT_Dance_Club"
+  "name": "VOLT Dance Club",
+  "creator": "DigitrevX",
+  "image": "",
+  "description": "VOLT Dance Club is a highly detailed mega-club world created by DigitrevX, featuring custom LED wall visuals, dynamic lighting, multiple bars, private rooms, a dart game, and jacuzzis. It's built to feel like a genuine high-end nightclub experience and even includes an optional RTX ray-tracing graphics mode for compatible Nvidia GPUs. The polish and scale of the build have made it a popular destination among VRChat's club and dance community.",
+  "url": "https://vrchat-legends.fandom.com/wiki/VOLT_Dance_Club",
+  "slug": "voltdanceclub"
 }

@@ -1,0 +1,42 @@
+{
+  "name": "Lonewolf Lair",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/a/a5/Lonewolf_Lair_-_Location_-_Fortnite.png/revision/latest?cb=20250311194838",
+  "url": "https://fortnite.fandom.com/wiki/Lonewolf_Lair",
+  "title": null,
+  "location": "S Flooded Frogs W Brutal Boxcars E Shiny Shafts SW Magic Mosses",
+  "affiliation": null,
+  "introduced": "February 21st 2025",
+  "services": null,
+  "details": {
+    "name": "Lonewolf Lair",
+    "image": "Lonewolf Lair - Location - Fortnite.png|Overview Lonewolf Lair (Top) - Location - Fortnite.png|Top View",
+    "location": "S Flooded Frogs W Brutal Boxcars E Shiny Shafts SW Magic Mosses",
+    "type": "Named Location",
+    "island": "Oninoshima",
+    "character": "C6S2]] C6S3]]",
+    "boss": "C6S2]] C6S2]]",
+    "chests": "34",
+    "ammo_boxes": "37",
+    "release": "February 21st 2025",
+    "removed": "August 7th 2025",
+    "previous": "Lost Lake",
+    "next": "The Hive",
+    "vehicles": "2x Grandeur Trailsmasher }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Lonewolf_Lair",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.558Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "lonewolflair"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Springfield Nuclear Power Plant",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/3/37/Springfield_Nuclear_Power_Plant_%28v38.11%29_-_Location_-_Fortnite.png/revision/latest?cb=20251123002339",
+  "url": "https://fortnite.fandom.com/wiki/Springfield_Nuclear_Power_Plant",
+  "title": null,
+  "location": "NE Kamp Krusty N Burns Manor",
+  "affiliation": null,
+  "introduced": "November 1st 2025 (Battle Royale) July 30th 2026 (Reload)",
+  "services": null,
+  "details": {
+    "name": "Springfield Nuclear Power Plant",
+    "image": "Springfield Nuclear Power Plant (v38.11) - Location - Fortnite.png|Overview Springfield Nuclear Power Plant (v38.11 - Top View) - Location - Fortnite.png|Top View",
+    "location": "NE Kamp Krusty N Burns Manor",
+    "type": "Named Location",
+    "island": "Springfield Island",
+    "chests": "39",
+    "ammo_boxes": "41",
+    "release": "November 1st 2025 (Battle Royale) July 30th 2026 (Reload)",
+    "removed": "November 29th 2025 (Battle Royale)",
+    "character": "C6MS2]] C6MS2]]",
+    "henchmen": "Dober Men }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Springfield_Nuclear_Power_Plant",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.538Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "springfieldnuclearpowerplant"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Rust",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/1/1b/Rust_-_Outfit_-_Fortnite.png/revision/latest?cb=20240524143032",
+  "url": "https://fortnite.fandom.com/wiki/Rust",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "May 24th 2024",
+  "services": null,
+  "details": {
+    "image": "Rust - Outfit - Fortnite.png|Icon Rust (Helmet On - Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "character model": "Unique",
+    "set": "Badlands Scavenger",
+    "unlocked": "Page 3 3 9",
+    "cost": "950 (3)",
+    "release": "May 24th 2024",
+    "added_in": "Update v30.00",
+    "ID": "Character_QuickBurst_Plains",
+    "LEGOUse": "y",
+    "FGUse": "y",
+    "featured": "Rust (Cold Fusion Rust - Battle Pass) - Outfit - Fortnite.png|1 Rust (Neon Hazard Rust - Battle Pass) - Outfit - Fortnite.png|2 Rust (Digital Ghost Rust - Battle Pass) - Outfit - Fortnite.png|3 }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Rust",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.584Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "rust"
+}

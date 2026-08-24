@@ -1,0 +1,38 @@
+{
+  "name": "Royale Bomber",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/e/e1/Royale_Bomber_%28New%29_-_Outfit_-_Fortnite.png/revision/latest?cb=20200910144803",
+  "url": "https://fortnite.fandom.com/wiki/Royale_Bomber",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "May 1st 2018",
+  "services": null,
+  "details": {
+    "image": "Royale Bomber (v33.10) - Outfit - Fortnite.png|Icon Royale Bomber (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "cost": "$299.99 (Royale Bomber Bundle)",
+    "unlocked": "Royale Bomber Bundle",
+    "release": "May 1st 2018",
+    "character model": "Nomad",
+    "added_in": "Update v4.00",
+    "LEGOUse": "y",
+    "ID": "CID_113_Athena_Commando_M_BlueAce }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Royale_Bomber",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.634Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "royalebomber"
+}

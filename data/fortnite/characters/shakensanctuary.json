@@ -1,0 +1,42 @@
+{
+  "name": "Shaken Sanctuary",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/3/35/Shaken_Sanctuary_-_Location_-_Fortnite.png/revision/latest?cb=20260610182624",
+  "url": "https://fortnite.fandom.com/wiki/Shaken_Sanctuary",
+  "title": null,
+  "location": "N Cluster Coast NE Sunken Shores E Sinister Strip SW Golden Grove S Frosted Flats",
+  "affiliation": null,
+  "introduced": "June 6th 2026",
+  "services": null,
+  "details": {
+    "name": "Shaken Sanctuary",
+    "image": "Shaken Sanctuary - Location - Fortnite.png|Overview Shaken Sanctuary (July 9th 2026 - Top View) - Location - Fortnite.png|Top View",
+    "location": "N Cluster Coast NE Sunken Shores E Sinister Strip SW Golden Grove S Frosted Flats",
+    "type": "Named Location",
+    "island": "Shattered Coast",
+    "chests": "53",
+    "ammo_boxes": "30",
+    "produce_boxes": "1",
+    "vending_machines": "3",
+    "release": "June 6th 2026",
+    "vehicles": "1x Reboot Van 2x Grandeur Trailsmasher 1x Motors Whiplash 2x Motorboat 2x Batman's Beach Buggy",
+    "character": "C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]]",
+    "previous": "New Sanctuary",
+    "wildlife": "C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] C7S3]] }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Shaken_Sanctuary",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.514Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "shakensanctuary"
+}

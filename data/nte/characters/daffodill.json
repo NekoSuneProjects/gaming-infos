@@ -1,14 +1,15 @@
 {
-    "name": "Daffodill",
-    "role": "DPS",
-    "element": "Chaos",
-    "faction": "Eibon Antique Shop (formerly The Scarlet Letter)",
-    "rarity": "S-Rank",
-    "voiceActorEN": "Natalie Van Sistine",
-    "voiceActorJP": "大原さやか",
-    "gender": "Female",
-    "favoriteGift": "TBA",
-    "birthdate": "January 19",
-    "image": "https://nte.wiki/images/characters/splash/daffodill.webp",
-    "url": "https://neverness-to-everness.fandom.com/wiki/Daffodill"
+  "name": "Daffodill",
+  "role": "DPS",
+  "element": "Chaos",
+  "faction": "Eibon Antique Shop (formerly The Scarlet Letter)",
+  "rarity": "S-Rank",
+  "voiceActorEN": "Natalie Van Sistine",
+  "voiceActorJP": "大原さやか",
+  "gender": "Female",
+  "favoriteGift": "TBA",
+  "birthdate": "January 19",
+  "image": "https://nte.wiki/images/characters/splash/daffodill.webp",
+  "url": "https://neverness-to-everness.fandom.com/wiki/Daffodill",
+  "slug": "daffodill"
 }

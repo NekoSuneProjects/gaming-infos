@@ -1,0 +1,580 @@
+{
+  "generic": {
+    "enabled": true,
+    "running": false,
+    "intervalHours": 24,
+    "minimumSourceAgeHours": 20,
+    "sourceDelayMs": 2000,
+    "lastRefreshStartedAt": "2026-08-24T10:59:58.714Z",
+    "lastRefreshFinishedAt": "2026-08-24T11:04:05.317Z",
+    "lastRefreshError": null,
+    "sources": [
+      {
+        "game": "arknights-endfield",
+        "name": "Game8",
+        "url": "https://game8.co/games/Arknights-Endfield/archives/571509",
+        "parserType": "generic-sections",
+        "trustLevel": 85,
+        "enabled": true,
+        "lastCheckedAt": "2026-08-24T11:02:30.000Z",
+        "lastSuccessAt": "2026-08-24T11:02:30.000Z",
+        "lastChangedAt": "2026-08-24T11:02:30.000Z",
+        "lastError": null
+      },
+      {
+        "game": "arknights-endfield",
+        "name": "PCGamesN",
+        "url": "https://www.pcgamesn.com/arknights-endfield/codes",
+        "parserType": "generic-sections",
+        "trustLevel": 80,
+        "enabled": true,
+        "lastCheckedAt": "2026-08-24T11:00:39.000Z",
+        "lastSuccessAt": "2026-08-24T11:00:39.000Z",
+        "lastChangedAt": "2026-08-24T09:22:33.000Z",
+        "lastError": null
+      },
+      {
+        "game": "borderlands-1",
+        "name": "Pro Game Guides",
+        "url": "https://progameguides.com/borderlands/borderlands-1-shift-codes-list/",
+        "parserType": "generic-sections",
+        "trustLevel": 75,
+        "enabled": true,
+        "lastCheckedAt": "2026-08-24T11:00:16.000Z",
+        "lastSuccessAt": null,
+        "lastChangedAt": null,
+        "lastError": "HTTP 403: Request failed with status code 403"
+      },
+      {
+        "game": "borderlands-2",
+        "name": "MentalMars",
+        "url": "https://mentalmars.com/game-news/borderlands-2-golden-keys/",
+        "parserType": "generic-sections",
+        "trustLevel": 80,
+        "enabled": true,
+        "lastCheckedAt": "2026-08-24T11:00:41.000Z",
+        "lastSuccessAt": "2026-08-24T11:00:41.000Z",
+        "lastChangedAt": "2026-08-24T09:22:35.000Z",
+        "lastError": null
+      },
+      {
+        "game": "borderlands-3",
+        "name": "Esports.net",
+        "url": "https://www.esports.net/wiki/guides/borderlands-3-shift-codes/",
+        "parserType": "generic-sections",
+        "trustLevel": 75,
+        "enabled": true,
+        "lastCheckedAt": "2026-08-24T11:00:18.000Z",
+        "lastSuccessAt": "2026-08-24T11:00:18.000Z",
+        "lastChangedAt": "2026-08-24T11:00:18.000Z",
+        "lastError": null
+      },
+      {
+        "game": "borderlands-4",
+        "name": "Game8",
+        "url": "https://game8.co/games/Borderlands-4/archives/548406",
+        "parserType": "generic-sections",
+        "trustLevel": 85,
+        "enabled": true,
+        "lastCheckedAt": "2026-08-24T11:02:35.000Z",
+        "lastSuccessAt": "2026-08-24T11:02:35.000Z",
+        "lastChangedAt": "2026-08-24T11:02:35.000Z",
+        "lastError": null
+      },
+      {
+        "game": "borderlands-the-pre-sequel",
+        "name": "Pro Game Guides",
+        "url": "https://progameguides.com/borderlands/borderlands-the-pre-sequel-shift-codes/",
+        "parserType": "generic-sections",
+        "trustLevel": 75,
+        "enabled": true,
+        "lastCheckedAt": "2026-08-24T11:00:24.000Z",
+        "lastSuccessAt": null,
+        "lastChangedAt": null,
+        "lastError": "HTTP 403: Request failed with status code 403"
+      },
+      {
+        "game": "cookie-run-kingdom",
+        "name": "PCGamesN",
+        "url": "https://www.pcgamesn.com/cookie-run-kingdom/codes",
+        "parserType": "generic-sections",
+        "trustLevel": 82,
+        "enabled": true,
+        "lastCheckedAt": "2026-08-24T11:01:52.000Z",
+        "lastSuccessAt": "2026-08-24T11:01:52.000Z",
+        "lastChangedAt": "2026-08-24T11:01:52.000Z",
+        "lastError": null
+      },
+      {
+        "game": "cookie-run-kingdom",
+        "name": "Pocket Gamer",
+        "url": "https://www.pocketgamer.com/cookie-run-kingdom/codes/",
+        "parserType": "generic-sections",
+        "trustLevel": 80,
+        "enabled": true,
+        "lastCheckedAt": "2026-08-24T11:00:43.000Z",
+        "lastSuccessAt": "2026-08-24T11:00:43.000Z",
+        "lastChangedAt": "2026-08-24T11:00:43.000Z",
+        "lastError": null
+      },
+      {
+        "game": "genshin-impact",
+        "name": "Game8",
+        "url": "https://game8.co/games/Genshin-Impact/archives/304759",
+        "parserType": "generic-sections",
+        "trustLevel": 85,
+        "enabled": true,
+        "lastCheckedAt": "2026-08-24T11:02:41.000Z",
+        "lastSuccessAt": "2026-08-24T11:02:41.000Z",
+        "lastChangedAt": "2026-08-24T11:02:41.000Z",
+        "lastError": null
+      },
+      {
+        "game": "genshin-impact",
+        "name": "PCGamesN",
+        "url": "https://www.pcgamesn.com/genshin-impact/codes-redeem-promo",
+        "parserType": "generic-sections",
+        "trustLevel": 82,
+        "enabled": true,
+        "lastCheckedAt": "2026-08-24T11:01:56.000Z",
+        "lastSuccessAt": "2026-08-24T11:01:56.000Z",
+        "lastChangedAt": "2026-08-24T11:01:56.000Z",
+        "lastError": null
+      },
+      {
+        "game": "honkai-impact-3rd",
+        "name": "MrGuider",
+        "url": "https://www.mrguider.org/cheats/honkai-impact-codes/",
+        "parserType": "generic-sections",
+        "trustLevel": 75,
+        "enabled": true,
+        "lastCheckedAt": "2026-08-24T11:00:26.000Z",
+        "lastSuccessAt": null,
+        "lastChangedAt": null,
+        "lastError": "HTTP 403: Request failed with status code 403"
+      },
+      {
+        "game": "honkai-impact-3rd",
+        "name": "Pocket Gamer",
+        "url": "https://www.pocketgamer.com/honkai-impact-3rd/codes/",
+        "parserType": "generic-sections",
+        "trustLevel": 82,
+        "enabled": true,
+        "lastCheckedAt": "2026-08-24T11:02:05.000Z",
+        "lastSuccessAt": "2026-08-24T11:02:05.000Z",
+        "lastChangedAt": "2026-08-24T09:23:29.000Z",
+        "lastError": null
+      },
+      {
+        "game": "honkai-star-rail",
+        "name": "Game8",
+        "url": "https://game8.co/games/Honkai-Star-Rail/archives/410296",
+        "parserType": "generic-sections",
+        "trustLevel": 85,
+        "enabled": true,
+        "lastCheckedAt": "2026-08-24T11:02:55.000Z",
+        "lastSuccessAt": "2026-08-24T11:02:55.000Z",
+        "lastChangedAt": "2026-08-24T11:02:55.000Z",
+        "lastError": null
+      },
+      {
+        "game": "honkai-star-rail",
+        "name": "PCGamesN",
+        "url": "https://www.pcgamesn.com/honkai-star-rail/codes",
+        "parserType": "generic-sections",
+        "trustLevel": 82,
+        "enabled": true,
+        "lastCheckedAt": "2026-08-24T11:02:08.000Z",
+        "lastSuccessAt": "2026-08-24T11:02:08.000Z",
+        "lastChangedAt": "2026-08-24T11:02:08.000Z",
+        "lastError": null
+      },
+      {
+        "game": "honkai-star-rail",
+        "name": "Pocket Gamer",
+        "url": "https://www.pocketgamer.com/honkai-star-rail/codes/",
+        "parserType": "generic-sections",
+        "trustLevel": 80,
+        "enabled": true,
+        "lastCheckedAt": "2026-08-24T11:01:02.000Z",
+        "lastSuccessAt": "2026-08-24T11:01:02.000Z",
+        "lastChangedAt": "2026-08-24T09:22:45.000Z",
+        "lastError": null
+      },
+      {
+        "game": "neverness-to-everness",
+        "name": "NTE Build",
+        "url": "https://www.ntebuild.com/codes",
+        "parserType": "generic-sections",
+        "trustLevel": 78,
+        "enabled": true,
+        "lastCheckedAt": "2026-08-24T11:00:34.000Z",
+        "lastSuccessAt": "2026-08-24T11:00:34.000Z",
+        "lastChangedAt": "2026-08-24T09:22:30.000Z",
+        "lastError": null
+      },
+      {
+        "game": "neverness-to-everness",
+        "name": "PCGamesN",
+        "url": "https://www.pcgamesn.com/neverness-to-everness/codes",
+        "parserType": "generic-sections",
+        "trustLevel": 85,
+        "enabled": true,
+        "lastCheckedAt": "2026-08-24T11:03:13.000Z",
+        "lastSuccessAt": "2026-08-24T11:03:13.000Z",
+        "lastChangedAt": "2026-08-24T11:03:13.000Z",
+        "lastError": null
+      },
+      {
+        "game": "neverness-to-everness",
+        "name": "Pocket Gamer",
+        "url": "https://www.pocketgamer.com/neverness-to-everness/codes/",
+        "parserType": "generic-sections",
+        "trustLevel": 80,
+        "enabled": true,
+        "lastCheckedAt": "2026-08-24T11:01:04.000Z",
+        "lastSuccessAt": "2026-08-24T11:01:04.000Z",
+        "lastChangedAt": "2026-08-24T09:22:47.000Z",
+        "lastError": null
+      },
+      {
+        "game": "roblox-doors",
+        "name": "AllThingsHow",
+        "url": "https://allthings.how/doors-codes/",
+        "parserType": "generic-sections",
+        "trustLevel": 75,
+        "enabled": true,
+        "lastCheckedAt": "2026-08-24T11:00:28.000Z",
+        "lastSuccessAt": "2026-08-24T11:00:28.000Z",
+        "lastChangedAt": "2026-08-24T09:22:26.000Z",
+        "lastError": null
+      },
+      {
+        "game": "roblox-doors",
+        "name": "Beebom",
+        "url": "https://beebom.com/roblox-doors-codes/amp/",
+        "parserType": "generic-sections",
+        "trustLevel": 82,
+        "enabled": true,
+        "lastCheckedAt": "2026-08-24T11:02:14.000Z",
+        "lastSuccessAt": "2026-08-24T11:02:14.000Z",
+        "lastChangedAt": "2026-08-24T09:23:36.000Z",
+        "lastError": null
+      },
+      {
+        "game": "roblox-rivals",
+        "name": "PCGamesN",
+        "url": "https://www.pcgamesn.com/roblox-rivals/codes",
+        "parserType": "generic-sections",
+        "trustLevel": 82,
+        "enabled": true,
+        "lastCheckedAt": "2026-08-24T11:02:19.000Z",
+        "lastSuccessAt": "2026-08-24T11:02:19.000Z",
+        "lastChangedAt": "2026-08-24T11:02:19.000Z",
+        "lastError": null
+      },
+      {
+        "game": "roblox-rivals",
+        "name": "Pocket Gamer",
+        "url": "https://www.pocketgamer.com/roblox/rivals-codes/",
+        "parserType": "generic-sections",
+        "trustLevel": 80,
+        "enabled": true,
+        "lastCheckedAt": "2026-08-24T11:01:08.000Z",
+        "lastSuccessAt": "2026-08-24T11:01:08.000Z",
+        "lastChangedAt": "2026-08-24T11:01:08.000Z",
+        "lastError": null
+      },
+      {
+        "game": "tower-of-fantasy",
+        "name": "PCGamesN",
+        "url": "https://www.pcgamesn.com/tower-of-fantasy/codes",
+        "parserType": "generic-sections",
+        "trustLevel": 65,
+        "enabled": true,
+        "lastCheckedAt": "2026-08-24T10:59:59.000Z",
+        "lastSuccessAt": "2026-08-24T10:59:59.000Z",
+        "lastChangedAt": "2026-08-24T09:22:11.000Z",
+        "lastError": null
+      },
+      {
+        "game": "tower-of-fantasy",
+        "name": "Pocket Gamer",
+        "url": "https://www.pocketgamer.com/tower-of-fantasy/codes/",
+        "parserType": "generic-sections",
+        "trustLevel": 85,
+        "enabled": true,
+        "lastCheckedAt": "2026-08-24T11:03:17.000Z",
+        "lastSuccessAt": "2026-08-24T11:03:17.000Z",
+        "lastChangedAt": "2026-08-24T09:24:30.000Z",
+        "lastError": null
+      },
+      {
+        "game": "warframe",
+        "name": "browse.wf Glyph Data",
+        "url": "https://raw.githubusercontent.com/calamity-inc/browse.wf/senpai/supplemental-data/glyphs.json",
+        "parserType": "warframe-browse-glyphs",
+        "trustLevel": 95,
+        "enabled": true,
+        "lastCheckedAt": "2026-08-24T11:03:34.000Z",
+        "lastSuccessAt": "2026-08-24T11:03:34.000Z",
+        "lastChangedAt": "2026-08-24T09:24:45.000Z",
+        "lastError": null
+      },
+      {
+        "game": "warframe",
+        "name": "PCGamesN",
+        "url": "https://www.pcgamesn.com/warframe/codes",
+        "parserType": "generic-sections",
+        "trustLevel": 80,
+        "enabled": true,
+        "lastCheckedAt": "2026-08-24T11:01:14.000Z",
+        "lastSuccessAt": "2026-08-24T11:01:14.000Z",
+        "lastChangedAt": "2026-08-24T11:01:14.000Z",
+        "lastError": null
+      },
+      {
+        "game": "wuthering-waves",
+        "name": "Game8",
+        "url": "https://game8.co/games/Wuthering-Waves/archives/453149",
+        "parserType": "generic-sections",
+        "trustLevel": 85,
+        "enabled": true,
+        "lastCheckedAt": "2026-08-24T11:03:19.000Z",
+        "lastSuccessAt": "2026-08-24T11:03:19.000Z",
+        "lastChangedAt": "2026-08-24T11:03:19.000Z",
+        "lastError": null
+      },
+      {
+        "game": "wuthering-waves",
+        "name": "PCGamesN",
+        "url": "https://www.pcgamesn.com/wuthering-waves/codes",
+        "parserType": "generic-sections",
+        "trustLevel": 82,
+        "enabled": true,
+        "lastCheckedAt": "2026-08-24T11:02:24.000Z",
+        "lastSuccessAt": "2026-08-24T11:02:24.000Z",
+        "lastChangedAt": "2026-08-24T11:02:24.000Z",
+        "lastError": null
+      },
+      {
+        "game": "zenless-zone-zero",
+        "name": "Game8",
+        "url": "https://game8.co/games/Zenless-Zone-Zero/archives/435683",
+        "parserType": "generic-sections",
+        "trustLevel": 85,
+        "enabled": true,
+        "lastCheckedAt": "2026-08-24T11:03:27.000Z",
+        "lastSuccessAt": "2026-08-24T11:03:27.000Z",
+        "lastChangedAt": "2026-08-24T11:03:27.000Z",
+        "lastError": null
+      },
+      {
+        "game": "zenless-zone-zero",
+        "name": "PCGamesN",
+        "url": "https://www.pcgamesn.com/zenless-zone-zero/codes",
+        "parserType": "generic-sections",
+        "trustLevel": 80,
+        "enabled": true,
+        "lastCheckedAt": "2026-08-24T11:01:44.000Z",
+        "lastSuccessAt": "2026-08-24T11:01:44.000Z",
+        "lastChangedAt": "2026-08-24T11:01:44.000Z",
+        "lastError": null
+      }
+    ]
+  },
+  "specialized": [
+    {
+      "game": "brawl-stars",
+      "name": "MobileMatters Brawl Stars Creator Codes",
+      "url": "https://mobilematters.gg/brawl-stars/brawl-stars-creator-codes",
+      "parserType": "supercell-creator-list",
+      "trustLevel": 82,
+      "enabled": true,
+      "lastCheckedAt": "2026-08-24T11:04:06.000Z",
+      "lastSuccessAt": "2026-08-24T11:04:06.000Z",
+      "lastChangedAt": "2026-08-24T09:23:39.000Z",
+      "lastError": null
+    },
+    {
+      "game": "clash-of-clans",
+      "name": "MobileMatters Clash of Clans Creator Codes",
+      "url": "https://mobilematters.gg/clash-of-clans/clash-of-clans-creator-codes",
+      "parserType": "supercell-creator-list",
+      "trustLevel": 82,
+      "enabled": true,
+      "lastCheckedAt": "2026-08-24T11:04:21.000Z",
+      "lastSuccessAt": "2026-08-24T11:04:21.000Z",
+      "lastChangedAt": "2026-08-24T09:23:50.000Z",
+      "lastError": null
+    },
+    {
+      "game": "clash-royale",
+      "name": "PlayHub Clash Royale Creator Codes",
+      "url": "https://playhub.com/blog/clash-royale/creator-codes-800104",
+      "parserType": "supercell-creator-list",
+      "trustLevel": 82,
+      "enabled": true,
+      "lastCheckedAt": "2026-08-24T11:04:36.000Z",
+      "lastSuccessAt": null,
+      "lastChangedAt": null,
+      "lastError": "Request failed with status code 403"
+    },
+    {
+      "game": "fortnite",
+      "name": "AllThingsHow Fortnite Admin Panel Codes",
+      "url": "https://allthings.how/fortnite-codes/",
+      "parserType": "fortnite-admin-panel",
+      "trustLevel": 82,
+      "enabled": true,
+      "lastCheckedAt": "2026-08-24T11:04:05.000Z",
+      "lastSuccessAt": "2026-08-24T11:04:05.000Z",
+      "lastChangedAt": "2026-08-24T09:25:39.000Z",
+      "lastError": null
+    }
+  ],
+  "schedule": {
+    "enabled": true,
+    "running": false,
+    "intervalHours": 24,
+    "retryMinutes": 60,
+    "fullCatchup": true,
+    "state": {
+      "syncKey": "daily-game-content",
+      "intervalHours": 24,
+      "lastStartedAt": "2026-08-24T10:59:58.000Z",
+      "lastFinishedAt": "2026-08-24T11:06:16.000Z",
+      "lastSuccessAt": null,
+      "nextRunAt": "2026-08-24T12:06:16.000Z",
+      "lastStatus": "failed",
+      "lastError": "generic game codes: 3 source(s) failed\nSupercell creator codes: 1 source(s) failed\nGaming Infos expanded: wutheringwaves: Wuthering Waves Wiki returned zero released/playable names; zenlesszonezero: Zenless Zone Zero Wiki returned zero released/playable names; vrchat: Request failed with status code 403",
+      "lastResult": {
+        "reason": "first-startup-catchup",
+        "force": true,
+        "full": true,
+        "startedAt": "2026-08-24T10:59:58.582Z",
+        "finishedAt": "2026-08-24T11:06:16.889Z",
+        "results": {
+          "gameCodes": {
+            "ok": true,
+            "reason": "first-startup-catchup",
+            "sourcesChecked": 31,
+            "networkRequests": 31,
+            "sourcesFailed": 3,
+            "candidatesProcessed": 2403
+          },
+          "fortniteRewards": {
+            "ok": true,
+            "cached": true,
+            "networkRequests": 1,
+            "codes": 22
+          },
+          "supercellCreatorCodes": {
+            "ok": true,
+            "sources": 3,
+            "networkRequests": 3,
+            "codes": 280,
+            "failed": 1
+          },
+          "gamingInfosCore": {
+            "ok": true,
+            "startedAt": "2026-08-24T11:04:36.589Z",
+            "finishedAt": "2026-08-24T11:04:42.205Z",
+            "dryRun": false,
+            "results": [
+              {
+                "game": "genshinimpact",
+                "discovered": 120,
+                "selected": 17,
+                "created": 17,
+                "updated": 0,
+                "skipped": 0,
+                "wikiPages": 17
+              },
+              {
+                "game": "honkaistarrail",
+                "discovered": 85,
+                "selected": 19,
+                "created": 19,
+                "updated": 0,
+                "skipped": 0,
+                "wikiPages": 19
+              },
+              {
+                "game": "nte",
+                "discovered": 21,
+                "selected": 1,
+                "created": 1,
+                "updated": 0,
+                "skipped": 0,
+                "wikiPages": 1
+              }
+            ]
+          },
+          "gamingInfosExpanded": {
+            "ok": true,
+            "startedAt": "2026-08-24T11:04:42.207Z",
+            "finishedAt": "2026-08-24T11:06:16.729Z",
+            "dryRun": false,
+            "results": [
+              {
+                "game": "wutheringwaves",
+                "error": "Wuthering Waves Wiki returned zero released/playable names"
+              },
+              {
+                "game": "zenlesszonezero",
+                "error": "Zenless Zone Zero Wiki returned zero released/playable names"
+              },
+              {
+                "game": "arknightsendfield",
+                "discovered": 32,
+                "selected": 32,
+                "created": 32,
+                "updated": 0,
+                "skipped": 0
+              },
+              {
+                "game": "warframe",
+                "discovered": 126,
+                "created": 126,
+                "updated": 0,
+                "skipped": 0
+              },
+              {
+                "game": "fortnite",
+                "discovered": 495,
+                "selected": 200,
+                "created": 187,
+                "updated": 0,
+                "skipped": 13
+              },
+              {
+                "game": "toweroffantasy",
+                "discovered": 46,
+                "selected": 46,
+                "created": 46,
+                "updated": 0,
+                "skipped": 0
+              },
+              {
+                "game": "vrchat",
+                "error": "Request failed with status code 403"
+              }
+            ]
+          },
+          "fortniteCreatorValidation": {
+            "ok": true,
+            "due": 0,
+            "checked": 0,
+            "active": 0,
+            "expired": 0,
+            "deferred": 0
+          }
+        }
+      },
+      "runCount": 1,
+      "successCount": 0,
+      "failureCount": 1
+    }
+  }
+}

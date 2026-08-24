@@ -1,12 +1,13 @@
 {
-    "name": "Hu Tao",
-    "quote": "I'm the 77th Director of the Wangsheng Funeral Parlor, Hu Tao.",
-    "cv": "Rie Takahashi",
-    "description": "The eccentric and playful 77th Director of the Wangsheng Funeral Parlor in Liyue, who treats funeral rites with the utmost solemnity despite her mischievous personality, and dabbles in poetry on the side.",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Hu_Tao_%28Genshin_Impact%29.png/250px-Hu_Tao_%28Genshin_Impact%29.png",
-    "city": "Liyue",
-    "url": "https://en.wikipedia.org/wiki/Hu_Tao",
-    "element": "Pyro",
-    "weapon": "Polearm",
-    "rating": 5
+  "name": "Hu Tao",
+  "quote": "I'm the 77th Director of the Wangsheng Funeral Parlor, Hu Tao.",
+  "cv": "Rie Takahashi",
+  "description": "The eccentric and playful 77th Director of the Wangsheng Funeral Parlor in Liyue, who treats funeral rites with the utmost solemnity despite her mischievous personality, and dabbles in poetry on the side.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Hu_Tao_%28Genshin_Impact%29.png/250px-Hu_Tao_%28Genshin_Impact%29.png",
+  "city": "Liyue",
+  "url": "https://en.wikipedia.org/wiki/Hu_Tao",
+  "element": "Pyro",
+  "weapon": "Polearm",
+  "rating": 5,
+  "slug": "hutao"
 }

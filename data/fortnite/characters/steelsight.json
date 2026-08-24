@@ -1,0 +1,43 @@
+{
+  "name": "Steelsight",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/b/b4/Steelsight_%28New%29_-_Outfit_-_Fortnite.png/revision/latest?cb=20200705222318",
+  "url": "https://fortnite.fandom.com/wiki/Steelsight",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "April 27th 2018",
+  "services": null,
+  "details": {
+    "image": "Steelsight (v33.20) - Outfit - Fortnite.png|Icon Steelsight (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Epic",
+    "bundled_with": "Steelcast",
+    "cost": "1,500",
+    "unlocked": "Item Shop",
+    "added_in": "Update v3.60",
+    "release": "April 27th 2018",
+    "appearances": "Steelsight",
+    "character model": "Unique",
+    "body model": "Unique",
+    "LEGOUse": "y",
+    "ID": "CID_111_Athena_Commando_F_Robo",
+    "FGUse": "y",
+    "BeanID": "Bean_Robo }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Steelsight",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.618Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "steelsight"
+}

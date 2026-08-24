@@ -1,0 +1,41 @@
+{
+  "name": "Mephisto",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/e/ec/Mephisto_-_Outfit_-_Fortnite.png/revision/latest?cb=20241013000759",
+  "url": "https://fortnite.fandom.com/wiki/Mephisto",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "October 13th 2024",
+  "services": null,
+  "details": {
+    "image": "Mephisto - Outfit - Fortnite.png|Icon Mephisto (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Marvel Series",
+    "bundled_with": "Mephisto's Cloak",
+    "set": "Mephisto",
+    "unlocked": "Item Shop Mephisto Bundle",
+    "cost": "1,500 2,000 (Mephisto Bundle)",
+    "release": "October 13th 2024",
+    "appearances": "Mephisto",
+    "character model": "Unique",
+    "added_in": "Update v31.40",
+    "ID": "Character_ElbowChat",
+    "LEGOUse": "y }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Mephisto",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.580Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "mephisto"
+}

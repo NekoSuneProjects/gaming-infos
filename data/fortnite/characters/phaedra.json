@@ -1,0 +1,42 @@
+{
+  "name": "Phaedra",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/0/02/Phaedra_-_Outfit_-_Fortnite.png/revision/latest?cb=20220627151025",
+  "url": "https://fortnite.fandom.com/wiki/Phaedra",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "July 1st 2022",
+  "services": null,
+  "details": {
+    "image": "Phaedra - Outfit - Fortnite.png|Icon Phaedra (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Crew Series",
+    "set": "Gothic Nautilus",
+    "cost": "$11.99 ()",
+    "unlocked": "July 2022 Fortnite Crew Pack",
+    "release": "July 1st 2022",
+    "added_in": "Update v21.10",
+    "character model": "Phaedra",
+    "body model": "Unique",
+    "LEGOUse": "y",
+    "ID": "CID_A_438_Athena_Commando_F_Gloom",
+    "FGUse": "y",
+    "BeanID": "Bean_Gloom }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Phaedra",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.638Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "phaedra"
+}

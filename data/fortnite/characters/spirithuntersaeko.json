@@ -1,0 +1,41 @@
+{
+  "name": "Spirit Hunter Saeko",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/f/f4/Spirit_Hunter_Saeko_-_Outfit_-_Fortnite.png/revision/latest?cb=20240423151451",
+  "url": "https://fortnite.fandom.com/wiki/Spirit_Hunter_Saeko",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "May 1st 2024",
+  "services": null,
+  "details": {
+    "image": "Spirit Hunter Saeko - Outfit - Fortnite.png|Icon Spirit Hunter Saeko (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Crew Series",
+    "set": "Eternal Eye",
+    "added_in": "Update v29.30",
+    "ID": "Character_VoltaicHuntress",
+    "BeanID": "Bean_VoltaicHuntress",
+    "character model": "Saeko",
+    "unlocked": "May 2024 Fortnite Crew Pack",
+    "cost": "$11.99 ()",
+    "release": "May 1st 2024",
+    "LEGOUse": "y",
+    "FGUse": "y }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Spirit_Hunter_Saeko",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.613Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "spirithuntersaeko"
+}

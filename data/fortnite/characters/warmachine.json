@@ -1,0 +1,40 @@
+{
+  "name": "War Machine",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/5/55/War_Machine_%28Helmet_-_Off%29_-_Outfit_-_Fortnite.png/revision/latest?cb=20240816083336",
+  "url": "https://fortnite.fandom.com/wiki/War_Machine",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "June 29th 2026 (Item Shop) August 16th 2024 (4)",
+  "services": null,
+  "details": {
+    "image": "War Machine - Outfit - Fortnite.png|Icon War Machine (v41.10 - Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Marvel Series",
+    "set": "War Machine",
+    "character model": "Unique",
+    "unlocked": "Item Shop War Machine Bundle Page 3 4 9",
+    "cost": "1,500 2,400 (War Machine Bundle) 950 (4)",
+    "release": "June 29th 2026 (Item Shop) August 16th 2024 (4)",
+    "appearances": "War Machine",
+    "added_in": "Update v31.00",
+    "LEGOUse": "y",
+    "ID": "Character_MoosePorch_Math }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/War_Machine",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.586Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "warmachine"
+}

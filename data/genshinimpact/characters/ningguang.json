@@ -1,11 +1,12 @@
 {
-    "name": "Ningguang",
-    "cv": "Sayaka Ohara",
-    "description": "Ningguang is the Tianquan of the Liyue Qixing and owner of the floating Jade Chamber above Liyue Harbor, having risen from poverty to become one of the city's wealthiest and most influential figures. She fights as a Geo catalyst user.",
-    "image": "",
-    "city": "Liyue",
-    "url": "https://gamewith.net/genshin-impact/article/show/34366",
-    "element": "Geo",
-    "weapon": "Catalyst",
-    "rating": 4
+  "name": "Ningguang",
+  "cv": "Sayaka Ohara",
+  "description": "Ningguang is the Tianquan of the Liyue Qixing and owner of the floating Jade Chamber above Liyue Harbor, having risen from poverty to become one of the city's wealthiest and most influential figures. She fights as a Geo catalyst user.",
+  "image": "",
+  "city": "Liyue",
+  "url": "https://gamewith.net/genshin-impact/article/show/34366",
+  "element": "Geo",
+  "weapon": "Catalyst",
+  "rating": 4,
+  "slug": "ningguang"
 }

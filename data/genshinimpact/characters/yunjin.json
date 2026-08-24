@@ -1,11 +1,12 @@
 {
-    "name": "Yun Jin",
-    "cv": "Kotori Koiwai",
-    "description": "Yun Jin is the director and lead performer of the Yun-Han Opera Troupe in Liyue Harbor, continuing her family's long tradition of Liyue opera while working to modernize it for new audiences. She fights as a Geo polearm user whose Elemental Burst empowers her allies' normal attacks.",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Yun_Jin.png/250px-Yun_Jin.png",
-    "city": "Liyue",
-    "url": "https://en.wikipedia.org/wiki/Yun_Jin",
-    "element": "Geo",
-    "weapon": "Polearm",
-    "rating": 4
+  "name": "Yun Jin",
+  "cv": "Kotori Koiwai",
+  "description": "Yun Jin is the director and lead performer of the Yun-Han Opera Troupe in Liyue Harbor, continuing her family's long tradition of Liyue opera while working to modernize it for new audiences. She fights as a Geo polearm user whose Elemental Burst empowers her allies' normal attacks.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Yun_Jin.png/250px-Yun_Jin.png",
+  "city": "Liyue",
+  "url": "https://en.wikipedia.org/wiki/Yun_Jin",
+  "element": "Geo",
+  "weapon": "Polearm",
+  "rating": 4,
+  "slug": "yunjin"
 }

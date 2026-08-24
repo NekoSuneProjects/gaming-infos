@@ -1,0 +1,43 @@
+{
+  "name": "Phantom Meowscles",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/a/a7/Phantom_Meowscles_-_Outfit_-_Fortnite.png/revision/latest?cb=20231010102044",
+  "url": "https://fortnite.fandom.com/wiki/Phantom_Meowscles",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "October 19th 2023",
+  "services": null,
+  "details": {
+    "image": "Phantom Meowscles - Outfit - Fortnite.png|Icon Phantom Meowscles (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Rare",
+    "bundled_with": "Furrocious Flame",
+    "unlocked": "Item Shop Meownstrosity Bundle",
+    "set": "Meownstrosity",
+    "added_in": "Update v26.30",
+    "release": "October 19th 2023",
+    "cost": "1,200 1,700 (Meownstrosity Bundle)",
+    "character model": "Unique",
+    "LEGOUse": "y",
+    "FGUse": "y",
+    "ID": "Character_EctoCat",
+    "BeanID": "Bean_EctoCat",
+    "appearances": "Phantom Meowscles }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Phantom_Meowscles",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.641Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "phantommeowscles"
+}

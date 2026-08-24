@@ -1,0 +1,42 @@
+{
+  "name": "Silas Hesk",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/2/2d/Silas_Hesk_-_Outfit_-_Fortnite.png/revision/latest?cb=20231207112938",
+  "url": "https://fortnite.fandom.com/wiki/Silas_Hesk",
+  "title": null,
+  "location": null,
+  "affiliation": null,
+  "introduced": "January 1st 2024",
+  "services": null,
+  "details": {
+    "image": "Silas Hesk - Outfit - Fortnite.png|Icon Silas Hesk (Featured) - Outfit - Fortnite.png|Featured",
+    "type": "Outfit",
+    "rarity": "Crew Series",
+    "set": "Poison Prince",
+    "character model": "Unique",
+    "body model": "Unique",
+    "added_in": "Update v28.01",
+    "unlocked": "January 2024 Fortnite Crew Pack",
+    "cost": "$11.99 ()",
+    "release": "January 1st 2024",
+    "ID": "Character_SerpentCoil",
+    "BeanID": "Bean_SerpentCoil",
+    "LEGOUse": "y",
+    "FGUse": "y }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Silas_Hesk",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.624Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "silashesk"
+}

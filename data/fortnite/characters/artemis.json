@@ -1,0 +1,36 @@
+{
+  "name": "Artemis",
+  "description": "Current/released Fortnite Battle Royale Character (NPC).",
+  "image": "https://static.wikia.nocookie.net/fortnite/images/3/3f/Artemis_%28Update_v22.40%29_-_Island_-_Fortnite.png/revision/latest?cb=20231010093815",
+  "url": "https://fortnite.fandom.com/wiki/Artemis",
+  "title": null,
+  "location": "Reality Zero",
+  "affiliation": null,
+  "introduced": "December 5th 2021",
+  "services": null,
+  "details": {
+    "name": "Artemis 25px|link=",
+    "image": "Artemis (Update v22.40) - Island - Fortnite.png|C3S4 (Final Day) Artemis (Update v22.00) - Island - Fortnite.png|C3S4 Artemis (Update v21.00) - Island - Fortnite.png|C3S3 Artemis (Update v20.00) - Island - Fortnite.png|C3S2 Artemis (Update v19.00) - Island - Fortnite.png|C3S1 (Launch Day)",
+    "type": "Island",
+    "status": "Destroyed and merged with Apollo, a part of Reality: 659 and bits of other realities to form Asteria",
+    "location": "Reality Zero",
+    "release": "December 5th 2021",
+    "removed": "December 4th 2022",
+    "owner": "The Zero Point (C3S1, C3S2) (C3S4) }}"
+  },
+  "source": {
+    "provider": "Fortnite Wiki Character Collection",
+    "url": "https://fortnite.fandom.com/wiki/Artemis",
+    "license": "CC BY-SA",
+    "publicDataOnly": true
+  },
+  "_sync": {
+    "managed": true,
+    "provider": "fortnite-wiki-current-collection",
+    "game": "fortnite",
+    "syncedAt": "2026-08-24T11:05:04.574Z",
+    "releasedOnly": true,
+    "excludesUnreleasedCosmetics": true
+  },
+  "slug": "artemis"
+}

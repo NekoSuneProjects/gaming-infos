@@ -1,12 +1,13 @@
 {
-    "name": "Seele",
-    "rarity": "5-star",
-    "path": "Hunt",
-    "element": "Quantum",
-    "faction": "Wildfire",
-    "voiceActorEN": "Molly Zhang",
-    "voiceActorJP": "Mai Nakahara",
-    "description": "A spirited member of the grassroots faction Wildfire who grew up at the same Underworld orphanage as Bronya, Seele fights with a lightweight sickle and is known for her speed and resolve.",
-    "image": "",
-    "url": "https://honkai-star-rail.fandom.com/wiki/Seele"
+  "name": "Seele",
+  "rarity": "5-star",
+  "path": "Hunt",
+  "element": "Quantum",
+  "faction": "Wildfire",
+  "voiceActorEN": "Molly Zhang",
+  "voiceActorJP": "Mai Nakahara",
+  "description": "A spirited member of the grassroots faction Wildfire who grew up at the same Underworld orphanage as Bronya, Seele fights with a lightweight sickle and is known for her speed and resolve.",
+  "image": "",
+  "url": "https://honkai-star-rail.fandom.com/wiki/Seele",
+  "slug": "seele"
 }
