@@ -16,8 +16,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -52,8 +50,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -88,8 +84,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -124,8 +118,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -160,8 +152,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -196,8 +186,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -232,8 +220,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -268,8 +254,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -304,8 +288,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -340,8 +322,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -376,8 +356,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -412,8 +390,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -448,8 +424,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -484,8 +458,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -520,8 +492,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -556,8 +526,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -592,8 +560,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -628,8 +594,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -664,8 +628,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -700,8 +662,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -736,8 +696,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -772,8 +730,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -808,8 +764,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -844,8 +798,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -880,8 +832,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -916,8 +866,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -952,8 +900,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -988,8 +934,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -1024,8 +968,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -1060,8 +1002,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -1096,8 +1036,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -1132,8 +1070,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -1168,8 +1104,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -1204,8 +1138,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -1240,8 +1172,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -1276,8 +1206,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -1312,8 +1240,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -1348,8 +1274,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -1384,8 +1308,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -1420,8 +1342,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -1456,8 +1376,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -1492,8 +1410,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -1528,8 +1444,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -1564,8 +1478,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -1600,8 +1512,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -1636,8 +1546,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -1672,8 +1580,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -1708,8 +1614,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -1744,8 +1648,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -1780,8 +1682,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -1816,8 +1716,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -1852,8 +1750,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -1888,8 +1784,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -1924,8 +1818,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -1960,8 +1852,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -1996,8 +1886,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -2032,8 +1920,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -2068,8 +1954,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -2104,8 +1988,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -2140,8 +2022,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -2176,8 +2056,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -2212,8 +2090,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -2248,8 +2124,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -2284,8 +2158,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -2320,8 +2192,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -2356,8 +2226,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -2392,8 +2260,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -2428,8 +2294,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -2464,8 +2328,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -2500,8 +2362,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -2536,8 +2396,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -2572,8 +2430,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -2608,8 +2464,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -2644,8 +2498,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -2680,8 +2532,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -2716,8 +2566,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -2752,8 +2600,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -2788,8 +2634,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -2824,8 +2668,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -2860,8 +2702,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -2896,8 +2736,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -2932,8 +2770,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -2968,8 +2804,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -3004,8 +2838,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -3040,8 +2872,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -3076,8 +2906,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -3112,8 +2940,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -3148,8 +2974,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -3184,8 +3008,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -3220,8 +3042,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -3256,8 +3076,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -3292,8 +3110,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -3328,8 +3144,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -3364,8 +3178,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -3400,8 +3212,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -3436,8 +3246,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -3472,8 +3280,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -3508,8 +3314,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -3544,8 +3348,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -3580,8 +3382,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -3616,8 +3416,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -3652,8 +3450,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -3688,8 +3484,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -3724,8 +3518,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -3760,8 +3552,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -3796,8 +3586,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -3832,8 +3620,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -3868,8 +3654,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -3904,8 +3688,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -3940,8 +3722,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -3976,8 +3756,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -4012,8 +3790,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -4048,8 +3824,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -4084,8 +3858,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -4120,8 +3892,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -4156,8 +3926,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -4192,8 +3960,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -4228,8 +3994,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -4264,8 +4028,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -4300,8 +4062,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -4336,8 +4096,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -4372,8 +4130,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -4408,8 +4164,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -4444,8 +4198,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -4480,8 +4232,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -4516,8 +4266,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -4552,8 +4300,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -4588,8 +4334,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -4624,8 +4368,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -4660,8 +4402,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -4696,8 +4436,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -4732,8 +4470,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -4768,8 +4504,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -4804,8 +4538,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -4840,8 +4572,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -4876,8 +4606,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -4912,8 +4640,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -4948,8 +4674,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -4984,8 +4708,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -5020,8 +4742,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,

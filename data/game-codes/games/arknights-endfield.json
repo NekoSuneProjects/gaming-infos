@@ -22,8 +22,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -56,8 +54,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -89,8 +85,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -128,8 +122,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -161,8 +153,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -194,8 +184,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -227,8 +215,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -260,8 +246,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -293,8 +277,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -326,8 +308,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -359,8 +339,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -392,8 +370,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -425,8 +401,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -469,8 +443,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -514,13 +486,6 @@
         "sourceTimezone": "UTC",
         "selectedTimezone": "UTC",
         "local": "30/08/2026, 23:59:59 UTC",
-        "expiresInSeconds": 561711,
-        "countdown": {
-          "days": 6,
-          "hours": 12,
-          "minutes": 1,
-          "seconds": 51
-        },
         "expired": false
       },
       "redeemUrl": null,
@@ -571,8 +536,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": null,
@@ -626,8 +589,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": null,
@@ -660,8 +621,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": null,
@@ -693,8 +652,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": null,
@@ -726,8 +683,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": null,
@@ -759,8 +714,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": null,
@@ -792,8 +745,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": null,
@@ -825,8 +776,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": null,
@@ -858,8 +807,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": null,
@@ -927,13 +874,6 @@
         "sourceTimezone": "UTC",
         "selectedTimezone": "UTC",
         "local": "29/01/2026, 23:59:59 UTC",
-        "expiresInSeconds": 0,
-        "countdown": {
-          "days": 0,
-          "hours": 0,
-          "minutes": 0,
-          "seconds": 0
-        },
         "expired": true
       },
       "redeemUrl": null,
@@ -997,13 +937,6 @@
         "sourceTimezone": "UTC",
         "selectedTimezone": "UTC",
         "local": "29/01/2026, 23:59:59 UTC",
-        "expiresInSeconds": 0,
-        "countdown": {
-          "days": 0,
-          "hours": 0,
-          "minutes": 0,
-          "seconds": 0
-        },
         "expired": true
       },
       "redeemUrl": null,

@@ -32,8 +32,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -81,8 +79,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -120,8 +116,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -159,8 +153,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": null,
@@ -198,13 +190,6 @@
         "sourceTimezone": "UTC+8",
         "selectedTimezone": "UTC",
         "local": "25/08/2026, 15:59:00 UTC",
-        "expiresInSeconds": 100845,
-        "countdown": {
-          "days": 1,
-          "hours": 4,
-          "minutes": 0,
-          "seconds": 45
-        },
         "expired": false
       },
       "redeemUrl": null,
@@ -253,13 +238,6 @@
         "sourceTimezone": "UTC",
         "selectedTimezone": "UTC",
         "local": "17/09/2026, 23:59:59 UTC",
-        "expiresInSeconds": 2116904,
-        "countdown": {
-          "days": 24,
-          "hours": 12,
-          "minutes": 1,
-          "seconds": 44
-        },
         "expired": false
       },
       "redeemUrl": null,
@@ -310,13 +288,6 @@
         "sourceTimezone": "UTC",
         "selectedTimezone": "UTC",
         "local": "11/07/2026, 23:59:59 UTC",
-        "expiresInSeconds": 0,
-        "countdown": {
-          "days": 0,
-          "hours": 0,
-          "minutes": 0,
-          "seconds": 0
-        },
         "expired": true
       },
       "redeemUrl": null,
@@ -365,13 +336,6 @@
         "sourceTimezone": "UTC+8",
         "selectedTimezone": "UTC",
         "local": "10/08/2026, 15:59:00 UTC",
-        "expiresInSeconds": 0,
-        "countdown": {
-          "days": 0,
-          "hours": 0,
-          "minutes": 0,
-          "seconds": 0
-        },
         "expired": true
       },
       "redeemUrl": null,
@@ -420,13 +384,6 @@
         "sourceTimezone": "UTC+8",
         "selectedTimezone": "UTC",
         "local": "21/08/2026, 15:59:00 UTC",
-        "expiresInSeconds": 0,
-        "countdown": {
-          "days": 0,
-          "hours": 0,
-          "minutes": 0,
-          "seconds": 0
-        },
         "expired": true
       },
       "redeemUrl": null,

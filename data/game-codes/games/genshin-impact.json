@@ -27,8 +27,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -82,8 +80,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -127,8 +123,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -161,8 +155,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -194,8 +186,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -227,8 +217,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -260,8 +248,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -293,8 +279,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -326,8 +310,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -359,8 +341,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -392,8 +372,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -425,8 +403,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -458,8 +434,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -491,8 +465,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -524,8 +496,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -557,8 +527,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -616,8 +584,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -666,13 +632,6 @@
         "sourceTimezone": "UTC",
         "selectedTimezone": "UTC",
         "local": "24/08/2026, 23:59:59 UTC",
-        "expiresInSeconds": 43305,
-        "countdown": {
-          "days": 0,
-          "hours": 12,
-          "minutes": 1,
-          "seconds": 45
-        },
         "expired": false
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -716,13 +675,6 @@
         "sourceTimezone": "UTC",
         "selectedTimezone": "UTC",
         "local": "02/09/2026, 23:59:59 UTC",
-        "expiresInSeconds": 820905,
-        "countdown": {
-          "days": 9,
-          "hours": 12,
-          "minutes": 1,
-          "seconds": 45
-        },
         "expired": false
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -757,8 +709,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -791,8 +741,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -824,8 +772,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -857,8 +803,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -890,8 +834,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -923,8 +865,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -956,8 +896,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -989,8 +927,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -1022,8 +958,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -1055,8 +989,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -1089,8 +1021,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -1122,8 +1052,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -1155,8 +1083,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -1188,8 +1114,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -1221,8 +1145,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -1254,8 +1176,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -1287,8 +1207,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -1320,8 +1238,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -1354,8 +1270,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -1388,8 +1302,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -1421,8 +1333,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -1455,8 +1365,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -1488,8 +1396,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -1521,8 +1427,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -1554,8 +1458,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -1588,8 +1490,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -1621,8 +1521,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -1654,8 +1552,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -1687,8 +1583,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -1721,8 +1615,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -1754,8 +1646,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -1787,8 +1677,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -1820,8 +1708,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -1853,8 +1739,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -1886,8 +1770,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -1919,8 +1801,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -1952,8 +1832,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -1985,8 +1863,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -2018,8 +1894,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -2051,8 +1925,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -2084,8 +1956,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -2117,8 +1987,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -2151,8 +2019,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -2184,8 +2050,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -2218,8 +2082,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -2251,8 +2113,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -2284,8 +2144,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -2317,8 +2175,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -2350,8 +2206,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -2383,8 +2237,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -2416,8 +2268,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -2449,8 +2299,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -2508,8 +2356,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -2542,8 +2388,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -2576,8 +2420,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -2610,8 +2452,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -2643,8 +2483,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -2676,8 +2514,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -2709,8 +2545,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -2742,8 +2576,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -2776,8 +2608,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -2809,8 +2639,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -2842,8 +2670,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -2875,8 +2701,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -2908,8 +2732,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -2942,8 +2764,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -2975,8 +2795,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -3009,8 +2827,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -3042,8 +2858,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -3075,8 +2889,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -3108,8 +2920,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -3142,8 +2952,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -3175,8 +2983,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -3208,8 +3014,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -3241,8 +3045,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -3274,8 +3076,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -3307,8 +3107,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -3340,8 +3138,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -3373,8 +3169,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -3406,8 +3200,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -3439,8 +3231,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -3472,8 +3262,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -3505,8 +3293,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -3538,8 +3324,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -3572,8 +3356,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -3605,8 +3387,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -3638,8 +3418,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -3671,8 +3449,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -3704,8 +3480,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -3737,8 +3511,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -3770,8 +3542,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -3803,8 +3573,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -3837,8 +3605,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -3870,8 +3636,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -3903,8 +3667,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -3936,8 +3698,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -3970,8 +3730,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -4004,8 +3762,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -4037,8 +3793,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -4070,8 +3824,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -4104,8 +3856,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -4137,8 +3887,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -4170,8 +3918,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -4204,8 +3950,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -4238,8 +3982,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -4271,8 +4013,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -4304,8 +4044,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -4337,8 +4075,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -4370,8 +4106,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -4403,8 +4137,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -4436,8 +4168,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -4469,8 +4199,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -4502,8 +4230,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -4536,8 +4262,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -4569,8 +4293,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -4602,8 +4324,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -4635,8 +4355,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -4669,8 +4387,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -4702,8 +4418,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -4736,8 +4450,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -4769,8 +4481,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -4802,8 +4512,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -4836,8 +4544,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -4869,8 +4575,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -4902,8 +4606,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -4935,8 +4637,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -4968,8 +4668,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -5001,8 +4699,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -5034,8 +4730,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -5067,8 +4761,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -5100,8 +4792,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -5133,8 +4823,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -5167,8 +4855,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -5200,8 +4886,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -5233,8 +4917,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -5266,8 +4948,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -5299,8 +4979,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -5332,8 +5010,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -5365,8 +5041,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -5398,8 +5072,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -5431,8 +5103,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -5464,8 +5134,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -5498,8 +5166,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -5531,8 +5197,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -5564,8 +5228,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -5598,8 +5260,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -5631,8 +5291,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -5664,8 +5322,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -5698,8 +5354,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -5731,8 +5385,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -5765,8 +5417,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -5798,8 +5448,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -5831,8 +5479,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -5864,8 +5510,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -5897,8 +5541,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -5930,8 +5572,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -5963,8 +5603,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -5996,8 +5634,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -6029,8 +5665,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -6063,8 +5697,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -6096,8 +5728,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -6129,8 +5759,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -6163,8 +5791,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -6196,8 +5822,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -6229,8 +5853,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -6262,8 +5884,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -6295,8 +5915,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -6329,8 +5947,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -6363,8 +5979,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -6396,8 +6010,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -6429,8 +6041,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -6463,8 +6073,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -6496,8 +6104,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -6529,8 +6135,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -6563,8 +6167,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -6597,8 +6199,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -6630,8 +6230,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -6663,8 +6261,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -6696,8 +6292,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -6730,8 +6324,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -6763,8 +6355,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -6796,8 +6386,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -6829,8 +6417,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -6862,8 +6448,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -6895,8 +6479,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -6928,8 +6510,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -6961,8 +6541,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -6994,8 +6572,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -7027,8 +6603,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -7060,8 +6634,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -7093,8 +6665,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -7126,8 +6696,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -7159,8 +6727,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -7192,8 +6758,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -7225,8 +6789,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -7259,8 +6821,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -7292,8 +6852,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -7325,8 +6883,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -7358,8 +6914,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -7391,8 +6945,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -7424,8 +6976,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -7457,8 +7007,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -7490,8 +7038,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -7523,8 +7069,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -7557,8 +7101,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -7590,8 +7132,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -7623,8 +7163,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -7656,8 +7194,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -7715,8 +7251,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -7749,8 +7283,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -7782,8 +7314,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -7815,8 +7345,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -7848,8 +7376,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -7881,8 +7407,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -7914,8 +7438,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -7947,8 +7469,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -7980,8 +7500,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -8013,8 +7531,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -8046,8 +7562,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -8079,8 +7593,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -8112,8 +7624,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -8145,8 +7655,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -8178,8 +7686,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -8211,8 +7717,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -8244,8 +7748,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -8277,8 +7779,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -8310,8 +7810,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -8343,8 +7841,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -8377,8 +7873,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -8410,8 +7904,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -8443,8 +7935,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -8476,8 +7966,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -8510,8 +7998,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -8543,8 +8029,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -8576,8 +8060,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -8609,8 +8091,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -8642,8 +8122,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -8675,8 +8153,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -8708,8 +8184,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -8741,8 +8215,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -8774,8 +8246,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -8807,8 +8277,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -8840,8 +8308,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -8874,8 +8340,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -8907,8 +8371,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -8951,13 +8413,6 @@
         "sourceTimezone": "UTC",
         "selectedTimezone": "UTC",
         "local": "03/08/2026, 23:59:59 UTC",
-        "expiresInSeconds": 0,
-        "countdown": {
-          "days": 0,
-          "hours": 0,
-          "minutes": 0,
-          "seconds": 0
-        },
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -9001,13 +8456,6 @@
         "sourceTimezone": "UTC",
         "selectedTimezone": "UTC",
         "local": "03/08/2026, 23:59:59 UTC",
-        "expiresInSeconds": 0,
-        "countdown": {
-          "days": 0,
-          "hours": 0,
-          "minutes": 0,
-          "seconds": 0
-        },
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",
@@ -9051,13 +8499,6 @@
         "sourceTimezone": "UTC",
         "selectedTimezone": "UTC",
         "local": "03/08/2026, 23:59:59 UTC",
-        "expiresInSeconds": 0,
-        "countdown": {
-          "days": 0,
-          "hours": 0,
-          "minutes": 0,
-          "seconds": 0
-        },
         "expired": true
       },
       "redeemUrl": "https://genshin.hoyoverse.com/en/gift",

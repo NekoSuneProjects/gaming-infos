@@ -22,8 +22,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
@@ -61,8 +59,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
@@ -100,8 +96,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
@@ -139,8 +133,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
@@ -178,8 +170,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
@@ -217,8 +207,6 @@
         "sourceTimezone": null,
         "selectedTimezone": "UTC",
         "local": null,
-        "expiresInSeconds": null,
-        "countdown": null,
         "expired": false
       },
       "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
@@ -258,13 +246,6 @@
         "sourceTimezone": "UTC",
         "selectedTimezone": "UTC",
         "local": "14/08/2025, 23:59:59 UTC",
-        "expiresInSeconds": 0,
-        "countdown": {
-          "days": 0,
-          "hours": 0,
-          "minutes": 0,
-          "seconds": 0
-        },
         "expired": true
       },
       "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
@@ -302,13 +283,6 @@
         "sourceTimezone": "UTC",
         "selectedTimezone": "UTC",
         "local": "21/08/2025, 23:59:59 UTC",
-        "expiresInSeconds": 0,
-        "countdown": {
-          "days": 0,
-          "hours": 0,
-          "minutes": 0,
-          "seconds": 0
-        },
         "expired": true
       },
       "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
@@ -346,13 +320,6 @@
         "sourceTimezone": "UTC",
         "selectedTimezone": "UTC",
         "local": "28/08/2025, 23:59:59 UTC",
-        "expiresInSeconds": 0,
-        "countdown": {
-          "days": 0,
-          "hours": 0,
-          "minutes": 0,
-          "seconds": 0
-        },
         "expired": true
       },
       "redeemUrl": "https://shift.gearboxsoftware.com/rewards",
