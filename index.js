@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const gameCodes = require('./gamecodes');
 
 const DATA_DIR = path.join(__dirname, 'data');
 const DEFAULT_API_BASE = 'https://api.nekosunevr.co.uk';
@@ -137,7 +138,7 @@ async function listGamesLocal() {
   const entries = await fs.promises.readdir(DATA_DIR, { withFileTypes: true });
   const games = [];
   for (const entry of entries) {
-    if (!entry.isDirectory() || entry.name.startsWith('.')) continue;
+    if (!entry.isDirectory() || entry.name.startsWith('.') || entry.name === 'game-codes') continue;
     const metaPath = path.join(DATA_DIR, entry.name, 'meta.json');
     if (!fs.existsSync(metaPath)) continue;
     const raw = await fs.promises.readFile(metaPath, 'utf8');
@@ -211,5 +212,13 @@ module.exports = {
   Characters: (game, name) => load(game, 'characters', name),
   Get: (game, type, name) => load(game, type, name),
   List: (game, type) => list(game, type),
-  CacheInfo: () => cacheInfo()
+  CacheInfo: () => cacheInfo(),
+
+  // Game redeem/creator code API helpers. These also use live APINODE first and
+  // automatically fall back to the daily mirrored data/game-codes snapshot.
+  Codes: gameCodes.Codes,
+  CodesStatus: gameCodes.CodesStatus,
+  GameCodes: gameCodes.GameCodes,
+  GameCode: gameCodes.GameCode,
+  CodeCacheInfo: gameCodes.CodeCacheInfo
 };
