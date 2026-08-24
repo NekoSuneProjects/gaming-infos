@@ -3,8 +3,9 @@ name: Sync APINODE fallback caches
 on:
   workflow_dispatch:
   schedule:
-    # Daily at 03:23 UTC. GitHub Actions cron uses UTC.
-    - cron: "23 3 * * *"
+    # Hourly change-watch at minute 23. The mirror hashes API content and only
+    # commits when APINODE actually added, changed, repaired or removed data.
+    - cron: "23 * * * *"
   push:
     branches:
       - main
