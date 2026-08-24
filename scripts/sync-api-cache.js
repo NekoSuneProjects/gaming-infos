@@ -19,7 +19,7 @@ const DEFAULT_MANIFEST = Object.freeze({
   nte: ['characters'],
   wutheringwaves: ['characters'],
   warframe: ['characters'],
-  fortnite: ['characters'],
+  fortnite: ['characters', 'npcs', 'maps'],
   zenlesszonezero: ['characters'],
   toweroffantasy: ['characters'],
   arknightsendfield: ['characters']
