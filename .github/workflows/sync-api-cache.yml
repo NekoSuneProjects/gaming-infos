@@ -1,15 +1,20 @@
-name: Sync APINODE fallback cache
+name: Sync APINODE fallback caches
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "23 */6 * * *"
+    # Daily at 03:23 UTC. GitHub Actions cron uses UTC.
+    - cron: "23 3 * * *"
   push:
     branches:
       - main
     paths:
       - "scripts/sync-api-cache.js"
+      - "scripts/sync-game-code-cache.js"
+      - "scripts/sync-all-cache.js"
       - "scripts/cache-sync-smoke.js"
+      - "scripts/game-code-cache-smoke.js"
+      - "gamecodes.js"
       - "index.js"
       - "package.json"
       - "CACHE_SYNC.md"
@@ -37,26 +42,30 @@ jobs:
           node-version: 22
 
       - name: Test atomic cache behavior
-        run: npm run test:cache-sync
+        run: npm run test:all-cache
 
-      - name: Mirror APINODE gaming-infos
+      - name: Mirror APINODE gaming-infos and game codes
         run: npm run sync:cache
         env:
           GAMING_INFOS_API_BASE: https://api.nekosunevr.co.uk
           GAMING_INFOS_API_PATH: /v5/games/api/gaming-infos
+          GAME_CODES_API_PATH: /v5/games/api/codes
           GAMING_INFOS_CACHE_TIMEOUT_MS: 20000
           GAMING_INFOS_CACHE_RETRIES: 2
+          GAME_CODES_CACHE_TIMEOUT_MS: 20000
+          GAME_CODES_CACHE_RETRIES: 2
+          GAME_CODES_CACHE_GAME_DELAY_MS: 150
 
       - name: Commit fallback changes
         shell: bash
         run: |
           git add -A data
           if git diff --cached --quiet; then
-            echo "Fallback cache already matches APINODE."
+            echo "Fallback caches already match APINODE."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "chore(cache): mirror APINODE gaming-infos [skip ci]"
+          git commit -m "chore(cache): mirror APINODE fallback data [skip ci]"
           git push
