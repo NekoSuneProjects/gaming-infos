@@ -1,11 +1,15 @@
 {
     "name": "@nekosuneprojects/gaming-infos",
     "version": "2.1.0",
-    "description": "Multi-game data loader (VRChat, Genshin Impact, and more to come) for worlds, groups, players, and characters. Fetches live from the NekoSuneVR V5 API with local JSON fallback.",
+    "description": "Multi-game data loader for VRChat and game character datasets. Uses the NekoSuneVR V5 API first with an automatically mirrored local JSON fallback.",
     "main": "index.js",
     "type": "commonjs",
     "engines": {
         "node": ">=18"
+    },
+    "scripts": {
+        "sync:cache": "node scripts/sync-api-cache.js",
+        "test:cache-sync": "node scripts/cache-sync-smoke.js"
     },
     "repository": {
         "type": "git",
@@ -20,9 +24,16 @@
         "infos",
         "vrchat",
         "genshin-impact",
+        "wuthering-waves",
+        "warframe",
+        "fortnite",
+        "zenless-zone-zero",
+        "tower-of-fantasy",
+        "arknights-endfield",
         "worlds",
         "groups",
         "players",
+        "avatars",
         "characters"
     ],
     "author": "NekoSuneVR",

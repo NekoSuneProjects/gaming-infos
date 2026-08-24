@@ -1,0 +1,52 @@
+name: Sync APINODE fallback cache
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 */6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gaming-infos-api-cache
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Use Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Test atomic cache behavior
+        run: npm run test:cache-sync
+
+      - name: Mirror APINODE gaming-infos
+        run: npm run sync:cache
+        env:
+          GAMING_INFOS_API_BASE: https://api.nekosunevr.co.uk
+          GAMING_INFOS_API_PATH: /v5/games/api/gaming-infos
+          GAMING_INFOS_CACHE_TIMEOUT_MS: 20000
+          GAMING_INFOS_CACHE_RETRIES: 2
+
+      - name: Commit fallback changes
+        shell: bash
+        run: |
+          git add -A data
+          if git diff --cached --quiet; then
+            echo "Fallback cache already matches APINODE."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(cache): mirror APINODE gaming-infos [skip ci]"
+          git push

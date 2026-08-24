@@ -1,0 +1,14 @@
+{
+  "name": "Fortnite",
+  "title": "Epic Games online ecosystem featuring Battle Royale and creator experiences.",
+  "engine": "Unreal Engine 5",
+  "Platform": "Windows, PlayStation, Xbox, Nintendo Switch, Android, Cloud",
+  "Release date": "July 25, 2017",
+  "Genre": "Battle Royale, Action, Sandbox",
+  "developers": "Epic Games",
+  "publisher": "Epic Games",
+  "aliases": "Fortnite, FN",
+  "image": "https://www.fortnite.com/favicon.ico",
+  "description": "Fortnite characters, current Battle Royale NPCs and related public game information.",
+  "url": "https://www.fortnite.com/"
+}

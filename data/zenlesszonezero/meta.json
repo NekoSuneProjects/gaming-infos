@@ -1,0 +1,14 @@
+{
+  "name": "Zenless Zone Zero",
+  "title": "Urban fantasy action RPG by HoYoverse.",
+  "engine": "Unity",
+  "Platform": "Windows, PlayStation 5, Xbox Series X/S, iOS, Android",
+  "Release date": "July 4, 2024",
+  "Genre": "Action RPG, Urban Fantasy, Gacha",
+  "developers": "miHoYo",
+  "publisher": "HoYoverse",
+  "aliases": "ZZZ, Zenless Zone Zero",
+  "image": "https://zenless.hoyoverse.com/favicon.ico",
+  "description": "Action RPG featuring playable Agents organized by faction, attribute and specialty.",
+  "url": "https://zenless.hoyoverse.com/"
+}

@@ -23,9 +23,15 @@ function timeoutMs() {
   return Number.isFinite(raw) && raw > 0 ? raw : DEFAULT_TIMEOUT_MS;
 }
 
+function withLocalSlug(filePath, data) {
+  if (!data || Array.isArray(data) || typeof data !== 'object' || data.slug) return data;
+  return { ...data, slug: path.basename(filePath, '.json').toLowerCase() };
+}
+
 // Live lookups go through the NekoSuneVR V5 API first so data can be updated
 // in real time without republishing this package. The bundled JSON under
-// data/ is only the offline fallback for when the API can't be reached.
+// data/ is the offline fallback and is mirrored from APINODE by the scheduled
+// sync workflow.
 async function fetchFromApi(game, type, name) {
   if (apiDisabled() || typeof fetch !== 'function') return null;
 
@@ -53,7 +59,7 @@ async function loadLocal(game, type, name) {
   }
 
   const raw = await fs.promises.readFile(filePath, 'utf8');
-  return JSON.parse(raw);
+  return withLocalSlug(filePath, JSON.parse(raw));
 }
 
 async function fetchListFromApi(game, type) {
@@ -81,12 +87,12 @@ async function listLocal(game, type) {
   const dir = path.join(DATA_DIR, game.toLowerCase(), type);
   if (!fs.existsSync(dir)) return [];
 
-  const files = await fs.promises.readdir(dir);
+  const files = (await fs.promises.readdir(dir)).filter((file) => file.endsWith('.json')).sort((a, b) => a.localeCompare(b));
   const items = [];
   for (const file of files) {
-    if (!file.endsWith('.json')) continue;
-    const raw = await fs.promises.readFile(path.join(dir, file), 'utf8');
-    items.push(JSON.parse(raw));
+    const filePath = path.join(dir, file);
+    const raw = await fs.promises.readFile(filePath, 'utf8');
+    items.push(withLocalSlug(filePath, JSON.parse(raw)));
   }
   return items;
 }
@@ -131,7 +137,7 @@ async function listGamesLocal() {
   const entries = await fs.promises.readdir(DATA_DIR, { withFileTypes: true });
   const games = [];
   for (const entry of entries) {
-    if (!entry.isDirectory()) continue;
+    if (!entry.isDirectory() || entry.name.startsWith('.')) continue;
     const metaPath = path.join(DATA_DIR, entry.name, 'meta.json');
     if (!fs.existsSync(metaPath)) continue;
     const raw = await fs.promises.readFile(metaPath, 'utf8');
@@ -185,23 +191,25 @@ async function loadGameMeta(game) {
   }
 }
 
+async function cacheInfo() {
+  try {
+    const filePath = path.join(DATA_DIR, '.cache-manifest.json');
+    if (!fs.existsSync(filePath)) return null;
+    return JSON.parse(await fs.promises.readFile(filePath, 'utf8'));
+  } catch (err) {
+    return { error: err.message };
+  }
+}
+
 module.exports = {
-  // All supported games, e.g. Games() -> [data/vrchat/meta.json, data/genshinimpact/meta.json, ...]
   Games: () => games(),
-
-  // Game-level info, e.g. Game('vrchat') -> data/vrchat/meta.json
   Game: (game) => loadGameMeta(game),
-
-  // Entity lookups, scoped per game: Worlds('vrchat', 'theblackcat')
   Worlds: (game, name) => load(game, 'worlds', name),
   Groups: (game, name) => load(game, 'groups', name),
   Players: (game, name) => load(game, 'players', name),
+  Avatars: (game, name) => load(game, 'avatars', name),
   Characters: (game, name) => load(game, 'characters', name),
-
-  // Generic escape hatch for entity types not covered above
-  // (new games may need types other than worlds/groups/players/characters)
   Get: (game, type, name) => load(game, type, name),
-
-  // Full listing of every entry of a given type for a game, e.g. List('genshinimpact', 'characters')
   List: (game, type) => list(game, type),
+  CacheInfo: () => cacheInfo()
 };
