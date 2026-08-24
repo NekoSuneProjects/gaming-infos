@@ -1,7 +1,7 @@
 {
     "name": "@nekosuneprojects/gaming-infos",
-    "version": "2.3.0",
-    "description": "Multi-game data loader for VRChat, Fortnite skins/NPCs/maps, character datasets, and game redeem/creator codes. Uses the NekoSuneVR V5 API first with automatically mirrored local JSON fallbacks.",
+    "version": "2.4.0",
+    "description": "Multi-game data loader for VRChat, Fortnite, Call of Duty, character/NPC/map datasets, and game redeem/creator codes. Uses the NekoSuneVR V5 API first with automatically mirrored local JSON fallbacks.",
     "main": "index.js",
     "type": "commonjs",
     "engines": {
@@ -37,6 +37,13 @@
         "fortnite-skins",
         "fortnite-npcs",
         "fortnite-maps",
+        "call-of-duty",
+        "cod",
+        "modern-warfare",
+        "black-ops",
+        "call-of-duty-maps",
+        "call-of-duty-characters",
+        "call-of-duty-npcs",
         "zenless-zone-zero",
         "tower-of-fantasy",
         "arknights-endfield",
