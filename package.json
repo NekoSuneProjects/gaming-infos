@@ -9,7 +9,7 @@
     },
     "scripts": {
         "sync:cache": "node scripts/sync-all-cache.js",
-        "sync:gaming-infos-cache": "node scripts/sync-api-cache.js",
+        "sync:gaming-infos-cache": "node scripts/sync-gaming-info-cache.js",
         "sync:game-codes-cache": "node scripts/sync-game-code-cache.js",
         "test:cache-sync": "node scripts/cache-sync-smoke.js",
         "test:game-code-cache": "node scripts/game-code-cache-smoke.js",
