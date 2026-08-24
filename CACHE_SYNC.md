@@ -1,10 +1,19 @@
 # APINODE fallback-cache mirror
 
-`@nekosuneprojects/gaming-infos` is API-first: normal reads try `https://api.nekosunevr.co.uk/v5/games/api/gaming-infos` before using the bundled `data/` directory.
+`@nekosuneprojects/gaming-infos` is API-first. Normal reads try the NekoSuneVR V5 API before using bundled JSON under `data/`.
 
-The repository now also keeps that bundled fallback synchronized automatically.
+The repository keeps **two independent last-good fallback snapshots** synchronized automatically:
 
-## Mirrored datasets
+- Gaming Infos: `GET /v5/games/api/gaming-infos`
+- Game Codes: `GET /v5/games/api/codes`
+
+## Schedule
+
+The GitHub Action runs **once every day at 03:23 UTC** and can also be started manually with `workflow_dispatch`.
+
+It also runs when the cache implementation itself changes so a newly deployed cache format can be populated immediately.
+
+## Mirrored gaming-infos datasets
 
 | Game | API type(s) |
 |---|---|
@@ -19,56 +28,145 @@ The repository now also keeps that bundled fallback synchronized automatically.
 | Tower of Fantasy | `characters` (Simulacra) |
 | Arknights: Endfield | `characters` (Operators) |
 
-## How synchronization works
+## Mirrored Game Codes endpoints
 
-The scheduled GitHub Action runs every six hours and can also be started manually.
+The daily mirror also caches:
 
-1. Fetch the root gaming-infos endpoint.
-2. Fetch every configured game's `meta` endpoint.
-3. Fetch every configured type-list endpoint.
-4. Validate every response and every entry slug.
-5. Write a completely separate temporary snapshot.
-6. Compare the new snapshot with the current `data/` tree.
-7. Only after **every request and validation succeeds**, atomically replace `data/`.
-8. Commit the changed fallback JSON to `main`.
+```text
+GET /v5/games/api/codes
+GET /v5/games/api/codes/status
+GET /v5/games/api/codes/:game?includeUnknown=true
+```
 
-Because the API snapshot is authoritative, a successful sync mirrors additions, changes **and removals**. If an entry disappears from APINODE, its fallback JSON is removed too.
+`/codes/status` only reads APINODE's cached source state. It does **not** trigger source website refreshes.
 
-A failed or partial sync never replaces `data/`. If APINODE is down, times out, returns an error, or one configured endpoint is missing, the last good fallback remains untouched.
+The per-game request uses `includeUnknown=true`, so the fallback contains all three buckets when available:
+
+```json
+{
+  "Active": [],
+  "Expired": [],
+  "Unknown": []
+}
+```
+
+The mirror does not call every `/:game/:code` endpoint. `GameCode(game, code)` can search the full cached per-game snapshot during an outage, which keeps the daily request count low.
+
+Game-code fallback layout:
+
+```text
+data/game-codes/
+├── directory.json
+├── status.json
+├── .cache-manifest.json
+└── games/
+    ├── fortnite.json
+    ├── warframe.json
+    ├── genshin-impact.json
+    └── ...
+```
+
+## Atomic synchronization / deletion behavior
+
+Each cache is authoritative only **after its complete API download succeeds**.
+
+For Gaming Infos:
+
+1. Temporarily preserve `data/game-codes/` outside the gaming-info snapshot.
+2. Fetch the root gaming-infos endpoint.
+3. Fetch every configured game's meta endpoint.
+4. Fetch every configured type-list endpoint.
+5. Validate every response and entry slug.
+6. Build a completely separate temporary snapshot.
+7. Atomically replace the gaming-info `data/` snapshot.
+8. Restore the previous game-code fallback before the code phase begins.
+
+For Game Codes:
+
+1. Fetch `/codes` and validate its game directory.
+2. Fetch cache-only `/codes/status`.
+3. Fetch every listed game's full `Active` / `Expired` / `Unknown` snapshot.
+4. Build a separate temporary `data/game-codes/` tree.
+5. Only after every game succeeds, atomically replace the old game-code snapshot.
+
+Because successful API snapshots are authoritative, **adds, changes and removals are mirrored**. If APINODE removes an entry/code/game, the corresponding fallback disappears on the next successful daily sync.
+
+If APINODE is down, times out, returns 429/5xx, or one required endpoint fails halfway through, that cache is **not replaced**. The previous last-good fallback remains available.
+
+## Package API
+
+Gaming Infos functions remain available:
+
+```js
+const info = require('@nekosuneprojects/gaming-infos');
+
+await info.Games();
+await info.List('vrchat', 'avatars');
+await info.Characters('wutheringwaves', 'cartethyia');
+```
+
+Game Codes helpers use live APINODE first and the daily fallback second:
+
+```js
+await info.Codes();                    // GET /v5/games/api/codes
+await info.CodesStatus();              // GET /v5/games/api/codes/status
+await info.GameCodes('fortnite');      // Active + Expired
+await info.GameCodes('fortnite', { includeUnknown: true });
+await info.GameCode('fortnite', 'NEKOSUNEVR');
+await info.CodeCacheInfo();
+```
+
+Per-game fallback filtering is supported for `category` and `claimType` as well.
 
 ## Commands
 
 ```bash
-npm run test:cache-sync
+# Test both atomic cache systems
+npm run test:all-cache
+
+# Mirror both Gaming Infos and Game Codes
 npm run sync:cache
+
+# Debug individually
+npm run sync:gaming-infos-cache
+npm run sync:game-codes-cache
+npm run test:cache-sync
+npm run test:game-code-cache
 ```
 
-Override the API when testing:
+Override APINODE while testing:
 
 ```bash
 GAMING_INFOS_API_BASE=http://localhost:3000 npm run sync:cache
 ```
 
-Useful environment variables:
+Useful variables:
 
 | Variable | Default | Purpose |
 |---|---|---|
-| `GAMING_INFOS_API_BASE` | `https://api.nekosunevr.co.uk` | APINODE host |
-| `GAMING_INFOS_API_PATH` | `/v5/games/api/gaming-infos` | API path prefix |
-| `GAMING_INFOS_CACHE_TIMEOUT_MS` | `15000` | Per-request timeout |
-| `GAMING_INFOS_CACHE_RETRIES` | `2` | Retry count for network/429/5xx failures |
-| `GAMING_INFOS_CACHE_RETRY_DELAY_MS` | `750` | Retry backoff base delay |
-| `GAMING_INFOS_CACHE_DIR` | repository `data/` | Destination snapshot directory |
-| `GAMING_INFOS_CACHE_MANIFEST_JSON` | built-in manifest | Optional JSON object for extending game/type mappings |
+| `GAMING_INFOS_API_BASE` | `https://api.nekosunevr.co.uk` | APINODE host used by both caches |
+| `GAMING_INFOS_API_PATH` | `/v5/games/api/gaming-infos` | Gaming Infos path |
+| `GAME_CODES_API_PATH` | `/v5/games/api/codes` | Game Codes path |
+| `GAMING_INFOS_CACHE_TIMEOUT_MS` | `15000` | Gaming Infos per-request timeout |
+| `GAMING_INFOS_CACHE_RETRIES` | `2` | Gaming Infos retry count |
+| `GAME_CODES_CACHE_TIMEOUT_MS` | `15000` | Game Codes per-request timeout |
+| `GAME_CODES_CACHE_RETRIES` | `2` | Game Codes retry count |
+| `GAME_CODES_CACHE_GAME_DELAY_MS` | `150` | Small delay between game-list requests |
 
-## Cache manifest
+## Runtime fallback behavior
 
-A successful changed snapshot contains `data/.cache-manifest.json` with the source URL, content hash, per-game counts, and add/change/remove statistics.
+The package does **not** use the cache instead of live data. It remains API-first:
 
-The sync does not rewrite the snapshot when the API content hash has not changed, so the scheduled workflow does not create empty timestamp-only commits.
+```text
+application
+   ↓
+live APINODE
+   ├─ success → current API response
+   └─ unavailable/error → last-good bundled fallback
+```
 
-## Runtime behavior
+A successful changed Gaming Infos snapshot records `data/.cache-manifest.json`. Game Codes records its own `data/game-codes/.cache-manifest.json`. Both include source URL, content hash, counts, synchronization time and add/change/remove statistics.
 
-The package still performs live reads first. If APINODE cannot be reached, `index.js` falls back to the mirrored local JSON. This means the cache job does not add an extra network request to normal library calls; it only keeps the offline dataset current in the repository/package source.
+The hash comparison ignores manifest timestamps, so an unchanged API dataset does not create a pointless daily commit.
 
-Note: npm releases are immutable. The repository fallback updates automatically, but a previously installed npm version retains the bundled snapshot from that release until the package is upgraded. Live API reads still return current data while APINODE is available.
+Note: npm releases are immutable. Repository fallback files update daily, but an already-installed npm version keeps the bundled snapshot from that package release until upgraded. Live API reads still remain current whenever APINODE is available.
