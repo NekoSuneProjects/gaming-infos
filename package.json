@@ -1,15 +1,19 @@
 {
     "name": "@nekosuneprojects/gaming-infos",
     "version": "2.1.0",
-    "description": "Multi-game data loader for VRChat and game character datasets. Uses the NekoSuneVR V5 API first with an automatically mirrored local JSON fallback.",
+    "description": "Multi-game data loader for VRChat, character datasets, and game redeem/creator codes. Uses the NekoSuneVR V5 API first with automatically mirrored local JSON fallbacks.",
     "main": "index.js",
     "type": "commonjs",
     "engines": {
         "node": ">=18"
     },
     "scripts": {
-        "sync:cache": "node scripts/sync-api-cache.js",
-        "test:cache-sync": "node scripts/cache-sync-smoke.js"
+        "sync:cache": "node scripts/sync-all-cache.js",
+        "sync:gaming-infos-cache": "node scripts/sync-api-cache.js",
+        "sync:game-codes-cache": "node scripts/sync-game-code-cache.js",
+        "test:cache-sync": "node scripts/cache-sync-smoke.js",
+        "test:game-code-cache": "node scripts/game-code-cache-smoke.js",
+        "test:all-cache": "npm run test:cache-sync && npm run test:game-code-cache"
     },
     "repository": {
         "type": "git",
@@ -22,6 +26,9 @@
     "keywords": [
         "gaming",
         "infos",
+        "game-codes",
+        "redeem-codes",
+        "creator-codes",
         "vrchat",
         "genshin-impact",
         "wuthering-waves",
