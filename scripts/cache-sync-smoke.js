@@ -5,7 +5,7 @@ const fs = require('fs');
 const http = require('http');
 const os = require('os');
 const path = require('path');
-const { DEFAULT_MANIFEST, syncApiCache } = require('./sync-api-cache');
+const { DEFAULT_MANIFEST, mergeDiscoveredManifest, syncApiCache } = require('./sync-api-cache');
 
 function json(res, status, body) {
   const payload = JSON.stringify(body);
@@ -20,6 +20,17 @@ async function main() {
     'Fortnite fallback mirror must keep skins, NPCs, and maps as separate datasets'
   );
 
+  const discovered = mergeDiscoveredManifest(
+    [
+      { slug: 'codblackops2', name: 'Call of Duty: Black Ops II', types: ['characters', 'npcs', 'maps'] },
+      { slug: 'futuregame', name: 'Future Public Game', types: ['characters', 'maps'] }
+    ],
+    { testgame: ['characters'] }
+  );
+  assert.deepStrictEqual(discovered.testgame, ['characters']);
+  assert.deepStrictEqual(discovered.codblackops2, ['characters', 'npcs', 'maps']);
+  assert.deepStrictEqual(discovered.futuregame, ['characters', 'maps']);
+
   const root = await fs.promises.mkdtemp(path.join(os.tmpdir(), 'gaming-infos-cache-test-'));
   const dataDir = path.join(root, 'data');
   let failCharacters = false;
@@ -30,10 +41,10 @@ async function main() {
 
   const server = http.createServer((req, res) => {
     if (req.url === '/v5/games/api/gaming-infos') {
-      return json(res, 200, { success: true, data: [{ name: 'Test Game' }] });
+      return json(res, 200, { success: true, data: [{ slug: 'testgame', name: 'Test Game', types: ['characters'] }] });
     }
     if (req.url === '/v5/games/api/gaming-infos/testgame/meta/testgame') {
-      return json(res, 200, { success: true, data: { name: 'Test Game', description: 'fixture' } });
+      return json(res, 200, { success: true, data: { slug: 'testgame', name: 'Test Game', description: 'fixture', types: ['characters'] } });
     }
     if (req.url === '/v5/games/api/gaming-infos/testgame/characters') {
       if (failCharacters) return json(res, 503, { success: false, error: 'fixture outage' });
