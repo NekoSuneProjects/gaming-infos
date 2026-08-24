@@ -2,172 +2,112 @@
 
 [![npm version](https://img.shields.io/npm/v/@nekosuneprojects/gaming-infos.svg)](https://www.npmjs.com/package/@nekosuneprojects/gaming-infos)
 
-A Node.js data package for **game information, VRChat community data, characters, redeem codes, and creator codes**.
+A Node.js data package for **multi-game information, Fortnite skins/NPCs/maps, VRChat community data, characters, redeem codes, and creator codes**.
 
-The package is **API-first**: it reads from the NekoSuneVR V5 API whenever possible, then automatically falls back to bundled JSON when the API is unavailable. The fallback data in this repository is checked against APINODE every hour using an atomic add/change/remove synchronization system; unchanged API data creates no commit.
+The package is **API-first**: it reads from the NekoSuneVR V5 API whenever possible, then automatically falls back to bundled JSON when the API is unavailable. The fallback repository checks APINODE every hour and only commits real add/change/remove data updates.
 
-Current package version: **2.2.0**
+Current package version: **2.3.0**
 
----
-
-## ✨ What it provides
-
-- 🎮 Multi-game metadata and character data
-- 🌐 Live NekoSuneVR V5 API lookups
-- 💾 Automatic local JSON fallback when the API is unavailable
-- 🔄 Hourly APINODE → repository change-watch
-- 🧹 Add/change/remove mirroring so deleted API entries disappear from the next successful fallback snapshot
-- 🛡️ Last-good-cache protection if APINODE is down or a sync only partially succeeds
-- 👤 VRChat players
-- 👥 VRChat groups
-- 🌍 VRChat worlds
-- 🧍 VRChat avatars
-- 🧝 Character/roster datasets for supported games
-- 🎁 Redeem-code and creator-code helpers
-- 📊 Game-code directory, counts, aliases, status, and source-cache information
-- 🧪 Offline smoke tests for cache replacement and failure recovery
-
----
-
-## 🎮 Gaming Infos coverage
-
-| Game | Slug | Data |
-|---|---|---|
-| VRChat | `vrchat` | players, groups, worlds, avatars |
-| Genshin Impact | `genshinimpact` | characters |
-| Honkai: Star Rail | `honkaistarrail` | characters |
-| Neverness to Everness | `nte` | characters |
-| Wuthering Waves | `wutheringwaves` | Resonators under `characters` |
-| Warframe | `warframe` | Warframes under `characters` |
-| Fortnite | `fortnite` | current/released Battle Royale characters |
-| Zenless Zone Zero | `zenlesszonezero` | Agents under `characters` |
-| Tower of Fantasy | `toweroffantasy` | Simulacra under `characters` |
-| Arknights: Endfield | `arknightsendfield` | Operators under `characters` |
-
-The Game Codes system is separate and its supported game list is returned dynamically by the APINODE `/codes` directory endpoint.
-
----
-
-## 📦 Installation
+## Installation
 
 ```bash
 npm install @nekosuneprojects/gaming-infos
 ```
 
-Requires **Node.js 18 or newer**.
+Requires Node.js 18+.
 
----
+## Gaming Infos coverage
 
-# 🚀 Quick start
+| Game | Slug | Datasets |
+|---|---|---|
+| VRChat | `vrchat` | `players`, `groups`, `worlds`, `avatars` |
+| Genshin Impact | `genshinimpact` | `characters` |
+| Honkai: Star Rail | `honkaistarrail` | `characters` |
+| Neverness to Everness | `nte` | `characters` |
+| Wuthering Waves | `wutheringwaves` | `characters` (Resonators) |
+| Warframe | `warframe` | `characters` (Warframes) |
+| **Fortnite** | `fortnite` | `characters` = released skins/Outfits, `npcs` = Battle Royale NPCs, `maps` = Named Locations/maps |
+| Zenless Zone Zero | `zenlesszonezero` | `characters` (Agents) |
+| Tower of Fantasy | `toweroffantasy` | `characters` (Simulacra) |
+| Arknights: Endfield | `arknightsendfield` | `characters` (Operators) |
+
+### Fortnite dataset rules
+
+Fortnite is deliberately separated into three API/package datasets:
+
+```text
+fortnite/characters  → released Outfit cosmetics / skins
+fortnite/npcs        → Battle Royale NPCs / Characters
+fortnite/maps        → Named Locations / map locations
+```
+
+A map/location should never appear in the skins dataset. APINODE also removes legacy NPC duplicates when a title is confirmed by the Fortnite Named Locations catalog.
+
+## Quick start
 
 ```js
-const gamingInfos = require('@nekosuneprojects/gaming-infos');
+const info = require('@nekosuneprojects/gaming-infos');
 
 async function main() {
-  const games = await gamingInfos.Games();
-  const vrchat = await gamingInfos.Game('vrchat');
+  const games = await info.Games();
 
-  const worlds = await gamingInfos.List('vrchat', 'worlds');
-  const avatars = await gamingInfos.List('vrchat', 'avatars');
-  const genshinCharacters = await gamingInfos.List('genshinimpact', 'characters');
-  const wuwaCharacters = await gamingInfos.List('wutheringwaves', 'characters');
+  const fortniteSkins = await info.List('fortnite', 'characters');
+  const fortniteNpcs = await info.List('fortnite', 'npcs');
+  const fortniteMaps = await info.List('fortnite', 'maps');
+
+  const vrchatWorlds = await info.List('vrchat', 'worlds');
+  const wuwa = await info.List('wutheringwaves', 'characters');
 
   console.log({
-    gameCount: games.length,
-    vrchat,
-    worlds: worlds.length,
-    avatars: avatars.length,
-    genshinCharacters: genshinCharacters.length,
-    wuwaCharacters: wuwaCharacters.length
+    games: games.length,
+    fortniteSkins: fortniteSkins.length,
+    fortniteNpcs: fortniteNpcs.length,
+    fortniteMaps: fortniteMaps.length,
+    vrchatWorlds: vrchatWorlds.length,
+    wuwa: wuwa.length,
   });
 }
 
 main();
 ```
 
----
+## Gaming Infos API
 
-# 🧠 Gaming Infos API
-
-## `Games()`
-
-Returns every game with bundled/API Gaming Infos metadata.
-
-```js
-const games = await gamingInfos.Games();
-```
-
-Live endpoint:
+Live APINODE endpoints:
 
 ```http
 GET /v5/games/api/gaming-infos
-```
-
-## `Game(game)`
-
-Returns game-level metadata.
-
-```js
-const game = await gamingInfos.Game('warframe');
-```
-
-## `List(game, type)`
-
-Returns every entity for a game/type.
-
-```js
-const resonators = await gamingInfos.List('wutheringwaves', 'characters');
-const agents = await gamingInfos.List('zenlesszonezero', 'characters');
-const operators = await gamingInfos.List('arknightsendfield', 'characters');
-const vrchatGroups = await gamingInfos.List('vrchat', 'groups');
-```
-
-Live endpoint:
-
-```http
 GET /v5/games/api/gaming-infos/:game/:type
-```
-
-## Single-entity helpers
-
-```js
-await gamingInfos.Worlds('vrchat', 'world-slug');
-await gamingInfos.Groups('vrchat', 'group-slug');
-await gamingInfos.Players('vrchat', 'player-slug');
-await gamingInfos.Avatars('vrchat', 'avatar-slug');
-await gamingInfos.Characters('warframe', 'warframe-slug');
-```
-
-Generic lookup:
-
-```js
-await gamingInfos.Get('vrchat', 'worlds', 'world-slug');
-```
-
-Live endpoint:
-
-```http
 GET /v5/games/api/gaming-infos/:game/:type/:name
 ```
 
-The V5 API returns stable `slug` values for list entries. Use those slugs for detail lookups instead of trying to generate filenames from display names yourself.
+The list endpoint returns stable `slug` values for detail lookups.
 
-## `CacheInfo()`
-
-Reads information about the last mirrored Gaming Infos fallback snapshot.
+### Main helpers
 
 ```js
-const cache = await gamingInfos.CacheInfo();
-console.log(cache?.syncedAt, cache?.contentHash);
+await info.Games();
+await info.Game('fortnite');
+await info.List('fortnite', 'characters');
+await info.List('fortnite', 'npcs');
+await info.List('fortnite', 'maps');
+
+await info.Characters('fortnite', 'outfit-slug');
+await info.NPCs('fortnite', 'npc-slug');
+await info.Maps('fortnite', 'map-slug');
+
+await info.Worlds('vrchat', 'world-slug');
+await info.Groups('vrchat', 'group-slug');
+await info.Players('vrchat', 'player-slug');
+await info.Avatars('vrchat', 'avatar-slug');
+
+await info.Get('fortnite', 'maps', 'map-slug');
+await info.CacheInfo();
 ```
 
----
+## Game Codes API
 
-# 🎁 Game Codes API
-
-Version 2.2.0 adds API-first redeem-code and creator-code support using the same fallback model.
-
-APINODE endpoints:
+Game Codes are separate from Gaming Infos and are discovered dynamically from APINODE.
 
 ```http
 GET /v5/games/api/codes
@@ -176,39 +116,19 @@ GET /v5/games/api/codes/:game
 GET /v5/games/api/codes/:game/:code
 ```
 
-`/codes/status` is cache/status data only and does **not** trigger website scraping or a source refresh.
-
-## `Codes()`
-
-Returns the Game Codes directory, including supported games, aliases, metadata, counters, source counts, and endpoint information.
+Package helpers:
 
 ```js
-const directory = await gamingInfos.Codes();
+const directory = await info.Codes();
+const status = await info.CodesStatus();
 
-console.log(directory.games);
-console.log(directory.aliases);
+const codes = await info.GameCodes('fortnite');
+const allCodes = await info.GameCodes('fortnite', { includeUnknown: true });
+const oneCode = await info.GameCode('fortnite', 'SOME-CODE');
+const codeCache = await info.CodeCacheInfo();
 ```
 
-## `CodesStatus()`
-
-Returns the cached source-refresh state.
-
-```js
-const status = await gamingInfos.CodesStatus();
-```
-
-## `GameCodes(game, options)`
-
-Returns code lists using the existing APINODE response shape:
-
-```js
-const fortniteCodes = await gamingInfos.GameCodes('fortnite');
-
-console.log(fortniteCodes.Active);
-console.log(fortniteCodes.Expired);
-```
-
-Default shape:
+Default per-game shape:
 
 ```json
 {
@@ -217,15 +137,7 @@ Default shape:
 }
 ```
 
-Include queued/unknown records:
-
-```js
-const allFortniteCodes = await gamingInfos.GameCodes('fortnite', {
-  includeUnknown: true
-});
-```
-
-Which can return:
+With `includeUnknown: true`:
 
 ```json
 {
@@ -235,102 +147,43 @@ Which can return:
 }
 ```
 
-Filtering is supported:
+`GameCodes()` also supports `category`, `claimType`, and `timezone` options.
 
-```js
-const creatorCodes = await gamingInfos.GameCodes('fortnite', {
-  category: 'creator-code',
-  includeUnknown: true
-});
-
-const freeCodes = await gamingInfos.GameCodes('genshin-impact', {
-  claimType: 'free'
-});
-```
-
-Timezone can also be passed through to the live API:
-
-```js
-const codes = await gamingInfos.GameCodes('fortnite', {
-  timezone: 'Europe/London',
-  includeUnknown: true
-});
-```
-
-Cached aliases from the `/codes` directory are resolved during API outages as well, so aliases such as `fn`, `genshin`, `hsr`, or `wuwa` can still map to their canonical cached game dataset.
-
-## `GameCode(game, code, options)`
-
-Looks up one specific code.
-
-```js
-const creator = await gamingInfos.GameCode('fortnite', 'NEKOSUNEVR');
-console.log(creator);
-```
-
-Live endpoint:
-
-```http
-GET /v5/games/api/codes/:game/:code
-```
-
-When APINODE is unavailable, the package searches the locally mirrored Active, Expired, and Unknown code buckets.
-
-## `CodeCacheInfo()`
-
-Returns the local Game Codes cache manifest.
-
-```js
-const codeCache = await gamingInfos.CodeCacheInfo();
-console.log(codeCache?.syncedAt, codeCache?.stats);
-```
-
----
-
-# 📚 Function reference
+## Function reference
 
 | Function | Purpose |
 |---|---|
 | `Games()` | List Gaming Infos games |
 | `Game(game)` | Get game metadata |
-| `List(game, type)` | List every entry for one game/type |
+| `List(game, type)` | List a complete dataset |
+| `Characters(game, name)` | Get one character/skin/roster entity |
+| `NPCs(game, name)` | Get one NPC |
+| `Maps(game, name)` | Get one map/location |
 | `Worlds(game, name)` | Get one world |
 | `Groups(game, name)` | Get one group |
 | `Players(game, name)` | Get one player |
 | `Avatars(game, name)` | Get one avatar |
-| `Characters(game, name)` | Get one character/Warframe/Agent/etc. |
-| `Get(game, type, name)` | Generic entity lookup |
+| `Get(game, type, name)` | Generic Gaming Infos detail lookup |
 | `CacheInfo()` | Gaming Infos fallback manifest |
 | `Codes()` | Game Codes directory |
-| `CodesStatus()` | Cached Game Codes source status |
+| `CodesStatus()` | Game Codes source/sync status |
 | `GameCodes(game, options)` | Active/Expired/Unknown code lists |
-| `GameCode(game, code, options)` | One specific redeem/creator code |
+| `GameCode(game, code, options)` | One redeem/creator code |
 | `CodeCacheInfo()` | Game Codes fallback manifest |
 
----
-
-# 💾 API-first fallback behavior
-
-Normal reads follow this path:
+## API-first fallback behavior
 
 ```text
-Application
-   │
-   ▼
-NekoSuneVR V5 API
-   │
-   ├── available ──► return live data
-   │
-   └── unavailable
-          │
-          ▼
+application
+   ↓
+live APINODE
+   ├─ success → use current live data
+   └─ unavailable/error
+          ↓
      bundled data/
-          │
-          ▼
-     return last-good fallback
+          ↓
+     last-good fallback
 ```
-
-The package does not need an API key for the public read endpoints documented above.
 
 Set this to force local-only reads:
 
@@ -338,88 +191,79 @@ Set this to force local-only reads:
 GAMING_INFOS_DISABLE_API=1
 ```
 
----
+Useful runtime variables:
 
-# 🔄 Hourly fallback synchronization
+| Variable | Default |
+|---|---|
+| `GAMING_INFOS_API_BASE` | `https://api.nekosunevr.co.uk` |
+| `GAMING_INFOS_API_PATH` | `/v5/games/api/gaming-infos` |
+| `GAME_CODES_API_PATH` | `/v5/games/api/codes` |
+| `GAMING_INFOS_TIMEOUT_MS` | `4000` |
 
-The repository automatically checks APINODE **every hour at minute 23 UTC** through GitHub Actions.
+## Hourly fallback mirror
 
-This is a change-watch, not an unconditional rewrite: content hashes are compared first, so if APINODE has not changed, no fallback commit is created. If APINODE adds/changes/removes data or repairs an image/code record, the next successful hourly pass mirrors that update.
-
-The combined command is:
+The GitHub Action checks APINODE **every hour at minute 23**.
 
 ```bash
 npm run sync:cache
 ```
 
-That performs both:
+This mirrors both:
 
 ```bash
 npm run sync:gaming-infos-cache
 npm run sync:game-codes-cache
 ```
 
-The synchronization process is designed to be authoritative and failure-safe:
+The mirror is atomic and last-good-safe:
 
-1. Download the complete configured API snapshot into a temporary directory.
-2. Validate all required responses.
-3. Calculate content hashes and add/change/remove statistics.
-4. Replace the old fallback only after the new snapshot succeeds completely.
-5. Keep the previous fallback untouched if the API fails, times out, returns an error, or produces an incomplete snapshot.
-6. Commit actual fallback changes back to the repository.
+1. Download a complete snapshot to a temporary tree.
+2. Validate all configured endpoints.
+3. Calculate hashes and add/change/remove statistics.
+4. Replace the old snapshot only after the new one succeeds.
+5. Keep the previous snapshot if APINODE is unavailable or any required dataset fails.
+6. Commit only when stable content actually changed.
 
-Successful syncs mirror **additions, modifications, repairs, and removals**. If APINODE removes an entry, that entry is removed from the fallback during the next successful mirror.
+Fortnite is mirrored from these three independent datasets:
 
-Gaming Infos and Game Codes use independent atomic caches so a failure in one dataset cannot destroy the last-good snapshot of the other.
+```http
+GET /v5/games/api/gaming-infos/fortnite/characters
+GET /v5/games/api/gaming-infos/fortnite/npcs
+GET /v5/games/api/gaming-infos/fortnite/maps
+```
 
-See [CACHE_SYNC.md](CACHE_SYNC.md) for the detailed cache architecture.
+Game-code countdown seconds are not stored as meaningful repository changes; fallback countdowns are recalculated from stable expiry dates when read.
 
----
+See [CACHE_SYNC.md](CACHE_SYNC.md) for the detailed mirror design.
 
-# 🧪 Cache tests
-
-Run all cache safety tests:
+## Cache tests
 
 ```bash
 npm run test:all-cache
-```
-
-Or individually:
-
-```bash
 npm run test:cache-sync
 npm run test:game-code-cache
 ```
 
-The tests cover scenarios including:
+Tests cover additions, updates, removals, duplicate/invalid data, partial HTTP failures, and last-good snapshot preservation.
 
-- new entries appearing
-- existing entries changing
-- upstream entries being removed
-- duplicate/invalid data protection
-- partial API failures
-- simulated HTTP 5xx outages
-- preserving the last-good fallback after a failed sync
-
----
-
-# 📁 Fallback data structure
+## Fallback structure
 
 ```text
 data/
-├── genshinimpact/
+├── fortnite/
 │   ├── meta.json
-│   └── characters/
+│   ├── characters/   # released skins / Outfits
+│   ├── npcs/         # Battle Royale NPCs
+│   └── maps/         # Named Locations / maps
+├── genshinimpact/
 ├── honkaistarrail/
 ├── nte/
 ├── wutheringwaves/
 ├── warframe/
-├── fortnite/
 ├── zenlesszonezero/
 ├── toweroffantasy/
 ├── arknightsendfield/
 ├── vrchat/
-│   ├── meta.json
 │   ├── players/
 │   ├── groups/
 │   ├── worlds/
@@ -430,108 +274,18 @@ data/
     ├── status.json
     ├── .cache-manifest.json
     └── games/
-        └── <game>.json
 ```
 
-An entity with no verified image can use:
+## Data policy
 
-```json
-{
-  "image": ""
-}
-```
+Only add publicly available/released data that may be redistributed or referenced appropriately. Do not add private profiles, private messages, authentication data, leaks, unreleased/datamined content, hidden APIs, or client-memory extraction.
 
-Consumers should treat a blank image string as "no verified image available".
+## npm fallback note
 
----
+Published npm releases are immutable. The GitHub repository fallback can update hourly, but an already-installed npm release keeps the files bundled with that release until upgraded. Normal package reads still use live APINODE first when it is available.
 
-# ⚙️ Environment variables
+## Disclaimer
 
-## Runtime API reads
-
-| Variable | Default | Purpose |
-|---|---|---|
-| `GAMING_INFOS_API_BASE` | `https://api.nekosunevr.co.uk` | NekoSuneVR APINODE base URL |
-| `GAMING_INFOS_API_PATH` | `/v5/games/api/gaming-infos` | Gaming Infos path |
-| `GAME_CODES_API_PATH` | `/v5/games/api/codes` | Game Codes path |
-| `GAMING_INFOS_DISABLE_API` | unset | `1`/`true` forces local-only operation |
-| `GAMING_INFOS_TIMEOUT_MS` | `4000` | Runtime API timeout before fallback |
-
-## Cache mirror
-
-| Variable | Default | Purpose |
-|---|---|---|
-| `GAMING_INFOS_CACHE_TIMEOUT_MS` | `15000` | Gaming Infos sync request timeout |
-| `GAMING_INFOS_CACHE_RETRIES` | `2` | Gaming Infos retry count |
-| `GAMING_INFOS_CACHE_RETRY_DELAY_MS` | `750` | Gaming Infos retry delay |
-| `GAME_CODES_CACHE_TIMEOUT_MS` | `15000` | Game Codes sync request timeout |
-| `GAME_CODES_CACHE_RETRIES` | `2` | Game Codes retry count |
-| `GAME_CODES_CACHE_RETRY_DELAY_MS` | `750` | Game Codes retry delay |
-| `GAME_CODES_CACHE_GAME_DELAY_MS` | small delay | Delay between per-game code snapshots |
-
----
-
-# 📝 Example character entry
-
-Different games expose different fields. Consumers should use the fields relevant to that game rather than assuming every title has the same schema.
-
-```json
-{
-  "name": "Example Character",
-  "slug": "examplecharacter",
-  "rarity": "5-star",
-  "element": "Electro",
-  "weapon": "Sword",
-  "description": "Public character information.",
-  "image": "https://example.com/character.webp",
-  "url": "https://example.com/source",
-  "source": {
-    "provider": "Public source",
-    "publicDataOnly": true
-  }
-}
-```
-
----
-
-# 🤝 Contributions
-
-Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md).
-
-Please follow these rules:
-
-- Only include publicly available data or data you have permission to publish.
-- Do not include private profiles, private Discord messages, DMs, private logs, authentication data, or personal information.
-- Do not add leaks, datamined/unreleased content, hidden APIs, memory-inspection data, or client-extracted private data.
-- Respect each game's Terms of Service and community rules.
-- Keep sources clear and verifiable.
-- Do not submit harassment, defamation, doxxing, or invasive profile information.
-
----
-
-# ⚠️ Package fallback note
-
-GitHub repository cache snapshots update automatically, but published npm packages are immutable.
-
-An already-installed npm release keeps the fallback JSON bundled with that release until you update the package. While APINODE is online, live API reads still provide current data without requiring a package release.
-
----
-
-# ⚠️ Disclaimer
-
-This project is not affiliated with or endorsed by VRChat Inc., HoYoverse, Kuro Games, Digital Extremes, Epic Games, Hotta Studio, Hypergryph/GRYPHLINE, or any other game publisher represented by the data.
-
-Game names, logos, characters, and related trademarks belong to their respective owners.
-
----
-
-# 🧠 Credits
+This project is not affiliated with or endorsed by Epic Games, VRChat Inc., HoYoverse, Kuro Games, Digital Extremes, Hotta Studio, Hypergryph/GRYPHLINE, or other publishers represented by the data. Game names, logos, characters, and related trademarks belong to their respective owners.
 
 Maintained by **NekoSune Projects**.
-
-Contributions are welcome — keep the data public, accurate, and game-friendly.
-
-<!-- GitAds-Verify: 2XHQSF1IKOWF4FH8P2TRI5GRWIJG2TJP -->
-
-## GitAds Sponsored
-[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=nekosuneprojects/gaming-infos@github)](https://gitads.dev/v1/ad-track?source=nekosuneprojects/gaming-infos@github)
