@@ -7,6 +7,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+## 2.3.0 - 2026-08-24
+
+### Added
+- Added `NPCs(game, name)` and `Maps(game, name)` helpers.
+- Added dedicated Fortnite `npcs` and `maps` datasets alongside `characters`.
+- Fortnite `characters` now means released Outfit/skin records rather than Battle Royale NPCs.
+
+### Changed
+- The fallback mirror now fetches `fortnite/characters`, `fortnite/npcs`, and `fortnite/maps` independently from APINODE.
+- The repository APINODE change-watch runs hourly and only commits real content changes.
+- Volatile Game Code countdown fields are excluded from fallback hashes and are rehydrated from `expiresAt` when the local fallback is read.
+- Updated package metadata for Fortnite skins, NPCs, and maps.
+
 ## 2.2.0 - 2026-08-24
 
 ### Added
@@ -22,12 +35,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - `npm run sync:cache` now mirrors both Gaming Infos and Game Codes.
-- The automatic cache workflow now runs once daily at 03:23 UTC instead of every six hours.
+- The automatic cache workflow was changed to a daily schedule in this release and was subsequently upgraded to an hourly change-watch in 2.3.0.
 - Gaming Infos and Game Codes are mirrored as independent atomic snapshots so a failure in one cache cannot destroy the other cache's last-good data.
-- Successful mirror runs now synchronize additions, updates, and removals from APINODE while failed or partial runs preserve the previous fallback snapshot.
+- Successful mirror runs synchronize additions, updates, and removals from APINODE while failed or partial runs preserve the previous fallback snapshot.
 - Local fallback entities expose stable slugs so offline lookups match live API behavior more closely.
 - Expanded the package description and keywords for the new games, VRChat avatars, and redeem/creator-code support.
-- Reworked `README.md` to document the full supported-game matrix, API-first fallback behavior, Game Codes API helpers, daily sync workflow, cache commands, configuration, and examples.
+- Reworked `README.md` to document the full supported-game matrix, API-first fallback behavior, Game Codes API helpers, sync workflow, cache commands, configuration, and examples.
 
 ## 2.1.0 - 2026-08-02
 
