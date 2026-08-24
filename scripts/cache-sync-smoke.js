@@ -5,7 +5,7 @@ const fs = require('fs');
 const http = require('http');
 const os = require('os');
 const path = require('path');
-const { syncApiCache } = require('./sync-api-cache');
+const { DEFAULT_MANIFEST, syncApiCache } = require('./sync-api-cache');
 
 function json(res, status, body) {
   const payload = JSON.stringify(body);
@@ -14,6 +14,12 @@ function json(res, status, body) {
 }
 
 async function main() {
+  assert.deepStrictEqual(
+    DEFAULT_MANIFEST.fortnite,
+    ['characters', 'npcs', 'maps'],
+    'Fortnite fallback mirror must keep skins, NPCs, and maps as separate datasets'
+  );
+
   const root = await fs.promises.mkdtemp(path.join(os.tmpdir(), 'gaming-infos-cache-test-'));
   const dataDir = path.join(root, 'data');
   let failCharacters = false;
