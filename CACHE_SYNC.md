@@ -11,11 +11,9 @@ The repository keeps **two independent last-good fallback snapshots** synchroniz
 
 The GitHub Action runs an **hourly APINODE change-watch at minute 23** and can also be started manually with `workflow_dispatch`.
 
-The mirror still uses full content hashes, so an hourly check with no API data changes creates **no commit**. If APINODE adds, updates, repairs, or removes a game-info file or game-code record, the next successful hourly pass mirrors that change into this repository.
+The mirror uses full content hashes, so an hourly check with no API data changes creates **no commit**. If APINODE adds, updates, repairs, moves, or removes a game-info file or game-code record, the next successful hourly pass mirrors that change into this repository.
 
-It also runs when the cache implementation itself changes so a newly deployed cache format can be populated immediately.
-
-## Mirrored gaming-infos datasets
+## Mirrored Gaming Infos datasets
 
 | Game | API type(s) |
 |---|---|
@@ -25,10 +23,12 @@ It also runs when the cache implementation itself changes so a newly deployed ca
 | Neverness to Everness | `characters` |
 | Wuthering Waves | `characters` (Resonators) |
 | Warframe | `characters` (Warframes) |
-| Fortnite | `characters` (current/released Battle Royale characters) |
+| Fortnite | `characters` = released Outfits/skins, `npcs` = Battle Royale NPCs, `maps` = Named Locations/maps |
 | Zenless Zone Zero | `characters` (Agents) |
 | Tower of Fantasy | `characters` (Simulacra) |
 | Arknights: Endfield | `characters` (Operators) |
+
+Fortnite is intentionally split. A location such as Wonkeeland must never be mirrored as a `characters` entry, and NPC records are kept separate from released cosmetic Outfits.
 
 ## Mirrored Game Codes endpoints
 
@@ -52,21 +52,7 @@ The per-game request uses `includeUnknown=true`, so the fallback contains all th
 }
 ```
 
-The mirror does not call every `/:game/:code` endpoint. `GameCode(game, code)` can search the full cached per-game snapshot during an outage, which keeps the hourly request count low.
-
-Game-code fallback layout:
-
-```text
-data/game-codes/
-├── directory.json
-├── status.json
-├── .cache-manifest.json
-└── games/
-    ├── fortnite.json
-    ├── warframe.json
-    ├── genshin-impact.json
-    └── ...
-```
+The repository does not store ticking `expiresInSeconds` / `countdown` values as authoritative file changes. Those values are rehydrated from stable `expiresAt` dates when the package reads a local fallback, preventing pointless hourly commits.
 
 ## Atomic synchronization / deletion behavior
 
@@ -74,75 +60,71 @@ Each cache is authoritative only **after its complete API download succeeds**.
 
 For Gaming Infos:
 
-1. Temporarily preserve `data/game-codes/` outside the gaming-info snapshot.
-2. Fetch the root gaming-infos endpoint.
+1. Temporarily preserve `data/game-codes/` outside the Gaming Infos snapshot.
+2. Fetch the root Gaming Infos endpoint.
 3. Fetch every configured game's meta endpoint.
-4. Fetch every configured type-list endpoint.
+4. Fetch every configured type-list endpoint, including all three Fortnite datasets.
 5. Validate every response and entry slug.
 6. Build a completely separate temporary snapshot.
-7. Atomically replace the gaming-info `data/` snapshot.
-8. Restore the previous game-code fallback before the code phase begins.
+7. Atomically replace the Gaming Infos `data/` snapshot.
+8. Restore the previous Game Codes fallback before the code phase begins.
 
 For Game Codes:
 
 1. Fetch `/codes` and validate its game directory.
 2. Fetch cache-only `/codes/status`.
 3. Fetch every listed game's full `Active` / `Expired` / `Unknown` snapshot.
-4. Build a separate temporary `data/game-codes/` tree.
-5. Only after every game succeeds, atomically replace the old game-code snapshot.
+4. Normalize volatile request-time/countdown values.
+5. Build a separate temporary `data/game-codes/` tree.
+6. Only after every game succeeds, atomically replace the old Game Codes snapshot.
 
-Because successful API snapshots are authoritative, **adds, changes and removals are mirrored**. If APINODE removes an entry/code/game, the corresponding fallback disappears on the next successful hourly sync.
+Because successful API snapshots are authoritative, **adds, changes and removals are mirrored**. If APINODE moves an old Fortnite record from `characters` to `npcs` or `maps`, the next successful mirror removes it from `characters` and creates it in the correct fallback directory.
 
 If APINODE is down, times out, returns 429/5xx, or one required endpoint fails halfway through, that cache is **not replaced**. The previous last-good fallback remains available.
 
 ## APINODE repair propagation
 
-APINODE can repair bad/missing Gaming Infos images and remove invalid scraped Game Codes. Those repaired API records are treated like any other content change. The hourly mirror downloads the corrected records, updates the repository fallback, and removes stale fallback records that no longer exist upstream.
-
-This gives the data path:
+APINODE performs content synchronization and data-quality repair before this repository consumes the public API. That includes bad Game Code cleanup, image repair, and Fortnite dataset separation.
 
 ```text
 APINODE source refresh / repair
         ↓
-live V5 API changes
+Gaming Infos + Game Codes API
         ↓
 hourly GitHub change-watch
         ↓
-repository data/ fallback updates
+repository data/ fallback
 ```
 
 ## Package API
 
-Gaming Infos functions remain available:
-
 ```js
 const info = require('@nekosuneprojects/gaming-infos');
 
-await info.Games();
+// Fortnite
+await info.List('fortnite', 'characters'); // released skins / Outfits
+await info.List('fortnite', 'npcs');       // Battle Royale NPCs
+await info.List('fortnite', 'maps');       // maps / Named Locations
+
+await info.Characters('fortnite', 'outfit-slug');
+await info.NPCs('fortnite', 'npc-slug');
+await info.Maps('fortnite', 'map-slug');
+
+// Other Gaming Infos
 await info.List('vrchat', 'avatars');
 await info.Characters('wutheringwaves', 'cartethyia');
-```
 
-Game Codes helpers use live APINODE first and the hourly fallback second:
-
-```js
-await info.Codes();                    // GET /v5/games/api/codes
-await info.CodesStatus();              // GET /v5/games/api/codes/status
-await info.GameCodes('fortnite');      // Active + Expired
+// Game Codes
+await info.Codes();
+await info.CodesStatus();
 await info.GameCodes('fortnite', { includeUnknown: true });
 await info.GameCode('fortnite', 'NEKOSUNEVR');
-await info.CodeCacheInfo();
 ```
-
-Per-game fallback filtering is supported for `category` and `claimType` as well.
 
 ## Commands
 
 ```bash
-# Test both atomic cache systems
 npm run test:all-cache
-
-# Mirror both Gaming Infos and Game Codes
 npm run sync:cache
 
 # Debug individually
@@ -173,7 +155,7 @@ Useful variables:
 
 ## Runtime fallback behavior
 
-The package does **not** use the cache instead of live data. It remains API-first:
+The package remains API-first:
 
 ```text
 application
@@ -183,8 +165,6 @@ live APINODE
    └─ unavailable/error → last-good bundled fallback
 ```
 
-A successful changed Gaming Infos snapshot records `data/.cache-manifest.json`. Game Codes records its own `data/game-codes/.cache-manifest.json`. Both include source URL, content hash, counts, synchronization time and add/change/remove statistics.
+A successful changed Gaming Infos snapshot records `data/.cache-manifest.json`. Game Codes records `data/game-codes/.cache-manifest.json`. The hash comparison ignores manifest timestamps and other explicitly volatile values.
 
-The hash comparison ignores manifest timestamps, so an unchanged API dataset does not create a pointless hourly commit.
-
-Note: npm releases are immutable. Repository fallback files update automatically, but an already-installed npm version keeps the bundled snapshot from that package release until upgraded. Live API reads still remain current whenever APINODE is available.
+Note: npm releases are immutable. Repository fallback files update automatically, but an already-installed npm version keeps the snapshot bundled with that release until upgraded. Live API reads still remain current whenever APINODE is available.
