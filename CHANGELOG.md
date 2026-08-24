@@ -7,6 +7,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+## 2.4.0 - 2026-08-24
+
+### Added
+- Added mainline Call of Duty Gaming Infos coverage from `cod2003` (Call of Duty 2003) through `codblackops7`, plus `codmodernwarfare4` for official 2026 beta/public announcement data.
+- Added per-title Call of Duty `characters`, `npcs`, and `maps` datasets. `characters` is intended for playable/main characters, protagonists, Operators and Specialists; `npcs` contains other campaign/game character records; `maps` contains public multiplayer/Zombies/Warzone/map/mission records.
+- Added Call of Duty examples and the complete supported slug list to `README.md`.
+- Added mirror smoke coverage for APINODE root `slug`/`types` auto-discovery.
+
+### Changed
+- Gaming Infos fallback synchronization now auto-discovers games and dataset types from APINODE's root response instead of requiring every new game/type to be hard-coded into the package mirror.
+- Gaming Infos cache manifests now use schema version 2 and record that dataset types were auto-discovered.
+- Updated package metadata and keywords for Call of Duty, Modern Warfare, Black Ops, characters, NPCs and maps.
+- Bumped the package source version to `2.4.0`.
+
+### Data policy
+- Historical Call of Duty data is limited to public released-game sources. Cut, unused, cancelled, unofficial unreleased, non-canon, prototype/concept and image-only categories are excluded.
+- Modern Warfare 4 data is limited to official Activision beta/public announcement information while the title is pre-release; leaks/datamines are not mirrored.
+
 ## 2.3.0 - 2026-08-24
 
 ### Added
