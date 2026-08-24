@@ -283,12 +283,12 @@
         "sourceTimezone": "UTC",
         "selectedTimezone": "UTC",
         "local": "26/08/2026, 23:59:59 UTC",
-        "expiresInSeconds": 216297,
+        "expiresInSeconds": 216109,
         "countdown": {
           "days": 2,
           "hours": 12,
-          "minutes": 4,
-          "seconds": 57
+          "minutes": 1,
+          "seconds": 49
         },
         "expired": false
       },
@@ -327,12 +327,12 @@
         "sourceTimezone": "UTC",
         "selectedTimezone": "UTC",
         "local": "28/08/2026, 23:59:59 UTC",
-        "expiresInSeconds": 389097,
+        "expiresInSeconds": 388909,
         "countdown": {
           "days": 4,
           "hours": 12,
-          "minutes": 4,
-          "seconds": 57
+          "minutes": 1,
+          "seconds": 49
         },
         "expired": false
       },
@@ -371,12 +371,12 @@
         "sourceTimezone": "UTC",
         "selectedTimezone": "UTC",
         "local": "31/12/2030, 23:59:59 UTC",
-        "expiresInSeconds": 137419497,
+        "expiresInSeconds": 137419309,
         "countdown": {
           "days": 1590,
           "hours": 12,
-          "minutes": 4,
-          "seconds": 57
+          "minutes": 1,
+          "seconds": 49
         },
         "expired": false
       },
@@ -415,12 +415,12 @@
         "sourceTimezone": "UTC",
         "selectedTimezone": "UTC",
         "local": "31/12/2030, 23:59:59 UTC",
-        "expiresInSeconds": 137419497,
+        "expiresInSeconds": 137419309,
         "countdown": {
           "days": 1590,
           "hours": 12,
-          "minutes": 4,
-          "seconds": 57
+          "minutes": 1,
+          "seconds": 49
         },
         "expired": false
       },
@@ -459,12 +459,12 @@
         "sourceTimezone": "UTC",
         "selectedTimezone": "UTC",
         "local": "31/12/2030, 23:59:59 UTC",
-        "expiresInSeconds": 137419497,
+        "expiresInSeconds": 137419309,
         "countdown": {
           "days": 1590,
           "hours": 12,
-          "minutes": 4,
-          "seconds": 57
+          "minutes": 1,
+          "seconds": 49
         },
         "expired": false
       },
@@ -503,12 +503,12 @@
         "sourceTimezone": "UTC",
         "selectedTimezone": "UTC",
         "local": "31/12/2030, 23:59:59 UTC",
-        "expiresInSeconds": 137419497,
+        "expiresInSeconds": 137419309,
         "countdown": {
           "days": 1590,
           "hours": 12,
-          "minutes": 4,
-          "seconds": 57
+          "minutes": 1,
+          "seconds": 49
         },
         "expired": false
       },
@@ -547,12 +547,12 @@
         "sourceTimezone": "UTC",
         "selectedTimezone": "UTC",
         "local": "31/12/2030, 23:59:59 UTC",
-        "expiresInSeconds": 137419497,
+        "expiresInSeconds": 137419309,
         "countdown": {
           "days": 1590,
           "hours": 12,
-          "minutes": 4,
-          "seconds": 57
+          "minutes": 1,
+          "seconds": 49
         },
         "expired": false
       },
@@ -591,12 +591,12 @@
         "sourceTimezone": "UTC",
         "selectedTimezone": "UTC",
         "local": "31/12/2030, 23:59:59 UTC",
-        "expiresInSeconds": 137419497,
+        "expiresInSeconds": 137419309,
         "countdown": {
           "days": 1590,
           "hours": 12,
-          "minutes": 4,
-          "seconds": 57
+          "minutes": 1,
+          "seconds": 49
         },
         "expired": false
       },

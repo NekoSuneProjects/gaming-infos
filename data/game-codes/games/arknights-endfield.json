@@ -514,12 +514,12 @@
         "sourceTimezone": "UTC",
         "selectedTimezone": "UTC",
         "local": "30/08/2026, 23:59:59 UTC",
-        "expiresInSeconds": 561899,
+        "expiresInSeconds": 561711,
         "countdown": {
           "days": 6,
           "hours": 12,
-          "minutes": 4,
-          "seconds": 59
+          "minutes": 1,
+          "seconds": 51
         },
         "expired": false
       },

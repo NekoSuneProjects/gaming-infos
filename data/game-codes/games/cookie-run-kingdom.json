@@ -131,12 +131,12 @@
         "sourceTimezone": "America/Los_Angeles",
         "selectedTimezone": "UTC",
         "local": "14/09/2026, 06:59:00 UTC",
-        "expiresInSeconds": 1796635,
+        "expiresInSeconds": 1796447,
         "countdown": {
           "days": 20,
           "hours": 19,
-          "minutes": 3,
-          "seconds": 55
+          "minutes": 0,
+          "seconds": 47
         },
         "expired": false
       },

@@ -198,12 +198,12 @@
         "sourceTimezone": "UTC+8",
         "selectedTimezone": "UTC",
         "local": "25/08/2026, 15:59:00 UTC",
-        "expiresInSeconds": 101033,
+        "expiresInSeconds": 100845,
         "countdown": {
           "days": 1,
           "hours": 4,
-          "minutes": 3,
-          "seconds": 53
+          "minutes": 0,
+          "seconds": 45
         },
         "expired": false
       },
@@ -253,12 +253,12 @@
         "sourceTimezone": "UTC",
         "selectedTimezone": "UTC",
         "local": "17/09/2026, 23:59:59 UTC",
-        "expiresInSeconds": 2117092,
+        "expiresInSeconds": 2116904,
         "countdown": {
           "days": 24,
           "hours": 12,
-          "minutes": 4,
-          "seconds": 52
+          "minutes": 1,
+          "seconds": 44
         },
         "expired": false
       },

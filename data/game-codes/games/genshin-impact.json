@@ -666,12 +666,12 @@
         "sourceTimezone": "UTC",
         "selectedTimezone": "UTC",
         "local": "24/08/2026, 23:59:59 UTC",
-        "expiresInSeconds": 43493,
+        "expiresInSeconds": 43305,
         "countdown": {
           "days": 0,
           "hours": 12,
-          "minutes": 4,
-          "seconds": 53
+          "minutes": 1,
+          "seconds": 45
         },
         "expired": false
       },
@@ -716,12 +716,12 @@
         "sourceTimezone": "UTC",
         "selectedTimezone": "UTC",
         "local": "02/09/2026, 23:59:59 UTC",
-        "expiresInSeconds": 821093,
+        "expiresInSeconds": 820905,
         "countdown": {
           "days": 9,
           "hours": 12,
-          "minutes": 4,
-          "seconds": 53
+          "minutes": 1,
+          "seconds": 45
         },
         "expired": false
       },
