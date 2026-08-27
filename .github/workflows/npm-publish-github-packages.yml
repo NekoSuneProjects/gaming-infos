@@ -13,7 +13,7 @@ permissions:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, Linux, docker, buildx]
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -28,7 +28,7 @@ jobs:
 
   publish-gpr:
     needs: build
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, Linux, docker, buildx]
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
